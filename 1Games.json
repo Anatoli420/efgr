@@ -27,7 +27,6 @@
       "price": 5.00,
       "date": "15-12-2022",
       "id": "",
-      "horizontal": "fechasProgramadas",
       "status": 2,
       "store2": "",
       "url2": "",
@@ -36,8 +35,9 @@
       "specialCode": "",
       "information": "",
       "instructions": "",
-      "startDate": "2022-12-15T04:00:00.000Z",
-      "endDate": "2022-12-16T04:00:00.000Z"
+      "horizontal": "fechasProgramadas",
+      "startDate": "2022-12-15T16:00:00.000Z",
+      "endDate": "2022-12-16T16:00:00.000Z"
    },
    {
       "title": "Suna",
@@ -67,7 +67,6 @@
       "price": 5.00,
       "date": "15-12-2022",
       "id": "",
-      "horizontal": true,
       "status": 1,
       "store2": "",
       "url2": "",
@@ -76,8 +75,9 @@
       "specialCode": "",
       "information": "",
       "instructions": "",
-      "startDate": "",
-      "endDate": ""
+      "horizontal": "fechasProgramadas",
+      "startDate": "2022-12-12T04:00:00.000Z",
+      "endDate": "2022-12-15T14:00:00.000Z"
    },
    {
       "title": "Divine Knockout (DKO)",
@@ -87,7 +87,6 @@
       "price": 15.00,
       "date": "19-12-2022",
       "id": "",
-      "horizontal": true,
       "status": 1,
       "store2": "",
       "url2": "",
@@ -96,8 +95,9 @@
       "specialCode": "",
       "information": "",
       "instructions": "",
-      "startDate": "",
-      "endDate": ""
+      "horizontal": "fechasProgramadas",
+      "startDate": "2022-12-12T04:00:00.000Z",
+      "endDate": "2022-12-19T18:00:00.000Z"
    },
    {
       "title": "Saints Row IV: Re-Elected",
@@ -107,7 +107,6 @@
       "price": 5.00,
       "date": "15-12-2022",
       "id": "",
-      "horizontal": true,
       "status": 1,
       "store2": "",
       "url2": "",
@@ -116,8 +115,9 @@
       "specialCode": "",
       "information": "",
       "instructions": "",
-      "startDate": "",
-      "endDate": ""
+      "horizontal": "fechasProgramadas",
+      "startDate": "2022-12-08T16:00:00.000Z",
+      "endDate": "2022-12-15T16:00:00.000Z"
    },
    {
       "title": "Wildcat Gun Machine",
@@ -127,7 +127,6 @@
       "price": 5.00,
       "date": "15-12-2022",
       "id": "",
-      "horizontal": true,
       "status": 1,
       "store2": "",
       "url2": "",
@@ -136,8 +135,9 @@
       "specialCode": "",
       "information": "",
       "instructions": "",
-      "startDate": "",
-      "endDate": ""
+      "horizontal": "fechasProgramadas",
+      "startDate": "2022-12-08T16:00:00.000Z",
+      "endDate": "2022-12-15T16:00:00.000Z"
    },
    {
       "id": "////SUB SCREEN////",
@@ -227,7 +227,6 @@
       "price": 25.00,
       "date": "15-12-2022",
       "id": "",
-      "horizontal": true,
       "status": 1,
       "store2": "",
       "url2": "",
@@ -236,8 +235,9 @@
       "specialCode": "",
       "information": "",
       "instructions": "",
-      "startDate": "",
-      "endDate": ""
+      "horizontal": "fechasProgramadas",
+      "startDate": "2022-12-01T00:00:00.000Z",
+      "endDate": "2022-12-16T00:00:00.000Z"
    },
    {
       "title": "Die Young: Prologue",
@@ -265,7 +265,7 @@
       "url": "https://bit.ly/3WgTFBK",
       "store": "itch.io",
       "price": 5.00,
-      "date": "??-11-2022",
+      "date": "??-12-2022",
       "id": "",
       "horizontal": true,
       "status": 1,
