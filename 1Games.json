@@ -60,6 +60,26 @@
       "endDate": "2023-01-05T18:00:00.000Z"
    },
    {
+      "title": "CDPR Goodie Pack",
+      "image": "https://images.gog-statics.com/ffe4b876306351db5baf567922f0f5840ff89c42c879ce371a7e53ad604368c0.jpg",
+      "url": "https://bit.ly/3WpqTy8",
+      "store": "GoG",
+      "price": 5.00,
+      "date": "17-12-2022",
+      "id": "",
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "status": 99,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2022-12-16T19:00:00.000Z",
+      "endDate": "2022-12-17T09:00:00.000Z"
+   },
+   {
       "title": "Horizon Chase Turbo",
       "image": "https://cdn.akamai.steamstatic.com/steam/apps/389140/header.jpg?t=1660673287",
       "url": "https://bit.ly/3YscbrT",
