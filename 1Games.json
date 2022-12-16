@@ -20,6 +20,26 @@
       "endDate": ""
    },
    {
+      "title": "King of Seas",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1209410/header.jpg?t=1660815619",
+      "url": "https://bit.ly/3hxgIbS",
+      "store": "Epic Games",
+      "price": 15.00,
+      "date": "19-12-2022",
+      "id": "",
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "status": 99,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2022-12-16T19:00:00.000Z",
+      "endDate": "2022-12-19T14:00:00.000Z"
+   },
+   {
       "title": "Horizon Chase Turbo",
       "image": "https://cdn.akamai.steamstatic.com/steam/apps/389140/header.jpg?t=1660673287",
       "url": "https://bit.ly/3YscbrT",
