@@ -1,7 +1,6 @@
 [
    {
       "id": "//////////////////////////////////////////CARTA UPDATE PLAYSTORE/////////////////////////////////////////",
-      "horizontal": "PlayStore",
       "image": "",
       "url": "",
       "title": "playstore",
@@ -16,6 +15,27 @@
       "specialCode": "",
       "information": "",
       "instructions": "",
+      "horizontal": "PlayStore",
+      "startDate": "",
+      "endDate": ""
+   },
+   {
+      "title": "NORTH",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/39b2b138-b477-440f-b6ed-d4998715f17c/prodmain/1639736581.png",
+      "url": "https://bit.ly/3Wsbey0",
+      "store": "Steam",
+      "price": 5.00,
+      "date": "??-12-2022",
+      "id": "",
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "status": 1,
+      "horizontal": true,
       "startDate": "",
       "endDate": ""
    },
