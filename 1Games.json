@@ -26,7 +26,7 @@
       "store": "GoG",
       "price": 5.00,
       "date": "??-12-2022",
-      "status": 99,
+      "status": 1,
       "horizontal": "fechasProgramadas",
       "startDate": "2022-12-19T19:00:00.000Z",
       "endDate": "2022-12-21T14:00:00.000Z",
@@ -46,7 +46,7 @@
       "store": "IndieGala",
       "price": 5.00,
       "date": "??-12-2022",
-      "status": 99,
+      "status": 1,
       "horizontal": "fechasProgramadas",
       "startDate": "2022-12-19T19:00:00.000Z",
       "endDate": "2024-12-19T16:00:00.000Z",
@@ -93,7 +93,7 @@
       "specialCode": "",
       "information": "",
       "instructions": "",
-      "status": 99,
+      "status": 1,
       "horizontal": "fechasProgramadas",
       "startDate": "2022-12-15T18:00:00.000Z",
       "endDate": "2023-01-05T16:00:00.000Z"
@@ -253,7 +253,7 @@
       "specialCode": "",
       "information": "",
       "instructions": "",
-      "status": 99,
+      "status": 1,
       "horizontal": "fechasProgramadas",
       "startDate": "2022-12-16T19:00:00.000Z",
       "endDate": "2022-12-19T14:00:00.000Z"
@@ -273,7 +273,7 @@
       "specialCode": "",
       "information": "",
       "instructions": "",
-      "status": 99,
+      "status": 1,
       "horizontal": "fechasProgramadas",
       "startDate": "2022-12-16T19:00:00.000Z",
       "endDate": "2023-01-05T18:00:00.000Z"
@@ -293,7 +293,7 @@
       "specialCode": "",
       "information": "",
       "instructions": "",
-      "status": 99,
+      "status": 1,
       "horizontal": "fechasProgramadas",
       "startDate": "2022-12-16T19:00:00.000Z",
       "endDate": "2022-12-17T09:00:00.000Z"
