@@ -80,26 +80,6 @@
       "instructions": ""
    },
    {
-      "title": "F.I.S.T.: Forged In Shadow Torch",
-      "image": "https://cdn1.epicgames.com/offer/a7e2a2c51b9149c097b771926ed91877/EGS_FISTForgedInShadowTorch_TiGames_S3_2560x1440-d79b811e274bd49318edf3b7c00b82c8",
-      "url": "https://bit.ly/3vjHPdU",
-      "store": "Epic Games",
-      "price": 15.00,
-      "date": "27-12-2022",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2022-12-26T16:00:00.000Z",
-      "endDate": "2022-12-27T16:00:00.000Z",
-      "id": "",
-      "store2": "",
-      "url2": "",
-      "store3": "",
-      "url3": "",
-      "specialCode": "",
-      "information": "",
-      "instructions": ""
-   },
-   {
       "title": "25% Epic Games Store Holiday Coupon",
       "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_EGS_HolidaySale2020_Main_Coupon_Store_Banner_2560x1440-76eca8f1fa6dd840fa9872c635ba9dc3",
       "url": "https://bit.ly/3j5AUC2",
@@ -578,6 +558,26 @@
       "instructions": "",
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "title": "F.I.S.T.: Forged In Shadow Torch",
+      "image": "https://cdn1.epicgames.com/offer/a7e2a2c51b9149c097b771926ed91877/EGS_FISTForgedInShadowTorch_TiGames_S3_2560x1440-d79b811e274bd49318edf3b7c00b82c8",
+      "url": "https://bit.ly/3vjHPdU",
+      "store": "Epic Games",
+      "price": 15.00,
+      "date": "27-12-2022",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2022-12-26T16:00:00.000Z",
+      "endDate": "2022-12-27T16:00:00.000Z",
+      "id": "",
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": ""
    },
    {
       "title": "DEATH STRANDING",
