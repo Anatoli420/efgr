@@ -100,26 +100,6 @@
       "endDate": "2023-01-05T16:00:00.000Z"
    },
    {
-      "title": "Mystery Game",
-      "image": "",
-      "url": "https://bit.ly/3suSxx3",
-      "store": "Epic Games",
-      "price": 5.00,
-      "date": "26-12-2022",
-      "id": "",
-      "horizontal": true,
-      "status": 3,
-      "startDate": "",
-      "endDate": "",
-      "store2": "",
-      "url2": "",
-      "store3": "",
-      "url3": "",
-      "specialCode": "",
-      "information": "",
-      "instructions": ""
-   },
-   {
       "id": "////SUB SCREEN////",
       "horizontal": "RateUs",
       "image": "",
