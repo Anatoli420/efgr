@@ -60,26 +60,6 @@
       "instructions": ""
    },
    {
-      "title": "Mortal Shell",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1110910/header.jpg?t=1668014729",
-      "url": "https://bit.ly/3Gh9v8n",
-      "store": "Epic Games",
-      "price": 20.00,
-      "date": "29-12-2022",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2022-12-28T16:00:00.000Z",
-      "endDate": "2022-12-29T16:00:00.000Z",
-      "id": "",
-      "store2": "",
-      "url2": "",
-      "store3": "",
-      "url3": "",
-      "specialCode": "",
-      "information": "",
-      "instructions": ""
-   },
-   {
       "title": "25% Epic Games Store Holiday Coupon",
       "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_EGS_HolidaySale2020_Main_Coupon_Store_Banner_2560x1440-76eca8f1fa6dd840fa9872c635ba9dc3",
       "url": "https://bit.ly/3j5AUC2",
@@ -578,6 +558,26 @@
       "instructions": "",
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "title": "Mortal Shell",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1110910/header.jpg?t=1668014729",
+      "url": "https://bit.ly/3Gh9v8n",
+      "store": "Epic Games",
+      "price": 20.00,
+      "date": "29-12-2022",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2022-12-28T16:00:00.000Z",
+      "endDate": "2022-12-29T16:00:00.000Z",
+      "id": "",
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": ""
    },
    {
       "title": "Severed Steel",
