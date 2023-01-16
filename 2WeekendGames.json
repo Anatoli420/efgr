@@ -1,25 +1,5 @@
 [
     {
-        "title": "Company of Heroes 3 Playtest",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1677280/header_alt_assets_0.jpg?t=1672996807",
-        "url": "https://bit.ly/3QxnAmA",
-        "store": "Steam",
-        "price": 60.01,
-        "date": "16-01-2023",
-        "status": 4,
-        "horizontal": "fechasProgramadas",
-        "startDate": "2023-01-11T23:59:00.000Z",
-        "endDate": "2023-01-16T18:00:00.000Z",
-        "id": "",
-        "store2": "",
-        "url2": "",
-        "store3": "",
-        "url3": "",
-        "specialCode": "",
-        "information": "",
-        "instructions": ""
-    },
-    {
         "title": "SYNCED - OPEN BETA",
         "image": "https://cdn.akamai.steamstatic.com/steam/apps/1008080/header.jpg?t=1670840166",
         "url": "https://bit.ly/3Fr7Xbc",
@@ -58,6 +38,26 @@
         "instructions": "",
         "startDate": "",
         "endDate": ""
+    },
+    {
+        "title": "Company of Heroes 3 Playtest",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1677280/header_alt_assets_0.jpg?t=1672996807",
+        "url": "https://bit.ly/3QxnAmA",
+        "store": "Steam",
+        "price": 60.01,
+        "date": "16-01-2023",
+        "status": 4,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2023-01-11T23:59:00.000Z",
+        "endDate": "2023-01-16T18:00:00.000Z",
+        "id": "",
+        "store2": "",
+        "url2": "",
+        "store3": "",
+        "url3": "",
+        "specialCode": "",
+        "information": "",
+        "instructions": ""
     },
     {
         "id": "////SUB SCREEN////",
