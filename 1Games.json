@@ -20,14 +20,14 @@
       "instructions": ""
    },
    {
-      "title": "September 7th",
-      "image": "https://cdn.akamai.steamstatic.com/steam/apps/2249160/header.jpg?t=1673975215",
-      "url": "https://bit.ly/3HbEpQY",
+      "title": "Dual Chroma: Academy Carols",
+      "image": "https://img.itch.zone/aW1nLzEwODk0NTYxLmpwZw==/original/EeSX4R.jpg",
+      "url": "https://bit.ly/3khikaC",
       "store": "itch.io",
       "price": 5.00,
       "date": "??-01-2023",
       "status": 1,
-      "horizontal": "fechasProgramadas",
+      "horizontal": true,
       "startDate": "2023-01-16T23:59:00.000Z",
       "endDate": "2024-01-16T16:00:00.000Z",
       "id": "",
