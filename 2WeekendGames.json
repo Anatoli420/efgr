@@ -1,5 +1,25 @@
 [
     {
+        "title": "Far Cry 6",
+        "image": "https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/Bn213V7aySLmjGwfQkSMy/bffebc6e9a19f3524a306d89cbc3b0d4/fc6-page_meta-thumbnail.jpg",
+        "url": "https://bit.ly/3bnE94x",
+        "store": "Ubisoft Connect",
+        "price": 12.00,
+        "date": "20-02-2023",
+        "status": 4,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2023-02-15T20:00:00.000Z",
+        "endDate": "2023-02-20T16:00:00.000Z",
+        "id": "",
+        "store2": "",
+        "url2": "",
+        "store3": "",
+        "url3": "",
+        "specialCode": "",
+        "information": "",
+        "instructions": ""
+    },
+    {
         "title": "Age of Empires IV: Anniversary Edition",
         "image": "https://cdn.akamai.steamstatic.com/steam/apps/1466860/header.jpg?t=1675198657",
         "url": "https://bit.ly/3IarWMy",
