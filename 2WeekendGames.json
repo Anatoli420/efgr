@@ -47,7 +47,7 @@
         "price": 7.00,
         "date": "13-03-2023",
         "status": 4,
-        "horizontal": true,
+        "horizontal": "fechasProgramadas",
         "startDate": "2023-03-01T20:00:00.000Z",
         "endDate": "2023-03-13T18:00:00.000Z",
         "id": "",
@@ -759,7 +759,6 @@
         "startDate": "",
         "endDate": ""
     },
-
     {
         "title": "Secret Neighbor: Hello Neighbor Multiplayer",
         "image": "https://cdn.akamai.steamstatic.com/steam/apps/859570/header.jpg?t=1666893570",
