@@ -140,6 +140,17 @@
         "instructions": ""
     },
     {
+        "title": "REDES SOCIALES",
+        "image": "",
+        "url": "",
+        "store": "",
+        "price": 0.00,
+        "date": "13-03-2023",
+        "id": "",
+        "horizontal": "social",
+        "status": 1
+    },
+    {
         "id": "//?SUB SCREEN////",
         "horizontal": false,
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2707/rNZrAmBmEe1hBvfE5WC6JjcR.jpg",

@@ -199,7 +199,7 @@
       "startDate": "",
       "endDate": ""
    },
-      {
+   {
       "title": "Pixel Puzzles 2: Anime",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a5b7c236-b0b9-461a-9cf1-5bd149c0c52b/prodmain/1648217520.png",
       "url": "https://bit.ly/43C9era",
@@ -418,6 +418,17 @@
       "instructions": "",
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "title": "REDES SOCIALES",
+      "image": "",
+      "url": "",
+      "store": "",
+      "price": 0.00,
+      "date": "13-03-2023",
+      "id": "",
+      "horizontal": "social",
+      "status": 1
    },
    {
       "id": "//?SUB SCREEN////",
