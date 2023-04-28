@@ -59,17 +59,17 @@
       "information": "",
       "instructions": ""
    },
-      {
+   {
       "title": "Under The Moon",
       "image": "https://cdn.akamai.steamstatic.com/steam/apps/1945780/header.jpg?t=1670332347",
       "url": "https://bit.ly/44frqaD",
       "store": "GoG",
       "price": 0.00,
-      "date": "03-04-2023",
+      "date": "01-05-2023",
       "status": 1,
       "horizontal": "fechasProgramadas",
-      "startDate": "2023-03-30T19:00:00.000Z",
-      "endDate": "2023-04-03T14:00:00.000Z",
+      "startDate": "2023-04-28T14:00:00.000Z",
+      "endDate": "2023-05-01T19:00:00.000Z",
       "id": "",
       "store2": "",
       "url2": "",
@@ -219,7 +219,7 @@
       "startDate": "",
       "endDate": ""
    },
-      {
+   {
       "title": "Theorem",
       "image": "https://cdn.akamai.steamstatic.com/steam/apps/838490/header.jpg?t=1524719199",
       "url": "https://bit.ly/3AHcPqB",
