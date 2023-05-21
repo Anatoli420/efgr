@@ -1,5 +1,25 @@
 [
    {
+      "title": "Epic Coupon | Get a 25% Discount",
+      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN-Epic-Coupon-foundation-team-image_1920x1079-d0aa1594942034ce8e84d023c53e2fb5",
+      "url": "https://bit.ly/3PAn1HO",
+      "store": "Epic Games",
+      "price": 14.99,
+      "date": "15-06-2023",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2023-05-18T15:00:00.000Z",
+      "endDate": "2023-06-15T15:00:00.000Z",
+      "id": "",
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": ""
+   },
+   {
       "title": "Fidel Dungeon Rescue",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/573170/header.jpg?t=1607725858",
       "url": "https://bit.ly/439t5No",
