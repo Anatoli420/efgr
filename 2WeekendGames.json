@@ -1,5 +1,25 @@
 [
     {
+        "title": "XDefiant",
+        "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5Jv27tcn8dufTg2KGQdmdC/41be26c1e9da56fa05935f066f7f0c7a/XD_KEYART_960x540.jpg",
+        "url": "https://bit.ly/3Pv0eQ3",
+        "store": "Ubisoft Connect",
+        "price": 0.00,
+        "status": 4,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2023-05-11T10:00:00.000Z",
+        "endDate": "2023-06-24T17:00:00.000Z",
+        "date": "24-06-2023",
+        "id": "",
+        "store2": "",
+        "url2": "",
+        "store3": "",
+        "url3": "",
+        "specialCode": "",
+        "information": "",
+        "instructions": ""
+    },
+    {
         "title": "Conan Exiles",
         "image": "https://cdn.akamai.steamstatic.com/steam/apps/440900/header_alt_assets_2_spanish.jpg?t=1687447942",
         "url": "https://bit.ly/3Rydv8u",
