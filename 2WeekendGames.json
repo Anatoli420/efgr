@@ -150,26 +150,7 @@
         "horizontal": "social",
         "status": 1
     },
-    {
-        "id": "//?SUB SCREEN////",
-        "horizontal": false,
-        "title": "Poppy Playtime",
-        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1721470/capsule_616x353.jpg?t=1641425530",
-        "url": "https://www.google.com",
-        "store": "",
-        "price": 0.00,
-        "date": "??-08-2022",
-        "status": 3,
-        "store2": "",
-        "url2": "",
-        "store3": "",
-        "url3": "",
-        "specialCode": "",
-        "information": "",
-        "instructions": "",
-        "startDate": "",
-        "endDate": ""
-    },
+
     {
         "title": "State of Decay 2: Juggernaut Edition",
         "image": "https://cdn.akamai.steamstatic.com/steam/apps/495420/header.jpg?t=1684947123",
