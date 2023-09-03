@@ -20,26 +20,6 @@
       "instructions": ""
    },
    {
-      "title": "King's Bounty: The Legend",
-      "image": "https://cdn.akamai.steamstatic.com/steam/apps/25900/header.jpg?t=1681210424",
-      "url": "https://bit.ly/44ABE47",
-      "store": "GoG",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2023-08-28T01:00:00.000Z",
-      "endDate": "2023-09-04T13:00:00.000Z",
-      "date": "04-09-2023",
-      "id": "",
-      "store2": "",
-      "url2": "",
-      "store3": "",
-      "url3": "",
-      "specialCode": "",
-      "information": "",
-      "instructions": ""
-   },
-   {
       "title": "ARK: Survival Evolved",
       "image": "https://play-lh.googleusercontent.com/obLsGjjXiNRe8w0barRRjIAu-fXWswv5n-UMzZyooidFtdUdGFW7PS1Vn7qpPCqUYQ",
       "url": "https://bit.ly/3ElofSS",
@@ -158,6 +138,26 @@
       "instructions": "",
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "title": "King's Bounty: The Legend",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/25900/header.jpg?t=1681210424",
+      "url": "https://bit.ly/44ABE47",
+      "store": "GoG",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2023-08-28T01:00:00.000Z",
+      "endDate": "2023-09-04T13:00:00.000Z",
+      "date": "04-09-2023",
+      "id": "",
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": ""
    },
    {
       "title": "Dying Light 2 Stay Human Lars The Troll Weapon Charm Giveaway",
