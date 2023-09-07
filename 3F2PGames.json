@@ -60,6 +60,26 @@
     "endDate": ""
   },
   {
+    "title": "Thief Simulator 2: Prologue",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2272420/header.jpg?t=1683227963",
+    "url": "https://bit.ly/3M1wjNc",
+    "store": "Steam",
+    "price": 0.00,
+    "date": "19-07-2023",
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2023-05-06T15:00:00.000Z",
+    "endDate": "2023-07-19T15:00:00.000Z",
+    "id": "",
+    "store2": "",
+    "url2": "",
+    "store3": "",
+    "url3": "",
+    "specialCode": "",
+    "information": "",
+    "instructions": ""
+  },
+  {
     "title": "Pre Register - Call of Duty®: Warzone™ Mobile",
     "image": "https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/wzmobile/meta-data/WZM_Meta-6-14.jpg",
     "url": "https://bit.ly/3EduMij",
@@ -799,27 +819,6 @@
     "startDate": "",
     "endDate": ""
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   {
     "title": "REDES SOCIALES",
     "image": "",
@@ -831,8 +830,6 @@
     "horizontal": "social",
     "status": 1
   },
-
-
   {
     "title": "The Druid",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/2321770/header.jpg?t=1685813021",
