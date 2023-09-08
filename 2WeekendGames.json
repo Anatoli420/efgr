@@ -20,26 +20,6 @@
         "instructions": ""
     },
     {
-        "title": "Star Citizen - referral code: STAR-Y24B-QZ63",
-        "image": "https://robertsspaceindustries.com/rsi/static/images/SC-fb.jpg",
-        "url": "https://bit.ly/3JNclEo",
-        "store": "RSI",
-        "price": 45.00,
-        "status": 4,
-        "horizontal": "fechasProgramadas",
-        "startDate": "2023-08-31T01:00:00.000Z",
-        "endDate": "2023-09-07T23:00:00.000Z",
-        "date": "07-09-2023",
-        "id": "",
-        "store2": "",
-        "url2": "",
-        "store3": "",
-        "url3": "",
-        "specialCode": "",
-        "information": "",
-        "instructions": ""
-    },
-    {
         "id": "//?SUB SCREEN////",
         "horizontal": false,
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2707/rNZrAmBmEe1hBvfE5WC6JjcR.jpg",
@@ -69,6 +49,26 @@
         "id": "",
         "horizontal": "social",
         "status": 1
+    },
+    {
+        "title": "Star Citizen - referral code: STAR-Y24B-QZ63",
+        "image": "https://robertsspaceindustries.com/rsi/static/images/SC-fb.jpg",
+        "url": "https://bit.ly/3JNclEo",
+        "store": "RSI",
+        "price": 45.00,
+        "status": 2,
+        "horizontal": true,
+        "startDate": "2023-08-31T01:00:00.000Z",
+        "endDate": "2023-09-07T23:00:00.000Z",
+        "date": "07-09-2023",
+        "id": "",
+        "store2": "",
+        "url2": "",
+        "store3": "",
+        "url3": "",
+        "specialCode": "",
+        "information": "",
+        "instructions": ""
     },
     {
         "title": "LEGO® 2K Drive",
@@ -550,7 +550,6 @@
         "startDate": "",
         "endDate": ""
     },
- 
     {
         "title": "Grounded",
         "image": "https://cdn.akamai.steamstatic.com/steam/apps/962130/header.jpg?t=1682442838",
@@ -571,7 +570,6 @@
         "information": "",
         "instructions": ""
     },
-  
     {
         "title": "Call of Duty®: Modern Warfare® II - Multiplayer",
         "image": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/hero/mwii/MWII-SEASON-03-FREE-ACCESS-TOUT.jpg",
@@ -592,7 +590,6 @@
         "information": "",
         "instructions": ""
     },
- 
     {
         "title": "The Elder Scrolls® Online",
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/306130/header.jpg?t=1680797131",
@@ -613,7 +610,6 @@
         "information": "",
         "instructions": ""
     },
- 
     {
         "title": "Golf With Your Friends",
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/431240/header.jpg?t=1680254304",
@@ -634,7 +630,6 @@
         "information": "",
         "instructions": ""
     },
- 
     {
         "title": "Far Cry 5",
         "image": "https://cdn1.epicgames.com/coriander/offer/FC5_GameName_Edition_Capsule_1920X1080-1920x1080-fc78dbeb1a2ac0425a2354f21ab75115a6d0c290.jpg",
@@ -675,7 +670,6 @@
         "information": "",
         "instructions": ""
     },
-
     {
         "title": "Far Cry 6",
         "image": "https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/Bn213V7aySLmjGwfQkSMy/bffebc6e9a19f3524a306d89cbc3b0d4/fc6-page_meta-thumbnail.jpg",
@@ -716,7 +710,6 @@
         "information": "",
         "instructions": ""
     },
-
     {
         "title": "Madden NFL 23",
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1760250/header_alt_assets_2.jpg?t=1675723423",
@@ -737,7 +730,6 @@
         "information": "",
         "instructions": ""
     },
-  
     {
         "title": "EA SPORTS™ FIFA 23",
         "image": "https://cdn.akamai.steamstatic.com/steam/apps/1811260/header_alt_assets_0.jpg?t=1670868328",
@@ -758,7 +750,6 @@
         "startDate": "",
         "endDate": ""
     },
-
     {
         "title": "Secret Neighbor: Hello Neighbor Multiplayer",
         "image": "https://cdn.akamai.steamstatic.com/steam/apps/859570/header.jpg?t=1666893570",
@@ -799,7 +790,6 @@
         "startDate": "",
         "endDate": ""
     },
-  
     {
         "title": "The Outlast Trials Playtest",
         "image": "https://cdn.akamai.steamstatic.com/steam/apps/1304930/header.jpg?t=1666981025",
@@ -860,7 +850,6 @@
         "startDate": "",
         "endDate": ""
     },
-
     {
         "title": "Need for Speed™ Heat",
         "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222680/header.jpg?t=1664215770",
