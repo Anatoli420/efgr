@@ -159,26 +159,7 @@
       "startDate": "",
       "endDate": ""
    },
-   {
-      "title": "MR RACER : Premium Racing Game",
-      "image": "https://play-lh.googleusercontent.com/7kwZT5YwFWoz8lw7Rr5LLhfBmO3hft9adB7PZi6FRelNevs49xvMnbaCEkq2Q38wBXUI",
-      "url": "https://bit.ly/3Pvlyoj",
-      "store": "Google Play",
-      "price": 6.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2023-09-07T15:00:00.000Z",
-      "endDate": "2023-09-14T15:00:00.000Z",
-      "date": "??-09-2023",
-      "id": "",
-      "store2": "",
-      "url2": "",
-      "store3": "",
-      "url3": "",
-      "specialCode": "",
-      "information": "",
-      "instructions": ""
-   },
+
    {
       "title": "Extreme Racing on Highway",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/1be2c2dd-94a6-4240-b510-2e96c170e4ca/prodmain/1668252001.png",
@@ -509,6 +490,26 @@
       "instructions": "",
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "title": "MR RACER : Premium Racing Game",
+      "image": "https://play-lh.googleusercontent.com/7kwZT5YwFWoz8lw7Rr5LLhfBmO3hft9adB7PZi6FRelNevs49xvMnbaCEkq2Q38wBXUI",
+      "url": "https://bit.ly/3Pvlyoj",
+      "store": "Google Play",
+      "price": 6.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2023-09-07T15:00:00.000Z",
+      "endDate": "2023-09-14T15:00:00.000Z",
+      "date": "??-09-2023",
+      "id": "",
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": ""
    },
    {
       "title": "Cave Story+",
