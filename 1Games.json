@@ -60,7 +60,7 @@
       "instructions": ""
    },
    {
-      "title":"ReX",
+      "title": "ReX",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/8a1a1503-7153-4bc8-97eb-4539085876e8/prodmain/1694797861.png",
       "url": "https://bit.ly/44UGWrm",
       "store": "IndieGala",
@@ -80,7 +80,7 @@
       "instructions": ""
    },
    {
-      "title":"Star Trek Online Borg Assimilation Pack Giveaway",
+      "title": "Star Trek Online Borg Assimilation Pack Giveaway",
       "image": "https://cdn.akamai.steamstatic.com/steam/apps/9900/header.jpg?t=1694535984",
       "url": "https://bit.ly/3EGpBaZ",
       "store": "Alienware Arena",
@@ -218,26 +218,6 @@
       "instructions": "",
       "startDate": "",
       "endDate": ""
-   },
-   {
-      "title": "Crumble - Steam Game",
-      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1061180/header.jpg?t=1692256794",
-      "url": "https://bit.ly/3LnG1bU",
-      "store": "Fanatical",
-      "price": 14.99,
-      "date": "20-09-2023",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2023-09-12T16:00:00.000Z",
-      "endDate": "2023-09-20T16:00:00.000Z",
-      "id": "",
-      "store2": "",
-      "url2": "",
-      "store3": "",
-      "url3": "",
-      "specialCode": "",
-      "information": "",
-      "instructions": ""
    },
    {
       "title": "The Dope Game",
@@ -589,6 +569,26 @@
       "instructions": "",
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "title": "Crumble - Steam Game",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1061180/header.jpg?t=1692256794",
+      "url": "https://bit.ly/3LnG1bU",
+      "store": "Fanatical",
+      "price": 14.99,
+      "date": "20-09-2023",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2023-09-12T16:00:00.000Z",
+      "endDate": "2023-09-20T16:00:00.000Z",
+      "id": "",
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": ""
    },
    {
       "title": "Spelldrifter",
