@@ -299,26 +299,7 @@
       "information": "",
       "instructions": ""
    },
-   {
-      "title": "Cyberpunk 2077 & Phantom Liberty Goodies Collection",
-      "image": "https://external-preview.redd.it/gog-other-cyberpunk-2077-phantom-liberty-goodies-collection-v0-9VorRa5lkwzF6Oh0KGDMjXGe31Cc9t2L0Rrv0gEJaGw.jpg?auto=webp&s=b45641eed0c0765a43e9c1217f4c2ba07faa1563",
-      "url": "https://bit.ly/44X4L1V",
-      "store": "GoG",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2023-09-08T01:00:00.000Z",
-      "endDate": "2023-09-25T13:00:00.000Z",
-      "date": "2023-09-25",
-      "id": "",
-      "store2": "",
-      "url2": "",
-      "store3": "",
-      "url3": "",
-      "specialCode": "",
-      "information": "",
-      "instructions": ""
-   },
+
    {
       "title": "Star Trek Online Borg Assimilation Pack Giveaway",
       "image": "https://cdn.akamai.steamstatic.com/steam/apps/9900/header.jpg?t=1694535984",
@@ -589,6 +570,26 @@
       "instructions": "",
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "title": "Cyberpunk 2077 & Phantom Liberty Goodies Collection",
+      "image": "https://external-preview.redd.it/gog-other-cyberpunk-2077-phantom-liberty-goodies-collection-v0-9VorRa5lkwzF6Oh0KGDMjXGe31Cc9t2L0Rrv0gEJaGw.jpg?auto=webp&s=b45641eed0c0765a43e9c1217f4c2ba07faa1563",
+      "url": "https://bit.ly/44X4L1V",
+      "store": "GoG",
+      "price": 5.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2023-09-08T01:00:00.000Z",
+      "endDate": "2023-09-25T13:00:00.000Z",
+      "date": "2023-09-25",
+      "id": "",
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": ""
    },
    {
       "title": "Out of Line",
