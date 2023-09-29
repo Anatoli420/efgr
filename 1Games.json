@@ -60,26 +60,6 @@
       "instructions": ""
    },
    {
-      "title": "Paws & Effect: My Dogs Are Human!",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1212040/header.jpg?t=1680431165",
-      "url": "https://bit.ly/3LGBmlQ",
-      "store": "itch.io",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2023-08-05T16:00:00.000Z",
-      "endDate": "2023-09-09T16:00:00.000Z",
-      "date": "2023-09-??",
-      "id": "",
-      "store2": "",
-      "url2": "",
-      "store3": "",
-      "url3": "",
-      "specialCode": "",
-      "information": "",
-      "instructions": ""
-   },
-   {
       "title": "Steam Shmup Fest- Claim free daily reward",
       "image": "https://i.snipboard.io/FPmBWM.jpg",
       "url": "https://bit.ly/3rsU9tO",
@@ -158,6 +138,26 @@
       "instructions": "",
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "title": "Paws & Effect: My Dogs Are Human!",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1212040/header.jpg?t=1680431165",
+      "url": "https://bit.ly/3LGBmlQ",
+      "store": "itch.io",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2023-08-05T16:00:00.000Z",
+      "endDate": "2023-09-09T16:00:00.000Z",
+      "date": "2023-09-??",
+      "id": "",
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": ""
    },
    {
       "title": "[EU] - THE DARK PICTURES: MAN OF MEDAN - Register and get a steam key in October",
@@ -299,7 +299,6 @@
       "information": "",
       "instructions": ""
    },
-
    {
       "title": "Star Trek Online Borg Assimilation Pack Giveaway",
       "image": "https://cdn.akamai.steamstatic.com/steam/apps/9900/header.jpg?t=1694535984",
