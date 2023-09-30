@@ -1,5 +1,25 @@
 [
     {
+        "title": "Riders Republic",
+        "image": "https://cdn1.epicgames.com/83d6990f16444655866b04be562bf589/offer/MAD_STD_Store_Landscape_2560x1440-2560x1440-0d275f75a75f6367c373e727bc78b4d1.jpg",
+        "url": "https://bit.ly/3PGF28a",
+        "store": "Ubisoft Connect",
+        "price": 40.00,
+        "date": "2023-10-02",
+        "status": 4,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2023-09-21T01:00:00.000Z",
+        "endDate": "2023-10-02T16:00:00.000Z",
+        "id": "",
+        "store2": "",
+        "url2": "",
+        "store3": "",
+        "url3": "",
+        "specialCode": "",
+        "information": "",
+        "instructions": ""
+    },
+    {
         "title": "RPG Maker MV",
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/363890/header.jpg?t=1695777662",
         "url": "https://bit.ly/3PWM0Yb",
