@@ -1,5 +1,45 @@
 [
   {
+    "title": "Resonite",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2519830/header.jpg?t=1696615335",
+    "url": "https://bit.ly/3PVI8W0",
+    "store": "Steam",
+    "date": "2023-10-06",
+    "price": 0.00,
+    "id": "",
+    "horizontal": true,
+    "status": 1,
+    "store2": "",
+    "url2": "",
+    "store3": "",
+    "url3": "",
+    "specialCode": "",
+    "information": "",
+    "instructions": "",
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "title": "Mannequin",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2488630/header.jpg?t=1696381575",
+    "url": "https://bit.ly/3ZUU7b4",
+    "store": "Steam",
+    "date": "2023-10-03",
+    "price": 0.00,
+    "id": "",
+    "horizontal": true,
+    "status": 1,
+    "store2": "",
+    "url2": "",
+    "store3": "",
+    "url3": "",
+    "specialCode": "",
+    "information": "",
+    "instructions": "",
+    "startDate": "",
+    "endDate": ""
+  },
+  {
     "title": "MY HERO ULTRA RUMBLE",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1607250/header.jpg?t=1696310478",
     "url": "https://bit.ly/3ZOeV43",
@@ -319,7 +359,6 @@
     "information": "",
     "instructions": ""
   },
-
   {
     "title": "Fall Guys",
     "image": "https://cdn2.unrealengine.com/egs-fallguys-mediatonic-g1a-00-1920x1080-d0f364812e7a.jpg",
