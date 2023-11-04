@@ -1,5 +1,25 @@
 [
     {
+        "title": "Rage 2: Deluxe Edition",
+        "image": "https://m.media-amazon.com/images/I/61NFwLYufFL._FMwebp_.jpg",
+        "url": "https://amzn.to/40mvEM3",
+        "store": "Amazon Gaming",
+        "price": 0.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2023-09-25T15:00:00.000Z",
+        "endDate": "2023-12-02T15:00:00.000Z",
+        "date": "2023-12-02",
+        "id": "",
+        "store2": "",
+        "url2": "",
+        "store3": "",
+        "url3": "",
+        "specialCode": "",
+        "information": "",
+        "instructions": ""
+    },
+    {
         "title": "Super Adventure Hand",
         "image": "https://m.media-amazon.com/images/I/41bpm0EPGAL._FMwebp_.jpg",
         "url": "https://amzn.to/3S92cae",
