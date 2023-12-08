@@ -1,5 +1,25 @@
 [
     {
+        "title": "DEATHLOOP",
+        "image": "https://m.media-amazon.com/images/I/61lcurSACTL._FMwebp_.jpg",
+        "url": "https://amzn.to/3RdDB1J",
+        "store": "Amazon Gaming",
+        "price": 0.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2023-09-25T15:00:00.000Z",
+        "endDate": "2024-01-10T15:00:00.000Z",
+        "date": "2024-01-10",
+        "id": "",
+        "store2": "",
+        "url2": "",
+        "store3": "",
+        "url3": "",
+        "specialCode": "",
+        "information": "",
+        "instructions": ""
+    },
+    {
         "title": "Caverns of Mars: Recharged",
         "image": "https://m.media-amazon.com/images/I/61wR96zk4pL._FMwebp_.jpg",
         "url": "https://amzn.to/46KJNUK",
