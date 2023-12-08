@@ -100,17 +100,6 @@
         "endDate": ""
     },
     {
-        "title": "REDES SOCIALES",
-        "image": "",
-        "url": "",
-        "store": "",
-        "price": 0.00,
-        "date": "13-03-2023",
-        "id": "",
-        "horizontal": "social",
-        "status": 1
-    },
-    {
         "title": "Star Wars: Knights of the Old Republic",
         "image": "https://m.media-amazon.com/images/I/41LOK80rwJL._FMwebp_.jpg",
         "url": "https://amzn.to/3G1Bj0q",
@@ -129,6 +118,17 @@
         "specialCode": "",
         "information": "",
         "instructions": ""
+    },
+    {
+        "title": "REDES SOCIALES",
+        "image": "",
+        "url": "",
+        "store": "",
+        "price": 0.00,
+        "date": "13-03-2023",
+        "id": "",
+        "horizontal": "social",
+        "status": 1
     },
     {
         "title": "Behind the Frame: The Finest Scenery",
