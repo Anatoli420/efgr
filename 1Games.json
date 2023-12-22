@@ -240,26 +240,6 @@
       "instructions": ""
    },
    {
-      "title": "Ultimate Zombie Defense",
-      "image": "https://fanatical.imgix.net/product/original/da794802-bb4c-4b51-852b-07d8b7e586fe.jpeg?auto=compress,format&w=430&fit=crop&h=242",
-      "url": "https://bit.ly/3tf9sHH",
-      "store": "Fanatical",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2023-09-12T16:00:00.000Z",
-      "endDate": "2023-12-25T23:59:00.000Z",
-      "date": "2023-12-25",
-      "id": "",
-      "store2": "",
-      "url2": "",
-      "store3": "",
-      "url3": "",
-      "specialCode": "",
-      "information": "",
-      "instructions": ""
-   },
-   {
       "title": "Lost Ruins",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1306630/header.jpg?t=1699433832",
       "url": "https://bit.ly/3RlBPvu",
@@ -709,6 +689,26 @@
       "instructions": "",
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "title": "Ultimate Zombie Defense",
+      "image": "https://fanatical.imgix.net/product/original/da794802-bb4c-4b51-852b-07d8b7e586fe.jpeg?auto=compress,format&w=430&fit=crop&h=242",
+      "url": "https://bit.ly/3tf9sHH",
+      "store": "Fanatical",
+      "price": 5.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2023-09-12T16:00:00.000Z",
+      "endDate": "2023-12-25T23:59:00.000Z",
+      "date": "2023-12-25",
+      "id": "",
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": ""
    },
    {
       "title": "Destiny 2: Legacy Collection (2023)",
