@@ -20,6 +20,26 @@
       "instructions": ""
    },
    {
+      "title": "Infinifactory",
+      "image": "https://cdn1.epicgames.com/spt-assets/006ad04cca8f4cd89d80210e142abb89/infinifactory-1akaj.png?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/48Asyao",
+      "store": "Epic Games",
+      "price": 5.00,
+      "status": 3,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-01-25T16:00:00.000Z",
+      "endDate": "2024-02-01T16:00:00.000Z",
+      "date": "2024-01-25",
+      "id": "",
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": ""
+   },
+   {
       "id": "//?SUB SCREEN////",
       "horizontal": false,
       "image": "https://cdn2.unrealengine.com/blade-2560x1440-2560x1440-6b1174ff6f66.jpg?h=480&quality=medium&resize=1&w=854",
