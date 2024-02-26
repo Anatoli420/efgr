@@ -140,26 +140,6 @@
       "instructions": ""
    },
    {
-      "title": "Guild Wars 2 Explorer Bundle Key Giveaway",
-      "image": "https://wiki.guildwars2.com/images/thumb/7/78/Explorer_Bundle.jpg/220px-Explorer_Bundle.jpg",
-      "url": "https://bit.ly/3wwMflc",
-      "store": "Alienware Arena",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2023-09-15T01:00:00.000Z",
-      "endDate": "2023-11-26T17:00:00.000Z",
-      "date": "2024-??",
-      "id": "",
-      "store2": "",
-      "url2": "",
-      "store3": "",
-      "url3": "",
-      "specialCode": "",
-      "information": "",
-      "instructions": ""
-   },
-   {
       "title": "Avoid It!",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/2133f6e1-e20b-463c-af33-6a043bcaad2a/prodmain/1686961856.png",
       "url": "https://bit.ly/43QjEDl",
@@ -389,6 +369,26 @@
       "instructions": "",
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "title": "Guild Wars 2 Explorer Bundle Key Giveaway",
+      "image": "https://wiki.guildwars2.com/images/thumb/7/78/Explorer_Bundle.jpg/220px-Explorer_Bundle.jpg",
+      "url": "https://bit.ly/3wwMflc",
+      "store": "Alienware Arena",
+      "price": 5.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2023-09-15T01:00:00.000Z",
+      "endDate": "2023-11-26T17:00:00.000Z",
+      "date": "2024-??",
+      "id": "",
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": ""
    },
    {
       "title": "Dakar Desert Rally",
