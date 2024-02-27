@@ -6,12 +6,11 @@
       "store": "Epic Games",
       "price": 7.00,
       "status": 1,
-      
-      "adImp": null, "adImp": null, "horizontal": "fechasProgramadas",
+      "adImp": null,
+      "horizontal": "fechasProgramadas",
       "startDate": "2024-02-29T16:00:00.000Z",
       "endDate": "2024-03-07T16:00:00.000Z",
-      "date": "2024-03-07",
-      
+      "date": "2024-03-07"
    },
    {
       "title": "Super Meat Boy Forever",
@@ -20,12 +19,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 1,
-      
-      "adImp": null, "adImp": null, "horizontal": "fechasProgramadas",
+      "adImp": null,
+      "horizontal": "fechasProgramadas",
       "startDate": "2024-02-22T16:00:00.000Z",
       "endDate": "2024-02-29T16:00:00.000Z",
-      "date": "2024-02-29",
-      
+      "date": "2024-02-29"
    },
    {
       "title": "Aerial_Knight's Never Yield",
@@ -34,17 +32,16 @@
       "store": "Epic Games",
       "price": 7.00,
       "status": 3,
-      
-      "adImp": null, "adImp": null, "horizontal": "fechasProgramadas",
+      "adImp": null,
+      "horizontal": "fechasProgramadas",
       "startDate": "2024-02-29T16:00:00.000Z",
       "endDate": "2024-03-07T16:00:00.000Z",
-      "date": "2024-02-29",
-      
+      "date": "2024-02-29"
    },
    {
       "id": "//?SUB SCREEN////",
-      
-      "adImp": null, "adImp": null, "horizontal": false,
+      "adImp": null,
+      "horizontal": false,
       "image": "https://cdn2.unrealengine.com/blade-2560x1440-2560x1440-6b1174ff6f66.jpg?h=480&quality=medium&resize=1&w=854",
       "url": "https://www.google.com",
       "title": "Fortnite",
@@ -57,8 +54,8 @@
    },
    {
       "id": "//?SUB SCREEN////",
-      
-      "adImp": null, "adImp": null, "horizontal": "RateUs",
+      "adImp": null,
+      "horizontal": "RateUs",
       "image": "",
       "url": "https://www.google.com",
       "title": "RATEUS",
@@ -76,12 +73,11 @@
       "store": "Steam",
       "price": 2.00,
       "status": 1,
-      
-      "adImp": null, "adImp": null, "horizontal": "fechasProgramadas",
+      "adImp": null,
+      "horizontal": "fechasProgramadas",
       "startDate": "2024-02-09T19:30:00.000Z",
       "endDate": "2024-02-29T18:00:00.000Z",
-      "date": "2024-02-29",
-      
+      "date": "2024-02-29"
    },
    {
       "title": "Where's My Helmet?",
@@ -90,12 +86,11 @@
       "store": "IndieGala",
       "price": 5.00,
       "status": 1,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-01-08T13:00:00.000Z",
       "endDate": "2024-01-12T13:00:00.000Z",
-      "date": "2024-??",
-      
+      "date": "2024-??"
    },
    {
       "title": "Avoid It!",
@@ -104,12 +99,11 @@
       "store": "IndieGala",
       "price": 5.00,
       "status": 1,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-01-08T13:00:00.000Z",
       "endDate": "2024-01-12T13:00:00.000Z",
-      "date": "2024-??",
-      
+      "date": "2024-??"
    },
    {
       "title": "Republic of Jungle — Claim it during February",
@@ -118,12 +112,11 @@
       "store": "Steam",
       "price": 19.99,
       "status": 1,
-      
-      "adImp": null, "adImp": null, "horizontal": "fechasProgramadas",
+      "adImp": null,
+      "horizontal": "fechasProgramadas",
       "startDate": "2024-02-09T19:30:00.000Z",
       "endDate": "2024-02-29T18:00:00.000Z",
-      "date": "2024-02-29",
-      
+      "date": "2024-02-29"
    },
    {
       "title": "Dying Light - Shu Warrior Bundle - DLC",
@@ -132,12 +125,11 @@
       "store": "Steam",
       "price": 2.00,
       "status": 1,
-      
-      "adImp": null, "adImp": null, "horizontal": "fechasProgramadas",
+      "adImp": null,
+      "horizontal": "fechasProgramadas",
       "startDate": "2024-02-09T19:30:00.000Z",
       "endDate": "2024-02-19T18:00:00.000Z",
-      "date": "2024-02-19",
-      
+      "date": "2024-02-19"
    },
    {
       "title": "Dead by Daylight 50k Bloodpoints Key Giveaway",
@@ -146,12 +138,11 @@
       "store": "Alienware Arena",
       "price": 5.00,
       "status": 1,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-15T01:00:00.000Z",
       "endDate": "2023-11-26T17:00:00.000Z",
-      "date": "2024-??",
-      
+      "date": "2024-??"
    },
    {
       "title": "Paladins Golden Cache Chest Key Giveaway",
@@ -160,12 +151,11 @@
       "store": "Alienware Arena",
       "price": 5.00,
       "status": 1,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-15T01:00:00.000Z",
       "endDate": "2023-11-26T17:00:00.000Z",
-      "date": "2024-??",
-      
+      "date": "2024-??"
    },
    {
       "title": "Cyberpunk 2077 & Phantom Liberty REWARDS - Sign Up to Get Them",
@@ -174,12 +164,11 @@
       "store": "Cyberpunk.net",
       "price": 0.00,
       "status": 1,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-08T01:00:00.000Z",
       "endDate": "2023-09-02T13:00:00.000Z",
-      "date": "2024-??",
-      
+      "date": "2024-??"
    },
    {
       "title": "Caliber 150K In-Game Credits Giveaway",
@@ -188,12 +177,11 @@
       "store": "Alienware Arena",
       "price": 5.00,
       "status": 1,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-15T01:00:00.000Z",
       "endDate": "2023-11-26T17:00:00.000Z",
-      "date": "2024-??",
-      
+      "date": "2024-??"
    },
    {
       "title": "Vorax ALPHA",
@@ -202,12 +190,11 @@
       "store": "IndieGala",
       "price": 5.00,
       "status": 1,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-04-05T16:00:00.000Z",
       "endDate": "2023-09-09T16:00:00.000Z",
-      "date": "2024-??",
-      
+      "date": "2024-??"
    },
    {
       "title": "Destiny 2 Exclusive Emblem Giveaway",
@@ -216,12 +203,11 @@
       "store": "Steel Series",
       "price": 5.00,
       "status": 1,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-08-28T01:00:00.000Z",
       "endDate": "2023-09-07T13:00:00.000Z",
-      "date": "2024-??",
-      
+      "date": "2024-??"
    },
    {
       "title": "Die Young: Prologue",
@@ -230,7 +216,8 @@
       "store": "IndieGala",
       "price": 5.00,
       "date": "2024-??",
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "status": 1,
       "startDate": "",
       "endDate": ""
@@ -242,13 +229,14 @@
       "store": "",
       "price": 0.00,
       "date": "13-03-2023",
-      "adImp": null, "adImp": null, "horizontal": "social",
+      "adImp": null,
+      "horizontal": "social",
       "status": 1
    },
    {
       "id": "//?SUB SCREEN////",
-      
-      "adImp": null, "adImp": null, "horizontal": false,
+      "adImp": null,
+      "horizontal": false,
       "title": "Diablo Immortal",
       "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt77f4425de611b362/blt0b41183f11404532/61660a3ace267e66ae2fe854/di-opengraph_001.jpg",
       "url": "https://www.google.com",
@@ -266,12 +254,11 @@
       "store": "Alienware Arena",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-15T01:00:00.000Z",
       "endDate": "2023-11-26T17:00:00.000Z",
-      "date": "2024-??",
-      
+      "date": "2024-??"
    },
    {
       "title": "Dakar Desert Rally",
@@ -280,12 +267,11 @@
       "store": "Epic Games",
       "price": 15.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-02-15T16:00:00.000Z",
       "endDate": "2024-02-22T16:00:00.000Z",
-      "date": "2024-02-22",
-      
+      "date": "2024-02-22"
    },
    {
       "title": "RPG Maker XP",
@@ -294,12 +280,11 @@
       "store": "Steam",
       "price": 14.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": "fechasProgramadas",
+      "adImp": null,
+      "horizontal": "fechasProgramadas",
       "startDate": "2024-02-09T19:30:00.000Z",
       "endDate": "2024-02-19T18:00:00.000Z",
-      "date": "2024-02-19",
-      
+      "date": "2024-02-19"
    },
    {
       "title": "SOLD OUT - Driftland: The Magic Revival",
@@ -308,12 +293,11 @@
       "store": "Fanatical",
       "price": 19.99,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-02-01T16:00:00.000Z",
       "endDate": "2024-02-20T16:00:00.000Z",
-      "date": "2024-02-20",
-      
+      "date": "2024-02-20"
    },
    {
       "title": "Dead Island: Riptide Definitive Edition",
@@ -322,12 +306,11 @@
       "store": "Steam",
       "price": 16.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-02-09T19:30:00.000Z",
       "endDate": "2024-02-15T18:00:00.000Z",
-      "date": "2024-02-15",
-      
+      "date": "2024-02-15"
    },
    {
       "title": "Doki Doki Literature Club Plus!",
@@ -336,12 +319,11 @@
       "store": "Epic Games",
       "price": 8.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-02-08T16:00:00.000Z",
       "endDate": "2024-02-15T16:00:00.000Z",
-      "date": "2024-02-15",
-      
+      "date": "2024-02-15"
    },
    {
       "title": "Lost Castle",
@@ -350,12 +332,11 @@
       "store": "Epic Games",
       "price": 8.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-02-08T16:00:00.000Z",
       "endDate": "2024-02-15T16:00:00.000Z",
-      "date": "2024-02-15",
-      
+      "date": "2024-02-15"
    },
    {
       "title": "Star Trek Online Borg Assimilation Pack Giveaway",
@@ -364,12 +345,11 @@
       "store": "Alienware Arena",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-15T01:00:00.000Z",
       "endDate": "2023-10-26T17:00:00.000Z",
-      "date": "2024-??",
-      
+      "date": "2024-??"
    },
    {
       "title": "Ultimate Zombie Defense",
@@ -378,12 +358,11 @@
       "store": "Steam",
       "price": 3.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-02-09T19:30:00.000Z",
       "endDate": "2024-02-12T18:00:00.000Z",
-      "date": "2024-02-12",
-      
+      "date": "2024-02-12"
    },
    {
       "title": "Doors: Paradox",
@@ -392,12 +371,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-02-01T16:00:00.000Z",
       "endDate": "2024-02-08T16:00:00.000Z",
-      "date": "2024-02-08",
-      
+      "date": "2024-02-08"
    },
    {
       "title": "Infinifactory",
@@ -406,12 +384,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-01-25T16:00:00.000Z",
       "endDate": "2024-02-01T16:00:00.000Z",
-      "date": "2024-02-01",
-      
+      "date": "2024-02-01"
    },
    {
       "title": "LOVE",
@@ -420,12 +397,11 @@
       "store": "Epic Games",
       "price": 8.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-01-18T16:00:00.000Z",
       "endDate": "2024-01-25T16:00:00.000Z",
-      "date": "2024-01-25",
-      
+      "date": "2024-01-25"
    },
    {
       "title": "Endless Legend - Steam Game",
@@ -434,12 +410,11 @@
       "store": "Amplitude Studios",
       "price": 12.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-01-18T16:00:00.000Z",
       "endDate": "2024-01-24T16:00:00.000Z",
-      "date": "2024-01-24",
-      
+      "date": "2024-01-24"
    },
    {
       "title": "Frostpunk Soundtrack Key Giveaway - Steam Key",
@@ -448,12 +423,11 @@
       "store": "Alienware Arena",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-15T01:00:00.000Z",
       "endDate": "2023-11-26T17:00:00.000Z",
-      "date": "2024-01-??",
-      
+      "date": "2024-01-??"
    },
    {
       "title": "Sail Forth",
@@ -462,12 +436,11 @@
       "store": "Epic Games",
       "price": 8.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-01-11T16:00:00.000Z",
       "endDate": "2024-01-18T16:00:00.000Z",
-      "date": "2024-01-18",
-      
+      "date": "2024-01-18"
    },
    {
       "title": "Marvel's Guardians of the Galaxy",
@@ -476,12 +449,11 @@
       "store": "Epic Games",
       "price": 70.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-01-04T16:00:00.000Z",
       "endDate": "2024-01-11T16:00:00.000Z",
-      "date": "2024-01-11",
-      
+      "date": "2024-01-11"
    },
    {
       "title": "[EU] - NARUTO TO BORUTO: SHINOBI STRIKER - Steam Key",
@@ -490,12 +462,11 @@
       "store": "Bandai Namco",
       "price": 15.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": "fechasProgramadas",
+      "adImp": null,
+      "horizontal": "fechasProgramadas",
       "startDate": "2024-01-08T13:00:00.000Z",
       "endDate": "2024-01-12T13:00:00.000Z",
-      "date": "2024-01-12",
-      
+      "date": "2024-01-12"
    },
    {
       "title": "The 2023 Steam Awards - Earn a sticker for voting in each category.",
@@ -504,12 +475,11 @@
       "store": "Steam",
       "price": 0.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-03-30T16:00:00.000Z",
       "endDate": "2024-01-02T16:00:00.000Z",
-      "date": "2024-01-02",
-      
+      "date": "2024-01-02"
    },
    {
       "title": "South of the Circle",
@@ -518,12 +488,11 @@
       "store": "GoG",
       "price": 7.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-08T01:00:00.000Z",
       "endDate": "2024-01-01T14:00:00.000Z",
-      "date": "2024-01-01",
-      
+      "date": "2024-01-01"
    },
    {
       "title": "Fall Guys - Giddy Gift",
@@ -532,12 +501,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 1,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-13T16:00:00.000Z",
       "endDate": "2024-01-10T16:00:00.000Z",
-      "date": "2024-01-10",
-      
+      "date": "2024-01-10"
    },
    {
       "title": "The Game of Gnomes - DLC",
@@ -546,12 +514,11 @@
       "store": "Steam",
       "price": 4.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-03-30T16:00:00.000Z",
       "endDate": "2024-01-04T16:00:00.000Z",
-      "date": "2024-01-04",
-      
+      "date": "2024-01-04"
    },
    {
       "title": "The Sims™ 4 My First Pet Stuff - DLC",
@@ -560,12 +527,11 @@
       "store": "Steam",
       "price": 9.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-03-30T16:00:00.000Z",
       "endDate": "2024-01-09T16:00:00.000Z",
-      "date": "2024-01-09",
-      
+      "date": "2024-01-09"
    },
    {
       "title": "The Sims™ 4 Romantic Garden Stuff - DLC",
@@ -574,12 +540,11 @@
       "store": "Steam",
       "price": 9.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-03-30T16:00:00.000Z",
       "endDate": "2024-01-09T16:00:00.000Z",
-      "date": "2024-01-09",
-      
+      "date": "2024-01-09"
    },
    {
       "title": "33% Epic Coupon",
@@ -588,12 +553,11 @@
       "store": "Epic Games",
       "price": 14.99,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-13T16:00:00.000Z",
       "endDate": "2024-01-10T16:00:00.000Z",
-      "date": "2024-01-10",
-      
+      "date": "2024-01-10"
    },
    {
       "title": "DR4X",
@@ -602,12 +566,11 @@
       "store": "itch.io",
       "price": 6.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-01-08T13:00:00.000Z",
       "endDate": "2024-01-12T13:00:00.000Z",
-      "date": "2024-??",
-      
+      "date": "2024-??"
    },
    {
       "title": "A Plague Tale: Innocence",
@@ -616,12 +579,11 @@
       "store": "Epic Games",
       "price": 25.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-01-03T16:00:00.000Z",
       "endDate": "2024-01-04T16:00:00.000Z",
-      "date": "2024-01-04",
-      
+      "date": "2024-01-04"
    },
    {
       "title": "20 Minutes Till Dawn",
@@ -630,12 +592,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-01-02T16:00:00.000Z",
       "endDate": "2024-01-03T16:00:00.000Z",
-      "date": "2024-01-03",
-      
+      "date": "2024-01-03"
    },
    {
       "title": "Escape Academy",
@@ -644,12 +605,11 @@
       "store": "Epic Games",
       "price": 8.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2024-01-01T16:00:00.000Z",
       "endDate": "2024-01-02T16:00:00.000Z",
-      "date": "2024-01-02",
-      
+      "date": "2024-01-02"
    },
    {
       "title": "Ghostrunner",
@@ -658,12 +618,11 @@
       "store": "Epic Games",
       "price": 30.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-31T16:00:00.000Z",
       "endDate": "2024-01-01T16:00:00.000Z",
-      "date": "2024-01-01",
-      
+      "date": "2024-01-01"
    },
    {
       "title": "Saints Row",
@@ -672,12 +631,11 @@
       "store": "Epic Games",
       "price": 24.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-30T16:00:00.000Z",
       "endDate": "2023-12-31T16:00:00.000Z",
-      "date": "2023-12-31",
-      
+      "date": "2023-12-31"
    },
    {
       "title": "Snakebird Complete",
@@ -686,12 +644,11 @@
       "store": "Epic Games",
       "price": 7.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-29T16:00:00.000Z",
       "endDate": "2023-12-30T16:00:00.000Z",
-      "date": "2023-12-30",
-      
+      "date": "2023-12-30"
    },
    {
       "title": "Cat Quest",
@@ -700,12 +657,11 @@
       "store": "Epic Games",
       "price": 10.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-28T16:00:00.000Z",
       "endDate": "2023-12-29T16:00:00.000Z",
-      "date": "2023-12-29",
-      
+      "date": "2023-12-29"
    },
    {
       "title": "Cursed to Golf",
@@ -714,12 +670,11 @@
       "store": "Epic Games",
       "price": 9.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-27T16:00:00.000Z",
       "endDate": "2023-12-28T16:00:00.000Z",
-      "date": "2023-12-28",
-      
+      "date": "2023-12-28"
    },
    {
       "title": "Human Resource Machine",
@@ -728,12 +683,11 @@
       "store": "Epic Games",
       "price": 8.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-26T16:00:00.000Z",
       "endDate": "2023-12-27T16:00:00.000Z",
-      "date": "2023-12-27",
-      
+      "date": "2023-12-27"
    },
    {
       "title": "The Outer Worlds: Spacer's Choice Edition",
@@ -742,12 +696,11 @@
       "store": "Epic Games",
       "price": 60.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-25T16:00:00.000Z",
       "endDate": "2023-12-26T16:00:00.000Z",
-      "date": "2023-12-26",
-      
+      "date": "2023-12-26"
    },
    {
       "title": "Ghostwire: Tokyo",
@@ -756,12 +709,11 @@
       "store": "Epic Games",
       "price": 60.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-24T16:00:00.000Z",
       "endDate": "2023-12-25T16:00:00.000Z",
-      "date": "2023-12-25",
-      
+      "date": "2023-12-25"
    },
    {
       "title": "Fallout 3: Game of the Year Edition",
@@ -770,12 +722,11 @@
       "store": "Epic Games",
       "price": 15.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-23T16:00:00.000Z",
       "endDate": "2023-12-24T16:00:00.000Z",
-      "date": "2023-12-24",
-      
+      "date": "2023-12-24"
    },
    {
       "title": "art of rally",
@@ -784,12 +735,11 @@
       "store": "Epic Games",
       "price": 14.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-22T16:00:00.000Z",
       "endDate": "2023-12-23T16:00:00.000Z",
-      "date": "2023-12-23",
-      
+      "date": "2023-12-23"
    },
    {
       "title": "Ultimate Zombie Defense",
@@ -798,12 +748,11 @@
       "store": "Fanatical",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-12T16:00:00.000Z",
       "endDate": "2023-12-25T23:59:00.000Z",
-      "date": "2023-12-25",
-      
+      "date": "2023-12-25"
    },
    {
       "title": "Melvor Idle",
@@ -812,12 +761,11 @@
       "store": "Epic Games",
       "price": 6.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-21T16:00:00.000Z",
       "endDate": "2023-12-22T16:00:00.000Z",
-      "date": "2023-12-22",
-      
+      "date": "2023-12-22"
    },
    {
       "title": "DNF Duel",
@@ -826,12 +774,11 @@
       "store": "Epic Games",
       "price": 60.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-20T16:00:00.000Z",
       "endDate": "2023-12-21T16:00:00.000Z",
-      "date": "2023-12-21",
-      
+      "date": "2023-12-21"
    },
    {
       "title": "Forced Sacrifice: Hejled — Claim it before ??",
@@ -840,12 +787,11 @@
       "store": "Steam",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-03-30T16:00:00.000Z",
       "endDate": "2024-01-11T16:00:00.000Z",
-      "date": "2024-??",
-      
+      "date": "2024-??"
    },
    {
       "title": "Destiny 2: Legacy Collection (2023)",
@@ -854,12 +800,11 @@
       "store": "Epic Games",
       "price": 50.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-13T16:00:00.000Z",
       "endDate": "2023-12-20T16:00:00.000Z",
-      "date": "2023-12-20",
-      
+      "date": "2023-12-20"
    },
    {
       "title": "Predecessor",
@@ -868,12 +813,11 @@
       "store": "Epic Games",
       "price": 4.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-07T16:00:00.000Z",
       "endDate": "2023-12-14T16:00:00.000Z",
-      "date": "2023-12-14",
-      
+      "date": "2023-12-14"
    },
    {
       "title": "GigaBash",
@@ -882,12 +826,11 @@
       "store": "Epic Games",
       "price": 10.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-12-07T16:00:00.000Z",
       "endDate": "2023-12-14T16:00:00.000Z",
-      "date": "2023-12-14",
-      
+      "date": "2023-12-14"
    },
    {
       "title": "DESOLATE - Steam Key",
@@ -896,12 +839,11 @@
       "store": "Fanatical",
       "price": 25.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-12T16:00:00.000Z",
       "endDate": "2023-12-13T23:59:00.000Z",
-      "date": "2023-12-13",
-      
+      "date": "2023-12-13"
    },
    {
       "title": "Jitsu Squad",
@@ -910,12 +852,11 @@
       "store": "Epic Games",
       "price": 8.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-11-30T16:00:00.000Z",
       "endDate": "2023-12-07T16:00:00.000Z",
-      "date": "2023-12-07",
-      
+      "date": "2023-12-07"
    },
    {
       "title": "Mighty Fight Federation",
@@ -924,12 +865,11 @@
       "store": "Epic Games",
       "price": 13.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-11-30T16:00:00.000Z",
       "endDate": "2023-12-07T16:00:00.000Z",
-      "date": "2023-12-07",
-      
+      "date": "2023-12-07"
    },
    {
       "title": "Assassin’s Creed Syndicate",
@@ -938,12 +878,11 @@
       "store": "Ubisoft Connect",
       "price": 30.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-11-26T16:00:00.000Z",
       "endDate": "2023-12-06T13:00:00.000Z",
-      "date": "2023-12-06",
-      
+      "date": "2023-12-06"
    },
    {
       "title": "Deliver Us Mars",
@@ -952,12 +891,11 @@
       "store": "Epic Games",
       "price": 18.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-11-23T16:00:00.000Z",
       "endDate": "2023-11-30T16:00:00.000Z",
-      "date": "2023-11-30",
-      
+      "date": "2023-11-30"
    },
    {
       "title": "Project Asteroids — Claim it before December 1",
@@ -966,12 +904,11 @@
       "store": "Steam",
       "price": 15.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-03-30T15:00:00.000Z",
       "endDate": "2023-12-01T15:00:00.000Z",
-      "date": "2023-12-01",
-      
+      "date": "2023-12-01"
    },
    {
       "title": "The Ramp - Steam Key",
@@ -980,12 +917,11 @@
       "store": "Fanatical",
       "price": 5.99,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-12T16:00:00.000Z",
       "endDate": "2023-11-30T23:59:00.000Z",
-      "date": "2023-11-30",
-      
+      "date": "2023-11-30"
    },
    {
       "title": "33% Epic Coupon",
@@ -994,12 +930,11 @@
       "store": "Epic Games",
       "price": 0.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-11-21T16:00:00.000Z",
       "endDate": "2023-11-28T16:00:00.000Z",
-      "date": "2023-11-28",
-      
+      "date": "2023-11-28"
    },
    {
       "title": "EARTHLOCK",
@@ -1008,12 +943,11 @@
       "store": "Epic Games",
       "price": 10.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-11-16T16:00:00.000Z",
       "endDate": "2023-11-23T16:00:00.000Z",
-      "date": "2023-11-23",
-      
+      "date": "2023-11-23"
    },
    {
       "title": "Surviving the Aftermath",
@@ -1022,12 +956,11 @@
       "store": "Epic Games",
       "price": 14.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-11-16T16:00:00.000Z",
       "endDate": "2023-11-23T16:00:00.000Z",
-      "date": "2023-11-23",
-      
+      "date": "2023-11-23"
    },
    {
       "title": "Half-Life",
@@ -1036,12 +969,11 @@
       "store": "Steam",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-03-30T15:00:00.000Z",
       "endDate": "2023-11-20T15:00:00.000Z",
-      "date": "2023-11-20",
-      
+      "date": "2023-11-20"
    },
    {
       "title": "Golden Light",
@@ -1050,12 +982,11 @@
       "store": "Epic Games",
       "price": 11.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-11-09T16:00:00.000Z",
       "endDate": "2023-11-16T16:00:00.000Z",
-      "date": "2023-11-16",
-      
+      "date": "2023-11-16"
    },
    {
       "title": "Nomad Survival - Steam Key",
@@ -1064,12 +995,11 @@
       "store": "Fanatical",
       "price": 2.99,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-12T16:00:00.000Z",
       "endDate": "2023-11-10T23:59:00.000Z",
-      "date": "2023-11-10",
-      
+      "date": "2023-11-10"
    },
    {
       "title": "Turnip Boy Commits Tax Evasion",
@@ -1078,12 +1008,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-11-02T16:00:00.000Z",
       "endDate": "2023-11-09T16:00:00.000Z",
-      "date": "2023-11-09",
-      
+      "date": "2023-11-09"
    },
    {
       "title": "STEAM SCREAM THE REVENGE - Claim free daily reward",
@@ -1092,12 +1021,11 @@
       "store": "Steam",
       "price": 0.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-15T01:00:00.000Z",
       "endDate": "2023-11-02T17:00:00.000Z",
-      "date": "2023-11-02",
-      
+      "date": "2023-11-02"
    },
    {
       "title": "The Evil Within 2",
@@ -1106,12 +1034,11 @@
       "store": "Epic Games",
       "price": 35.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-10-26T15:00:00.000Z",
       "endDate": "2023-11-02T15:00:00.000Z",
-      "date": "2023-11-02",
-      
+      "date": "2023-11-02"
    },
    {
       "title": "Tandem: a Tale of Shadows",
@@ -1120,12 +1047,11 @@
       "store": "Epic Games",
       "price": 10.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-10-26T15:00:00.000Z",
       "endDate": "2023-11-02T15:00:00.000Z",
-      "date": "2023-11-02",
-      
+      "date": "2023-11-02"
    },
    {
       "title": "12 is Better Than 6 - Steam Key",
@@ -1134,12 +1060,11 @@
       "store": "Fanatical",
       "price": 14.99,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-12T16:00:00.000Z",
       "endDate": "2023-10-31T23:59:00.000Z",
-      "date": "2023-10-31",
-      
+      "date": "2023-10-31"
    },
    {
       "title": "The Evil Within",
@@ -1148,12 +1073,11 @@
       "store": "Epic Games",
       "price": 10.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-10-19T15:00:00.000Z",
       "endDate": "2023-10-26T15:00:00.000Z",
-      "date": "2023-10-26",
-      
+      "date": "2023-10-26"
    },
    {
       "title": "Eternal Threads",
@@ -1162,12 +1086,11 @@
       "store": "Epic Games",
       "price": 10.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-10-19T15:00:00.000Z",
       "endDate": "2023-10-26T15:00:00.000Z",
-      "date": "2023-10-26",
-      
+      "date": "2023-10-26"
    },
    {
       "title": "Blazing Sails",
@@ -1176,12 +1099,11 @@
       "store": "Epic Games",
       "price": 10.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-10-12T15:00:00.000Z",
       "endDate": "2023-10-19T15:00:00.000Z",
-      "date": "2023-10-19",
-      
+      "date": "2023-10-19"
    },
    {
       "title": "Q.U.B.E. ULTIMATE BUNDLE",
@@ -1190,12 +1112,11 @@
       "store": "Epic Games",
       "price": 10.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-10-12T15:00:00.000Z",
       "endDate": "2023-10-19T15:00:00.000Z",
-      "date": "2023-10-19",
-      
+      "date": "2023-10-19"
    },
    {
       "title": "CRYPTARK",
@@ -1204,12 +1125,11 @@
       "store": "Steam",
       "price": 7.50,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-15T01:00:00.000Z",
       "endDate": "2023-10-21T17:00:00.000Z",
-      "date": "2023-10-21",
-      
+      "date": "2023-10-21"
    },
    {
       "title": "Godlike Burger",
@@ -1218,12 +1138,11 @@
       "store": "Epic Games",
       "price": 10.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-10-05T15:00:00.000Z",
       "endDate": "2023-10-12T15:00:00.000Z",
-      "date": "2023-10-12",
-      
+      "date": "2023-10-12"
    },
    {
       "title": "Soulstice",
@@ -1232,12 +1151,11 @@
       "store": "Epic Games",
       "price": 16.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-28T15:00:00.000Z",
       "endDate": "2023-10-05T15:00:00.000Z",
-      "date": "2023-10-05",
-      
+      "date": "2023-10-05"
    },
    {
       "title": "Steam Shmup Fest- Claim free daily reward",
@@ -1246,12 +1164,11 @@
       "store": "Steam",
       "price": 0.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-25T01:00:00.000Z",
       "endDate": "2023-10-02T17:00:00.000Z",
-      "date": "2023-10-02",
-      
+      "date": "2023-10-02"
    },
    {
       "title": "Model Builder",
@@ -1260,12 +1177,11 @@
       "store": "Epic Games",
       "price": 10.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-28T15:00:00.000Z",
       "endDate": "2023-10-05T15:00:00.000Z",
-      "date": "2023-10-05",
-      
+      "date": "2023-10-05"
    },
    {
       "title": "Cyberpunk 2077 & Phantom Liberty Goodies Collection",
@@ -1274,12 +1190,11 @@
       "store": "GoG",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-08T01:00:00.000Z",
       "endDate": "2023-09-25T13:00:00.000Z",
-      "date": "2023-09-25",
-      
+      "date": "2023-09-25"
    },
    {
       "title": "[EU] - THE DARK PICTURES: MAN OF MEDAN - Register and get a steam key in October",
@@ -1288,12 +1203,11 @@
       "store": "Bandai Namco",
       "price": 0.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-15T01:00:00.000Z",
       "endDate": "2023-09-29T17:00:00.000Z",
-      "date": "2023-09-29",
-      
+      "date": "2023-09-29"
    },
    {
       "title": "Out of Line",
@@ -1302,12 +1216,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-21T15:00:00.000Z",
       "endDate": "2023-09-28T15:00:00.000Z",
-      "date": "2023-09-28",
-      
+      "date": "2023-09-28"
    },
    {
       "title": "The Forest Quartet",
@@ -1316,12 +1229,11 @@
       "store": "Epic Games",
       "price": 6.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-21T15:00:00.000Z",
       "endDate": "2023-09-28T15:00:00.000Z",
-      "date": "2023-09-28",
-      
+      "date": "2023-09-28"
    },
    {
       "title": "911 Operator",
@@ -1330,12 +1242,11 @@
       "store": "Epic Games",
       "price": 8.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-14T15:00:00.000Z",
       "endDate": "2023-09-21T15:00:00.000Z",
-      "date": "21-09-2023",
-      
+      "date": "21-09-2023"
    },
    {
       "title": "Crumble - Steam Game",
@@ -1345,11 +1256,10 @@
       "price": 14.99,
       "date": "20-09-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-12T16:00:00.000Z",
-      "endDate": "2023-09-20T16:00:00.000Z",
-      
+      "endDate": "2023-09-20T16:00:00.000Z"
    },
    {
       "title": "Spelldrifter",
@@ -1358,12 +1268,11 @@
       "store": "Epic Games",
       "price": 8.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-07T15:00:00.000Z",
       "endDate": "2023-09-14T15:00:00.000Z",
-      "date": "14-09-2023",
-      
+      "date": "14-09-2023"
    },
    {
       "title": "MR RACER : Premium Racing Game",
@@ -1372,12 +1281,11 @@
       "store": "Google Play",
       "price": 6.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-09-07T15:00:00.000Z",
       "endDate": "2023-09-14T15:00:00.000Z",
-      "date": "??-09-2023",
-      
+      "date": "??-09-2023"
    },
    {
       "title": "Cave Story+",
@@ -1386,12 +1294,11 @@
       "store": "Epic Games",
       "price": 6.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-08-31T15:00:00.000Z",
       "endDate": "2023-09-07T15:00:00.000Z",
-      "date": "07-09-2023",
-      
+      "date": "07-09-2023"
    },
    {
       "title": "Steam Strategy Fest- Claim free daily reward",
@@ -1400,12 +1307,11 @@
       "store": "Steam",
       "price": 0.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-08-28T01:00:00.000Z",
       "endDate": "2023-09-04T17:00:00.000Z",
-      "date": "04-09-2023",
-      
+      "date": "04-09-2023"
    },
    {
       "title": "Homeworld: Deserts of Kharak",
@@ -1414,12 +1320,11 @@
       "store": "Epic Games",
       "price": 20.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-08-24T15:00:00.000Z",
       "endDate": "2023-08-31T15:00:00.000Z",
-      "date": "31-08-2023",
-      
+      "date": "31-08-2023"
    },
    {
       "title": "Dodo Peak",
@@ -1428,12 +1333,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-08-17T15:00:00.000Z",
       "endDate": "2023-08-24T15:00:00.000Z",
-      "date": "24-08-2023",
-      
+      "date": "24-08-2023"
    },
    {
       "title": "Black Book",
@@ -1442,12 +1346,11 @@
       "store": "Epic Games",
       "price": 15.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-08-17T15:00:00.000Z",
       "endDate": "2023-08-24T15:00:00.000Z",
-      "date": "24-08-2023",
-      
+      "date": "24-08-2023"
    },
    {
       "title": "Torment: Tides of Numenera",
@@ -1457,11 +1360,10 @@
       "price": 15.00,
       "date": "22-08-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-08-05T16:00:00.000Z",
-      "endDate": "2023-08-22T16:00:00.000Z",
-      
+      "endDate": "2023-08-22T16:00:00.000Z"
    },
    {
       "title": "Orwell: Keeping an Eye on You",
@@ -1470,12 +1372,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-08-10T15:00:00.000Z",
       "endDate": "2023-08-17T15:00:00.000Z",
-      "date": "17-08-2023",
-      
+      "date": "17-08-2023"
    },
    {
       "title": "Europa Universalis IV",
@@ -1484,12 +1385,11 @@
       "store": "Epic Games",
       "price": 20.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-08-10T15:00:00.000Z",
       "endDate": "2023-08-17T15:00:00.000Z",
-      "date": "17-08-2023",
-      
+      "date": "17-08-2023"
    },
    {
       "title": "Bloons TD 6",
@@ -1498,12 +1398,11 @@
       "store": "Epic Games",
       "price": 7.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-08-03T15:00:00.000Z",
       "endDate": "2023-08-10T15:00:00.000Z",
-      "date": "10-08-2023",
-      
+      "date": "10-08-2023"
    },
    {
       "title": "Loop Hero",
@@ -1512,12 +1411,11 @@
       "store": "Epic Games",
       "price": 10.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-08-03T15:00:00.000Z",
       "endDate": "2023-08-10T15:00:00.000Z",
-      "date": "10-08-2023",
-      
+      "date": "10-08-2023"
    },
    {
       "title": "Severed Steel",
@@ -1526,12 +1424,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-07-27T15:00:00.000Z",
       "endDate": "2023-08-03T15:00:00.000Z",
-      "date": "03-08-2023",
-      
+      "date": "03-08-2023"
    },
    {
       "title": "Homeworld Remastered Collection",
@@ -1540,12 +1437,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-07-27T15:00:00.000Z",
       "endDate": "2023-08-03T15:00:00.000Z",
-      "date": "03-08-2023",
-      
+      "date": "03-08-2023"
    },
    {
       "title": "Dungeon of the ENDLESS™",
@@ -1554,12 +1450,11 @@
       "store": "Steam",
       "price": 0.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-07-24T12:00:00.000Z",
       "endDate": "2023-07-27T12:00:00.000Z",
-      "date": "27-07-2023",
-      
+      "date": "27-07-2023"
    },
    {
       "title": "The Elder Scrolls Online",
@@ -1568,12 +1463,11 @@
       "store": "Epic Games",
       "price": 60.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-07-20T15:00:00.000Z",
       "endDate": "2023-07-27T15:00:00.000Z",
-      "date": "27-07-2023",
-      
+      "date": "27-07-2023"
    },
    {
       "title": "Murder by Numbers",
@@ -1582,12 +1476,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-07-20T15:00:00.000Z",
       "endDate": "2023-07-27T15:00:00.000Z",
-      "date": "27-07-2023",
-      
+      "date": "27-07-2023"
    },
    {
       "title": "Train Valley 2",
@@ -1596,12 +1489,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-07-13T15:00:00.000Z",
       "endDate": "2023-07-20T15:00:00.000Z",
-      "date": "20-07-2023",
-      
+      "date": "20-07-2023"
    },
    {
       "title": "GRIME",
@@ -1610,12 +1502,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-07-06T15:00:00.000Z",
       "endDate": "2023-07-13T15:00:00.000Z",
-      "date": "13-07-2023",
-      
+      "date": "13-07-2023"
    },
    {
       "title": "The Dungeon Of Naheulbeuk",
@@ -1624,12 +1515,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-06-29T15:00:00.000Z",
       "endDate": "2023-07-06T15:00:00.000Z",
-      "date": "06-07-2023",
-      
+      "date": "06-07-2023"
    },
    {
       "title": "Steam Next Fest - Play free demos",
@@ -1638,12 +1528,11 @@
       "store": "Steam",
       "price": 0.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-06-05T15:00:00.000Z",
       "endDate": "2023-06-26T17:00:00.000Z",
-      "date": "26-06-2023",
-      
+      "date": "26-06-2023"
    },
    {
       "title": "Epic Coupon | Get a 25% Discount",
@@ -1653,11 +1542,10 @@
       "price": 14.99,
       "date": "15-06-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-05-18T15:00:00.000Z",
-      "endDate": "2023-06-15T15:00:00.000Z",
-      
+      "endDate": "2023-06-15T15:00:00.000Z"
    },
    {
       "title": "Fall Guys - Blorbius the Despiser",
@@ -1667,11 +1555,10 @@
       "price": 5.00,
       "date": "08-06-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-06-01T15:00:00.000Z",
-      "endDate": "2023-06-08T15:00:00.000Z",
-      
+      "endDate": "2023-06-08T15:00:00.000Z"
    },
    {
       "title": "Tell Me Why",
@@ -1681,11 +1568,10 @@
       "price": 10.00,
       "date": "01-07-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-06-01T15:00:00.000Z",
-      "endDate": "2023-07-01T17:00:00.000Z",
-      
+      "endDate": "2023-07-01T17:00:00.000Z"
    },
    {
       "title": "Hue",
@@ -1695,11 +1581,10 @@
       "price": 8.00,
       "date": "08-06-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-05-17T19:00:00.000Z",
-      "endDate": "2023-06-08T17:00:00.000Z",
-      
+      "endDate": "2023-06-08T17:00:00.000Z"
    },
    {
       "title": "Idle Champions of the Forgotten Realms",
@@ -1708,12 +1593,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-06-22T15:00:00.000Z",
       "endDate": "2023-06-29T15:00:00.000Z",
-      "date": "29-06-2023",
-      
+      "date": "29-06-2023"
    },
    {
       "title": "theHunter: Call of the Wild™",
@@ -1722,12 +1606,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-06-22T15:00:00.000Z",
       "endDate": "2023-06-29T15:00:00.000Z",
-      "date": "29-06-2023",
-      
+      "date": "29-06-2023"
    },
    {
       "title": "Guacamelee! Super Turbo Championship Edition",
@@ -1736,12 +1619,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-06-15T15:00:00.000Z",
       "endDate": "2023-06-22T15:00:00.000Z",
-      "date": "22-06-2023",
-      
+      "date": "22-06-2023"
    },
    {
       "title": "Guacamelee! 2",
@@ -1750,12 +1632,11 @@
       "store": "Epic Games",
       "price": 5.00,
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-06-15T15:00:00.000Z",
       "endDate": "2023-06-22T15:00:00.000Z",
-      "date": "22-06-2023",
-      
+      "date": "22-06-2023"
    },
    {
       "title": "Rocket League® - Battle Bus (Titanium White)",
@@ -1765,11 +1646,10 @@
       "price": 0.00,
       "date": "15-06-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-06-08T15:00:00.000Z",
-      "endDate": "2023-06-15T15:00:00.000Z",
-      
+      "endDate": "2023-06-15T15:00:00.000Z"
    },
    {
       "title": "PAYDAY 2",
@@ -1779,11 +1659,10 @@
       "price": 5.00,
       "date": "15-06-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-06-08T15:00:00.000Z",
-      "endDate": "2023-06-15T15:00:00.000Z",
-      
+      "endDate": "2023-06-15T15:00:00.000Z"
    },
    {
       "title": "Midnight Ghost Hunt",
@@ -1793,11 +1672,10 @@
       "price": 5.00,
       "date": "08-06-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-06-01T15:00:00.000Z",
-      "endDate": "2023-06-08T15:00:00.000Z",
-      
+      "endDate": "2023-06-08T15:00:00.000Z"
    },
    {
       "title": "Discord Nitro (redeem it in the Epic Games Launcher on Windows)",
@@ -1807,11 +1685,10 @@
       "price": 7.99,
       "date": "02-06-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-05-18T15:00:00.000Z",
-      "endDate": "2023-06-02T15:00:00.000Z",
-      
+      "endDate": "2023-06-02T15:00:00.000Z"
    },
    {
       "title": "Fallout: New Vegas - Ultimate Edition",
@@ -1821,11 +1698,10 @@
       "price": 5.00,
       "date": "25-05-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-05-25T15:00:00.000Z",
-      "endDate": "2023-06-01T15:00:00.000Z",
-      
+      "endDate": "2023-06-01T15:00:00.000Z"
    },
    {
       "title": "Metro: Last Light Complete Edition",
@@ -1835,11 +1711,10 @@
       "price": 15.00,
       "date": "25-05-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-05-17T19:00:00.000Z",
-      "endDate": "2023-05-25T17:00:00.000Z",
-      
+      "endDate": "2023-05-25T17:00:00.000Z"
    },
    {
       "title": "DEATH STRANDING",
@@ -1849,11 +1724,10 @@
       "price": 5.00,
       "date": "25-05-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-05-18T15:00:00.000Z",
-      "endDate": "2023-05-25T15:00:00.000Z",
-      
+      "endDate": "2023-05-25T15:00:00.000Z"
    },
    {
       "title": "Steam free daily sticker",
@@ -1863,11 +1737,10 @@
       "price": 0.00,
       "date": "22-05-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-05-16T19:00:00.000Z",
-      "endDate": "2023-05-22T17:00:00.000Z",
-      
+      "endDate": "2023-05-22T17:00:00.000Z"
    },
    {
       "title": "The Sims™ 4 The Daring Lifestyle Bundle",
@@ -1877,11 +1750,10 @@
       "price": 5.00,
       "date": "18-05-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-05-11T15:00:00.000Z",
-      "endDate": "2023-05-18T15:00:00.000Z",
-      
+      "endDate": "2023-05-18T15:00:00.000Z"
    },
    {
       "title": "Kao the Kangaroo",
@@ -1891,11 +1763,10 @@
       "price": 5.00,
       "date": "11-05-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-05-04T15:00:00.000Z",
-      "endDate": "2023-05-11T15:00:00.000Z",
-      
+      "endDate": "2023-05-11T15:00:00.000Z"
    },
    {
       "title": "Horizon Chase Turbo",
@@ -1905,11 +1776,10 @@
       "price": 5.00,
       "date": "11-05-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-05-04T15:00:00.000Z",
-      "endDate": "2023-05-11T15:00:00.000Z",
-      
+      "endDate": "2023-05-11T15:00:00.000Z"
    },
    {
       "title": "Breathedge",
@@ -1919,11 +1789,10 @@
       "price": 8.00,
       "date": "04-05-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-04-27T15:00:00.000Z",
-      "endDate": "2023-05-04T15:00:00.000Z",
-      
+      "endDate": "2023-05-04T15:00:00.000Z"
    },
    {
       "title": "Poker Club",
@@ -1933,11 +1802,10 @@
       "price": 6.00,
       "date": "04-05-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-04-27T15:00:00.000Z",
-      "endDate": "2023-05-04T15:00:00.000Z",
-      
+      "endDate": "2023-05-04T15:00:00.000Z"
    },
    {
       "title": "Beyond Blue",
@@ -1947,11 +1815,10 @@
       "price": 8.00,
       "date": "27-04-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-04-20T15:00:00.000Z",
-      "endDate": "2023-04-27T15:00:00.000Z",
-      
+      "endDate": "2023-04-27T15:00:00.000Z"
    },
    {
       "title": "Never Alone (Kisima Ingitchuna)",
@@ -1961,11 +1828,10 @@
       "price": 6.00,
       "date": "27-04-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-04-20T15:00:00.000Z",
-      "endDate": "2023-04-27T15:00:00.000Z",
-      
+      "endDate": "2023-04-27T15:00:00.000Z"
    },
    {
       "title": "Second Extinction™",
@@ -1975,11 +1841,10 @@
       "price": 12.00,
       "date": "20-04-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-04-13T15:00:00.000Z",
-      "endDate": "2023-04-20T15:00:00.000Z",
-      
+      "endDate": "2023-04-20T15:00:00.000Z"
    },
    {
       "title": "MORDHAU",
@@ -1989,11 +1854,10 @@
       "price": 5.00,
       "date": "20-04-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-04-13T15:00:00.000Z",
-      "endDate": "2023-04-20T15:00:00.000Z",
-      
+      "endDate": "2023-04-20T15:00:00.000Z"
    },
    {
       "title": "Peaky Blinders: Mastermind - Steam Key",
@@ -2003,11 +1867,10 @@
       "price": 24.99,
       "date": "26-04-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-04-05T16:00:00.000Z",
-      "endDate": "2023-04-09T16:00:00.000Z",
-      
+      "endDate": "2023-04-09T16:00:00.000Z"
    },
    {
       "title": "Dying Light Enhanced Edition",
@@ -2017,11 +1880,10 @@
       "price": 25.00,
       "date": "06-04-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-04-06T15:00:00.000Z",
-      "endDate": "2023-04-13T15:00:00.000Z",
-      
+      "endDate": "2023-04-13T15:00:00.000Z"
    },
    {
       "title": "shapez",
@@ -2031,11 +1893,10 @@
       "price": 5.00,
       "date": "06-04-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-04-06T15:00:00.000Z",
-      "endDate": "2023-04-13T15:00:00.000Z",
-      
+      "endDate": "2023-04-13T15:00:00.000Z"
    },
    {
       "title": "Call of the Sea",
@@ -2045,11 +1906,10 @@
       "price": 5.00,
       "date": "16-03-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-03-09T16:00:00.000Z",
-      "endDate": "2023-03-16T15:00:00.000Z",
-      
+      "endDate": "2023-03-16T15:00:00.000Z"
    },
    {
       "title": "Tunche",
@@ -2059,11 +1919,10 @@
       "price": 8.00,
       "date": "06-04-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-03-30T15:00:00.000Z",
-      "endDate": "2023-04-06T15:00:00.000Z",
-      
+      "endDate": "2023-04-06T15:00:00.000Z"
    },
    {
       "title": "The Silent Age",
@@ -2073,11 +1932,10 @@
       "price": 5.00,
       "date": "06-04-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-03-30T15:00:00.000Z",
-      "endDate": "2023-04-06T15:00:00.000Z",
-      
+      "endDate": "2023-04-06T15:00:00.000Z"
    },
    {
       "title": "Chess Ultra",
@@ -2087,11 +1945,10 @@
       "price": 5.00,
       "date": "30-03-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-03-23T15:00:00.000Z",
-      "endDate": "2023-03-30T15:00:00.000Z",
-      
+      "endDate": "2023-03-30T15:00:00.000Z"
    },
    {
       "title": "Warhammer 40,000: Gladius - Relics of War",
@@ -2101,11 +1958,10 @@
       "price": 15.00,
       "date": "16-03-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-03-16T15:00:00.000Z",
-      "endDate": "2023-03-23T15:00:00.000Z",
-      
+      "endDate": "2023-03-23T15:00:00.000Z"
    },
    {
       "title": "Rise of Industry",
@@ -2115,11 +1971,10 @@
       "price": 3.50,
       "date": "09-03-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-03-02T16:00:00.000Z",
-      "endDate": "2023-03-09T16:00:00.000Z",
-      
+      "endDate": "2023-03-09T16:00:00.000Z"
    },
    {
       "title": "Warpips",
@@ -2129,11 +1984,10 @@
       "price": 3.50,
       "date": "23-02-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-02-16T16:00:00.000Z",
-      "endDate": "2023-02-23T16:00:00.000Z",
-      
+      "endDate": "2023-02-23T16:00:00.000Z"
    },
    {
       "title": "Recipe for Disaster",
@@ -2143,11 +1997,10 @@
       "price": 25.00,
       "date": "16-02-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-02-09T16:00:00.000Z",
-      "endDate": "2023-02-16T16:00:00.000Z",
-      
+      "endDate": "2023-02-16T16:00:00.000Z"
    },
    {
       "title": "Dishonored®: Death of the Outsider™",
@@ -2157,11 +2010,10 @@
       "price": 25.00,
       "date": "02-09-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-02-02T16:00:00.000Z",
-      "endDate": "2023-02-09T16:00:00.000Z",
-      
+      "endDate": "2023-02-09T16:00:00.000Z"
    },
    {
       "title": "City of Gangsters",
@@ -2171,11 +2023,10 @@
       "price": 12.50,
       "date": "02-09-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-02-02T16:00:00.000Z",
-      "endDate": "2023-02-09T16:00:00.000Z",
-      
+      "endDate": "2023-02-09T16:00:00.000Z"
    },
    {
       "title": "Rayman Raving Rabbids",
@@ -2185,11 +2036,10 @@
       "price": 9.99,
       "date": "??-01-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-01-19T19:00:00.000Z",
-      "endDate": "2024-02-02T16:00:00.000Z",
-      
+      "endDate": "2024-02-02T16:00:00.000Z"
    },
    {
       "title": "Kerbal Space Program",
@@ -2199,11 +2049,10 @@
       "price": 20.00,
       "date": "12-01-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2023-01-05T16:00:00.000Z",
-      "endDate": "2023-01-12T16:00:00.000Z",
-      
+      "endDate": "2023-01-12T16:00:00.000Z"
    },
    {
       "title": "Dishonored - Definitive Edition",
@@ -2213,11 +2062,10 @@
       "price": 16.00,
       "date": "05-01-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2022-12-29T15:00:00.000Z",
-      "endDate": "2023-01-05T16:00:00.000Z",
-      
+      "endDate": "2023-01-05T16:00:00.000Z"
    },
    {
       "title": "Eximius: Seize the Frontline",
@@ -2227,11 +2075,10 @@
       "price": 14.00,
       "date": "05-01-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2022-12-29T15:00:00.000Z",
-      "endDate": "2023-01-05T16:00:00.000Z",
-      
+      "endDate": "2023-01-05T16:00:00.000Z"
    },
    {
       "title": "25% Epic Games Store Holiday Coupon",
@@ -2241,8 +2088,8 @@
       "price": 0.00,
       "date": "05-01-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2022-12-15T18:00:00.000Z",
       "endDate": "2023-01-05T16:00:00.000Z"
    },
@@ -2254,11 +2101,10 @@
       "price": 5.00,
       "date": "05-01-2023",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2022-12-27T23:00:00.000Z",
-      "endDate": "2023-01-05T16:00:00.000Z",
-      
+      "endDate": "2023-01-05T16:00:00.000Z"
    },
    {
       "title": "Mortal Shell",
@@ -2268,11 +2114,10 @@
       "price": 20.00,
       "date": "29-12-2022",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2022-12-28T16:00:00.000Z",
-      "endDate": "2022-12-29T16:00:00.000Z",
-      
+      "endDate": "2022-12-29T16:00:00.000Z"
    },
    {
       "title": "DEATH STRANDING",
@@ -2282,11 +2127,10 @@
       "price": 60.00,
       "date": "26-12-2022",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2022-12-25T15:00:00.000Z",
-      "endDate": "2022-12-26T16:00:00.000Z",
-      
+      "endDate": "2022-12-26T16:00:00.000Z"
    },
    {
       "title": "Metro: Last Light Redux",
@@ -2296,11 +2140,10 @@
       "price": 10.00,
       "date": "25-12-2022",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2022-12-24T16:00:00.000Z",
-      "endDate": "2022-12-25T16:00:00.000Z",
-      
+      "endDate": "2022-12-25T16:00:00.000Z"
    },
    {
       "title": "Fallout: A Post Nuclear Role Playing Game",
@@ -2310,11 +2153,10 @@
       "price": 9.00,
       "date": "23-12-2022",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2022-12-22T16:00:00.000Z",
-      "endDate": "2022-12-23T16:00:00.000Z",
-      
+      "endDate": "2022-12-23T16:00:00.000Z"
    },
    {
       "title": "LEGO® Builder's Journey",
@@ -2324,11 +2166,10 @@
       "price": 8.00,
       "date": "22-12-2022",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2022-12-21T16:00:00.000Z",
-      "endDate": "2022-12-22T16:00:00.000Z",
-      
+      "endDate": "2022-12-22T16:00:00.000Z"
    },
    {
       "title": "Wolfenstein: The New Order",
@@ -2338,11 +2179,10 @@
       "price": 18.00,
       "date": "20-12-2022",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2022-12-20T16:00:00.000Z",
-      "endDate": "2022-12-21T16:00:00.000Z",
-      
+      "endDate": "2022-12-21T16:00:00.000Z"
    },
    {
       "title": "Horizon Chase Turbo",
@@ -2352,8 +2192,8 @@
       "price": 5.00,
       "date": "17-12-2022",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "2022-12-16T16:00:00.000Z",
       "endDate": "2022-12-17T16:00:00.000Z"
    },
@@ -2365,8 +2205,8 @@
       "price": 5.00,
       "date": "16-12-2022",
       "status": 2,
-      
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "startDate": "",
       "endDate": ""
    },
@@ -2377,15 +2217,16 @@
       "store": "Epic Games",
       "price": 40.00,
       "date": "01-12-2022",
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "status": 2,
       "startDate": "",
       "endDate": ""
    },
    {
       "id": "////SUB SCREEN////",
-      
-      "adImp": null, "adImp": null, "horizontal": false,
+      "adImp": null,
+      "horizontal": false,
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2707/rNZrAmBmEe1hBvfE5WC6JjcR.jpg",
       "url": "https://www.google.com",
       "title": "PUBG",
@@ -2403,7 +2244,8 @@
       "store": "Epic Games",
       "price": 8.00,
       "date": "29-09-2022",
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "status": 2,
       "startDate": "",
       "endDate": ""
@@ -2415,15 +2257,16 @@
       "store": "Epic Games",
       "price": 13.00,
       "date": "08-09-2022",
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "status": 2,
       "startDate": "",
       "endDate": ""
    },
    {
       "id": "//?SUB SCREEN////",
-      
-      "adImp": null, "adImp": null, "horizontal": false,
+      "adImp": null,
+      "horizontal": false,
       "title": "Diablo Immortal",
       "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt77f4425de611b362/blt0b41183f11404532/61660a3ace267e66ae2fe854/di-opengraph_001.jpg",
       "url": "https://www.google.com",
@@ -2441,7 +2284,8 @@
       "store": "Epic Games",
       "price": 5.00,
       "date": "26-05-2022",
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "status": 2,
       "startDate": "",
       "endDate": ""
@@ -2453,13 +2297,15 @@
       "store": "Epic Games",
       "price": 30.00,
       "date": "2022",
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "status": 2,
       "startDate": "",
       "endDate": ""
    },
    {
-      "adImp": null, "adImp": null, "horizontal": true,
+      "adImp": null,
+      "horizontal": true,
       "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Prey_ArkaneStudios_S3_2560x1440-66103490180b56a8a132ae2487e18f2f?h=480&resize=1&w=854",
       "title": "Prey",
       "url": "https://bit.ly/37mJtmq",
