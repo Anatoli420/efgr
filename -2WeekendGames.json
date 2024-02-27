@@ -6,18 +6,11 @@
         "store": "Steam",
         "price": 15.00,
         "status": 4,
-        "adImp": null, "adImp": null, "horizontal": "fechasProgramadas",
+        "adImp": null,
+        "horizontal": "fechasProgramadas",
         "startDate": "2024-02-08T01:00:00.000Z",
         "endDate": "2024-03-04T16:00:00.000Z",
-        "date": "2024-02-??",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-??"
     },
     {
         "title": "Dying Light 2 Stay Human: Reloaded Edition",
@@ -26,18 +19,11 @@
         "store": "Steam",
         "price": 35.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": "fechasProgramadas",
+        "adImp": null,
+        "horizontal": "fechasProgramadas",
         "startDate": "2024-02-08T01:00:00.000Z",
         "endDate": "2024-02-26T16:00:00.000Z",
-        "date": "2024-02-26",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-26"
     },
     {
         "title": "Sid Meier’s Civilization® VI",
@@ -46,18 +32,11 @@
         "store": "Steam",
         "price": 3.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": "fechasProgramadas",
+        "adImp": null,
+        "horizontal": "fechasProgramadas",
         "startDate": "2024-02-08T01:00:00.000Z",
         "endDate": "2024-02-26T16:00:00.000Z",
-        "date": "2024-02-26",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-26"
     },
     {
         "title": "Skull and Bones - Free Trial",
@@ -66,18 +45,11 @@
         "store": "Epic Games",
         "price": 60.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": "fechasProgramadas",
+        "adImp": null,
+        "horizontal": "fechasProgramadas",
         "startDate": "2023-09-01T01:00:00.000Z",
         "endDate": "2024-02-26T26:00:00.000Z",
-        "date": "2024-02-??",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-??"
     },
     {
         "title": "Nickelodeon All-Star Brawl 2",
@@ -86,22 +58,16 @@
         "store": "Steam",
         "price": 13.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2024-02-08T01:00:00.000Z",
         "endDate": "2024-02-19T16:00:00.000Z",
-        "date": "2024-02-19",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-19"
     },
     {
         "id": "//?SUB SCREEN////",
-        "adImp": null, "adImp": null, "horizontal": false,
+        "adImp": null,
+        "horizontal": false,
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2707/rNZrAmBmEe1hBvfE5WC6JjcR.jpg",
         "url": "https://www.google.com",
         "title": "PUBG",
@@ -109,13 +75,6 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -126,18 +85,11 @@
         "store": "RSI",
         "price": 45.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2024-02-08T01:00:00.000Z",
         "endDate": "2024-02-15T16:00:00.000Z",
-        "date": "2024-02-15",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-15"
     },
     {
         "title": "West Hunt",
@@ -146,18 +98,11 @@
         "store": "Steam",
         "price": 3.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2024-02-08T01:00:00.000Z",
         "endDate": "2024-02-14T16:00:00.000Z",
-        "date": "2024-02-14",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-14"
     },
     {
         "title": "Islands of Insight Demo Early Access Key Giveaway",
@@ -166,18 +111,11 @@
         "store": "Alienware Arena",
         "price": 10.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2024-02-01T20:00:00.000Z",
         "endDate": "2024-02-13T10:00:00.000Z",
-        "date": "2024-02-13",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-13"
     },
     {
         "title": "DNF Duel",
@@ -186,18 +124,11 @@
         "store": "Steam",
         "price": 20.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2024-02-08T01:00:00.000Z",
         "endDate": "2024-02-12T16:00:00.000Z",
-        "date": "2024-02-12",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-12"
     },
     {
         "title": "Call of Duty®: Modern Warfare® III",
@@ -206,18 +137,11 @@
         "store": "Battle.net",
         "price": 45.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2024-02-08T01:00:00.000Z",
         "endDate": "2024-02-12T16:00:00.000Z",
-        "date": "2024-02-12",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-12"
     },
     {
         "title": "Call of Duty®: Modern Warfare® III",
@@ -226,18 +150,11 @@
         "store": "Steam",
         "price": 45.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2024-02-08T01:00:00.000Z",
         "endDate": "2024-02-12T16:00:00.000Z",
-        "date": "2024-02-12",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-12"
     },
     {
         "title": "Skull and Bones Open Beta",
@@ -246,18 +163,11 @@
         "store": "Ubisoft Connect",
         "price": 60.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2024-02-11T16:00:00.000Z",
-        "date": "2024-02-11",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-11"
     },
     {
         "title": "Skull and Bones Open Beta",
@@ -266,18 +176,11 @@
         "store": "Epic Games",
         "price": 60.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2024-02-11T16:00:00.000Z",
-        "date": "2024-02-11",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-11"
     },
     {
         "title": "This War of Mine",
@@ -286,18 +189,11 @@
         "store": "Steam",
         "price": 10.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2024-01-18T01:00:00.000Z",
         "endDate": "2024-01-29T16:00:00.000Z",
-        "date": "2024-01-29",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-01-29"
     },
     {
         "title": "EA SPORTS FC™ 24",
@@ -306,18 +202,11 @@
         "store": "Steam",
         "price": 60.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": "fechasProgramadas",
+        "adImp": null,
+        "horizontal": "fechasProgramadas",
         "startDate": "2024-01-18T01:00:00.000Z",
         "endDate": "2024-01-22T16:00:00.000Z",
-        "date": "2024-01-22",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-01-22"
     },
     {
         "title": "Prince of Persia The Lost Crown - DEMO",
@@ -326,18 +215,11 @@
         "store": "Ubisoft Connect",
         "price": 50.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2024-01-18T16:00:00.000Z",
-        "date": "2024-01-18",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-01-18"
     },
     {
         "title": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
@@ -346,18 +228,11 @@
         "store": "Steam",
         "price": 9.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-12-18T16:00:00.000Z",
-        "date": "2023-12-18",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-12-18"
     },
     {
         "title": "REDES SOCIALES",
@@ -366,13 +241,14 @@
         "store": "",
         "price": 0.00,
         "date": "13-03-2023",
-        
-        "adImp": null, "adImp": null, "horizontal": "social",
+        "adImp": null,
+        "horizontal": "social",
         "status": 1
     },
     {
         "id": "//?SUB SCREEN////",
-        "adImp": null, "adImp": null, "horizontal": false,
+        "adImp": null,
+        "horizontal": false,
         "image": "https://cdn2.unrealengine.com/blade-2560x1440-2560x1440-6b1174ff6f66.jpg?h=480&quality=medium&resize=1&w=854",
         "url": "https://www.google.com",
         "title": "Fortnite",
@@ -380,13 +256,6 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -397,18 +266,11 @@
         "store": "Steam",
         "price": 9.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-12-18T16:00:00.000Z",
-        "date": "2023-12-18",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-12-18"
     },
     {
         "title": "theHunter: Call of the Wild™",
@@ -417,18 +279,11 @@
         "store": "Steam",
         "price": 1.50,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-12-18T16:00:00.000Z",
-        "date": "2023-12-18",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-12-18"
     },
     {
         "title": "Call of Duty®: Modern Warfare® III - Multiplayer and Zombies",
@@ -437,18 +292,11 @@
         "store": "Steam",
         "price": 50.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-12-18T16:00:00.000Z",
-        "date": "2023-12-18",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-12-18"
     },
     {
         "title": "Mechabellum",
@@ -457,18 +305,11 @@
         "store": "Steam",
         "price": 9.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-12-11T16:00:00.000Z",
-        "date": "2023-12-11",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-12-11"
     },
     {
         "title": "GTFO",
@@ -477,18 +318,11 @@
         "store": "Steam",
         "price": 15.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-12-11T16:00:00.000Z",
-        "date": "2023-12-11",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-12-11"
     },
     {
         "title": "Chivalry 2",
@@ -497,18 +331,11 @@
         "store": "Steam",
         "price": 15.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-12-11T16:00:00.000Z",
-        "date": "2023-12-11",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-12-11"
     },
     {
         "title": "Chivalry 2",
@@ -517,18 +344,11 @@
         "store": "Epic Games",
         "price": 15.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-12-11T16:00:00.000Z",
-        "date": "2023-12-11",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-12-11"
     },
     {
         "title": "Stellaris Nexus - OPEN BETA",
@@ -537,18 +357,11 @@
         "store": "Steam",
         "price": 5.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-12-11T16:00:00.000Z",
-        "date": "2023-12-??",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-12-??"
     },
     {
         "title": "Hell Let Loose",
@@ -557,18 +370,11 @@
         "store": "Steam",
         "price": 30.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-12-04T16:00:00.000Z",
-        "date": "2023-12-04",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-12-04"
     },
     {
         "title": "Rainbow Six Siege",
@@ -577,18 +383,11 @@
         "store": "Ubisoft Connect",
         "price": 7.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-12-07T16:00:00.000Z",
-        "date": "2023-12-07",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-12-07"
     },
     {
         "title": "Rainbow Six Siege",
@@ -597,18 +396,11 @@
         "store": "Steam",
         "price": 7.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-12-07T16:00:00.000Z",
-        "date": "2023-12-07",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-12-07"
     },
     {
         "title": "ICARUS",
@@ -617,18 +409,11 @@
         "store": "Steam",
         "price": 15.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-12-04T16:00:00.000Z",
-        "date": "2023-12-04",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-12-04"
     },
     {
         "title": "BattleBit Remastered",
@@ -637,18 +422,11 @@
         "store": "Steam",
         "price": 10.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-12-04T16:00:00.000Z",
-        "date": "2023-12-04",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-12-04"
     },
     {
         "title": "Immortals of Aveum™ - Demo",
@@ -657,18 +435,11 @@
         "store": "Steam",
         "price": 70.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-11-28T16:00:00.000Z",
-        "date": "2023-11-28",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-11-28"
     },
     {
         "title": "Diablo® IV",
@@ -677,18 +448,11 @@
         "store": "Steam",
         "price": 70.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-11-27T16:00:00.000Z",
-        "date": "2023-11-27",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-11-27"
     },
     {
         "title": "F1® 23",
@@ -697,18 +461,11 @@
         "store": "Steam",
         "price": 70.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-11-20T16:00:00.000Z",
-        "date": "2023-11-20",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-11-20"
     },
     {
         "title": "Victoria 3",
@@ -717,18 +474,11 @@
         "store": "Steam",
         "price": 40.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-11-20T16:00:00.000Z",
-        "date": "2023-11-20",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-11-20"
     },
     {
         "title": "Railroads Online",
@@ -737,18 +487,11 @@
         "store": "Steam",
         "price": 45.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-11-20T16:00:00.000Z",
-        "date": "2023-11-20",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-11-20"
     },
     {
         "title": "Dungeons of the Amber Griffin Playtest",
@@ -757,18 +500,11 @@
         "store": "Steam",
         "price": 60.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-11-20T16:00:00.000Z",
-        "date": "2023-11-20",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-11-20"
     },
     {
         "title": "Grounded",
@@ -777,18 +513,11 @@
         "store": "Steam",
         "price": 60.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-11-16T16:00:00.000Z",
-        "date": "2023-11-16",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-11-16"
     },
     {
         "title": "Yes, Your Grace: Snowfall Closed Beta Key Giveaway",
@@ -797,18 +526,11 @@
         "store": "Alienware Arena",
         "price": 20.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-11-20T16:00:00.000Z",
-        "date": "2023-11-20",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-11-20"
     },
     {
         "title": "Europa Universalis IV",
@@ -817,18 +539,11 @@
         "store": "Steam",
         "price": 22.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-11-13T16:00:00.000Z",
-        "date": "2023-11-13",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-11-13"
     },
     {
         "title": "Isonzo",
@@ -837,18 +552,11 @@
         "store": "Steam",
         "price": 15.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-11-13T16:00:00.000Z",
-        "date": "2023-11-13",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-11-13"
     },
     {
         "title": "Pavlov Shack Beta",
@@ -857,18 +565,11 @@
         "store": "Meta Store",
         "price": 15.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-11-14T16:00:00.000Z",
-        "date": "2023-11-14",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-11-14"
     },
     {
         "title": "Pistol Whip",
@@ -877,18 +578,11 @@
         "store": "Steam",
         "price": 5.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-11-06T16:00:00.000Z",
-        "date": "2023-11-06",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-11-06"
     },
     {
         "title": "Exoprimal",
@@ -897,18 +591,11 @@
         "store": "Steam",
         "price": 5.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-11-06T16:00:00.000Z",
-        "date": "2023-11-06",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-11-06"
     },
     {
         "title": "Bus Simulator 21 Next Stop",
@@ -917,18 +604,11 @@
         "store": "Steam",
         "price": 5.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-11-06T16:00:00.000Z",
-        "date": "2023-11-06",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-11-06"
     },
     {
         "title": "Anno 1800",
@@ -937,18 +617,11 @@
         "store": "Steam",
         "price": 5.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-11-06T16:00:00.000Z",
-        "date": "2023-11-06",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-11-06"
     },
     {
         "title": "The Finals Playtest",
@@ -957,18 +630,11 @@
         "store": "Steam",
         "price": 0.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-11-05T16:00:00.000Z",
-        "date": "2023-11-05",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-11-05"
     },
     {
         "title": "BATTLE CRUSH BETA",
@@ -977,18 +643,11 @@
         "store": "Steam",
         "price": 0.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-10-30T16:00:00.000Z",
-        "date": "2023-10-30",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-10-30"
     },
     {
         "title": "Diablo IV",
@@ -997,18 +656,11 @@
         "store": "Battle.net",
         "price": 60.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-10-30T16:00:00.000Z",
-        "date": "2023-10-30",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-10-30"
     },
     {
         "title": "Space Engineers",
@@ -1017,18 +669,11 @@
         "store": "Steam",
         "price": 35.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-10-30T16:00:00.000Z",
-        "date": "2023-10-30",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-10-30"
     },
     {
         "title": "Fallout 76",
@@ -1037,18 +682,11 @@
         "store": "Steam",
         "price": 35.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-10-30T16:00:00.000Z",
-        "date": "2023-10-30",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-10-30"
     },
     {
         "title": "CALL OF DUTY: MODERN WARFARE III - OPEN BETA",
@@ -1057,18 +695,11 @@
         "store": "Steam",
         "price": 70.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-10-16T16:00:00.000Z",
-        "date": "2023-10-16",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-10-16"
     },
     {
         "title": "CALL OF DUTY: MODERN WARFARE III - OPEN BETA",
@@ -1077,18 +708,11 @@
         "store": "Battle.net",
         "price": 70.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-10-16T16:00:00.000Z",
-        "date": "2023-10-16",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-10-16"
     },
     {
         "title": "Battlefield™ 2042",
@@ -1097,18 +721,11 @@
         "store": "Steam",
         "price": 70.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-10-16T16:00:00.000Z",
-        "date": "2023-10-16",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-10-16"
     },
     {
         "title": "The Crew™ Motorfest",
@@ -1117,18 +734,11 @@
         "store": "Ubisoft Connect",
         "price": 60.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-10-20T16:00:00.000Z",
-        "date": "2023-10-20",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-10-20"
     },
     {
         "title": "The Crew™ Motorfest",
@@ -1137,18 +747,11 @@
         "store": "Epic Games",
         "price": 60.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-10-20T16:00:00.000Z",
-        "date": "2023-10-20",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-10-20"
     },
     {
         "title": "Forts",
@@ -1157,18 +760,11 @@
         "store": "Steam",
         "price": 7.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-10-16T16:00:00.000Z",
-        "date": "2023-10-16",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-10-16"
     },
     {
         "title": "Golf With Your Friends",
@@ -1177,18 +773,11 @@
         "store": "Steam",
         "price": 10.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-10-09T16:00:00.000Z",
-        "date": "2023-10-09",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-10-09"
     },
     {
         "title": "Riders Republic",
@@ -1197,18 +786,11 @@
         "store": "Ubisoft Connect",
         "price": 40.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-10-02T16:00:00.000Z",
-        "date": "2023-10-02",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-10-02"
     },
     {
         "title": "RPG Maker MV",
@@ -1217,18 +799,11 @@
         "store": "Steam",
         "price": 20.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-10-02T16:00:00.000Z",
-        "date": "2023-09-25",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-09-25"
     },
     {
         "title": "State of Decay 2: Juggernaut Edition",
@@ -1238,17 +813,10 @@
         "price": 20.00,
         "date": "2023-09-25",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
-        "endDate": "2023-09-25T16:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-09-25T16:00:00.000Z"
     },
     {
         "title": "The First Descendant Crossplay Beta",
@@ -1257,18 +825,11 @@
         "store": "Steam",
         "price": 40.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-14T01:00:00.000Z",
         "endDate": "2023-09-25T18:00:00.000Z",
-        "date": "2023-09-25",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-09-25"
     },
     {
         "title": "Call of Duty: Modern Warfare II Season 05 Reloaded Free Access",
@@ -1277,18 +838,11 @@
         "store": "Epic Games|Steam",
         "price": 60.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-14T01:00:00.000Z",
         "endDate": "2023-09-20T16:00:00.000Z",
-        "date": "2023-09-20",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-09-20"
     },
     {
         "title": "The Crew Motorfest",
@@ -1297,18 +851,11 @@
         "store": "Epic Games|Steam|Ubisoft Connect",
         "price": 60.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-14T01:00:00.000Z",
         "endDate": "2023-09-17T16:00:00.000Z",
-        "date": "17-09-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "17-09-2023"
     },
     {
         "title": "Friends vs Friends",
@@ -1317,18 +864,11 @@
         "store": "Steam",
         "price": 6.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-14T01:00:00.000Z",
         "endDate": "2023-09-18T16:00:00.000Z",
-        "date": "18-09-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "18-09-2023"
     },
     {
         "title": "Assetto Corsa Competizione",
@@ -1337,18 +877,11 @@
         "store": "Steam",
         "price": 45.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-14T01:00:00.000Z",
         "endDate": "2023-09-18T16:00:00.000Z",
-        "date": "18-09-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "18-09-2023"
     },
     {
         "title": "The Walking Dead: Betrayal",
@@ -1357,18 +890,11 @@
         "store": "Steam",
         "price": 12.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-14T01:00:00.000Z",
         "endDate": "2023-09-18T16:00:00.000Z",
-        "date": "18-09-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "18-09-2023"
     },
     {
         "title": "Children of Morta",
@@ -1377,18 +903,11 @@
         "store": "Steam",
         "price": 12.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-07T01:00:00.000Z",
         "endDate": "2023-09-13T16:00:00.000Z",
-        "date": "13-09-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "13-09-2023"
     },
     {
         "title": "PAYDAY 3 Playtest",
@@ -1397,18 +916,11 @@
         "store": "Steam",
         "price": 30.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-07T01:00:00.000Z",
         "endDate": "2023-09-11T16:00:00.000Z",
-        "date": "11-09-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "11-09-2023"
     },
     {
         "title": "Ultimate Chicken Horse",
@@ -1417,18 +929,11 @@
         "store": "Steam",
         "price": 8.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-07T01:00:00.000Z",
         "endDate": "2023-09-11T16:00:00.000Z",
-        "date": "11-09-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "11-09-2023"
     },
     {
         "title": "Star Citizen - referral code: STAR-Y24B-QZ63",
@@ -1437,18 +942,11 @@
         "store": "RSI",
         "price": 45.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-08-31T01:00:00.000Z",
         "endDate": "2023-09-07T23:00:00.000Z",
-        "date": "07-09-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "07-09-2023"
     },
     {
         "title": "LEGO® 2K Drive",
@@ -1457,18 +955,11 @@
         "store": "Steam",
         "price": 35.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-08-31T01:00:00.000Z",
         "endDate": "2023-09-04T16:00:00.000Z",
-        "date": "04-09-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "04-09-2023"
     },
     {
         "title": "Rainbow Six Siege",
@@ -1477,18 +968,11 @@
         "store": "Epic Games",
         "price": 7.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-08-31T01:00:00.000Z",
         "endDate": "2023-09-04T16:00:00.000Z",
-        "date": "04-09-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "04-09-2023"
     },
     {
         "title": "Dead by Daylight",
@@ -1497,18 +981,11 @@
         "store": "Steam",
         "price": 6.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-08-31T01:00:00.000Z",
         "endDate": "2023-09-04T16:00:00.000Z",
-        "date": "04-09-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "04-09-2023"
     },
     {
         "title": "(FIFA) EA Sports FC 24 - Closed Beta Register Playtest",
@@ -1518,17 +995,10 @@
         "price": 60.00,
         "date": "31-08-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-08-10T01:00:00.000Z",
-        "endDate": "2023-08-31T16:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-08-31T16:00:00.000Z"
     },
     {
         "title": "For The King",
@@ -1538,17 +1008,10 @@
         "price": 2.00,
         "date": "28-08-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-08-24T01:00:00.000Z",
-        "endDate": "2023-08-28T16:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-08-28T16:00:00.000Z"
     },
     {
         "title": "Forza Horizon 5",
@@ -1558,17 +1021,10 @@
         "price": 30.00,
         "date": "21-08-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-08-17T01:00:00.000Z",
-        "endDate": "2023-08-21T16:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-08-21T16:00:00.000Z"
     },
     {
         "title": "Let's Build a Zoo",
@@ -1578,17 +1034,10 @@
         "price": 5.00,
         "date": "21-08-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-08-17T01:00:00.000Z",
-        "endDate": "2023-08-21T16:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-08-21T16:00:00.000Z"
     },
     {
         "title": "Assassin's Creed: Valhalla, II, IV Black Flag, Brotherhood, Revelations",
@@ -1598,17 +1047,10 @@
         "price": 60.00,
         "date": "14-08-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-08-10T01:00:00.000Z",
-        "endDate": "2023-08-14T16:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-08-14T16:00:00.000Z"
     },
     {
         "title": "HAWKED | Open Beta (FREE BATTLE PASS)",
@@ -1618,17 +1060,10 @@
         "price": 0.00,
         "date": "17-08-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-08-03T01:00:00.000Z",
-        "endDate": "2023-08-17T16:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-08-17T16:00:00.000Z"
     },
     {
         "title": "PAYDAY 3 Playtest - Closed Beta",
@@ -1638,17 +1073,10 @@
         "price": 30.00,
         "date": "07-08-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-08-02T01:00:00.000Z",
-        "endDate": "2023-08-07T16:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-08-07T16:00:00.000Z"
     },
     {
         "title": "WWE 2K23",
@@ -1658,17 +1086,10 @@
         "price": 0.00,
         "date": "07-08-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-08-03T01:00:00.000Z",
-        "endDate": "2023-08-07T16:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-08-07T16:00:00.000Z"
     },
     {
         "title": "Need for Speed™ Unbound",
@@ -1677,18 +1098,11 @@
         "store": "Steam",
         "price": 75.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-07-07T10:00:00.000Z",
         "endDate": "2023-07-24T16:00:00.000Z",
-        "date": "24-07-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "24-07-2023"
     },
     {
         "title": "The Crew 2",
@@ -1697,18 +1111,11 @@
         "store": "Ubisoft Connect",
         "price": 60.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-06-27T10:00:00.000Z",
         "endDate": "2023-07-10T16:00:00.000Z",
-        "date": "10-07-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "10-07-2023"
     },
     {
         "title": "CALL OF DUTY: MODERN WARFARE II SEASON 04 FREE ACCESS",
@@ -1717,18 +1124,11 @@
         "store": "Battle.net",
         "price": 60.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-05-11T10:00:00.000Z",
         "endDate": "2023-06-26T17:00:00.000Z",
-        "date": "26-06-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "26-06-2023"
     },
     {
         "title": "XDefiant - Beta",
@@ -1737,18 +1137,11 @@
         "store": "Ubisoft Connect",
         "price": 0.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-05-11T10:00:00.000Z",
         "endDate": "2023-06-24T17:00:00.000Z",
-        "date": "24-06-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "24-06-2023"
     },
     {
         "title": "Football Manager 2023",
@@ -1757,18 +1150,11 @@
         "store": "Steam",
         "price": 40.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-05-11T10:00:00.000Z",
         "endDate": "2023-06-26T16:00:00.000Z",
-        "date": "26-06-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "26-06-2023"
     },
     {
         "title": "The Crew Motorfest Closed Beta Register",
@@ -1777,18 +1163,11 @@
         "store": "Ubisoft Connect",
         "price": 60.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-06-15T10:00:00.000Z",
         "endDate": "2023-06-21T16:00:00.000Z",
-        "date": "21-06-2023",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "21-06-2023"
     },
     {
         "title": "Squad",
@@ -1798,17 +1177,10 @@
         "price": 15.00,
         "date": "29-05-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-05-24T01:00:00.000Z",
-        "endDate": "2023-05-29T17:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-05-29T17:00:00.000Z"
     },
     {
         "title": "Diablo IV",
@@ -1818,21 +1190,15 @@
         "price": 60.00,
         "date": "14-05-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-05-12T10:00:00.000Z",
-        "endDate": "2023-05-14T16:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-05-14T16:00:00.000Z"
     },
     {
         "id": "//?SUB SCREEN////",
-        "adImp": null, "adImp": null, "horizontal": false,
+        "adImp": null,
+        "horizontal": false,
         "title": "Diablo Immortal",
         "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt77f4425de611b362/blt0b41183f11404532/61660a3ace267e66ae2fe854/di-opengraph_001.jpg",
         "url": "https://www.google.com",
@@ -1840,13 +1206,6 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 4,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -1858,17 +1217,10 @@
         "price": 40.00,
         "date": "01-05-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-04-26T10:00:00.000Z",
-        "endDate": "2023-05-01T16:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-05-01T16:00:00.000Z"
     },
     {
         "title": "Call of Duty®: Modern Warfare® II - Multiplayer",
@@ -1878,17 +1230,10 @@
         "price": 60.00,
         "date": "26-04-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-04-18T10:00:00.000Z",
-        "endDate": "2023-04-26T16:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-04-26T16:00:00.000Z"
     },
     {
         "title": "The Elder Scrolls® Online",
@@ -1898,17 +1243,10 @@
         "price": 5.00,
         "date": "17-04-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-04-05T10:00:00.000Z",
-        "endDate": "2023-04-17T17:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-04-17T17:00:00.000Z"
     },
     {
         "title": "Golf With Your Friends",
@@ -1918,17 +1256,10 @@
         "price": 5.00,
         "date": "03-04-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-03-30T10:00:00.000Z",
-        "endDate": "2023-04-03T17:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-04-03T17:00:00.000Z"
     },
     {
         "title": "Far Cry 5",
@@ -1938,17 +1269,10 @@
         "price": 5.00,
         "date": "27-03-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-03-23T10:00:00.000Z",
-        "endDate": "2023-03-27T17:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-03-27T17:00:00.000Z"
     },
     {
         "title": "Far Cry 6",
@@ -1958,17 +1282,10 @@
         "price": 15.00,
         "date": "20-02-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-02-15T20:00:00.000Z",
-        "endDate": "2023-02-20T16:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-02-20T16:00:00.000Z"
     },
     {
         "title": "Age of Empires IV: Anniversary Edition",
@@ -1978,17 +1295,10 @@
         "price": 12.00,
         "date": "20-02-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-02-15T20:00:00.000Z",
-        "endDate": "2023-02-20T18:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-02-20T18:00:00.000Z"
     },
     {
         "title": "Madden NFL 23",
@@ -1998,17 +1308,10 @@
         "price": 21.00,
         "date": "09-02-2023",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-02-08T20:00:00.000Z",
-        "endDate": "2023-02-09T18:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2023-02-09T18:00:00.000Z"
     },
     {
         "title": "EA SPORTS™ FIFA 23",
@@ -2017,16 +1320,9 @@
         "store": "Steam",
         "price": 30.00,
         "date": "19-12-2022",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -2037,16 +1333,9 @@
         "store": "Steam",
         "price": 5.00,
         "date": "05-12-2022",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -2057,16 +1346,9 @@
         "store": "RSI",
         "price": 45.00,
         "date": "30-11-2022",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -2077,16 +1359,9 @@
         "store": "Steam",
         "price": 0.00,
         "date": "31-10-2022",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -2097,16 +1372,9 @@
         "store": "Steam",
         "price": 35.00,
         "date": "24-10-2022",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -2117,16 +1385,9 @@
         "store": "Steam",
         "price": 9.00,
         "date": "10-10-2022",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -2137,16 +1398,9 @@
         "store": "Steam",
         "price": 4.00,
         "date": "03-10-2022",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -2157,16 +1411,9 @@
         "store": "Steam",
         "price": 3.00,
         "date": "03-10-2022",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     }
