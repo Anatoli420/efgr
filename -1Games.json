@@ -281,7 +281,7 @@
       "price": 14.00,
       "status": 2,
       "adImp": null,
-      "horizontal": "fechasProgramadas",
+      "horizontal": true,
       "startDate": "2024-02-09T19:30:00.000Z",
       "endDate": "2024-02-19T18:00:00.000Z",
       "date": "2024-02-19"
@@ -463,7 +463,7 @@
       "price": 15.00,
       "status": 2,
       "adImp": null,
-      "horizontal": "fechasProgramadas",
+      "horizontal": true,
       "startDate": "2024-01-08T13:00:00.000Z",
       "endDate": "2024-01-12T13:00:00.000Z",
       "date": "2024-01-12"
@@ -500,7 +500,7 @@
       "url": "https://bit.ly/47UiF7d",
       "store": "Epic Games",
       "price": 5.00,
-      "status": 1,
+      "status": 2,
       "adImp": null,
       "horizontal": true,
       "startDate": "2023-12-13T16:00:00.000Z",
