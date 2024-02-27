@@ -6,16 +6,9 @@
         "store": "Google Play",
         "price": 4.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -26,22 +19,16 @@
         "store": "Google Play",
         "price": 2.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
     {
         "id": "//?SUB SCREEN////",
-        "adImp": null, "adImp": null, "horizontal": false,
+        "adImp": null,
+        "horizontal": false,
         "image": "https://cdn2.unrealengine.com/blade-2560x1440-2560x1440-6b1174ff6f66.jpg?h=480&quality=medium&resize=1&w=854",
         "url": "https://www.google.com",
         "title": "Fortnite",
@@ -49,13 +36,6 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -66,16 +46,9 @@
         "store": "Google Play",
         "price": 0.00,
         "date": "2024-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -86,16 +59,9 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -106,16 +72,9 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -126,16 +85,9 @@
         "store": "Google Play",
         "price": 2.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -146,16 +98,9 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -166,16 +111,9 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -186,16 +124,9 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -206,16 +137,9 @@
         "store": "Google Play",
         "price": 0.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -226,16 +150,9 @@
         "store": "Google Play",
         "price": 0.00,
         "date": "2024-02-19",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -246,22 +163,16 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
     {
         "id": "//?SUB SCREEN////",
-        "adImp": null, "adImp": null, "horizontal": "RateUs",
+        "adImp": null,
+        "horizontal": "RateUs",
         "image": "",
         "url": "https://www.google.com",
         "title": "RATEUS",
@@ -269,13 +180,6 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -286,16 +190,9 @@
         "store": "Google Play",
         "price": 0.00,
         "date": "2023",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -306,16 +203,9 @@
         "store": "Google Play",
         "price": 0.00,
         "date": "08-2023",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -326,22 +216,16 @@
         "store": "Google Play",
         "price": 0.00,
         "date": "2023",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
     {
         "id": "//?SUB SCREEN////",
-        "adImp": null, "adImp": null, "horizontal": false,
+        "adImp": null,
+        "horizontal": false,
         "title": "Diablo Immortal",
         "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt77f4425de611b362/blt0b41183f11404532/61660a3ace267e66ae2fe854/di-opengraph_001.jpg",
         "url": "https://www.google.com",
@@ -349,13 +233,6 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 4,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -366,16 +243,9 @@
         "store": "Google Play",
         "price": 0.00,
         "date": "2023",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -386,16 +256,9 @@
         "store": "Google Play",
         "price": 0.00,
         "date": "11-2023",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -407,15 +270,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 1,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -426,16 +282,9 @@
         "store": "Google Play",
         "price": 0.00,
         "date": "2023",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -447,15 +296,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 1,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -466,16 +308,9 @@
         "store": "Google Play",
         "price": 0.00,
         "date": "01-10-2019",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -486,16 +321,9 @@
         "store": "Google Play",
         "price": 0.00,
         "date": "2023",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -506,16 +334,9 @@
         "store": "Google Play",
         "price": 0.00,
         "date": "2023",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -526,16 +347,9 @@
         "store": "Google Play",
         "price": 0.00,
         "date": "2023",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -547,17 +361,10 @@
         "price": 0.00,
         "date": "09-01-2023",
         "status": 1,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2022-12-19T19:00:00.000Z",
-        "endDate": "2024-12-19T16:00:00.000Z",
-        
-        
-        
-        
-        
-        
-        
-         
+        "endDate": "2024-12-19T16:00:00.000Z"
     },
     {
         "title": "Warcraft Rumble",
@@ -566,16 +373,9 @@
         "store": "Google Play",
         "price": 0.00,
         "date": "11-2023",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -586,16 +386,9 @@
         "store": "Google Play",
         "price": 0.00,
         "date": "09-2023",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 1,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -606,16 +399,9 @@
         "store": "Google Play",
         "price": 2.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -627,15 +413,8 @@
         "price": 1.00,
         "date": "2024-02-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -646,16 +425,9 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -666,16 +438,9 @@
         "store": "Google Play",
         "price": 4.50,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -686,16 +451,9 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -706,16 +464,9 @@
         "store": "Google Play",
         "price": 6.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -726,16 +477,9 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -746,16 +490,9 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -766,16 +503,9 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -786,16 +516,9 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -806,16 +529,9 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -826,16 +542,9 @@
         "store": "Google Play",
         "price": 2.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -846,16 +555,9 @@
         "store": "Google Play",
         "price": 2.00,
         "date": "2024-02-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -866,18 +568,11 @@
         "store": "Google Play",
         "price": 1.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2024-02-01T18:00:00.000Z",
         "endDate": "2024-02-29T16:00:00.000Z",
-        "date": "2024-02-??",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-??"
     },
     {
         "title": "Grow Zombie VIP : Merge Zombie",
@@ -886,18 +581,11 @@
         "store": "Google Play",
         "price": 1.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2024-02-01T18:00:00.000Z",
         "endDate": "2024-02-29T16:00:00.000Z",
-        "date": "2024-02-??",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-??"
     },
     {
         "title": "Coin Princess!",
@@ -906,18 +594,11 @@
         "store": "Google Play",
         "price": 1.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2024-02-01T18:00:00.000Z",
         "endDate": "2024-02-29T16:00:00.000Z",
-        "date": "2024-02-??",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-??"
     },
     {
         "title": "The Weapon King VIP",
@@ -926,18 +607,11 @@
         "store": "Google Play",
         "price": 1.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2024-02-01T18:00:00.000Z",
         "endDate": "2024-02-29T16:00:00.000Z",
-        "date": "2024-02-??",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-??"
     },
     {
         "title": "Traffic Jam Cars Puzzle Legend",
@@ -946,18 +620,11 @@
         "store": "Google Play",
         "price": 1.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2024-02-01T18:00:00.000Z",
         "endDate": "2024-02-29T16:00:00.000Z",
-        "date": "2024-02-??",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-??"
     },
     {
         "title": "Shadow Knight: Ninja Fighting",
@@ -966,18 +633,11 @@
         "store": "Google Play",
         "price": 1.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2024-02-01T18:00:00.000Z",
         "endDate": "2024-02-29T16:00:00.000Z",
-        "date": "2024-02-??",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-??"
     },
     {
         "title": "WindWings: Galaxy attack Pro",
@@ -986,18 +646,11 @@
         "store": "Google Play",
         "price": 2.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2024-02-01T18:00:00.000Z",
         "endDate": "2024-02-29T16:00:00.000Z",
-        "date": "2024-02-??",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-??"
     },
     {
         "title": "ExtremeJobsKnight’sManager VIP",
@@ -1007,15 +660,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1027,15 +673,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1047,15 +686,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1067,15 +699,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1087,15 +712,8 @@
         "price": 4.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1106,8 +724,8 @@
         "store": "",
         "price": 0.00,
         "date": "13-03-2023",
-        
-        "adImp": null, "adImp": null, "horizontal": "social",
+        "adImp": null,
+        "horizontal": "social",
         "status": 1
     },
     {
@@ -1118,15 +736,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1138,15 +749,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1158,15 +762,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1177,18 +774,11 @@
         "store": "Google Play",
         "price": 1.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2024-02-01T18:00:00.000Z",
         "endDate": "2024-02-29T16:00:00.000Z",
-        "date": "2024-02-??",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2024-02-??"
     },
     {
         "title": "Legend of the Moon",
@@ -1198,15 +788,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1218,15 +801,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1238,15 +814,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1258,15 +827,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1278,15 +840,8 @@
         "price": 3.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1298,15 +853,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1318,15 +866,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1338,15 +879,8 @@
         "price": 2.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1358,15 +892,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1378,15 +905,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1398,15 +918,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1418,15 +931,8 @@
         "price": 2.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1438,15 +944,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1458,15 +957,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1478,15 +970,8 @@
         "price": 1.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1497,16 +982,9 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-01-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -1518,15 +996,8 @@
         "price": 2.00,
         "date": "2024-01-??",
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
-        
-        
-        
-        
-        
-        
-        
-        
+        "adImp": null,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -1537,16 +1008,9 @@
         "store": "Google Play",
         "price": 2.00,
         "date": "2024-01-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -1557,16 +1021,9 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-01-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -1577,16 +1034,9 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-01-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -1597,16 +1047,9 @@
         "store": "Google Play",
         "price": 2.00,
         "date": "2024-01-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -1617,16 +1060,9 @@
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-01-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -1637,16 +1073,9 @@
         "store": "Google Play",
         "price": 3.00,
         "date": "2024-01-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -1657,16 +1086,9 @@
         "store": "Google Play",
         "price": 3.00,
         "date": "2024-01-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -1677,16 +1099,9 @@
         "store": "Google Play",
         "price": 3.00,
         "date": "2024-01-??",
-        
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "status": 2,
-        
-        
-        
-        
-        
-        
-        
         "startDate": "",
         "endDate": ""
     },
@@ -1697,17 +1112,10 @@
         "store": "Google Play",
         "price": 0.00,
         "status": 2,
-        "adImp": null, "adImp": null, "horizontal": true,
+        "adImp": null,
+        "horizontal": true,
         "startDate": "2023-09-21T01:00:00.000Z",
         "endDate": "2023-10-30T16:00:00.000Z",
-        "date": "2023-10-30",
-        
-        
-        
-        
-        
-        
-        
-         
+        "date": "2023-10-30"
     }
 ]
