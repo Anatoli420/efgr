@@ -131,19 +131,6 @@
         "endDate": ""
     },
     {
-        "title": "Demon Hunter: Premium",
-        "image": "https://play-lh.googleusercontent.com/91Z0wUAYCybqqKnv78_1gADFqpLnBO3JZlRyUASUl05VTs4wM88bZIzcp4NgAgymuJRc=w240-h480-rw",
-        "url": "https://bit.ly/48UoZvI",
-        "store": "Google Play",
-        "price": 0.00,
-        "date": "2024-02-??",
-        "adImp": null,
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
         "title": "NBA Infinite",
         "image": "https://play-lh.googleusercontent.com/HzBRF-5OpYojlrBm-bLuDxj-_97Dv8WvU6ALDVmPAqPw0D7faeG_oLf1WalbWi_F7w=s480-rw",
         "url": "https://bit.ly/4bHiIpb",
@@ -156,7 +143,6 @@
         "startDate": "",
         "endDate": ""
     },
-
     {
         "id": "//?SUB SCREEN////",
         "adImp": null,
@@ -377,6 +363,19 @@
         "adImp": null,
         "horizontal": true,
         "status": 1,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "title": "Demon Hunter: Premium",
+        "image": "https://play-lh.googleusercontent.com/91Z0wUAYCybqqKnv78_1gADFqpLnBO3JZlRyUASUl05VTs4wM88bZIzcp4NgAgymuJRc=w240-h480-rw",
+        "url": "https://bit.ly/48UoZvI",
+        "store": "Google Play",
+        "price": 0.00,
+        "date": "2024-02-??",
+        "adImp": null,
+        "horizontal": true,
+        "status": 2,
         "startDate": "",
         "endDate": ""
     },
