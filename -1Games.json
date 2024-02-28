@@ -13,17 +13,17 @@
       "date": "2024-03-07"
    },
    {
-      "adImp": null,
-      "title": "Steam Dinosaurs vs Robots Fest - Claim your free point shop items",
-      "image": "https://clan.cloudflare.steamstatic.com/images/41316928/35b5ae73733cccbd3eb97700f7cb7f6246e565f2.jpg",
-      "url": "https://bit.ly/48z9icL",
-      "store": "Steam",
-      "price": 0.00,
+      "title": "One Month of Discord Nitro Exclusive Key Giveaway - Only for users who have not had Nitro active",
+      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Discord_Nitro_2560x1440_withlogo_2560x1440-944994658df3b04d0c4940be832da19e?h=270&quality=medium&resize=1&w=480",
+      "url": "https://bit.ly/3uF31hO",
+      "store": "Alienware Arena",
+      "price": 5.00,
       "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-02-26T19:00:00.000Z",
-      "endDate": "2024-03-04T17:00:00.000Z",
-      "date": "2024-03-04"
+      "adImp": null,
+      "horizontal": true,
+      "startDate": "2023-09-15T01:00:00.000Z",
+      "endDate": "2023-11-26T17:00:00.000Z",
+      "date": "2024-??"
    },
    {
       "adImp": null,
@@ -78,6 +78,19 @@
       "status": 1,
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "adImp": null,
+      "title": "Steam Dinosaurs vs Robots Fest - Claim your free point shop items",
+      "image": "https://clan.cloudflare.steamstatic.com/images/41316928/35b5ae73733cccbd3eb97700f7cb7f6246e565f2.jpg",
+      "url": "https://bit.ly/48z9icL",
+      "store": "Steam",
+      "price": 0.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-02-26T19:00:00.000Z",
+      "endDate": "2024-03-04T17:00:00.000Z",
+      "date": "2024-03-04"
    },
    {
       "adImp": null,
