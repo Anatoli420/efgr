@@ -143,45 +143,8 @@
         "startDate": "",
         "endDate": ""
     },
-    {
-        "title": "Stickman Warriors Super Heroes",
-        "image": "https://play-lh.googleusercontent.com/_7Su1hfN05qTZpbdzS1G6m_2lk13LTcbGjeHtcXzFHMuRMmj7docZpH5OIQnIURJne8=s480-rw",
-        "url": "https://bit.ly/3SP30j9",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-02-??",
-        "adImp": null,
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
-        "title": "Stickman Warriors Dragon Hero",
-        "image": "https://play-lh.googleusercontent.com/a9Uf4cUWDcGQqh_9gDKyS6IxEPVuh9gZ-7_BT2kX8KpqDQEh0Pi7eEPSGciYrX6QArE",
-        "url": "https://bit.ly/3Hf0w8r",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-02-??",
-        "adImp": null,
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
-        "title": "Evertale",
-        "image": "https://play-lh.googleusercontent.com/xrVcQ0xSlGfuwNTtnNNrHHIwXsbbRESdvKsI9PSEHc1z-xCCpYxlPblIbqysXeZgQe46",
-        "url": "https://bit.ly/48KFdYg",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-02-??",
-        "adImp": null,
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
-    },
+
+
     {
         "title": "NBA Infinite",
         "image": "https://play-lh.googleusercontent.com/HzBRF-5OpYojlrBm-bLuDxj-_97Dv8WvU6ALDVmPAqPw0D7faeG_oLf1WalbWi_F7w=s480-rw",
@@ -415,6 +378,45 @@
         "adImp": null,
         "horizontal": true,
         "status": 1,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "title": "Stickman Warriors Super Heroes",
+        "image": "https://play-lh.googleusercontent.com/_7Su1hfN05qTZpbdzS1G6m_2lk13LTcbGjeHtcXzFHMuRMmj7docZpH5OIQnIURJne8=s480-rw",
+        "url": "https://bit.ly/3SP30j9",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-02-??",
+        "adImp": null,
+        "horizontal": true,
+        "status": 2,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "title": "Evertale",
+        "image": "https://play-lh.googleusercontent.com/xrVcQ0xSlGfuwNTtnNNrHHIwXsbbRESdvKsI9PSEHc1z-xCCpYxlPblIbqysXeZgQe46",
+        "url": "https://bit.ly/48KFdYg",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-02-??",
+        "adImp": null,
+        "horizontal": true,
+        "status": 2,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "title": "Stickman Warriors Dragon Hero",
+        "image": "https://play-lh.googleusercontent.com/a9Uf4cUWDcGQqh_9gDKyS6IxEPVuh9gZ-7_BT2kX8KpqDQEh0Pi7eEPSGciYrX6QArE",
+        "url": "https://bit.ly/3Hf0w8r",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-02-??",
+        "adImp": null,
+        "horizontal": true,
+        "status": 2,
         "startDate": "",
         "endDate": ""
     },
