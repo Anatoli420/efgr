@@ -1,19 +1,32 @@
 [
   {
-    "adImp": 2,
+    "adImp": null,
+    "title": "Deceive Inc.",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/820520/header.jpg?t=1709236255",
+    "url": "https://bit.ly/3AAZlwQ",
+    "store": "Steam",
+    "price": 5.00,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-03-04T16:00:00.000Z",
+    "date": "2024-03-04"
+  },
+  {
+    "adImp": 3,
     "title": "No Man's Sky Trial",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/275850/header_alt_assets_19.jpg?t=1708682258",
     "url": "https://bit.ly/49OYDLJ",
     "store": "Steam",
     "price": 15.00,
-    "status": 2,
+    "status": 1,
     "horizontal": true,
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-03-04T16:00:00.000Z",
     "date": "2024-02-??"
   },
   {
-    "adImp": 2,
+    "adImp": 3,
     "title": "Dying Light 2 Stay Human: Reloaded Edition",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/534380/header_alt_assets_28.jpg?t=1708624796",
     "url": "https://bit.ly/49lFzoT",
@@ -33,7 +46,7 @@
     "store": "Steam",
     "price": 3.00,
     "status": 2,
-    "horizontal":true,
+    "horizontal": true,
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-02-26T16:00:00.000Z",
     "date": "2024-02-26"
