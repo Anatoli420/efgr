@@ -185,19 +185,6 @@
    },
    {
       "adImp": 4,
-      "title": "Dead by Daylight 50k Bloodpoints Key Giveaway",
-      "image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg?t=1706651989",
-      "url": "https://bit.ly/3SNvgEg",
-      "store": "Alienware Arena",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2023-09-15T01:00:00.000Z",
-      "endDate": "2023-11-26T17:00:00.000Z",
-      "date": "2024-??"
-   },
-   {
-      "adImp": 4,
       "title": "Paladins Golden Cache Chest Key Giveaway",
       "image": "https://i.ytimg.com/vi/MpOtUamDacs/maxresdefault.jpg",
       "url": "https://bit.ly/3vSf8s4",
@@ -311,6 +298,19 @@
       "startDate": "2024-02-22T16:00:00.000Z",
       "endDate": "2024-02-29T16:00:00.000Z",
       "date": "2024-02-29"
+   },
+   {
+      "adImp": 4,
+      "title": "Dead by Daylight 50k Bloodpoints Key Giveaway",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg?t=1706651989",
+      "url": "https://bit.ly/3SNvgEg",
+      "store": "Alienware Arena",
+      "price": 5.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2023-09-15T01:00:00.000Z",
+      "endDate": "2023-11-26T17:00:00.000Z",
+      "date": "2024-??"
    },
    {
       "title": "Guild Wars 2 Explorer Bundle Key Giveaway",
