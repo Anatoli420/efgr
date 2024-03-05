@@ -144,19 +144,6 @@
         "endDate": ""
     },
     {
-        "adImp": 2,
-        "title": "Zombie Age 2 Premium: Shooter",
-        "image": "https://play-lh.googleusercontent.com/Jy6u_EKUDZUZiC23AFO3XWKAFqoODJBu0rImZu4vaCcpKpWo10LIU5dFd3sQcCGBvQ=w526-h296-rw",
-        "url": "https://bit.ly/426mVOH",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-03-??",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
         "adImp": 4,
         "title": "Pre Register - Age of Empires Mobile",
         "image": "https://play-lh.googleusercontent.com/zp1t6IbS08x3V-NwrV2Wy4JjMDiqnxgOFoYRVtfLDJzGmy_JH1G1csjmg69geUAXnA=w240-h480-rw",
@@ -402,6 +389,19 @@
         "adImp": null,
         "horizontal": true,
         "status": 1,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": 2,
+        "title": "Zombie Age 2 Premium: Shooter",
+        "image": "https://play-lh.googleusercontent.com/Jy6u_EKUDZUZiC23AFO3XWKAFqoODJBu0rImZu4vaCcpKpWo10LIU5dFd3sQcCGBvQ=w526-h296-rw",
+        "url": "https://bit.ly/426mVOH",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-03-??",
+        "status": 2,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
