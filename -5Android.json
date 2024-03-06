@@ -106,19 +106,6 @@
     },
     {
         "adImp": 2,
-        "title": "RUSTY : Island Survival Pro",
-        "image": "https://play-lh.googleusercontent.com/zd58bPdLyKbRHC3krynpM_hKYloRtfxgGTSTD3SozJzxxfiZ9J9ayN2T8lJpDfv5M_A",
-        "url": "https://bit.ly/425gOu6",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-03-??",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
-        "adImp": 2,
         "title": "Sky Wings VIP : Pixel Fighters",
         "image": "https://play-lh.googleusercontent.com/hY8pAfasNXIAv6ytStnRBnFBVhSX9YJDKZWKSPw32jzaN0ij7oXdrm0MhgJrKo9_GKs",
         "url": "https://bit.ly/3Sas4AG",
@@ -389,6 +376,19 @@
         "adImp": null,
         "horizontal": true,
         "status": 1,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": 2,
+        "title": "RUSTY : Island Survival Pro",
+        "image": "https://play-lh.googleusercontent.com/zd58bPdLyKbRHC3krynpM_hKYloRtfxgGTSTD3SozJzxxfiZ9J9ayN2T8lJpDfv5M_A",
+        "url": "https://bit.ly/425gOu6",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-03-??",
+        "status": 2,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
