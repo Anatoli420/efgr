@@ -106,19 +106,6 @@
     },
     {
         "adImp": 2,
-        "title": "Sky Wings VIP : Pixel Fighters",
-        "image": "https://play-lh.googleusercontent.com/hY8pAfasNXIAv6ytStnRBnFBVhSX9YJDKZWKSPw32jzaN0ij7oXdrm0MhgJrKo9_GKs",
-        "url": "https://bit.ly/3Sas4AG",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-03-??",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
-        "adImp": 2,
         "title": "FASTAR VIP - Rhythm Game",
         "image": "https://play-lh.googleusercontent.com/xjMHxJtOXXgYvBXRVb9PDrh6zoNsvkHS_sqWwLO5A6hLQMHGGU4cTBpu5JqOPoNSpuk",
         "url": "https://bit.ly/3u6OMBO",
@@ -376,6 +363,19 @@
         "adImp": null,
         "horizontal": true,
         "status": 1,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": 2,
+        "title": "Sky Wings VIP : Pixel Fighters",
+        "image": "https://play-lh.googleusercontent.com/hY8pAfasNXIAv6ytStnRBnFBVhSX9YJDKZWKSPw32jzaN0ij7oXdrm0MhgJrKo9_GKs",
+        "url": "https://bit.ly/3Sas4AG",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-03-??",
+        "status": 2,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
