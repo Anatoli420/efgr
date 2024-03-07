@@ -1,6 +1,19 @@
 [
    {
-      "adImp": 1,
+      "adImp": null,
+      "title": "Deus Ex: Mankind Divided",
+      "image": "https://cdn1.epicgames.com/spt-assets/c47ffdc5b1cb42fc83bd9ea42861b800/deus-ex--mankind-divided-sh7ri.jpg?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/3wJRT3L",
+      "price": 15.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-03-14T16:00:00.000Z",
+      "endDate": "2024-03-21T16:00:00.000Z",
+      "date": "2024-03-14"
+   },
+   {
+      "adImp": 4,
       "title": "The Bridge",
       "image": "https://cdn1.epicgames.com/epic/offer/Wide_TheBridge-1360x766-d79fb5f60a7776b5e0d2ce588667c4b0.jpg?h=480&quality=medium&resize=1&w=854",
       "url": "https://bit.ly/3V8BBLP",
@@ -23,6 +36,19 @@
       "horizontal": "fechasProgramadas",
       "startDate": "2024-03-07T16:00:00.000Z",
       "endDate": "2024-03-14T16:00:00.000Z",
+      "date": "2024-03-14"
+   },
+   {
+      "adImp": 3,
+      "title": "Deus Ex: Mankind Divided",
+      "image": "https://cdn1.epicgames.com/spt-assets/c47ffdc5b1cb42fc83bd9ea42861b800/deus-ex--mankind-divided-sh7ri.jpg?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/3wJRT3L",
+      "price": 15.00,
+      "store": "Epic Games",
+      "status": 3,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-03-14T16:00:00.000Z",
+      "endDate": "2024-03-21T16:00:00.000Z",
       "date": "2024-03-14"
    },
    {
