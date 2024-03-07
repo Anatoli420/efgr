@@ -1,6 +1,32 @@
 [
   {
     "adImp": null,
+    "title": "Mortal Kombat 1",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1971870/header.jpg?t=1709136014",
+    "url": "https://bit.ly/3Pb7kZ6",
+    "store": "Steam",
+    "price": 30.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-03-11T16:00:00.000Z",
+    "date": "2024-03-11"
+  },
+  {
+    "adImp": 4,
+    "title": "Fractured Online",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426050/header.jpg?t=1709583032",
+    "url": "https://bit.ly/3wKVjmS",
+    "store": "Steam",
+    "price": 9.00,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-03-11T16:00:00.000Z",
+    "date": "2024-03-11"
+  },
+  {
+    "adImp": null,
     "title": "Deceive Inc.",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/820520/header.jpg?t=1709236255",
     "url": "https://bit.ly/3AAZlwQ",
