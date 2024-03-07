@@ -19,8 +19,8 @@
     "url": "https://bit.ly/3wKVjmS",
     "store": "Steam",
     "price": 9.00,
-    "status": 2,
-    "horizontal": true,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-03-11T16:00:00.000Z",
     "date": "2024-03-11"
