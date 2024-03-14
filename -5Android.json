@@ -196,19 +196,6 @@
         "endDate": ""
     },
     {
-        "adImp": null,
-        "title": "Galaxy Attack (Premium)",
-        "image": "https://play-lh.googleusercontent.com/1_gpaZ7qU2TL6gzu6dGdrm9nehDWcOpAgt_bjzEOY28Lb6yf0bULNQmHpfAsgYI4YA",
-        "url": "https://bit.ly/4bdD60O",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-02-??",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
         "id": "//?SUB SCREEN////",
         "adImp": null,
         "horizontal": "RateUs",
@@ -454,6 +441,19 @@
         "adImp": null,
         "horizontal": true,
         "status": 1,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": null,
+        "title": "Galaxy Attack (Premium)",
+        "image": "https://play-lh.googleusercontent.com/1_gpaZ7qU2TL6gzu6dGdrm9nehDWcOpAgt_bjzEOY28Lb6yf0bULNQmHpfAsgYI4YA",
+        "url": "https://bit.ly/4bdD60O",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-02-??",
+        "status": 2,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
