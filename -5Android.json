@@ -130,32 +130,7 @@
         "startDate": "",
         "endDate": ""
     },
-    {
-        "adImp": 2,
-        "title": "Jewels Charm: Match 3 Game Pro",
-        "image": "https://play-lh.googleusercontent.com/9N_bv5GPaBReoOLw_SkhXQ9hbq3W5pKbQOFdVZm-cNgSI5AXtvCwXGO9vCbGZh2Du-M=w240-h480-rw",
-        "url": "https://bit.ly/3Iw6UZs",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-03-??",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
-        "adImp": 2,
-        "title": "Warriors' Market Mayhem VIP :",
-        "image": "https://play-lh.googleusercontent.com/NXe7fvsqtIKzC15Zvtavyx-S2gL5IJ9dfg9ELdevirL1WGU9QE0WfLXJ9gy-flkwt93-=w240-h480-rw",
-        "url": "https://bit.ly/3SivLoe",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-03-??",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "",
-        "endDate": ""
-    },
+
     {
         "adImp": null,
         "title": "Shadow Survival: Offline Games",
@@ -235,19 +210,7 @@
         "startDate": "",
         "endDate": ""
     },
-    {
-        "adImp": null,
-        "title": "Cooking Quest VIP : Food Wagon",
-        "image": "https://play-lh.googleusercontent.com/7jc-2HpvKe9NH5C01qgYir75EtN20ta2XsqfjowOQvT0RTGRuXY0PLjmzOOU8WNXRQ8n=w240-h480-rw",
-        "url": "https://bit.ly/493Ir9g",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-01-??",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "",
-        "endDate": ""
-    },
+
     {
         "title": "eFootball™ 2024",
         "image": "https://play-lh.googleusercontent.com/YkjuIoUrkyP0WpbfqPMPDD2flI0cLbWJkV-B0OzRm6Dh89x8DOACWvVmhsxZjXRx3g=s480-rw",
@@ -275,19 +238,7 @@
         "startDate": "",
         "endDate": ""
     },
-    {
-        "adImp": null,
-        "title": "Mystic Guardian PV: Action RPG",
-        "image": "https://play-lh.googleusercontent.com/XwOGBTSp7_mbsq1B9Y23empait3HWFG0KvSpTMcM4bfgGc8tO1QARLmyOwq2o7EL48E",
-        "url": "https://bit.ly/3HEh7CO",
-        "store": "Google Play",
-        "price": 4.00,
-        "date": "2024-01-??",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "",
-        "endDate": ""
-    },
+
     {
         "title": "SILENT HILL: Ascension",
         "image": "https://play-lh.googleusercontent.com/aVYmYc7GxgPsmWS70k-cUcwknH9f5BcHun8tJJqoDex_SmLUltVW5SSYutkDDTLKonOl",
@@ -428,6 +379,58 @@
         "adImp": null,
         "horizontal": true,
         "status": 1,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": null,
+        "title": "Cooking Quest VIP : Food Wagon",
+        "image": "https://play-lh.googleusercontent.com/7jc-2HpvKe9NH5C01qgYir75EtN20ta2XsqfjowOQvT0RTGRuXY0PLjmzOOU8WNXRQ8n=w240-h480-rw",
+        "url": "https://bit.ly/493Ir9g",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-01-??",
+        "status": 2,
+        "horizontal": true,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": null,
+        "title": "Mystic Guardian PV: Action RPG",
+        "image": "https://play-lh.googleusercontent.com/XwOGBTSp7_mbsq1B9Y23empait3HWFG0KvSpTMcM4bfgGc8tO1QARLmyOwq2o7EL48E",
+        "url": "https://bit.ly/3HEh7CO",
+        "store": "Google Play",
+        "price": 4.00,
+        "date": "2024-01-??",
+        "status": 2,
+        "horizontal": true,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": 2,
+        "title": "Jewels Charm: Match 3 Game Pro",
+        "image": "https://play-lh.googleusercontent.com/9N_bv5GPaBReoOLw_SkhXQ9hbq3W5pKbQOFdVZm-cNgSI5AXtvCwXGO9vCbGZh2Du-M=w240-h480-rw",
+        "url": "https://bit.ly/3Iw6UZs",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-03-??",
+        "status": 2,
+        "horizontal": true,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": 2,
+        "title": "Warriors' Market Mayhem VIP :",
+        "image": "https://play-lh.googleusercontent.com/NXe7fvsqtIKzC15Zvtavyx-S2gL5IJ9dfg9ELdevirL1WGU9QE0WfLXJ9gy-flkwt93-=w240-h480-rw",
+        "url": "https://bit.ly/3SivLoe",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-03-??",
+        "status": 2,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
