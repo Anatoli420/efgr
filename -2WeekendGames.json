@@ -32,8 +32,8 @@
     "url": "https://bit.ly/3OjWq0A",
     "store": "Epic Games",
     "price": 4.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-03-14T01:00:00.000Z",
     "endDate": "2024-03-21T16:00:00.000Z",
     "date": "2024-03-21"
