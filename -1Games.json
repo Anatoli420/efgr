@@ -184,19 +184,6 @@
       "endDate": ""
    },
    {
-      "adImp": 11,
-      "title": "Wanba Warriors",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1021770/header.jpg?t=1703871392",
-      "url": "https://bit.ly/3x2tZAr",
-      "store": "Fanatical",
-      "price": 4.99,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-02-01T16:00:00.000Z",
-      "endDate": "2024-02-20T16:00:00.000Z",
-      "date": "2024-02-20"
-   },
-   {
       "adImp": null,
       "title": "Tomato Jones",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/d72c9991-e97e-4ab1-81fe-67d939899aa3/prodmain/1710171732.png",
@@ -376,6 +363,19 @@
       "status": 4,
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "adImp": 11,
+      "title": "Wanba Warriors",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1021770/header.jpg?t=1703871392",
+      "url": "https://bit.ly/3x2tZAr",
+      "store": "Fanatical",
+      "price": 4.99,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-02-01T16:00:00.000Z",
+      "endDate": "2024-02-20T16:00:00.000Z",
+      "date": "2024-02-20"
    },
    {
       "adImp": 5,
