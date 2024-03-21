@@ -1,5 +1,18 @@
 [
   {
+    "adImp": 4,
+    "title": "Midnight Ghost Hunt",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/915810/header.jpg?t=1711043622",
+    "url": "https://bit.ly/3LFkN8z",
+    "store": "Steam",
+    "price": 3.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-03-25T16:00:00.000Z",
+    "date": "2024-03-25"
+  },
+  {
     "adImp": null,
     "title": "Battlefield™ 2042",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1517290/header.jpg?t=1678730098",
@@ -13,7 +26,7 @@
     "date": "2024-03-25"
   },
   {
-    "adImp": null,
+    "adImp": 3,
     "title": "SAND LAND Demo",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1979440/header.jpg?t=1710397912",
     "url": "https://bit.ly/4che41z",
