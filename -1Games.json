@@ -32,8 +32,8 @@
       "url": "https://bit.ly/3EduMij",
       "store": "Google Play",
       "price": 0.00,
-      "horizontal": true,
       "status": 1,
+      "horizontal": "fechasProgramadas",
       "startDate": "2024-03-14T16:00:00.000Z",
       "endDate": "2024-03-21T16:00:00.000Z",
       "date": "2024-03-21"
