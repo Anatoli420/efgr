@@ -105,19 +105,6 @@
         "date": "2024-??"
     },
     {
-        "adImp": 6,
-        "title": "Shadow Knight: Ninja Fighting",
-        "image": "https://play-lh.googleusercontent.com/9aLNxR4tHzWd5xuZpcB2mtIGCADD2PVteqvAD8SW702GVGY_ZnUrm4EDCoQuIzj3qSI=s480-rw",
-        "url": "https://bit.ly/492KhaQ",
-        "store": "Google Play",
-        "price": 1.00,
-        "status": 1,
-        "horizontal": true,
-        "startDate": "2024-02-01T18:00:00.000Z",
-        "endDate": "2024-02-29T16:00:00.000Z",
-        "date": "2024-??"
-    },
-    {
         "adImp": 4,
         "title": "Pre Register - Age of Empires Mobile",
         "image": "https://play-lh.googleusercontent.com/zp1t6IbS08x3V-NwrV2Wy4JjMDiqnxgOFoYRVtfLDJzGmy_JH1G1csjmg69geUAXnA=w240-h480-rw",
@@ -339,6 +326,19 @@
         "status": 1,
         "startDate": "",
         "endDate": ""
+    },
+    {
+        "adImp": 6,
+        "title": "Shadow Knight: Ninja Fighting",
+        "image": "https://play-lh.googleusercontent.com/9aLNxR4tHzWd5xuZpcB2mtIGCADD2PVteqvAD8SW702GVGY_ZnUrm4EDCoQuIzj3qSI=s480-rw",
+        "url": "https://bit.ly/492KhaQ",
+        "store": "Google Play",
+        "price": 1.00,
+        "status": 2,
+        "horizontal": true,
+        "startDate": "2024-02-01T18:00:00.000Z",
+        "endDate": "2024-02-29T16:00:00.000Z",
+        "date": "2024-??"
     },
     {
         "adImp": 3,
