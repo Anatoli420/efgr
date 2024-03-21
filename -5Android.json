@@ -1,5 +1,18 @@
 [
     {
+        "title": "Call of Duty®: Warzone™ Mobile",
+        "image": "https://play-lh.googleusercontent.com/3MUvX7m7mXEO8X-5_BvYa8uEyE5-JasNLlNv2KiUaqf74oMcJUkpsKiSFceVuRjU2sk=s480-rw",
+        "url": "https://bit.ly/3EduMij",
+        "store": "Google Play",
+        "price": 0.00,
+        "adImp": null,
+        "horizontal": true,
+        "status": 1,
+        "startDate": "",
+        "endDate": "",
+        "date": "2024-03-21"
+    },
+    {
         "adImp": null,
         "title": "Empire Warriors - Offline Game",
         "image": "https://play-lh.googleusercontent.com/j6GsUMD50LXCEUntvv3Ydn0gXyO-R-JtvSqcYMSseKhiU04c5VejvdNpkJbcmnLBwpc=s480-rw",
@@ -152,19 +165,6 @@
         "store": "Google Play",
         "price": 0.00,
         "date": "2023",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
-        "title": "Pre Register - Call of Duty®: Warzone™ Mobile",
-        "image": "https://play-lh.googleusercontent.com/3MUvX7m7mXEO8X-5_BvYa8uEyE5-JasNLlNv2KiUaqf74oMcJUkpsKiSFceVuRjU2sk=s480-rw",
-        "url": "https://bit.ly/3EduMij",
-        "store": "Google Play",
-        "price": 0.00,
-        "date": "08-2023",
-        "adImp": null,
         "horizontal": true,
         "status": 1,
         "startDate": "",
