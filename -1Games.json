@@ -39,45 +39,6 @@
       "date": "2024-03-28"
    },
    {
-      "adImp": 4,
-      "title": "Call of Duty®: Warzone™ Mobile",
-      "image": "https://play-lh.googleusercontent.com/3MUvX7m7mXEO8X-5_BvYa8uEyE5-JasNLlNv2KiUaqf74oMcJUkpsKiSFceVuRjU2sk=s480-rw",
-      "url": "https://bit.ly/3EduMij",
-      "store": "Google Play",
-      "price": 0.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-03-14T15:00:00.000Z",
-      "endDate": "2024-03-21T15:00:00.000Z",
-      "date": "2024-03-21"
-   },
-   {
-      "adImp": 2,
-      "title": "Deus Ex: Mankind Divided",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/337000/header.jpg?t=1700763669",
-      "url": "https://bit.ly/3wJRT3L",
-      "price": 15.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-03-14T15:00:00.000Z",
-      "endDate": "2024-03-21T15:00:00.000Z",
-      "date": "2024-03-21"
-   },
-   {
-      "adImp": 4,
-      "title": "The Bridge",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/204240/header.jpg?t=1673726138",
-      "url": "https://bit.ly/3V8BBLP",
-      "price": 15.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-03-14T15:00:00.000Z",
-      "endDate": "2024-03-21T15:00:00.000Z",
-      "date": "2024-03-21"
-   },
-   {
       "adImp": 3,
       "title": "Steam Spring Fest - Claim free daily reward 20/03",
       "image": "https://s3.amazonaws.com/i.snag.gy/uX2ESp.jpg",
@@ -376,6 +337,32 @@
       "status": 4,
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "adImp": 2,
+      "title": "Deus Ex: Mankind Divided",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/337000/header.jpg?t=1700763669",
+      "url": "https://bit.ly/3wJRT3L",
+      "price": 15.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-03-14T15:00:00.000Z",
+      "endDate": "2024-03-21T15:00:00.000Z",
+      "date": "2024-03-21"
+   },
+   {
+      "adImp": 4,
+      "title": "The Bridge",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/204240/header.jpg?t=1673726138",
+      "url": "https://bit.ly/3V8BBLP",
+      "price": 15.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-03-14T15:00:00.000Z",
+      "endDate": "2024-03-21T15:00:00.000Z",
+      "date": "2024-03-21"
    },
    {
       "adImp": 11,
