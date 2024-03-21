@@ -8,8 +8,8 @@
       "store": "Epic Games",
       "status": 1,
       "horizontal": "fechasProgramadas",
-      "startDate": "2024-03-21T16:00:00.000Z",
-      "endDate": "2024-03-28T16:00:00.000Z",
+      "startDate": "2024-03-21T15:00:00.000Z",
+      "endDate": "2024-03-28T15:00:00.000Z",
       "date": "2024-03-28"
    },
    {
@@ -21,8 +21,8 @@
       "store": "Epic Games",
       "status": 1,
       "horizontal": "fechasProgramadas",
-      "startDate": "2024-03-21T16:00:00.000Z",
-      "endDate": "2024-03-28T16:00:00.000Z",
+      "startDate": "2024-03-21T15:00:00.000Z",
+      "endDate": "2024-03-28T15:00:00.000Z",
       "date": "2024-03-28"
    },
    {
@@ -34,22 +34,9 @@
       "price": 0.00,
       "status": 1,
       "horizontal": "fechasProgramadas",
-      "startDate": "2024-03-14T16:00:00.000Z",
-      "endDate": "2024-03-21T16:00:00.000Z",
+      "startDate": "2024-03-14T15:00:00.000Z",
+      "endDate": "2024-03-21T15:00:00.000Z",
       "date": "2024-03-21"
-   },
-   {
-      "adImp": null,
-      "title": "Tomato Jones 2",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a2d6f75a-8409-4314-a513-66beaf6661a2/prodmain/1710872929.png",
-      "url": "https://bit.ly/499UBgd",
-      "store": "IndieGala",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2023-04-05T16:00:00.000Z",
-      "endDate": "2023-09-09T16:00:00.000Z",
-      "date": "2024-??"
    },
    {
       "adImp": 2,
@@ -60,8 +47,8 @@
       "store": "Epic Games",
       "status": 1,
       "horizontal": "fechasProgramadas",
-      "startDate": "2024-03-14T16:00:00.000Z",
-      "endDate": "2024-03-21T16:00:00.000Z",
+      "startDate": "2024-03-14T15:00:00.000Z",
+      "endDate": "2024-03-21T15:00:00.000Z",
       "date": "2024-03-21"
    },
    {
@@ -73,8 +60,8 @@
       "store": "Epic Games",
       "status": 1,
       "horizontal": "fechasProgramadas",
-      "startDate": "2024-03-14T16:00:00.000Z",
-      "endDate": "2024-03-21T16:00:00.000Z",
+      "startDate": "2024-03-14T15:00:00.000Z",
+      "endDate": "2024-03-21T15:00:00.000Z",
       "date": "2024-03-21"
    },
    {
@@ -99,8 +86,8 @@
       "store": "Epic Games",
       "status": 3,
       "horizontal": "fechasProgramadas",
-      "startDate": "2024-03-21T16:00:00.000Z",
-      "endDate": "2024-03-28T16:00:00.000Z",
+      "startDate": "2024-03-21T15:00:00.000Z",
+      "endDate": "2024-03-28T15:00:00.000Z",
       "date": "2024-03-21"
    },
    {
@@ -112,8 +99,8 @@
       "store": "Epic Games",
       "status": 3,
       "horizontal": "fechasProgramadas",
-      "startDate": "2024-03-21T16:00:00.000Z",
-      "endDate": "2024-03-28T16:00:00.000Z",
+      "startDate": "2024-03-21T15:00:00.000Z",
+      "endDate": "2024-03-28T15:00:00.000Z",
       "date": "2024-03-21"
    },
    {
@@ -143,6 +130,19 @@
       "status": 1,
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "adImp": null,
+      "title": "Tomato Jones 2",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a2d6f75a-8409-4314-a513-66beaf6661a2/prodmain/1710872929.png",
+      "url": "https://bit.ly/499UBgd",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2023-04-05T16:00:00.000Z",
+      "endDate": "2023-09-09T16:00:00.000Z",
+      "date": "2024-??"
    },
    {
       "adImp": null,
