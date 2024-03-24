@@ -13,20 +13,20 @@
       "date": "2024-04-04"
    },
    {
-      "adImp": 1,
-      "title": "Book of Demons",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/449960/header.jpg?t=1700648328",
-      "url": "https://bit.ly/3vnHB91",
-      "store": "GoG",
-      "price": 16.00,
+      "adImp": 2,
+      "title": "Steam Free Rewards - PAX East 2024",
+      "image": "https://clan.akamai.steamstatic.com/images/38312102/5ef6dce17b0f00a44c4c57fdd25892633aab628a.jpg",
+      "url": "https://bit.ly/3TQZEy2",
+      "store": "Steam",
+      "price": 0.00,
       "status": 1,
       "horizontal": "fechasProgramadas",
-      "startDate": "2024-02-29T01:00:00.000Z",
-      "endDate": "2024-03-26T14:00:00.000Z",
-      "date": "2024-03-26"
+      "startDate": "2024-03-14T01:00:00.000Z",
+      "endDate": "2024-03-25T17:00:00.000Z",
+      "date": "2024-03-25"
    },
    {
-      "adImp": 2,
+      "adImp": null,
       "title": "Call of the Wild: The Angler™",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1408610/header.jpg?t=1710270197",
       "url": "https://bit.ly/3TBWHBi",
@@ -106,7 +106,20 @@
       "endDate": ""
    },
    {
-      "adImp": null,
+      "adImp": 2,
+      "title": "Book of Demons",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/449960/header.jpg?t=1700648328",
+      "url": "https://bit.ly/3vnHB91",
+      "store": "GoG",
+      "price": 16.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-02-29T01:00:00.000Z",
+      "endDate": "2024-03-26T14:00:00.000Z",
+      "date": "2024-03-26"
+   },
+   {
+      "adImp": 2,
       "title": "Tomato Jones 2",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a2d6f75a-8409-4314-a513-66beaf6661a2/prodmain/1710872929.png",
       "url": "https://bit.ly/499UBgd",
@@ -119,7 +132,7 @@
       "date": "2024-??"
    },
    {
-      "adImp": null,
+      "adImp": 11,
       "title": "Expansion - Hearts of Iron IV: Death or Dishonor",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/584140/header.jpg?t=1710282887",
       "url": "https://bit.ly/4ccSiMp",
@@ -132,7 +145,7 @@
       "date": "2024-03-21"
    },
    {
-      "adImp": null,
+      "adImp": 11,
       "title": "Expansion - Hearts of Iron IV: Together for Victory",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/530760/header.jpg?t=1710282720",
       "url": "https://bit.ly/4cxcmJF",
@@ -145,7 +158,7 @@
       "date": "2024-03-21"
    },
    {
-      "adImp": 2,
+      "adImp": 11,
       "title": "Expansion - Hearts of Iron IV: Waking the Tiger",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/702350/header.jpg?t=1710282819",
       "url": "https://bit.ly/3wZAtQP",
@@ -169,19 +182,6 @@
       "startDate": "2024-02-26T19:00:00.000Z",
       "endDate": "2024-04-13T17:00:00.000Z",
       "date": "2024-04-13"
-   },
-   {
-      "adImp": 11,
-      "title": "The Sims™ 4",
-      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222670/header.jpg?t=1666112442",
-      "url": "https://bit.ly/3EQXVSc",
-      "store": "Steam",
-      "price": 0.00,
-      "date": "18-10-2022",
-      "horizontal": true,
-      "status": 1,
-      "startDate": "",
-      "endDate": ""
    },
    {
       "adImp": 2,
