@@ -13,17 +13,17 @@
       "date": "2024-04-04"
    },
    {
-      "adImp": 2,
-      "title": "Steam Free Rewards - PAX East 2024",
-      "image": "https://clan.akamai.steamstatic.com/images/38312102/5ef6dce17b0f00a44c4c57fdd25892633aab628a.jpg",
-      "url": "https://bit.ly/3TQZEy2",
+      "adImp": null,
+      "title": "Steam Deck Builders Fest - Claim your free point shop items",
+      "image": "https://s3.amazonaws.com/i.snag.gy/h2cGbp.jpg",
+      "url": "https://bit.ly/3xa3NnL",
       "store": "Steam",
       "price": 0.00,
       "status": 1,
       "horizontal": "fechasProgramadas",
       "startDate": "2024-03-14T01:00:00.000Z",
-      "endDate": "2024-03-25T17:00:00.000Z",
-      "date": "2024-03-25"
+      "endDate": "2024-04-01T17:00:00.000Z",
+      "date": "2024-04-01"
    },
    {
       "adImp": 2,
@@ -156,6 +156,17 @@
       "startDate": "2024-03-14T01:00:00.000Z",
       "endDate": "2024-03-21T17:00:00.000Z",
       "date": "2024-03-21"
+   },
+   {
+      "title": "REDES SOCIALES",
+      "image": "",
+      "url": "",
+      "store": "",
+      "price": 0.00,
+      "date": "13-03-2023",
+      "adImp": null,
+      "horizontal": "social",
+      "status": 1
    },
    {
       "adImp": 11,
@@ -325,17 +336,6 @@
       "status": 1,
       "startDate": "",
       "endDate": ""
-   },
-   {
-      "title": "REDES SOCIALES",
-      "image": "",
-      "url": "",
-      "store": "",
-      "price": 0.00,
-      "date": "13-03-2023",
-      "adImp": null,
-      "horizontal": "social",
-      "status": 1
    },
    {
       "id": "//?SUB SCREEN////",
