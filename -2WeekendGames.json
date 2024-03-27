@@ -1,6 +1,19 @@
 [
   {
     "adImp": null,
+    "title": "Register Throne and Liberty Closed Beta",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2429640/capsule_616x353.jpg?t=1710263056",
+    "url": "https://bit.ly/4cq5yNE",
+    "store": "Amazon Gaming",
+    "price": 60.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-04-02T01:00:00.000Z",
+    "date": "2024-04-02"
+  },
+  {
+    "adImp": 2,
     "title": "SAND LAND Demo",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1979440/header.jpg?t=1710397912",
     "url": "https://bit.ly/4che41z",
@@ -26,7 +39,7 @@
     "date": "2024-03-25"
   },
   {
-    "adImp": null,
+    "adImp": 4,
     "title": "Battlefield™ 2042",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1517290/header.jpg?t=1678730098",
     "url": "https://bit.ly/3Op0GNo",
