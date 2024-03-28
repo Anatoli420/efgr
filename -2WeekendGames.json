@@ -1,6 +1,19 @@
 [
   {
     "adImp": null,
+    "title": "The Texas Chain Saw Massacre",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1433140/header.jpg?t=1711486369",
+    "url": "https://bit.ly/43C0B09",
+    "store": "Steam",
+    "price": 10.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-04-01T16:00:00.000Z",
+    "date": "2024-04-01"
+  },
+  {
+    "adImp": 4,
     "title": "Register Throne and Liberty Closed Beta",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/2429640/capsule_616x353.jpg?t=1710263056",
     "url": "https://bit.ly/4cq5yNE",
@@ -13,7 +26,7 @@
     "date": "2024-04-02"
   },
   {
-    "adImp": 2,
+    "adImp": 4,
     "title": "SAND LAND Demo",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1979440/header.jpg?t=1710397912",
     "url": "https://bit.ly/4che41z",
