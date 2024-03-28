@@ -52,32 +52,8 @@
         "endDate": "",
         "date": "2024-03-21"
     },
-    {
-        "adImp": 4,
-        "title": "Cooking Kawaii - cooking games",
-        "image": "https://play-lh.googleusercontent.com/Th4fw3HfosSiUK_MjkNSOeksICYYaG8Q3gI78OHwJ7yjNit5IGmS4W-__1hL4vBh5KDQ=w240-h480-rw",
-        "url": "https://bit.ly/48FS3at",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-??",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
-        "adImp": 4,
-        "title": "MR RACER : Premium Racing Game",
-        "image": "https://play-lh.googleusercontent.com/7kwZT5YwFWoz8lw7Rr5LLhfBmO3hft9adB7PZi6FRelNevs49xvMnbaCEkq2Q38wBXUI=s480-rw",
-        "url": "https://bit.ly/3Pvlyoj",
-        "store": "Google Play",
-        "price": 6.00,
-        "date": "2024-??",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
-    },
+
+
     {
         "adImp": null,
         "title": "Empire Warriors - Offline Game",
@@ -337,6 +313,32 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 4,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": 4,
+        "title": "Cooking Kawaii - cooking games",
+        "image": "https://play-lh.googleusercontent.com/Th4fw3HfosSiUK_MjkNSOeksICYYaG8Q3gI78OHwJ7yjNit5IGmS4W-__1hL4vBh5KDQ=w240-h480-rw",
+        "url": "https://bit.ly/48FS3at",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-??",
+        "status": 2,
+        "horizontal": true,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": 4,
+        "title": "MR RACER : Premium Racing Game",
+        "image": "https://play-lh.googleusercontent.com/7kwZT5YwFWoz8lw7Rr5LLhfBmO3hft9adB7PZi6FRelNevs49xvMnbaCEkq2Q38wBXUI=s480-rw",
+        "url": "https://bit.ly/3Pvlyoj",
+        "store": "Google Play",
+        "price": 6.00,
+        "date": "2024-??",
+        "horizontal": true,
+        "status": 2,
         "startDate": "",
         "endDate": ""
     },
