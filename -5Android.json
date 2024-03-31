@@ -66,19 +66,6 @@
         "endDate": ""
     },
     {
-        "adImp": 5,
-        "title": "Live or Die: Survival Pro",
-        "image": "https://play-lh.googleusercontent.com/Wm0aWjdS_q11-hLHl-ByNUBXqYdkwGnDPIeBsMIhGQTADOCH7TkHJMi23Ljpghq6F8Y=s480-rw",
-        "url": "https://bit.ly/3RUBVdX",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-??",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
         "adImp": 11,
         "title": "Call of Duty®: Warzone™ Mobile",
         "image": "https://play-lh.googleusercontent.com/3MUvX7m7mXEO8X-5_BvYa8uEyE5-JasNLlNv2KiUaqf74oMcJUkpsKiSFceVuRjU2sk=s480-rw",
@@ -744,15 +731,15 @@
         "endDate": ""
     },
     {
-        "adImp": 2,
-        "title": "RUSTY : Island Survival Pro",
-        "image": "https://play-lh.googleusercontent.com/zd58bPdLyKbRHC3krynpM_hKYloRtfxgGTSTD3SozJzxxfiZ9J9ayN2T8lJpDfv5M_A",
-        "url": "https://bit.ly/425gOu6",
+        "adImp": 5,
+        "title": "Live or Die: Survival Pro",
+        "image": "https://play-lh.googleusercontent.com/Wm0aWjdS_q11-hLHl-ByNUBXqYdkwGnDPIeBsMIhGQTADOCH7TkHJMi23Ljpghq6F8Y=s480-rw",
+        "url": "https://bit.ly/3RUBVdX",
         "store": "Google Play",
         "price": 1.00,
         "date": "2024-??",
-        "status": 2,
         "horizontal": true,
+        "status": 1,
         "startDate": "",
         "endDate": ""
     },
