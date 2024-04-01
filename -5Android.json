@@ -1,43 +1,5 @@
 [
-    {
-        "adImp": null,
-        "title": "Legacy 2 - The Ancient Curse",
-        "image": "https://play-lh.googleusercontent.com/K9HFq-WY01z09t5fPMM39H1l3oZnsGLtG0ZCjQFiE9AwdSTfQa2RjORgyFEhNfpdOXa-=s480-rw",
-        "url": "https://bit.ly/4afVPYG",
-        "store": "Google Play",
-        "price": 2.00,
-        "date": "2024-??",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
-        "adImp": null,
-        "title": "Legacy 3 - The Hidden Relic",
-        "image": "https://play-lh.googleusercontent.com/2PCySMro3ye3b24weZQ5g_qijI7uU_dwI1VpXc0CCBWPoqvYK5HRjODKl2JisZ2KYQNJ=s48-rw",
-        "url": "https://bit.ly/3SoIbMC",
-        "store": "Google Play",
-        "price": 2.00,
-        "date": "2024-??",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
-        "adImp": 1,
-        "title": "Legacy 4 - Tomb of Secrets",
-        "image": "https://play-lh.googleusercontent.com/0sKqBqMfjG-zLj_50oZDch3YRJEY-neGCBWZ2yRqtK5ikpYO_T1Qq2ly3sD9b9tUILM=s480-rw",
-        "url": "https://bit.ly/4cGurEU",
-        "store": "Google Play",
-        "price": 3.00,
-        "date": "2024-??",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
-    },
+
     {
         "id": "//?SUB SCREEN////",
         "adImp": null,
@@ -376,6 +338,45 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 4,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": null,
+        "title": "Legacy 2 - The Ancient Curse",
+        "image": "https://play-lh.googleusercontent.com/K9HFq-WY01z09t5fPMM39H1l3oZnsGLtG0ZCjQFiE9AwdSTfQa2RjORgyFEhNfpdOXa-=s480-rw",
+        "url": "https://bit.ly/4afVPYG",
+        "store": "Google Play",
+        "price": 2.00,
+        "date": "2024-??",
+        "horizontal": true,
+        "status": 2,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": null,
+        "title": "Legacy 3 - The Hidden Relic",
+        "image": "https://play-lh.googleusercontent.com/2PCySMro3ye3b24weZQ5g_qijI7uU_dwI1VpXc0CCBWPoqvYK5HRjODKl2JisZ2KYQNJ=s48-rw",
+        "url": "https://bit.ly/3SoIbMC",
+        "store": "Google Play",
+        "price": 2.00,
+        "date": "2024-??",
+        "horizontal": true,
+        "status": 2,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": 1,
+        "title": "Legacy 4 - Tomb of Secrets",
+        "image": "https://play-lh.googleusercontent.com/0sKqBqMfjG-zLj_50oZDch3YRJEY-neGCBWZ2yRqtK5ikpYO_T1Qq2ly3sD9b9tUILM=s480-rw",
+        "url": "https://bit.ly/4cGurEU",
+        "store": "Google Play",
+        "price": 3.00,
+        "date": "2024-??",
+        "horizontal": true,
+        "status": 2,
         "startDate": "",
         "endDate": ""
     },
