@@ -13,19 +13,6 @@
       "date": "2024-04-11"
    },
    {
-      "adImp": null,
-      "title": "Content Warning",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2881650/header.jpg?t=1711987881",
-      "url": "https://bit.ly/3IZuw90",
-      "store": "Steam",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-03-14T01:00:00.000Z",
-      "endDate": "2024-04-02T16:00:00.000Z",
-      "date": "2024-04-02"
-   },
-   {
       "adImp": 2,
       "title": "The Outer Worlds: Spacer's Choice Edition",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1920490/header.jpg?t=1680715883",
@@ -363,6 +350,19 @@
       "status": 4,
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "adImp": null,
+      "title": "Content Warning",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2881650/header.jpg?t=1711987881",
+      "url": "https://bit.ly/3IZuw90",
+      "store": "Steam",
+      "price": 5.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-03-14T01:00:00.000Z",
+      "endDate": "2024-04-02T16:00:00.000Z",
+      "date": "2024-04-02"
    },
    {
       "adImp": null,
