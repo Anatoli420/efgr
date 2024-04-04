@@ -26,19 +26,6 @@
       "date": "2024-04-11"
    },
    {
-      "adImp": null,
-      "title": "Islets",
-      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1669420/header.jpg?t=1689190435",
-      "url": "https://bit.ly/3x92R36",
-      "price": 12.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-03-28T15:00:00.000Z",
-      "endDate": "2024-04-04T15:00:00.000Z",
-      "date": "2024-04-04"
-   },
-   {
       "adImp": 3,
       "title": "Ghostrunner",
       "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Free-Game-13_1920x1080-a512ebb22519dc5a2970e670e79b491b?h=480&quality=medium&resize=1&w=854",
@@ -337,6 +324,19 @@
       "status": 4,
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "adImp": null,
+      "title": "Islets",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1669420/header.jpg?t=1689190435",
+      "url": "https://bit.ly/3x92R36",
+      "price": 12.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-03-28T15:00:00.000Z",
+      "endDate": "2024-04-04T15:00:00.000Z",
+      "date": "2024-04-04"
    },
    {
       "adImp": null,
