@@ -1,5 +1,4 @@
 [
-
     {
         "id": "//?SUB SCREEN////",
         "adImp": null,
@@ -24,45 +23,6 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 1,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
-        "adImp": 2,
-        "title": "Slime Legends - Survivor",
-        "image": "https://play-lh.googleusercontent.com/yH-fMtkj_NGH_ChvyPpS9JhIGc1eN9eWVVhfCg-gWnZUVjod0CU50UZJtItLFomqNJ1o=s480-rw",
-        "url": "https://bit.ly/3I5i6fl",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-??",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
-        "adImp": 2,
-        "title": "Demon Hunter: Premium",
-        "image": "https://play-lh.googleusercontent.com/91Z0wUAYCybqqKnv78_1gADFqpLnBO3JZlRyUASUl05VTs4wM88bZIzcp4NgAgymuJRc=w240-h480-rw",
-        "url": "https://bit.ly/48UoZvI",
-        "store": "Google Play",
-        "price": 0.00,
-        "date": "2024-??",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
-        "adImp": 2,
-        "title": "The Lonely Hacker",
-        "image": "https://play-lh.googleusercontent.com/P7Gnsyf8J_3M816auulI2Z8mOjAJDjcl7Hpzk-qe6otHBcEQKWxtaayl2QWraPxgkw",
-        "url": "https://bit.ly/3S8HOo0",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-??",
-        "status": 1,
-        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
@@ -338,6 +298,45 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 4,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": 2,
+        "title": "Slime Legends - Survivor",
+        "image": "https://play-lh.googleusercontent.com/yH-fMtkj_NGH_ChvyPpS9JhIGc1eN9eWVVhfCg-gWnZUVjod0CU50UZJtItLFomqNJ1o=s480-rw",
+        "url": "https://bit.ly/3I5i6fl",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-??",
+        "horizontal": true,
+        "status": 2,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": 2,
+        "title": "Demon Hunter: Premium",
+        "image": "https://play-lh.googleusercontent.com/91Z0wUAYCybqqKnv78_1gADFqpLnBO3JZlRyUASUl05VTs4wM88bZIzcp4NgAgymuJRc=w240-h480-rw",
+        "url": "https://bit.ly/48UoZvI",
+        "store": "Google Play",
+        "price": 0.00,
+        "date": "2024-??",
+        "horizontal": true,
+        "status": 2,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": 2,
+        "title": "The Lonely Hacker",
+        "image": "https://play-lh.googleusercontent.com/P7Gnsyf8J_3M816auulI2Z8mOjAJDjcl7Hpzk-qe6otHBcEQKWxtaayl2QWraPxgkw",
+        "url": "https://bit.ly/3S8HOo0",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-??",
+        "status": 2,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
