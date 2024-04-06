@@ -14,19 +14,6 @@
         "endDate": ""
     },
     {
-        "adImp": 2,
-        "title": "King of Defense 2: TD Premium",
-        "image": "https://play-lh.googleusercontent.com/B2V_9yfwlLuv8b40NaLeVHdXO214ZbVJxYqHN7UcbgfK0I5ilZSPBaw6BPZNpaTL19Gj=s480-rw",
-        "url": "https://bit.ly/3TSW06B",
-        "store": "Google Play",
-        "price": 2.00,
-        "date": "2024-??",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
         "adImp": 11,
         "title": "Call of Duty®: Warzone™ Mobile",
         "image": "https://play-lh.googleusercontent.com/3MUvX7m7mXEO8X-5_BvYa8uEyE5-JasNLlNv2KiUaqf74oMcJUkpsKiSFceVuRjU2sk=s480-rw",
@@ -298,6 +285,19 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 4,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": 2,
+        "title": "King of Defense 2: TD Premium",
+        "image": "https://play-lh.googleusercontent.com/B2V_9yfwlLuv8b40NaLeVHdXO214ZbVJxYqHN7UcbgfK0I5ilZSPBaw6BPZNpaTL19Gj=s480-rw",
+        "url": "https://bit.ly/3TSW06B",
+        "store": "Google Play",
+        "price": 2.00,
+        "date": "2024-??",
+        "horizontal": true,
+        "status": 2,
         "startDate": "",
         "endDate": ""
     },
