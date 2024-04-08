@@ -1,31 +1,5 @@
 [
   {
-    "adImp": 3,
-    "title": "Call of Duty®: Modern Warfare® III",
-    "image": "https://img.gg.deals/27/1c/4fe6a84ea2b3a384712ea5757a22576ae842_1920xt1080.jpg",
-    "url": "https://bit.ly/3HPhzON",
-    "store": "Battle.net",
-    "price": 45.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-04-08T16:00:00.000Z",
-    "date": "2024-04-08"
-  },
-  {
-    "adImp": 3,
-    "title": "Call of Duty®: Modern Warfare® III",
-    "image": "https://img.gg.deals/27/1c/4fe6a84ea2b3a384712ea5757a22576ae842_1920xt1080.jpg",
-    "url": "https://bit.ly/3HPhzON",
-    "store": "Steam",
-    "price": 45.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-04-08T16:00:00.000Z",
-    "date": "2024-04-08"
-  },
-  {
     "adImp": null,
     "title": "ARK: Survival Ascended",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/2399830/header_alt_assets_1.jpg?t=1712166473",
@@ -39,14 +13,40 @@
     "date": "2024-04-11"
   },
   {
+    "adImp": 3,
+    "title": "Call of Duty®: Modern Warfare® III",
+    "image": "https://img.gg.deals/27/1c/4fe6a84ea2b3a384712ea5757a22576ae842_1920xt1080.jpg",
+    "url": "https://bit.ly/3HPhzON",
+    "store": "Battle.net",
+    "price": 45.00,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-04-08T16:00:00.000Z",
+    "date": "2024-04-08"
+  },
+  {
+    "adImp": 3,
+    "title": "Call of Duty®: Modern Warfare® III",
+    "image": "https://img.gg.deals/27/1c/4fe6a84ea2b3a384712ea5757a22576ae842_1920xt1080.jpg",
+    "url": "https://bit.ly/3HPhzON",
+    "store": "Steam",
+    "price": 45.00,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-04-08T16:00:00.000Z",
+    "date": "2024-04-08"
+  },
+  {
     "adImp": 11,
     "title": "LEGO® 2K Drive",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1451810/header.jpg?t=1710524612",
     "url": "https://bit.ly/3L4wRkF",
     "store": "Steam",
     "price": 25.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-04-08T16:00:00.000Z",
     "date": "2024-04-08"
@@ -58,8 +58,8 @@
     "url": "https://bit.ly/49pTQQo",
     "store": "Steam",
     "price": 8.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-04-08T16:00:00.000Z",
     "date": "2024-04-08"
@@ -71,8 +71,8 @@
     "url": "https://bit.ly/3SHp5OU",
     "store": "Steam",
     "price": 5.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-04-08T16:00:00.000Z",
     "date": "2024-04-08"
@@ -84,8 +84,8 @@
     "url": "https://bit.ly/3kdI7gD",
     "store": "Steam",
     "price": 5.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-04-08T16:00:00.000Z",
     "date": "2024-04-08"
@@ -97,8 +97,8 @@
     "url": "https://bit.ly/3VHANOp",
     "store": "Epic Games",
     "price": 5.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-04-08T16:00:00.000Z",
     "date": "2024-04-08"
