@@ -26,6 +26,17 @@
     "date": "2024-04-18"
   },
   {
+    "adImp": null,
+    "title": "REDES SOCIALES",
+    "image": "",
+    "url": "",
+    "store": "",
+    "price": 0.00,
+    "date": "13-03-2023",
+    "horizontal": "social",
+    "status": 1
+  },
+  {
     "adImp": 4,
     "title": "ARK: Survival Ascended",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/2399830/header_alt_assets_1.jpg?t=1712166473",
@@ -480,17 +491,6 @@
     "startDate": "2023-09-21T01:00:00.000Z",
     "endDate": "2023-12-18T16:00:00.000Z",
     "date": "2023-12-18"
-  },
-  {
-    "adImp": null,
-    "title": "REDES SOCIALES",
-    "image": "",
-    "url": "",
-    "store": "",
-    "price": 0.00,
-    "date": "13-03-2023",
-    "horizontal": "social",
-    "status": 1
   },
   {
     "id": "//?SUB SCREEN////",
