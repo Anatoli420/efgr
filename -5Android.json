@@ -13,19 +13,6 @@
         "endDate": ""
     },
     {
-        "adImp": null,
-        "title": "King of Defense Premium",
-        "image": "https://play-lh.googleusercontent.com/DJLPCxapiOb9fzd-mwRAPNsDVfM2LFyyhpFmK-FvNsohIKePquYTLZeLX3VLuyJSfQ=s480-rw",
-        "url": "https://bit.ly/4ax97Af",
-        "store": "Google Play",
-        "price": 2.00,
-        "date": "2024-??",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
         "id": "//?SUB SCREEN////",
         "adImp": null,
         "horizontal": false,
@@ -114,19 +101,6 @@
         "date": "2024-??",
         "status": 1,
         "horizontal": true,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
-        "adImp": null,
-        "title": "Paranormal Territory 2",
-        "image": "https://play-lh.googleusercontent.com/VV_OzqRBUF65nwFXaK-0k08raxV_DRpUbndJzL3cDkoa3T_SCPu5PFTxqjJZqrvYPME=w240-h480-rw",
-        "url": "https://bit.ly/42DBNVf",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-??",
-        "horizontal": true,
-        "status": 1,
         "startDate": "",
         "endDate": ""
     },
@@ -361,6 +335,32 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 4,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": null,
+        "title": "Paranormal Territory 2",
+        "image": "https://play-lh.googleusercontent.com/VV_OzqRBUF65nwFXaK-0k08raxV_DRpUbndJzL3cDkoa3T_SCPu5PFTxqjJZqrvYPME=w240-h480-rw",
+        "url": "https://bit.ly/42DBNVf",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-??",
+        "horizontal": true,
+        "status": 2,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": null,
+        "title": "King of Defense Premium",
+        "image": "https://play-lh.googleusercontent.com/DJLPCxapiOb9fzd-mwRAPNsDVfM2LFyyhpFmK-FvNsohIKePquYTLZeLX3VLuyJSfQ=s480-rw",
+        "url": "https://bit.ly/4ax97Af",
+        "store": "Google Play",
+        "price": 2.00,
+        "date": "2024-??",
+        "horizontal": true,
+        "status": 2,
         "startDate": "",
         "endDate": ""
     },
