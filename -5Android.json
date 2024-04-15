@@ -92,19 +92,6 @@
         "endDate": ""
     },
     {
-        "adImp": 5,
-        "title": "Heroes Legend - Epic Fantasy",
-        "image": "https://play-lh.googleusercontent.com/Lqk5um5_SUnFHEs-fk-H0hlzQjiyxRLkMCiTvd7cuN632FPdmVV7ftKrghgdR4L0K5Q=w240-h480-rw",
-        "url": "https://bit.ly/4by34wd",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-??",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
         "adImp": 11,
         "title": "Neo Monsters",
         "image": "https://play-lh.googleusercontent.com/7MIw_TaxkX9d0bTe8LRRjdQHispRojxI0TlmwNWFFYpv_DAYyNJCgbsmnao-eA8xHQ=w240-h480-rw",
@@ -361,6 +348,19 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 4,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": 5,
+        "title": "Heroes Legend - Epic Fantasy",
+        "image": "https://play-lh.googleusercontent.com/Lqk5um5_SUnFHEs-fk-H0hlzQjiyxRLkMCiTvd7cuN632FPdmVV7ftKrghgdR4L0K5Q=w240-h480-rw",
+        "url": "https://bit.ly/4by34wd",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-??",
+        "horizontal": true,
+        "status": 2,
         "startDate": "",
         "endDate": ""
     },
