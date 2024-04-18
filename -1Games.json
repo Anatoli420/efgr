@@ -79,29 +79,16 @@
    },
    {
       "adImp": 3,
-      "title": "The Big Con",
-      "image": "https://cdn1.epicgames.com/offer/a1f2a672b08f45d28bb6b65eef6ffe41/EGS_TheBigCon_MightyYell_S1_2560x1440-532e70014a0082daf975946d402a4c85?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/43Vw51y",
+      "title": "INDUSTRIA",
+      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_INDUSTRIA_Bleakmill_S1_2560x1440-6ac8f445f036547e0f7cc20dd4fd814f?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/3TW9jSs",
       "price": 8.00,
       "store": "Epic Games",
       "status": 3,
       "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-18T15:00:00.000Z",
-      "endDate": "2024-04-25T15:00:00.000Z",
-      "date": "2024-04-18"
-   },
-   {
-      "adImp": 3,
-      "title": "Town of Salem 2",
-      "image": "https://cdn1.epicgames.com/spt-assets/5461784e424b43709943f14954a9f83f/town-of-salem-2-1imcg.png?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/3vQEmap",
-      "price": 5.00,
-      "store": "Epic Games",
-      "status": 3,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-18T15:00:00.000Z",
-      "endDate": "2024-04-25T15:00:00.000Z",
-      "date": "2024-04-18"
+      "startDate": "2024-04-25T15:00:00.000Z",
+      "endDate": "2024-05-02T15:00:00.000Z",
+      "date": "2024-04-25"
    },
    {
       "id": "//?SUB SCREEN////",
