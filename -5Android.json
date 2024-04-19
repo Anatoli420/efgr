@@ -105,19 +105,6 @@
         "endDate": ""
     },
     {
-        "adImp": null,
-        "title": "DungeonCorp.VIP (Idle RPG)",
-        "image": "https://play-lh.googleusercontent.com/ocgY366KMIFQPtqYVlCFdFnKMgZwT1PZRsBGt9s-0DkJqkGqAH--kUvMQAcY7HH19g=s480-rw",
-        "url": "https://bit.ly/3Sy78VX",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-??",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "",
-        "endDate": ""
-    },
-    {
         "adImp": 5,
         "title": "DungeonCorp. P (Idle RPG)",
         "image": "https://play-lh.googleusercontent.com/7Wb1wp7M4vOg07MVcOLxZ4jkNbTtoMy3MoQNsZMGzXEOjdpnNKLXFeGzFp95YjonRAA=s480-rw",
@@ -361,6 +348,19 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 4,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": null,
+        "title": "DungeonCorp.VIP (Idle RPG)",
+        "image": "https://play-lh.googleusercontent.com/ocgY366KMIFQPtqYVlCFdFnKMgZwT1PZRsBGt9s-0DkJqkGqAH--kUvMQAcY7HH19g=s480-rw",
+        "url": "https://bit.ly/3Sy78VX",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-??",
+        "status": 2,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
