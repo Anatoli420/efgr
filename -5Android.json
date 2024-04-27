@@ -1,12 +1,12 @@
 [
     {
-        "adImp": 11,
-        "title": "Fallout Shelter",
-        "image": "https://play-lh.googleusercontent.com/_a6gLFB3VI3R1iP8ZH2q81VFH7YoIp6HCsyP7zkCUu4NpgnqNqKwfbMxQWyk27IeF50=s480-rw",
-        "url": "https://bit.ly/3UhzFQo",
+        "adImp": null,
+        "title": "Zombie Age 3 Premium: Survival",
+        "image": "https://play-lh.googleusercontent.com/ANrEYqPAYay93atxcnCsAyeo9AXSRaIcW-OFpEKbbwkG72XRCGYVSzYH27bQV8Oif9Y=s960-rw",
+        "url": "https://bit.ly/48RyJXr",
         "store": "Google Play",
-        "price": 0.00,
-        "date": "2015-08-12",
+        "price": 1.00,
+        "date": "2024-??",
         "status": 1,
         "horizontal": true,
         "startDate": "",
@@ -27,6 +27,20 @@
         "endDate": ""
     },
     {
+        "adImp": null,
+        "title": "Summoners Era: Idle Strategy",
+        "image": "https://play-lh.googleusercontent.com/nq4wy-102-aivgmkVVqR1Rkk3Ul4bTs3o7ZZCKVdx7IzBAi04LWCmeRkyiDNysZeeO4=s480-rw",
+        "url": "https://bit.ly/49kPH0y",
+        "store": "Google Play",
+        "price": 1.00,
+        "status": 1,
+        "horizontal": true,
+        "startDate": "2024-02-01T18:00:00.000Z",
+        "endDate": "2024-02-29T16:00:00.000Z",
+        "date": "2024-??"
+    },
+
+    {
         "adImp": 5,
         "title": "DungeonCorp. P (Idle RPG)",
         "image": "https://play-lh.googleusercontent.com/7Wb1wp7M4vOg07MVcOLxZ4jkNbTtoMy3MoQNsZMGzXEOjdpnNKLXFeGzFp95YjonRAA=s480-rw",
@@ -39,6 +53,72 @@
         "startDate": "",
         "endDate": ""
     },
+    {
+        "adImp": 6,
+        "title": "Shadow Knight: Ninja Fighting",
+        "image": "https://play-lh.googleusercontent.com/9aLNxR4tHzWd5xuZpcB2mtIGCADD2PVteqvAD8SW702GVGY_ZnUrm4EDCoQuIzj3qSI=s480-rw",
+        "url": "https://bit.ly/492KhaQ",
+        "store": "Google Play",
+        "price": 1.00,
+        "status": 1,
+        "horizontal": true,
+        "startDate": "2024-02-01T18:00:00.000Z",
+        "endDate": "2024-02-29T16:00:00.000Z",
+        "date": "2024-??"
+    },
+    {
+        "adImp": 2,
+        "title": "Kingdom War Premium TD Offline",
+        "image": "https://play-lh.googleusercontent.com/4Emw2Hn1FvmXdBHvYMxN1ikXAU7KtASLfIMsPiOK-fynYofuKabQos3WTE8yeB4f_Q=w240-h480-rw",
+        "url": "https://bit.ly/3uBjraD",
+        "store": "Google Play",
+        "price": 1.00,
+        "status": 1,
+        "horizontal": true,
+        "startDate": "2024-02-01T18:00:00.000Z",
+        "endDate": "2024-02-29T16:00:00.000Z",
+        "date": "2024-??"
+    },
+    {
+        "adImp": null,
+        "title": "Traffic Jam Cars Puzzle Legend",
+        "image": "https://play-lh.googleusercontent.com/GyUbN8PouTStlZWsdOjqIeDJD546_QYSBCzyuQLGxpwe4hi-zJUaOwpS3b9FuDFux8g",
+        "url": "https://bit.ly/3OsLmAj",
+        "store": "Google Play",
+        "price": 6.00,
+        "status": 1,
+        "horizontal": true,
+        "startDate": "2024-02-01T18:00:00.000Z",
+        "endDate": "2024-02-29T16:00:00.000Z",
+        "date": "2024-??"
+    },
+    {
+        "adImp": null,
+        "title": "[VIP] Missile Dude RPG : idle",
+        "image": "https://play-lh.googleusercontent.com/ZdTSOlqgYuikWMpvzvic_yhUu85nUs1GPgnrouTp8y9oRcf_dyHXox7I0po0OJlV1hc=s480-rw",
+        "url": "https://bit.ly/49ur1mh",
+        "store": "Google Play",
+        "price": 2.00,
+        "date": "2024-??",
+        "horizontal": true,
+        "status": 1,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": 11,
+        "title": "Fallout Shelter",
+        "image": "https://play-lh.googleusercontent.com/_a6gLFB3VI3R1iP8ZH2q81VFH7YoIp6HCsyP7zkCUu4NpgnqNqKwfbMxQWyk27IeF50=s480-rw",
+        "url": "https://bit.ly/3UhzFQo",
+        "store": "Google Play",
+        "price": 0.00,
+        "date": "2015-08-12",
+        "status": 1,
+        "horizontal": true,
+        "startDate": "",
+        "endDate": ""
+    },
+
     {
         "id": "//?SUB SCREEN////",
         "adImp": null,
@@ -533,19 +613,7 @@
         "endDate": "2024-02-29T16:00:00.000Z",
         "date": "2024-??"
     },
-    {
-        "adImp": 2,
-        "title": "Kingdom War Premium TD Offline",
-        "image": "https://play-lh.googleusercontent.com/4Emw2Hn1FvmXdBHvYMxN1ikXAU7KtASLfIMsPiOK-fynYofuKabQos3WTE8yeB4f_Q=w240-h480-rw",
-        "url": "https://bit.ly/3uBjraD",
-        "store": "Google Play",
-        "price": 2.00,
-        "status": 2,
-        "horizontal": true,
-        "startDate": "2024-02-01T18:00:00.000Z",
-        "endDate": "2024-02-29T16:00:00.000Z",
-        "date": "2024-??"
-    },
+
     {
         "adImp": 2,
         "title": "Demon Hunter: Premium",
@@ -650,19 +718,7 @@
         "startDate": "",
         "endDate": ""
     },
-    {
-        "adImp": null,
-        "title": "[VIP] Missile Dude RPG : idle",
-        "image": "https://play-lh.googleusercontent.com/ZdTSOlqgYuikWMpvzvic_yhUu85nUs1GPgnrouTp8y9oRcf_dyHXox7I0po0OJlV1hc=s480-rw",
-        "url": "https://bit.ly/49ur1mh",
-        "store": "Google Play",
-        "price": 2.00,
-        "date": "2024-??",
-        "horizontal": true,
-        "status": 2,
-        "startDate": "",
-        "endDate": ""
-    },
+
     {
         "adImp": 11,
         "title": "Star Wars™ Pinball 7",
@@ -676,19 +732,7 @@
         "endDate": "2024-02-29T16:00:00.000Z",
         "date": "2024-??"
     },
-    {
-        "adImp": 6,
-        "title": "Shadow Knight: Ninja Fighting",
-        "image": "https://play-lh.googleusercontent.com/9aLNxR4tHzWd5xuZpcB2mtIGCADD2PVteqvAD8SW702GVGY_ZnUrm4EDCoQuIzj3qSI=s480-rw",
-        "url": "https://bit.ly/492KhaQ",
-        "store": "Google Play",
-        "price": 1.00,
-        "status": 2,
-        "horizontal": true,
-        "startDate": "2024-02-01T18:00:00.000Z",
-        "endDate": "2024-02-29T16:00:00.000Z",
-        "date": "2024-??"
-    },
+
     {
         "adImp": 3,
         "title": "Coin Princess!",
@@ -1092,19 +1136,7 @@
         "startDate": "",
         "endDate": ""
     },
-    {
-        "title": "Summoners Era: Idle Strategy",
-        "image": "https://play-lh.googleusercontent.com/nq4wy-102-aivgmkVVqR1Rkk3Ul4bTs3o7ZZCKVdx7IzBAi04LWCmeRkyiDNysZeeO4=s480-rw",
-        "url": "https://bit.ly/49kPH0y",
-        "store": "Google Play",
-        "price": 1.00,
-        "status": 2,
-        "adImp": null,
-        "horizontal": true,
-        "startDate": "2024-02-01T18:00:00.000Z",
-        "endDate": "2024-02-29T16:00:00.000Z",
-        "date": "2024-??"
-    },
+
     {
         "title": "Grow Zombie VIP : Merge Zombie",
         "image": "https://play-lh.googleusercontent.com/1MSlRilnTS8wWFXLXf0lgEigGr_yGr4t3bmT_3t4pS_4UKwRCQYN0mUz8LNFfACgn-Q=s480-rw",
@@ -1132,26 +1164,13 @@
         "date": "2024-??"
     },
     {
-        "title": "Traffic Jam Cars Puzzle Legend",
-        "image": "https://play-lh.googleusercontent.com/GyUbN8PouTStlZWsdOjqIeDJD546_QYSBCzyuQLGxpwe4hi-zJUaOwpS3b9FuDFux8g",
-        "url": "https://bit.ly/3OsLmAj",
-        "store": "Google Play",
-        "price": 1.00,
-        "status": 2,
         "adImp": null,
-        "horizontal": true,
-        "startDate": "2024-02-01T18:00:00.000Z",
-        "endDate": "2024-02-29T16:00:00.000Z",
-        "date": "2024-??"
-    },
-    {
         "title": "WindWings: Galaxy attack Pro",
         "image": "https://play-lh.googleusercontent.com/mFMzWgTTiN11oZ2GRQIDAqWV4lC7mollAVhGFiy2eJfKqjK65AEal_7aIvBegZ5_iLcl=s480-rw",
         "url": "https://bit.ly/3ujB9j2",
         "store": "Google Play",
         "price": 2.00,
-        "status": 2,
-        "adImp": null,
+        "status": 1,
         "horizontal": true,
         "startDate": "2024-02-01T18:00:00.000Z",
         "endDate": "2024-02-29T16:00:00.000Z",
