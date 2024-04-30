@@ -1,9 +1,9 @@
 [
    {
-      "adImp": 4,
+      "adImp": 2,
       "title": "Steam Farming Fest - Claim your free point shop items",
       "image": "https://i.ytimg.com/vi/XTnluVvBrQs/maxresdefault.jpg",
-      "url": "https://bit.ly/4bgPBYR",
+      "url": "https://bit.ly/4a7oXAQ",
       "store": "Steam",
       "price": 0.00,
       "status": 1,
@@ -41,8 +41,8 @@
    {
       "adImp": 3,
       "title": "Orcs Must Die! 3",
-      "image":  "https://cdn1.epicgames.com/spt-assets/af503dd7e8b64218b69c22a9003de268/orcs-must-die-3-1puow.jpg?h=480&quality=medium&resize=1&w=854",
-      "url":  "https://bit.ly/3UykX7P",
+      "image": "https://cdn1.epicgames.com/spt-assets/af503dd7e8b64218b69c22a9003de268/orcs-must-die-3-1puow.jpg?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/3UykX7P",
       "price": 8.00,
       "store": "Epic Games",
       "status": 3,
@@ -144,7 +144,6 @@
       "endDate": "2024-04-24T17:00:00.000Z",
       "date": "2024-04-24"
    },
-
    {
       "adImp": null,
       "title": "Minion Masters - Frostbite",
