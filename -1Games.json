@@ -78,6 +78,19 @@
       "date": "2024-05-09"
    },
    {
+      "adImp": 3,
+      "title": "Firestone Free Offer",
+      "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-orbit.png?h=270&quality=medium&resize=1&w=480",
+      "url": "https://bit.ly/3y9HhM2",
+      "price": 0.00,
+      "store": "Epic Games",
+      "status": 3,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-05-09T15:00:00.000Z",
+      "endDate": "2024-05-16T15:00:00.000Z",
+      "date": "2024-05-09"
+   },
+   {
       "id": "//?SUB SCREEN////",
       "adImp": null,
       "horizontal": false,
