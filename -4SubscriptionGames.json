@@ -1,6 +1,32 @@
 [
     {
         "adImp": null,
+        "title": "LEGO Star Wars III: The Clone Wars",
+        "image": "https://m.media-amazon.com/images/I/711jZ1Q5TWL._FMwebp_.jpg",
+        "url": "https://amzn.to/4bnrTtM",
+        "store": "Amazon Gaming",
+        "price": 5.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-06-05T15:00:00.000Z",
+        "date": "2024-06-05"
+    },
+    {
+        "adImp": null,
+        "title": "Tomb Raider: Game of the Year Edition",
+        "image": "https://m.media-amazon.com/images/I/6153es3vDGL._FMwebp_.jpg",
+        "url": "https://amzn.to/4bmkcnJ",
+        "store": "Amazon Gaming",
+        "price": 5.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-06-05T15:00:00.000Z",
+        "date": "2024-06-05"
+    },
+    {
+        "adImp": null,
         "title": "Tiny Robots Recharged",
         "image": "https://m.media-amazon.com/images/I/41W1Q6WZFWL._FMwebp_.jpg",
         "url": "https://amzn.to/3xMBRqb",
@@ -38,7 +64,6 @@
         "endDate": "2024-07-31T15:00:00.000Z",
         "date": "2024-07-31"
     },
-
     {
         "adImp": null,
         "title": "Rose Riddle: The Fairy Tale Detective - CE",
