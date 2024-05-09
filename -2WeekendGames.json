@@ -1,5 +1,31 @@
 [
   {
+    "adImp": null,
+    "title": "Company of Heroes 3",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1677280/header_alt_assets_5.jpg?t=1715274165",
+    "url": "https://bit.ly/3QxnAmA",
+    "store": "Steam",
+    "price": 25.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-04-08T01:00:00.000Z",
+    "endDate": "2024-05-13T01:00:00.000Z",
+    "date": "2024-05-13"
+  },
+  {
+    "adImp": 5,
+    "title": "Crusader Kings III",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header_alt_assets_4.jpg?t=1715275928",
+    "url": "https://bit.ly/3RCp4Mk",
+    "store": "Steam",
+    "price": 15.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-04-08T01:00:00.000Z",
+    "endDate": "2024-05-13T01:00:00.000Z",
+    "date": "2024-05-13"
+  },
+  {
     "adImp": 5,
     "title": "Assassin's Creed Mirage",
     "image": "https://cdn2.unrealengine.com/breaker-image-1920x1080-1920x1080-9b4788ed14ab.png?h=270&quality=medium&resize=1&w=480",
