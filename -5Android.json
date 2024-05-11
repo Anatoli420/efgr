@@ -1,17 +1,5 @@
 [
-    {
-        "adImp": null,
-        "title": "Guardian War: Ultimate Edition",
-        "image": "https://play-lh.googleusercontent.com/vZ_FnNb0fy9raGaYYsQFy-uu_0KYY0Jc4HawBlRCOnM2CRxaBLkedGcJoYHQw53iqpU=w480-h960-rw",
-        "url": "https://bit.ly/3UqiF9i",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "2024-??",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "",
-        "endDate": ""
-    },
+
     {
         "id": "//?SUB SCREEN////",
         "adImp": null,
@@ -309,6 +297,19 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 4,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": null,
+        "title": "Guardian War: Ultimate Edition",
+        "image": "https://play-lh.googleusercontent.com/vZ_FnNb0fy9raGaYYsQFy-uu_0KYY0Jc4HawBlRCOnM2CRxaBLkedGcJoYHQw53iqpU=w480-h960-rw",
+        "url": "https://bit.ly/3UqiF9i",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "2024-??",
+        "status": 2,
+        "horizontal": true,
         "startDate": "",
         "endDate": ""
     },
