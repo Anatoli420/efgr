@@ -6,8 +6,8 @@
     "url": "https://bit.ly/3QxnAmA",
     "store": "Steam",
     "price": 25.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-04-08T01:00:00.000Z",
     "endDate": "2024-05-13T01:00:00.000Z",
     "date": "2024-05-13"
@@ -19,8 +19,8 @@
     "url": "https://bit.ly/3RCp4Mk",
     "store": "Steam",
     "price": 15.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-04-08T01:00:00.000Z",
     "endDate": "2024-05-13T01:00:00.000Z",
     "date": "2024-05-13"
