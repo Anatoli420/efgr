@@ -1,5 +1,18 @@
 [
   {
+    "adImp": 4,
+    "title": "Star Citizen - referral code: STAR-Y24B-QZ63",
+    "image": "https://robertsspaceindustries.com/rsi/static/images/SC-fb.jpg",
+    "url": "https://bit.ly/3WKISjZ",
+    "store": "RSI",
+    "price": 45.00,
+    "status": 3,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-05-17T16:00:00.000Z",
+    "date": "2024-05-17"
+  },
+  {
     "adImp": null,
     "title": "Company of Heroes 3",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1677280/header_alt_assets_5.jpg?t=1715274165",
