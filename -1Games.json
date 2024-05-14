@@ -1,5 +1,18 @@
 [
    {
+      "adImp": 11,
+      "title": "Steam Endless Replayability Fest - Claim your free point shop items",
+      "image": "https://clan.cloudflare.steamstatic.com/images/41316928/b138b51932b18b11678a62b6db4922ce88f8f3f4.jpg",
+      "url": "https://bit.ly/3ysp6RW",
+      "store": "Steam",
+      "price": 0.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-30T17:00:00.000Z",
+      "endDate": "2024-05-20T17:00:00.000Z",
+      "date": "2024-05-20"
+   },
+   {
       "adImp": 2,
       "title": "Machinika: Museum",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1507190/header.jpg?t=1715620075",
