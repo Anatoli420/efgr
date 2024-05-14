@@ -1,5 +1,31 @@
 [
    {
+      "adImp": 2,
+      "title": "Machinika: Museum",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1507190/header.jpg?t=1715620075",
+      "url": "https://bit.ly/3UDpPHD",
+      "store": "Steam",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-30T17:00:00.000Z",
+      "endDate": "2024-05-27T17:00:00.000Z",
+      "date": "2024-05-27"
+   },
+   {
+      "adImp": 5,
+      "title": "Wingspan Soundtrack Key Giveaway",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332420/header.jpg?t=1702328279",
+      "url": "https://bit.ly/44H6JVr",
+      "store": "Alienware Arena",
+      "price": 7.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.000Z",
+      "date": "2024-??"
+   },
+   {
       "adImp": 5,
       "title": "MechDefender - Tower Defense",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/d5e9568c-70da-41b0-8e02-6e3ae44042e1/prodmain/1695995846.png",
