@@ -118,19 +118,7 @@
       "startDate": "",
       "endDate": ""
    },
-   {
-      "adImp": 5,
-      "title": "Wingspan Soundtrack Key Giveaway",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332420/header.jpg?t=1702328279",
-      "url": "https://bit.ly/44H6JVr",
-      "store": "Alienware Arena",
-      "price": 7.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-04-04T15:00:00.000Z",
-      "endDate": "2024-04-07T15:00:00.000Z",
-      "date": "2024-??"
-   },
+
    {
       "adImp": 5,
       "title": "MechDefender - Tower Defense",
@@ -493,6 +481,19 @@
       "status": 4,
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "adImp": 5,
+      "title": "Wingspan Soundtrack Key Giveaway",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332420/header.jpg?t=1702328279",
+      "url": "https://bit.ly/44H6JVr",
+      "store": "Alienware Arena",
+      "price": 7.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.000Z",
+      "date": "2024-??"
    },
    {
       "adImp": 5,
