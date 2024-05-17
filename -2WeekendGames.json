@@ -1,5 +1,18 @@
 [
   {
+    "adImp": 4,
+    "title": "Star Citizen - referral code: STAR-Y24B-QZ63",
+    "image": "https://robertsspaceindustries.com/rsi/static/images/SC-fb.jpg",
+    "url": "https://bit.ly/3WKISjZ",
+    "store": "RSI",
+    "price": 45.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2024-05-29T16:00:00.000Z",
+    "date": "2024-05-29"
+  },
+  {
     "adImp": null,
     "title": "Wizard with a Gun",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1150530/header_alt_assets_2.jpg?t=1715717604",
