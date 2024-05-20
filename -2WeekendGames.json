@@ -1,19 +1,6 @@
 [
   {
     "adImp": null,
-    "title": "RPG MAKER UNITE Free Trial",
-    "image": "https://cdn1.epicgames.com/spt-assets/6bbb1f28256f4487861ade0140405ef3/rpg-maker-unite-3lgcr.png?h=270&quality=medium&resize=1&w=480",
-    "url": "https://bit.ly/4apHMiH",
-    "store": "Epic Games",
-    "price": 35.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-06-13T16:00:00.000Z",
-    "date": "2024-06-13"
-  },
-  {
-    "adImp": 4,
     "title": "Star Citizen - referral code: STAR-Y24B-QZ63",
     "image": "https://robertsspaceindustries.com/rsi/static/images/SC-fb.jpg",
     "url": "https://bit.ly/3WKISjZ",
@@ -26,14 +13,27 @@
     "date": "2024-05-29"
   },
   {
+    "adImp": 4,
+    "title": "RPG MAKER UNITE Free Trial",
+    "image": "https://cdn1.epicgames.com/spt-assets/6bbb1f28256f4487861ade0140405ef3/rpg-maker-unite-3lgcr.png?h=270&quality=medium&resize=1&w=480",
+    "url": "https://bit.ly/4apHMiH",
+    "store": "Epic Games",
+    "price": 35.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-06-13T16:00:00.000Z",
+    "date": "2024-06-13"
+  },
+  {
     "adImp": null,
     "title": "Wizard with a Gun",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1150530/header_alt_assets_2.jpg?t=1715717604",
     "url": "https://bit.ly/3yirJFU",
     "store": "Steam",
     "price": 7.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-05-20T16:00:00.000Z",
     "date": "2024-05-20"
@@ -45,8 +45,8 @@
     "url": "https://bit.ly/3WMNWGA",
     "store": "Steam",
     "price": 1.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-05-20T16:00:00.000Z",
     "date": "2024-05-20"
@@ -58,24 +58,11 @@
     "url": "https://bit.ly/3yjBwvw",
     "store": "Battle.net",
     "price": 45.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-05-20T16:00:00.000Z",
     "date": "2024-05-20"
-  },
-  {
-    "adImp": 4,
-    "title": "Star Citizen - referral code: STAR-Y24B-QZ63",
-    "image": "https://robertsspaceindustries.com/rsi/static/images/SC-fb.jpg",
-    "url": "https://bit.ly/3WKISjZ",
-    "store": "RSI",
-    "price": 45.00,
-    "status": 3,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-05-17T01:00:00.000Z",
-    "endDate": "2024-05-17T16:00:00.000Z",
-    "date": "2024-05-17"
   },
   {
     "adImp": null,
