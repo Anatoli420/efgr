@@ -1,9 +1,22 @@
 [
   {
     "adImp": null,
+    "title": "Talisman: Digital Edition",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/247000/header_alt_assets_2.jpg?t=1716538672",
+    "url": "https://bit.ly/4aA4p3O",
+    "store": "Steam",
+    "price": 0.00,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2023-12-14T16:00:00.000Z",
+    "endDate": "2024-01-01T16:00:00.000Z",
+    "date": "2014-02-25"
+  },
+  {
+    "adImp": 1,
     "title": "XDefiant",
-    "image":  "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2GfQtmP59xPJBxIFSJHGXL/35f8ee835bae5cdc20a04974d4b3669b/XD_Thumbnail.jpg",
-    "url":  "https://bit.ly/3WKsphE",
+    "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2GfQtmP59xPJBxIFSJHGXL/35f8ee835bae5cdc20a04974d4b3669b/XD_Thumbnail.jpg",
+    "url": "https://bit.ly/3WKsphE",
     "store": "Ubisoft Connect",
     "price": 0.00,
     "status": 1,
