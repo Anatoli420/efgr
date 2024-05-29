@@ -1,6 +1,32 @@
 [
   {
     "adImp": null,
+    "title": "THE SIGNAL",
+    "image":  "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1830110/header.jpg?t=1716928001",
+    "url":  "https://bit.ly/3V3r7f4",
+    "store": "Steam",
+    "price": 60.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-06-06T16:00:00.000Z",
+    "date": "2024-06-06"
+  },
+  {
+    "adImp": null,
+    "title": "Warhammer 40,000: Speed Freeks",
+    "image":  "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2078450/header.jpg?t=1716910375",
+    "url":  "https://bit.ly/3Kjb1ZI",
+    "store": "Steam",
+    "price": 60.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-05-30T16:00:00.000Z",
+    "date": "2024-05-30"
+  },
+  {
+    "adImp": null,
     "title": "Perfect Heist 2",
     "image":  "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1521580/header.jpg?t=1710375855",
     "url":  "https://bit.ly/4dRHZy1",
