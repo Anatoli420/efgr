@@ -1,5 +1,31 @@
 [
   {
+    "adImp": 3,
+    "title": "Call of Duty®: Modern Warfare® III",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519060/header.jpg?t=1717009948",
+    "url": "https://bit.ly/3HPhzON",
+    "store": "Battle.net",
+    "price": 45.00,
+    "status": 1,
+    "horizontal":"fechasProgramadas",
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-06-03T16:00:00.000Z",
+    "date": "2024-06-03"
+  },
+  {
+    "adImp": 3,
+    "title": "Call of Duty®: Modern Warfare® III",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519060/header.jpg?t=1717009948",
+    "url": "https://bit.ly/3HPhzON",
+    "store": "Steam",
+    "price": 45.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-06-03T16:00:00.000Z",
+    "date": "2024-06-03"
+  },
+  {
     "adImp": null,
     "title": "THE SIGNAL",
     "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1830110/header.jpg?t=1716928001",
@@ -244,32 +270,7 @@
     "endDate": "2024-04-11T01:00:00.000Z",
     "date": "2024-04-11"
   },
-  {
-    "adImp": 3,
-    "title": "Call of Duty®: Modern Warfare® III",
-    "image": "https://img.gg.deals/27/1c/4fe6a84ea2b3a384712ea5757a22576ae842_1920xt1080.jpg",
-    "url": "https://bit.ly/3HPhzON",
-    "store": "Battle.net",
-    "price": 45.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-04-08T16:00:00.000Z",
-    "date": "2024-04-08"
-  },
-  {
-    "adImp": 3,
-    "title": "Call of Duty®: Modern Warfare® III",
-    "image": "https://img.gg.deals/27/1c/4fe6a84ea2b3a384712ea5757a22576ae842_1920xt1080.jpg",
-    "url": "https://bit.ly/3HPhzON",
-    "store": "Steam",
-    "price": 45.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-04-08T16:00:00.000Z",
-    "date": "2024-04-08"
-  },
+
   {
     "adImp": 11,
     "title": "LEGO® 2K Drive",
