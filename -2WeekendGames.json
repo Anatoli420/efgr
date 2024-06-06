@@ -7,7 +7,7 @@
     "store": "Ubisoft Connect",
     "price": 60.00,
     "status": 2,
-    "horizontal":true,
+    "horizontal": true,
     "startDate": "2023-09-01T01:00:00.000Z",
     "endDate": "2024-06-06T26:00:00.000Z",
     "date": "2024-06-06"
@@ -20,49 +20,9 @@
     "store": "Epic Games",
     "price": 60.00,
     "status": 2,
-    "horizontal":true,
+    "horizontal": true,
     "startDate": "2023-09-01T01:00:00.000Z",
     "endDate": "2024-06-06T26:00:00.000Z",
-    "date": "2024-06-06"
-  },
-  
-  {
-    "adImp": 3,
-    "title": "Call of Duty®: Modern Warfare® III - Multiplayer and Zombies",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519060/header.jpg?t=1717009948",
-    "url": "https://bit.ly/3HPhzON",
-    "store": "Battle.net",
-    "price": 45.00,
-    "status": 2,
-    "horizontal":true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-06-03T16:00:00.000Z",
-    "date": "2024-06-03"
-  },
-  {
-    "adImp": 3,
-    "title": "Call of Duty®: Modern Warfare® III - Multiplayer and Zombies",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519060/header.jpg?t=1717009948",
-    "url": "https://bit.ly/3HPhzON",
-    "store": "Steam",
-    "price": 45.00,
-    "status": 2,
-    "horizontal":true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-06-03T16:00:00.000Z",
-    "date": "2024-06-03"
-  },
-  {
-    "adImp": null,
-    "title": "THE SIGNAL",
-    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1830110/header.jpg?t=1716928001",
-    "url": "https://bit.ly/3V3r7f4",
-    "store": "Steam",
-    "price": 60.00,
-    "status": 2,
-    "horizontal":true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-06-06T16:00:00.000Z",
     "date": "2024-06-06"
   },
   {
@@ -78,7 +38,46 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
- },
+  },
+  {
+    "adImp": 3,
+    "title": "Call of Duty®: Modern Warfare® III - Multiplayer and Zombies",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519060/header.jpg?t=1717009948",
+    "url": "https://bit.ly/3HPhzON",
+    "store": "Battle.net",
+    "price": 45.00,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-06-03T16:00:00.000Z",
+    "date": "2024-06-03"
+  },
+  {
+    "adImp": 3,
+    "title": "Call of Duty®: Modern Warfare® III - Multiplayer and Zombies",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519060/header.jpg?t=1717009948",
+    "url": "https://bit.ly/3HPhzON",
+    "store": "Steam",
+    "price": 45.00,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-06-03T16:00:00.000Z",
+    "date": "2024-06-03"
+  },
+  {
+    "adImp": null,
+    "title": "THE SIGNAL",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1830110/header.jpg?t=1716928001",
+    "url": "https://bit.ly/3V3r7f4",
+    "store": "Steam",
+    "price": 60.00,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-06-06T16:00:00.000Z",
+    "date": "2024-06-06"
+  },
   {
     "adImp": null,
     "title": "Warhammer 40,000: Speed Freeks",
@@ -87,7 +86,7 @@
     "store": "Steam",
     "price": 60.00,
     "status": 2,
-    "horizontal":true,
+    "horizontal": true,
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-05-30T16:00:00.000Z",
     "date": "2024-05-30"
@@ -100,7 +99,7 @@
     "store": "Epic Games",
     "price": 35.00,
     "status": 2,
-    "horizontal":true,
+    "horizontal": true,
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-06-13T16:00:00.000Z",
     "date": "2024-06-13"
@@ -311,7 +310,6 @@
     "endDate": "2024-04-11T01:00:00.000Z",
     "date": "2024-04-11"
   },
-
   {
     "adImp": 11,
     "title": "LEGO® 2K Drive",
@@ -559,7 +557,6 @@
     "endDate": "2024-02-26T16:00:00.000Z",
     "date": "2024-02-26"
   },
-
   {
     "adImp": 4,
     "title": "Nickelodeon All-Star Brawl 2",
