@@ -1,5 +1,18 @@
 [
    {
+      "adImp": 5,
+      "title": "Soul Valley",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/049eaef9-a35e-4b95-b432-3475328595ce/prodmain/1691917443.png",
+      "url": "https://bit.ly/3OUEs7G",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2023-04-05T16:00:00.000Z",
+      "endDate": "2023-09-09T16:00:00.000Z",
+      "date": "2024-??"
+   },
+   {
       "adImp": null,
       "title": "Marvel's Midnight Suns",
       "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_MarvelsMidnightSuns_FiraxisGames_S1_2560x1440-2f3d597f3afd9e9fd4cea1df3394705e_2560x1440-2f3d597f3afd9e9fd4cea1df3394705e?h=480&quality=medium&resize=1&w=854",
@@ -26,19 +39,6 @@
       "date": "2024-??"
    },
    {
-      "adImp": null,
-      "title": "Chivalry 2",
-      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/chiv2_wide_2560x1440-4248ed263080045c7cb13960711c5f58?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/4529TDs",
-      "price": 15.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-05-30T15:00:00.000Z",
-      "endDate": "2024-06-06T15:00:00.000Z",
-      "date": "2024-06-06"
-   },
-   {
       "adImp": 3,
       "title": "Redout 2",
       "image": "https://cdn1.epicgames.com/offer/05ae696a3c5f49af91a7433547460c21/EGS_Redout2_34BigThings_S1_2560x1440-15165db53ba987f704968f8c3e4c0f0b?h=480&quality=medium&resize=1&w=854",
@@ -47,7 +47,7 @@
       "store": "Epic Games",
       "status": 3,
       "horizontal": "fechasProgramadas",
-      "startDate":  "2024-06-13T15:00:00.000Z",
+      "startDate": "2024-06-13T15:00:00.000Z",
       "endDate": "2024-06-20T15:00:00.000Z",
       "date": "2024-06-13"
    },
@@ -60,7 +60,7 @@
       "store": "Epic Games",
       "status": 3,
       "horizontal": "fechasProgramadas",
-      "startDate":  "2024-06-13T15:00:00.000Z",
+      "startDate": "2024-06-13T15:00:00.000Z",
       "endDate": "2024-06-20T15:00:00.000Z",
       "date": "2024-06-13"
    },
@@ -155,19 +155,6 @@
       "horizontal": true,
       "startDate": "2024-05-16T15:00:00.000Z",
       "endDate": "2024-05-23T15:00:00.000Z",
-      "date": "2024-??"
-   },
-   {
-      "adImp": 5,
-      "title": "MechDefender - Tower Defense",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/d5e9568c-70da-41b0-8e02-6e3ae44042e1/prodmain/1695995846.png",
-      "url": "https://bit.ly/45i352V",
-      "store": "IndieGala",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2023-04-05T16:00:00.000Z",
-      "endDate": "2023-09-09T16:00:00.000Z",
       "date": "2024-??"
    },
    {
@@ -480,7 +467,6 @@
       "endDate": "2023-09-02T13:00:00.000Z",
       "date": "2024-??"
    },
-
    {
       "adImp": 6,
       "title": "Die Young: Prologue",
@@ -507,6 +493,19 @@
       "status": 4,
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "adImp": null,
+      "title": "Chivalry 2",
+      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/chiv2_wide_2560x1440-4248ed263080045c7cb13960711c5f58?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/4529TDs",
+      "price": 15.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-05-30T15:00:00.000Z",
+      "endDate": "2024-06-06T15:00:00.000Z",
+      "date": "2024-06-06"
    },
    {
       "adImp": 11,
