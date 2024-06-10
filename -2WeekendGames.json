@@ -6,8 +6,8 @@
     "url": "https://bit.ly/459Sxop",
     "store": "Steam",
     "price": 45.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-06-06T01:00:00.000Z",
     "endDate": "2024-06-10T16:00:00.000Z",
     "date": "2024-06-10"
