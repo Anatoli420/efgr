@@ -1,16 +1,42 @@
 [
    {
-      "adImp": 5,
-      "title": "Soul Valley",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/049eaef9-a35e-4b95-b432-3475328595ce/prodmain/1691917443.png",
-      "url": "https://bit.ly/3OUEs7G",
-      "store": "IndieGala",
+      "adImp": 2,
+      "title": "Forza Motorsport Porsche 963 Combo",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2921330/header.jpg?t=1718038686",
+      "url": "https://bit.ly/4bQrC3i",
+      "store": "Steam",
       "price": 5.00,
       "status": 1,
-      "horizontal": true,
-      "startDate": "2023-04-05T16:00:00.000Z",
-      "endDate": "2023-09-09T16:00:00.000Z",
-      "date": "2024-??"
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-06-16T17:00:00.000Z",
+      "date": "2024-06-16"
+   },
+   {
+      "adImp": 2,
+      "title": "Train Simulator: Chatham Main Line - London-Gillingham Route Add-On",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/376946/header.jpg?t=1716225355",
+      "url": "https://bit.ly/3yTVjlr",
+      "store": "Steam",
+      "price": 15.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-06-17T17:00:00.000Z",
+      "date": "2024-06-17"
+   },
+   {
+      "adImp": 2,
+      "title": "Train Simulator: Chatham Main Line: London Victoria & Blackfriars - Dover & Ramsgate Route Add-On",
+      "image": "https://bit.ly/4ei6Vih",
+      "url": "https://bit.ly/4ei6Vih",
+      "store": "Steam",
+      "price": 17.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-06-17T17:00:00.000Z",
+      "date": "2024-06-17"
    },
    {
       "adImp": null,
@@ -27,7 +53,7 @@
    },
    {
       "adImp": 11,
-      "title": "Black Desert Online Traveler Edition Key Giveaway",
+      "title": "Black Desert Online    veler Edition Key Giveaway",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/header.jpg?t=1715716651",
       "url": "https://bit.ly/4aSdRQv",
       "store": "Alienware Arena",
@@ -91,6 +117,32 @@
       "status": 1,
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "adImp": 5,
+      "title": "Soul Valley",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/72963e26-d482-497d-ad40-b1e4398a85e1/prodmain/1698749560.png",
+      "url": "https://bit.ly/3OUEs7G",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2023-04-05T16:00:00.000Z",
+      "endDate": "2023-09-09T16:00:00.000Z",
+      "date": "2024-??"
+   },
+   {
+      "adImp": 5,
+      "title": "Soul Valley",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/049eaef9-a35e-4b95-b432-3475328595ce/prodmain/1691917443.png",
+      "url": "https://bit.ly/3OUEs7G",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2023-04-05T16:00:00.000Z",
+      "endDate": "2023-09-09T16:00:00.000Z",
+      "date": "2024-??"
    },
    {
       "adImp": 4,
