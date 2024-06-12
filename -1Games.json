@@ -1,5 +1,31 @@
 [
    {
+      "adImp": null,
+      "title": "Redout 2",
+      "image": "https://cdn1.epicgames.com/offer/05ae696a3c5f49af91a7433547460c21/EGS_Redout2_34BigThings_S1_2560x1440-15165db53ba987f704968f8c3e4c0f0b?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/3V4Lete",
+      "price": 12.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-06-13T15:00:00.000Z",
+      "endDate": "2024-06-20T15:00:00.000Z",
+      "date": "2024-06-20"
+   },
+   {
+      "adImp": 2,
+      "title": "Idle Champions of the Forgotten Realms",
+      "image": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/S1_2560x1440-0e9623fddb7ddef4d0366bed1ecfeb7c?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/3OPkSqU",
+      "price": 5.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-06-13T15:00:00.000Z",
+      "endDate": "2024-06-20T15:00:00.000Z",
+      "date": "2024-06-20"
+   },
+   {
       "adImp": 11,
       "title": "Black Desert Online Kuku Pet Key Giveaway",
       "image": "https://media.alienwarearena.com/media/28190d5b6e11dfa5259e7173bcb74ceb.jpg?fit=crop&width=720&height=405&quality=75?h=480&quality=medium&resize=1&w=854",
@@ -95,7 +121,7 @@
       "title": "Redout 2",
       "image": "https://cdn1.epicgames.com/offer/05ae696a3c5f49af91a7433547460c21/EGS_Redout2_34BigThings_S1_2560x1440-15165db53ba987f704968f8c3e4c0f0b?h=480&quality=medium&resize=1&w=854",
       "url": "https://bit.ly/3V4Lete",
-      "price": 5.00,
+      "price": 12.00,
       "store": "Epic Games",
       "status": 3,
       "horizontal": "fechasProgramadas",
