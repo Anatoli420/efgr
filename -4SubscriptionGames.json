@@ -1,6 +1,45 @@
 [
     {
         "adImp": null,
+        "title": "Blast Brigade vs. the Evil Legion of Dr. Cread",
+        "image": "https://m.media-amazon.com/images/I/61DQYJP0PoL._FMwebp_.jpg",
+        "url": "https://amzn.to/4emMxfV",
+        "store": "Amazon Gaming",
+        "price": 5.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-08-14T15:00:00.000Z",
+        "date": "2024-08-14"
+    },
+    {
+        "adImp": null,
+        "title": "Everdream Valley",
+        "image":"https://m.media-amazon.com/images/I/61BWlCjtMlL._FMwebp_.jpg",
+        "url": "https://amzn.to/3z0yPzv",
+        "store": "Amazon Gaming",
+        "price": 5.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-09-11T15:00:00.000Z",
+        "date": "2024-09-11"
+    },
+    {
+        "adImp": 4,
+        "title": "MythForce",
+        "image":"https://amzn.to/3RtdB3z",
+        "url": "https://m.media-amazon.com/images/I/61xziDJH9cL._FMwebp_.jpg",
+        "store": "Amazon Gaming",
+        "price": 5.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-07-17T15:00:00.000Z",
+        "date": "2024-07-17"
+    },
+    {
+        "adImp": 4,
         "title": "STAR WARS Battlefront II (Classic, 2005)",
         "image": "https://m.media-amazon.com/images/I/61U9D571neL._FMwebp_.jpg",
         "url": "https://amzn.to/4bLIXuj",
@@ -13,7 +52,7 @@
         "date": "2024-07-10"
     },
     {
-        "adImp": null,
+        "adImp": 4,
         "title": "Fallout 3: Game of the Year Edition",
         "image": "https://m.media-amazon.com/images/I/61+Mfz9OcVL._FMwebp_.jpg",
         "url": "https://amzn.to/4bOEGq2",
