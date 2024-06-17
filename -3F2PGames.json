@@ -1,6 +1,19 @@
 [
   {
     "adImp": null,
+    "title": "Banana",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923300/header.jpg?t=1718566774",
+    "url": "https://bit.ly/3VKOtaQ",
+    "store": "Steam",
+    "price": 0.00,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-06-07T16:00:00.000Z",
+    "endDate": "2024-06-07T16:00:00.000Z",
+    "date": "2024-04-23"
+  },
+  {
+    "adImp": null,
     "title": "Rocket League®",
     "image": "https://www.rocketleague.com/images/keyart/rl_evergreen.jpg",
     "url": "https://bit.ly/3LBn5oo",
@@ -13,7 +26,7 @@
     "endDate": ""
   },
   {
-    "adImp": null,
+    "adImp": 2,
     "title": "Sneak Out",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2410490/header.jpg?t=1717680616",
     "url": "https://bit.ly/3RoKeiz",
@@ -26,7 +39,7 @@
     "date": "2024-06-06"
   },
   {
-    "adImp": null,
+    "adImp": 2,
     "title": "Nightmare Kart",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2930160/header.jpg?t=1717637713",
     "url": "https://bit.ly/3Xmlhbu",
@@ -39,7 +52,7 @@
     "date": "2024-06-05"
   },
   {
-    "adImp": null,
+    "adImp": 2,
     "title": "Dark and Darker",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2016590/header.jpg?t=1718095583",
     "url": "https://bit.ly/3VBRMB7",
