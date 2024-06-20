@@ -1,6 +1,32 @@
 [
    {
       "adImp": null,
+      "title": "Freshly Frosted",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1070790/header.jpg?t=1656610791",
+      "url": "https://bit.ly/3VFfxbv",
+      "price": 5.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-06-20T15:00:00.000Z",
+      "endDate": "2024-06-27T15:00:00.000Z",
+      "date": "2024-06-27"
+   },
+   {
+      "adImp": null,
+      "title": "Rumble Club - Free Game of the Week Bonus",
+      "image": "https://cdn1.epicgames.com/spt-assets/dcc6ac462e384ff1a3b388fe7be5d51c/rumble-club-juolk.png?h=270&quality=medium&resize=1&w=480",
+      "url": "https://bit.ly/3Rqra3E",
+      "price": 5.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-06-20T15:00:00.000Z",
+      "endDate": "2024-06-27T15:00:00.000Z",
+      "date": "2024-06-27"
+   },
+   {
+      "adImp": null,
       "title": "Redout 2",
       "image": "https://cdn1.epicgames.com/offer/05ae696a3c5f49af91a7433547460c21/EGS_Redout2_34BigThings_S1_2560x1440-15165db53ba987f704968f8c3e4c0f0b?h=480&quality=medium&resize=1&w=854",
       "url": "https://bit.ly/3V4Lete",
