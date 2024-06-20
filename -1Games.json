@@ -26,45 +26,6 @@
       "date": "2024-06-27"
    },
    {
-      "adImp": null,
-      "title": "Redout 2",
-      "image": "https://cdn1.epicgames.com/offer/05ae696a3c5f49af91a7433547460c21/EGS_Redout2_34BigThings_S1_2560x1440-15165db53ba987f704968f8c3e4c0f0b?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/3V4Lete",
-      "price": 12.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-06-13T15:00:00.000Z",
-      "endDate": "2024-06-20T15:00:00.000Z",
-      "date": "2024-06-20"
-   },
-   {
-      "adImp": 2,
-      "title": "Idle Champions of the Forgotten Realms",
-      "image": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/S1_2560x1440-0e9623fddb7ddef4d0366bed1ecfeb7c?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/3OPkSqU",
-      "price": 5.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-06-13T15:00:00.000Z",
-      "endDate": "2024-06-20T15:00:00.000Z",
-      "date": "2024-06-20"
-   },
-   {
-      "adImp": 4,
-      "title": "Zombies Killer Machine",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/994d0610-00a7-4c86-9c0e-ffbc73eed1b2/prodmain/1698074273.png",
-      "url": "https://bit.ly/45I3xIb",
-      "store": "IndieGala",
-      "price": 5.00,
-      "date": "2024-??",
-      "horizontal": true,
-      "status": 1,
-      "startDate": "",
-      "endDate": ""
-   },
-   {
       "adImp": 3,
       "title": "Sunless Skies: Sovereign Edition",
       "image": "https://cdn1.epicgames.com/spt-assets/c940bf4524614968826999d859f79dbd/sunless-skies-1v5ll.jpg?h=480&quality=medium&resize=1&w=854",
@@ -101,6 +62,19 @@
       "store": "",
       "price": 0.00,
       "date": "??-08-2022",
+      "status": 1,
+      "startDate": "",
+      "endDate": ""
+   },
+   {
+      "adImp": 4,
+      "title": "Zombies Killer Machine",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/994d0610-00a7-4c86-9c0e-ffbc73eed1b2/prodmain/1698074273.png",
+      "url": "https://bit.ly/45I3xIb",
+      "store": "IndieGala",
+      "price": 5.00,
+      "date": "2024-??",
+      "horizontal": true,
       "status": 1,
       "startDate": "",
       "endDate": ""
@@ -324,6 +298,32 @@
       "status": 4,
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "adImp": null,
+      "title": "Redout 2",
+      "image": "https://cdn1.epicgames.com/offer/05ae696a3c5f49af91a7433547460c21/EGS_Redout2_34BigThings_S1_2560x1440-15165db53ba987f704968f8c3e4c0f0b?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/3V4Lete",
+      "price": 12.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-06-13T15:00:00.000Z",
+      "endDate": "2024-06-20T15:00:00.000Z",
+      "date": "2024-06-20"
+   },
+   {
+      "adImp": 2,
+      "title": "Idle Champions of the Forgotten Realms",
+      "image": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/S1_2560x1440-0e9623fddb7ddef4d0366bed1ecfeb7c?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/3OPkSqU",
+      "price": 5.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-06-13T15:00:00.000Z",
+      "endDate": "2024-06-20T15:00:00.000Z",
+      "date": "2024-06-20"
    },
    {
       "adImp": 4,
