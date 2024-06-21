@@ -1,13 +1,39 @@
 [
   {
     "adImp": null,
+    "title": "Mannequin",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409260/header_alt_assets_0.jpg?t=1718899050",
+    "url": "https://bit.ly/45CjJfO",
+    "store": "Steam",
+    "price": 5.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-06-06T01:00:00.000Z",
+    "endDate": "2024-06-17T16:00:00.000Z",
+    "date": "2024-06-17"
+  },
+  {
+    "adImp": null,
+    "title": "Stellaris",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/header_alt_assets_4.jpg?t=1718902815",
+    "url": "https://bit.ly/3plp4aA",
+    "store": "Steam",
+    "price": 5.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-06-06T01:00:00.000Z",
+    "endDate": "2024-06-17T16:00:00.000Z",
+    "date": "2024-06-17"
+  },
+  {
+    "adImp": null,
     "title": "Deep Rock Galactic",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/header_alt_assets_25.jpg?t=1718281349",
     "url": "https://bit.ly/3h7E7A4",
     "store": "Steam",
     "price": 5.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-06-06T01:00:00.000Z",
     "endDate": "2024-06-17T16:00:00.000Z",
     "date": "2024-06-17"
@@ -19,11 +45,25 @@
     "url": "https://bit.ly/3PIVFhW",
     "store": "Steam",
     "price": 20.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-06-06T01:00:00.000Z",
     "endDate": "2024-06-17T16:00:00.000Z",
     "date": "2024-06-17"
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "adImp": null,
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "https://www.google.com",
+    "title": "RATEUS",
+    "store": "",
+    "price": 0.00,
+    "date": "??-08-2022",
+    "status": 1,
+    "startDate": "",
+    "endDate": ""
   },
   {
     "adImp": 1,
@@ -32,8 +72,8 @@
     "url": "https://bit.ly/3b6xfjA",
     "store": "Steam",
     "price": 10.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-06-06T01:00:00.000Z",
     "endDate": "2024-06-17T16:00:00.000Z",
     "date": "2024-06-17"
@@ -76,20 +116,6 @@
     "startDate": "2023-09-01T01:00:00.000Z",
     "endDate": "2024-06-06T26:00:00.000Z",
     "date": "2024-06-06"
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "adImp": null,
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "https://www.google.com",
-    "title": "RATEUS",
-    "store": "",
-    "price": 0.00,
-    "date": "??-08-2022",
-    "status": 1,
-    "startDate": "",
-    "endDate": ""
   },
   {
     "adImp": 3,
