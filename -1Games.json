@@ -13,6 +13,19 @@
       "date": "2024-06-24"
    },
    {
+      "adImp": 4,
+      "title": "HAWKED",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1955960/header.jpg?t=1708079472",
+      "url": "https://bit.ly/3KOsQkn",
+      "store": "Steam",
+      "price": 0.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2023-12-14T16:00:00.000Z",
+      "endDate": "2024-01-01T16:00:00.000Z",
+      "date": "2024-02-15"
+    },
+   {
       "adImp": 11,
       "title": "Shadows: Awakening",
       "image": "https://images.gog-statics.com/5f8cba7a7a088af20ece417986347b40b3e9d0ada4d0972335702d06aa6e642e.jpg",
