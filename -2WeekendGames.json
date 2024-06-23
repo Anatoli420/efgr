@@ -1,6 +1,19 @@
 [
   {
     "adImp": null,
+    "title": "Gigantic: Rampage Edition Free Week",
+    "image":  "https://cdn2.unrealengine.com/egsm-gigantic-trial-breaker-1920x1080-6ac8ec00bb68.jpg?h=480&quality=medium&resize=1&w=854",
+    "url": "https://bit.ly/3VA5fII",
+    "store": "Epic Games",
+    "price": 5.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-06-06T01:00:00.000Z",
+    "endDate": "2024-06-26T16:00:00.000Z",
+    "date": "2024-06-26"
+  },
+  {
+    "adImp": null,
     "title": "Mannequin",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409260/header_alt_assets_0.jpg?t=1718899050",
     "url": "https://bit.ly/45CjJfO",
