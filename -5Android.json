@@ -1,31 +1,5 @@
 [
     {
-        "adImp": null,
-        "title": "Rocket League Sideswipe",
-        "image": "https://sideswipe.rocketleague.com/images/RLS_KeyArt_Primary_Horiz_RGB_4K.jpg",
-        "url": "https://bit.ly/3VKe0Bb",
-        "store": "Google Play",
-        "price": 0.00,
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": "",
-        "date": "2024-03-21"
-    },
-    {
-        "adImp": null,
-        "title": "Rocket League Sideswipe",
-        "image": "https://sideswipe.rocketleague.com/images/RLS_KeyArt_Primary_Horiz_RGB_4K.jpg",
-        "url": "https://bit.ly/3VKe0Bb",
-        "store": "Google Play",
-        "price": 0.00,
-        "horizontal": true,
-        "status": 1,
-        "startDate": "",
-        "endDate": "",
-        "date": "2024-03-21"
-    },
-    {
         "id": "//?SUB SCREEN////",
         "adImp": null,
         "horizontal": false,
@@ -38,6 +12,19 @@
         "status": 1,
         "startDate": "",
         "endDate": ""
+    },
+    {
+        "adImp": null,
+        "title": "Rocket League Sideswipe",
+        "image": "https://play-lh.googleusercontent.com/vTkGpacnvl9MejXmR9LFbonveH7ncRn3t9yZHeP5MEXMLLmoDynW2atL7gQiM4yHEdQ",
+        "url": "https://bit.ly/3VKe0Bb",
+        "store": "Google Play",
+        "price": 0.00,
+        "horizontal": true,
+        "status": 1,
+        "startDate": "",
+        "endDate": "",
+        "date": "2024-03-21"
     },
     {
         "adImp": 11,
