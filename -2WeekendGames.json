@@ -2,12 +2,12 @@
   {
     "adImp": null,
     "title": "Gigantic: Rampage Edition Free Week",
-    "image":  "https://cdn2.unrealengine.com/egsm-gigantic-trial-breaker-1920x1080-6ac8ec00bb68.jpg?h=480&quality=medium&resize=1&w=854",
+    "image": "https://cdn2.unrealengine.com/egsm-gigantic-trial-breaker-1920x1080-6ac8ec00bb68.jpg?h=480&quality=medium&resize=1&w=854",
     "url": "https://bit.ly/3VA5fII",
     "store": "Epic Games",
     "price": 5.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-06-06T01:00:00.000Z",
     "endDate": "2024-06-26T16:00:00.000Z",
     "date": "2024-06-26"
@@ -19,8 +19,8 @@
     "url": "https://bit.ly/45CjJfO",
     "store": "Steam",
     "price": 5.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-06-06T01:00:00.000Z",
     "endDate": "2024-06-24T16:00:00.000Z",
     "date": "2024-06-24"
@@ -32,8 +32,8 @@
     "url": "https://bit.ly/3plp4aA",
     "store": "Steam",
     "price": 5.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
+    "status": 2,
+    "horizontal": true,
     "startDate": "2024-06-06T01:00:00.000Z",
     "endDate": "2024-06-24T16:00:00.000Z",
     "date": "2024-06-24"
