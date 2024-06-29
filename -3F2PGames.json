@@ -26,7 +26,7 @@
     "date": "2024-06-20"
   },
   {
-    "adImp": null,
+    "adImp": 2,
     "title": "Screw Drivers",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/header.jpg?t=1718895416",
     "url": "https://bit.ly/4czevDy",
@@ -39,7 +39,7 @@
     "date": "2024-06-20"
   },
   {
-    "adImp": null,
+    "adImp": 2,
     "title": "HAWKED",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1955960/header.jpg?t=1708079472",
     "url": "https://bit.ly/3KOsQkn",
@@ -66,7 +66,7 @@
     "endDate": ""
   },
   {
-    "adImp": null,
+    "adImp": 2,
     "title": "Knightfall: A Daring Journey",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911390/header.jpg?t=1718728162",
     "url": "https://bit.ly/4c9BZzk",
@@ -79,7 +79,7 @@
     "date": "2022-04-01"
   },
   {
-    "adImp": null,
+    "adImp": 3,
     "title": "Banana",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923300/header.jpg?t=1718566774",
     "url": "https://bit.ly/3VKOtaQ",
@@ -92,7 +92,7 @@
     "date": "2024-04-23"
   },
   {
-    "adImp": null,
+    "adImp": 3,
     "title": "Rocket League®",
     "image": "https://www.rocketleague.com/images/keyart/rl_evergreen.jpg",
     "url": "https://bit.ly/3LBn5oo",
