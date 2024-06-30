@@ -1,6 +1,19 @@
 [
   {
     "adImp": null,
+    "title": "The First Descendant",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074920/header.jpg?t=1719741917",
+    "url": "https://bit.ly/3PqvrCd",
+    "store": "Steam",
+    "price": 0.00,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "",
+    "endDate": "",
+    "date": "2024-06-30"
+  },
+  {
+    "adImp": null,
     "title": "BATTLE CRUSH",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2287920/header.jpg?t=1719481413",
     "url": "https://bit.ly/3QDsmRn",
@@ -13,7 +26,7 @@
     "date": "2024-06-27"
   },
   {
-    "adImp": null,
+    "adImp": 2,
     "title": "Screw Drivers",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/header.jpg?t=1718895416",
     "url": "https://bit.ly/4czevDy",
