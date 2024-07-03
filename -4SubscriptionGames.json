@@ -1,6 +1,32 @@
 [
     {
         "adImp": null,
+        "title": "Hitman: Absolution",
+        "image": "https://m.media-amazon.com/images/I/51LaSfbgJsL._FMwebp_.jpg",
+        "url": "https://amzn.to/3ROfXtJ",
+        "store": "Amazon Gaming",
+        "price": 11.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-07-10T15:00:00.000Z",
+        "date": "2024-07-10"
+    },
+    {
+        "adImp": null,
+        "title": "Wall World",
+        "image": "https://m.media-amazon.com/images/I/61Gu1aqwM+L._FMwebp_.jpg",
+        "url": "https://amzn.to/3RVoQ53",
+        "store": "Amazon Gaming",
+        "price": 5.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-10-01T15:00:00.000Z",
+        "date": "2024-10-01"
+    },
+    {
+        "adImp": 4,
         "title": "Forager",
         "image": "https://m.media-amazon.com/images/I/71VeFQH7crL._FMwebp_.jpg",
         "url": "https://amzn.to/3xsetia",
@@ -13,7 +39,7 @@
         "date": "2024-09-25"
     },
     {
-        "adImp": null,
+        "adImp": 4,
         "title": "Heaven Dust 2",
         "image": "https://m.media-amazon.com/images/I/61q-Hm-72NL._FMwebp_.jpg",
         "url": "https://amzn.to/4cCvFQT",
