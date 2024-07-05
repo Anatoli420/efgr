@@ -1,5 +1,31 @@
 [
    {
+      "adImp": 11,
+      "title": "Cakey's Twisted Bakery",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3028500/header.jpg?t=1720180846",
+      "url": "https://bit.ly/4coo0Wy",
+      "store": "Steam",
+      "price": 7.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-07-07T13:00:00.000Z",
+      "date": "2024-07-07"
+   },
+   {
+      "adImp": 11,
+      "title": "Fly Flew Flown",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a8253a21-4eed-4762-8f36-cc6c204032a3/prodmain/1720014707.png",
+      "url": "https://bit.ly/3L8Q3NQ",
+      "store": "IndieGala",
+      "price": 5.00,
+      "date": "2024-??",
+      "horizontal": true,
+      "status": 1,
+      "startDate": "",
+      "endDate": ""
+   },
+   {
       "adImp": null,
       "title": "The Falconeer",
       "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0?h=480&quality=medium&resize=1&w=854",
