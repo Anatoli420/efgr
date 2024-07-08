@@ -6,8 +6,8 @@
     "url": "https://bit.ly/3Tj6fzF",
     "store": "Ubisoft Connect",
     "price": 70.00,
-    "status": 1,
-    "horizontal":"fechasProgramadas",
+    "status": 2,
+    "horizontal":true,
     "startDate": "2024-03-14T01:00:00.000Z",
     "endDate": "2024-07-08T16:00:00.000Z",
     "date": "2024-07-08"
@@ -19,8 +19,8 @@
     "url": "https://bit.ly/49TF1a1",
     "store": "Epic Games",
     "price": 70.00,
-    "status": 1,
-    "horizontal":"fechasProgramadas",
+    "status": 2,
+    "horizontal":true,
     "startDate": "2024-03-14T01:00:00.000Z",
     "endDate": "2024-07-08T16:00:00.000Z",
     "date": "2024-07-08"
