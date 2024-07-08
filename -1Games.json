@@ -1,5 +1,18 @@
 [
    {
+      "adImp": 3,
+      "title": "Larger Than Light",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597650/header.jpg?t=1622297086",
+      "url": "https://bit.ly/41a8hFi",
+      "store": "itch.io",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.000Z",
+      "date": "2024-??"
+   },
+   {
       "adImp": 4,
       "title": "Steam Summer Sale - Claim free daily reward. 07/08",
       "image": "https://i.ytimg.com/vi/Na37dINcV2I/maxresdefault.jpg",
