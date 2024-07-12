@@ -1,5 +1,18 @@
 [
    {
+      "adImp": 5,
+      "title": "The Oil Blue",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/567a8b1d-90f8-4f42-a04a-41fb4961010f/prodmain/1690625749.png",
+      "url": "https://bit.ly/3q97s20",
+      "store": "IndieGala",
+      "price": 5.00,
+      "date": "2024-??",
+      "horizontal": true,
+      "status": 1,
+      "startDate": "",
+      "endDate": ""
+   },
+   {
       "adImp": null,
       "title": "Floppy Knights",
       "image": "https://cdn1.epicgames.com/spt-assets/e6d8370167ce4fe99a69d195174f6208/floppy-knights-rnv64.png?h=480&quality=medium&resize=1&w=854",
@@ -11,71 +24,6 @@
       "startDate": "2024-07-11T15:00:00.000Z",
       "endDate": "2024-07-18T15:00:00.000Z",
       "date": "2024-07-18"
-   },
-   {
-      "adImp": 11,
-      "title": "Pizza Hero",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202770/header.jpg?t=1719772655",
-      "url": "https://bit.ly/3RZvXcC",
-      "store": "Steam",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2024-07-11T13:00:00.000Z",
-      "date": "2024-??"
-   },
-   {
-      "adImp": 11,
-      "title": "Larger Than Light",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597650/header.jpg?t=1622297086",
-      "url": "https://bit.ly/41a8hFi",
-      "store": "itch.io",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-04-04T15:00:00.000Z",
-      "endDate": "2024-04-07T15:00:00.000Z",
-      "date": "2024-??"
-   },
-   {
-      "adImp": 4,
-      "title": "Steam Summer Sale - Claim free daily reward. 07/10",
-      "image": "https://i.ytimg.com/vi/Na37dINcV2I/maxresdefault.jpg",
-      "url": "https://bit.ly/4bwLbg7",
-      "store": "Steam",
-      "price": 0.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2024-07-11T13:00:00.000Z",
-      "date": "2024-07-11"
-   },
-   {
-      "adImp": 11,
-      "title": "Fly Flew Flown",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a8253a21-4eed-4762-8f36-cc6c204032a3/prodmain/1720014707.png",
-      "url": "https://bit.ly/3L8Q3NQ",
-      "store": "IndieGala",
-      "price": 5.00,
-      "date": "2024-??",
-      "horizontal": true,
-      "status": 1,
-      "startDate": "",
-      "endDate": ""
-   },
-   {
-      "adImp": null,
-      "title": "The Falconeer",
-      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/3zhAYH8",
-      "price": 8.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-07-04T15:00:00.000Z",
-      "endDate": "2024-07-11T15:00:00.000Z",
-      "date": "2024-07-11"
    },
    {
       "adImp": 3,
@@ -127,6 +75,45 @@
       "store": "",
       "price": 0.00,
       "date": "??-08-2022",
+      "status": 1,
+      "startDate": "",
+      "endDate": ""
+   },
+   {
+      "adImp": 11,
+      "title": "Pizza Hero",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202770/header.jpg?t=1719772655",
+      "url": "https://bit.ly/3RZvXcC",
+      "store": "Steam",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-07-11T13:00:00.000Z",
+      "date": "2024-??"
+   },
+   {
+      "adImp": 11,
+      "title": "Larger Than Light",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597650/header.jpg?t=1622297086",
+      "url": "https://bit.ly/41a8hFi",
+      "store": "itch.io",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.000Z",
+      "date": "2024-??"
+   },
+   {
+      "adImp": 11,
+      "title": "Fly Flew Flown",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a8253a21-4eed-4762-8f36-cc6c204032a3/prodmain/1720014707.png",
+      "url": "https://bit.ly/3L8Q3NQ",
+      "store": "IndieGala",
+      "price": 5.00,
+      "date": "2024-??",
+      "horizontal": true,
       "status": 1,
       "startDate": "",
       "endDate": ""
@@ -363,6 +350,19 @@
       "status": 4,
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "adImp": null,
+      "title": "The Falconeer",
+      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/3zhAYH8",
+      "price": 8.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-07-04T15:00:00.000Z",
+      "endDate": "2024-07-11T15:00:00.000Z",
+      "date": "2024-07-11"
    },
    {
       "adImp": 11,
