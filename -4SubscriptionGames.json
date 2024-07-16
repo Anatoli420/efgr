@@ -1,6 +1,45 @@
 [
     {
         "adImp": null,
+        "title": "Suicide Squad: Kill the Justice League",
+        "image": "https://m.media-amazon.com/images/I/61Yrup-XBvL._FMwebp_.jpg",
+        "url": "https://amzn.to/3y2pcjr",
+        "store": "Amazon Gaming",
+        "price": 60.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-07-18T15:00:00.000Z",
+        "date": "2024-07-18"
+    },
+    {
+        "adImp": null,
+        "title": "Rise of the Tomb Raider: 20 Year Celebration",
+        "image": "https://m.media-amazon.com/images/I/612MF8ZxqsL._FMwebp_.jpg",
+        "url": "https://amzn.to/3W9pX2p",
+        "store": "Amazon Gaming",
+        "price": 9.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-07-18T15:00:00.000Z",
+        "date": "2024-07-18"
+    },
+    {
+        "adImp": 4,
+        "title": "Chivalry 2",
+        "image": "https://m.media-amazon.com/images/I/61vV5+3DdOL._FMwebp_.jpg",
+        "url": "https://amzn.to/4f55Lai",
+        "store": "Amazon Gaming",
+        "price": 18.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-07-18T15:00:00.000Z",
+        "date": "2024-07-18"
+    },
+    {
+        "adImp": null,
         "title": "Star Wars: Knights of the Old Republic II - The Sith Lords",
         "image": "https://m.media-amazon.com/images/I/61lt7FBLgZL._FMwebp_.jpg",
         "url": "https://amzn.to/3W1D7y5",
