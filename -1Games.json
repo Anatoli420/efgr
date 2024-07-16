@@ -1,5 +1,31 @@
 [
    {
+      "adImp": null,
+      "title": "Maid of Sker",
+      "image": "https://cdn1.epicgames.com/spt-assets/964693002c1b447c949b155c71727c45/maid-of-sker-1ig0g.jpg?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/4bH9Wq7",
+      "price": 11.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-07-18T15:00:00.000Z",
+      "endDate": "2024-07-25T15:00:00.000Z",
+      "date": "2024-07-25"
+   },
+   {
+      "adImp": 5,
+      "title": "Arcade Paradise",
+      "image": "https://cdn1.epicgames.com/offer/89b9c510e8d74b9da34c447915b1ffb1/EGS_ArcadeParadise_NosebleedInteractive_S1_2560x1440-5a8ca84efde851f3ca2b0d30b393543e?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/3VYaZvN",
+      "price": 5.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-07-18T15:00:00.000Z",
+      "endDate": "2024-07-25T15:00:00.000Z",
+      "date": "2024-07-25"
+   },
+   {
       "adImp": 11,
       "title": "Steam Fighting Games Fest - Claim your free point shop items",
       "image": "https://i.ytimg.com/vi/asZbmBYVPjA/maxresdefault.jpg",
