@@ -1,13 +1,26 @@
 [
   {
     "adImp": null,
+    "title": "Star Citizen - referral code: STAR-Y24B-QZ63",
+    "image": "https://robertsspaceindustries.com/rsi/static/images/SC-fb.jpg",
+    "url": "https://bit.ly/3WKISjZ",
+    "store": "RSI",
+    "price": 45.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2024-07-19T16:00:00.000Z",
+    "date": "2024-07-19"
+  },
+  {
+    "adImp": null,
     "title": "The Crew Motorfest",
     "image": "https://cdn1.epicgames.com/offer/9533b9db84274b15886caa464445a975/EGST_StoreLandscape_2560x1440_2560x1440-22b9985d0555cdcf6a42763887dc7df1?h=270&quality=medium&resize=1&w=480",
     "url": "https://bit.ly/3Tj6fzF",
     "store": "Ubisoft Connect",
     "price": 70.00,
     "status": 2,
-    "horizontal":true,
+    "horizontal": true,
     "startDate": "2024-03-14T01:00:00.000Z",
     "endDate": "2024-07-08T16:00:00.000Z",
     "date": "2024-07-08"
@@ -20,7 +33,7 @@
     "store": "Epic Games",
     "price": 70.00,
     "status": 2,
-    "horizontal":true,
+    "horizontal": true,
     "startDate": "2024-03-14T01:00:00.000Z",
     "endDate": "2024-07-08T16:00:00.000Z",
     "date": "2024-07-08"
@@ -233,19 +246,6 @@
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-05-27T16:00:00.000Z",
     "date": "2024-05-27"
-  },
-  {
-    "adImp": 4,
-    "title": "Star Citizen - referral code: STAR-Y24B-QZ63",
-    "image": "https://robertsspaceindustries.com/rsi/static/images/SC-fb.jpg",
-    "url": "https://bit.ly/3WKISjZ",
-    "store": "RSI",
-    "price": 45.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-05-17T17:00:00.000Z",
-    "endDate": "2024-05-29T16:00:00.000Z",
-    "date": "2024-05-29"
   },
   {
     "adImp": 3,
@@ -570,7 +570,6 @@
     "endDate": "2024-03-21T16:00:00.000Z",
     "date": "2024-03-21"
   },
-
   {
     "adImp": null,
     "title": "Mortal Kombat 1",
