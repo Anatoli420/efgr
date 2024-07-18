@@ -92,29 +92,29 @@
    },
    {
       "adImp": 3,
-      "title": "Maid of Sker",
-      "image": "https://cdn1.epicgames.com/spt-assets/964693002c1b447c949b155c71727c45/maid-of-sker-1ig0g.jpg?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/4bH9Wq7",
+      "title": "F.I.S.T.: Forged In Shadow Torch",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1330470/header.jpg?t=1695348154",
+      "url": "https://bit.ly/3vjHPdU",
       "price": 11.00,
       "store": "Epic Games",
       "status": 3,
       "horizontal": "fechasProgramadas",
-      "startDate": "2024-07-18T15:00:00.000Z",
-      "endDate": "2024-07-25T15:00:00.000Z",
-      "date": "2024-07-18"
+      "startDate": "2024-07-25T15:00:00.000Z",
+      "endDate": "2024-08-01T15:00:00.000Z",
+      "date": "2024-07-25"
    },
    {
       "adImp": 3,
-      "title": "Arcade Paradise",
-      "image": "https://cdn1.epicgames.com/offer/89b9c510e8d74b9da34c447915b1ffb1/EGS_ArcadeParadise_NosebleedInteractive_S1_2560x1440-5a8ca84efde851f3ca2b0d30b393543e?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/3VYaZvN",
-      "price": 5.00,
+      "title": "Exclusive Outfits pack",
+      "image": "https://cdn1.epicgames.com/spt-assets/16c163a44eea408c94b388cb63aafe6d/olympics-go-paris-2024-1dgi6.png?h=270&quality=medium&resize=1&w=480",
+      "url": "https://bit.ly/3Ltynwp",
+      "price": 11.00,
       "store": "Epic Games",
       "status": 3,
       "horizontal": "fechasProgramadas",
-      "startDate": "2024-07-18T15:00:00.000Z",
-      "endDate": "2024-07-25T15:00:00.000Z",
-      "date": "2024-07-18"
+      "startDate": "2024-07-25T15:00:00.000Z",
+      "endDate": "2024-08-01T15:00:00.000Z",
+      "date": "2024-07-25"
    },
    {
       "id": "//?SUB SCREEN////",
