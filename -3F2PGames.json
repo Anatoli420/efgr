@@ -27,6 +27,19 @@
   },
   {
     "adImp": 5,
+    "title": "Retail Company Simulator: Prologue",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089150/header.jpg?t=1721401518",
+    "url": "https://bit.ly/3LEzWYl",
+    "store": "Steam",
+    "price": 0.00,
+    "date": "19-07-2024",
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2022-12-09T20:00:00.000Z",
+    "endDate": "2099-12-19T16:00:00.000Z"
+  },
+  {
+    "adImp": 5,
     "title": "Dungeonborne",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2448970/header.jpg?t=1721386485",
     "url": "https://bit.ly/4d4J4kQ",
