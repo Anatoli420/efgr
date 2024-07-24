@@ -1,17 +1,5 @@
 [
-  {
-    "adImp": 4,
-    "title": "Wild Bastards Game Demo Key Giveaway",
-    "image": "https://media.alienwarearena.com/media/8357181fb3f6f6e27f2d7ea2be762b92.jpg?quality=75",
-    "url": "https://bit.ly/3zVCSxr",
-    "store": "Alienware Arena",
-    "price": 40.00,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-02-01T20:00:00.000Z",
-    "endDate": "2024-02-13T10:00:00.000Z",
-    "date": "2024-??"
-  },
+
   {
     "adImp": 4,
     "title": "Phantom Line Closed Beta Key Giveaway",
@@ -38,6 +26,19 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": 4,
+    "title": "Wild Bastards Game Demo Key Giveaway",
+    "image": "https://media.alienwarearena.com/media/8357181fb3f6f6e27f2d7ea2be762b92.jpg?quality=75",
+    "url": "https://bit.ly/3zVCSxr",
+    "store": "Alienware Arena",
+    "price": 40.00,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-02-01T20:00:00.000Z",
+    "endDate": "2024-02-13T10:00:00.000Z",
+    "date": "2024-??"
   },
   {
     "adImp": null,
