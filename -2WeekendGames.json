@@ -1,6 +1,19 @@
 [
   {
     "adImp": null,
+    "title": "RENNSPORT Open Beta",
+    "image": "https://cdn1.epicgames.com/spt-assets/876bd39e4c1c40c7bfeaa079e816ed6d/rennsport-rqb2x.png?h=270&quality=medium&resize=1&w=480",
+    "url": "https://bit.ly/3LGLMkP",
+    "store": "Epic Games",
+    "price": 60.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2023-08-31T01:00:00.000Z",
+    "endDate": "2024-08-05T16:00:00.000Z",
+    "date": "2024-08-??"
+  },
+  {
+    "adImp": null,
     "title": "Dead by Daylight",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg?t=1693340525",
     "url": "https://bit.ly/3MA9xJj",
@@ -1560,7 +1573,6 @@
     "endDate": "2023-09-04T16:00:00.000Z",
     "date": "04-09-2023"
   },
-
   {
     "adImp": null,
     "title": "(FIFA) EA Sports FC 24 - Closed Beta Register Playtest",
