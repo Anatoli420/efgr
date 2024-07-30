@@ -8,7 +8,7 @@
         "price": 0.00,
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": "",
         "date": "22-04-2024"
     },
@@ -21,7 +21,7 @@
         "price": 0.00,
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": "",
         "date": "04-05-2015"
     },
@@ -34,7 +34,7 @@
         "price": 0.00,
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": "",
         "date": "2021-10-03"
     },
@@ -49,7 +49,7 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -61,7 +61,7 @@
         "price": 0.00,
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": "",
         "date": "2024-07"
     },
@@ -74,7 +74,7 @@
         "price": 0.00,
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": "",
         "date": "2024-03-21"
     },
@@ -87,7 +87,7 @@
         "price": 0.00,
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": "",
         "date": "2024-03-21"
     },
@@ -101,7 +101,7 @@
         "date": "2023",
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -115,7 +115,7 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -128,7 +128,7 @@
         "date": "2015-08-12",
         "status": 1,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -141,7 +141,7 @@
         "adImp": 3,
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -165,7 +165,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -178,7 +178,7 @@
         "adImp": 3,
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -191,7 +191,7 @@
         "adImp": 5,
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -204,7 +204,7 @@
         "date": "2024-02-19",
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -217,7 +217,7 @@
         "adImp": 1,
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -230,7 +230,7 @@
         "status": 1,
         "adImp": 3,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -243,7 +243,7 @@
         "adImp": 1,
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -256,7 +256,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -282,7 +282,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -295,7 +295,7 @@
         "adImp": 3,
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -308,7 +308,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 1,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -322,7 +322,7 @@
         "price": 0.00,
         "date": "??-08-2022",
         "status": 4,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -335,7 +335,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -348,7 +348,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -361,7 +361,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -374,7 +374,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -426,7 +426,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -439,7 +439,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -478,7 +478,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -491,7 +491,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -504,7 +504,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -517,7 +517,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -530,7 +530,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -543,7 +543,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -556,7 +556,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -569,7 +569,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -582,7 +582,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -595,7 +595,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -608,7 +608,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -621,7 +621,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -634,7 +634,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -647,7 +647,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -660,7 +660,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -673,7 +673,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -699,7 +699,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -712,7 +712,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -738,7 +738,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -751,7 +751,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -764,7 +764,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -777,7 +777,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -790,7 +790,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -816,7 +816,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -829,7 +829,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -907,7 +907,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -920,7 +920,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -959,7 +959,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -972,7 +972,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -985,7 +985,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1011,7 +1011,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1024,7 +1024,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1037,7 +1037,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1050,7 +1050,7 @@
         "date": "2024-??",
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1063,7 +1063,7 @@
         "date": "2024-??",
         "status": 2,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1076,7 +1076,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1089,7 +1089,7 @@
         "status": 2,
         "adImp": null,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1102,7 +1102,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1115,7 +1115,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1128,7 +1128,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1141,7 +1141,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1154,7 +1154,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1167,7 +1167,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1180,7 +1180,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1193,7 +1193,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1206,7 +1206,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1219,7 +1219,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1232,7 +1232,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1271,7 +1271,7 @@
         "status": 2,
         "adImp": null,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1284,7 +1284,7 @@
         "status": 2,
         "adImp": null,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1297,7 +1297,7 @@
         "status": 2,
         "adImp": null,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1323,7 +1323,7 @@
         "status": 2,
         "adImp": null,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1336,7 +1336,7 @@
         "status": 2,
         "adImp": null,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1349,7 +1349,7 @@
         "status": 2,
         "adImp": null,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1362,7 +1362,7 @@
         "status": 2,
         "adImp": null,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1375,7 +1375,7 @@
         "status": 2,
         "adImp": null,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1388,7 +1388,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1401,7 +1401,7 @@
         "status": 2,
         "adImp": null,
         "horizontal": true,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1414,7 +1414,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1427,7 +1427,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1440,7 +1440,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1453,7 +1453,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1466,7 +1466,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
@@ -1479,7 +1479,7 @@
         "adImp": null,
         "horizontal": true,
         "status": 2,
-        "startDate": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": ""
     },
     {
