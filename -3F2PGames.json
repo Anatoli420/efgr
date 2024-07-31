@@ -8,9 +8,9 @@
     "price": 0.00,
     "status": 1,
     "horizontal": true,
-    "startDate": "2024-04-11T15:00:00.000Z",
     "endDate": "",
-    "date": "2024-04-11"
+    "date": "2024-04-11",
+    "startDate": "2024-04-11T15:00:00.000Z"
   },
   {
     "adImp": 4,
