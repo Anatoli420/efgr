@@ -5,12 +5,12 @@
         "image": "https://play-lh.googleusercontent.com/DZ4t2P3THtVpA1-UfUziJdflz30_JbTjaPdA2O2JZkAYDL2ZGiKfu7PPv9XF_9C7FFM=s960-rw",
         "url": "https://bit.ly/4djbZBJ",
         "store": "Google Play",
-        "price": 0.00,
         "horizontal": true,
         "status": 1,
-        "startDate": "2024-04-22T06:00:00.000Z",
+        "price": 0.00,
+        "date": "22-04-2024",
         "endDate": "",
-        "date": "22-04-2024"
+        "startDate": "2024-04-22T06:00:00.000Z"
     },
     {
         "adImp": null,
