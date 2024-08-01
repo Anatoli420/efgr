@@ -1,5 +1,31 @@
 [
   {
+    "adImp": 11,
+    "title": "WWE 2K24",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315690/header.jpg?t=1722446964",
+    "url": "https://bit.ly/3WMCdqT",
+    "store": "Steam",
+    "price": 25.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2023-08-31T01:00:00.000Z",
+    "endDate": "2024-08-05T16:00:00.000Z",
+    "date": "2024-08-05"
+  },
+  {
+    "adImp": null,
+    "title": "Myth of Empires",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371580/header_alt_assets_1.jpg?t=1722495512",
+    "url": "https://bit.ly/3Aifl9R",
+    "store": "Steam",
+    "price": 8.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2023-08-31T01:00:00.000Z",
+    "endDate": "2024-08-05T16:00:00.000Z",
+    "date": "2024-08-05"
+  },
+  {
     "adImp": null,
     "title": "RENNSPORT Open Beta",
     "image": "https://cdn1.epicgames.com/spt-assets/876bd39e4c1c40c7bfeaa079e816ed6d/rennsport-rqb2x.png?h=270&quality=medium&resize=1&w=480",
@@ -13,7 +39,7 @@
     "date": "2024-08-??"
   },
   {
-    "adImp": null,
+    "adImp": 11,
     "title": "Visions of Mana Demo",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2490990/header.jpg?t=1722301295",
     "url": "https://bit.ly/4dmSJDy",
