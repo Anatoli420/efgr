@@ -1,5 +1,18 @@
 [
    {
+      "adImp": 4,
+      "title": "Doug and Lily",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/8d4f1103-0ef0-4258-ba68-ab5b648ac157/prodmain/1695270529.png",
+      "url": "https://bit.ly/453EY8j",
+      "store": "IndieGala",
+      "price": 5.00,
+      "date": "2024-??",
+      "horizontal": true,
+      "status": 1,
+      "startDate": "",
+      "endDate": ""
+   },
+   {
       "adImp": null,
       "title": "LumbearJack",
       "image": "https://cdn1.epicgames.com/spt-assets/67b80cb431834a1fa1ec3e69ef2f83f1/lumbearjack-offer-13qa5.jpg?h=480&quality=medium&resize=1&w=854",
