@@ -144,19 +144,7 @@
       "endDate": "2024-04-07T15:00:00.001Z",
       "date": "2024-??"
    },
-   {
-      "adImp": 4,
-      "title": "Jumping Knight",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/647bfdc3-920d-4fe5-bf5f-948a416a0c49/prodmain/1721665286.png",
-      "url": "https://bit.ly/3SkfwYC",
-      "store": "IndieGala",
-      "price": 5.00,
-      "date": "2024-??",
-      "horizontal": true,
-      "status": 1,
-      "startDate": "",
-      "endDate": ""
-   },
+
    {
       "adImp": 11,
       "title": "Black Desert Online Kuku Pet Key Giveaway",
@@ -309,6 +297,19 @@
       "price": 0.00,
       "date": "??-08-2022",
       "status": 4,
+      "startDate": "",
+      "endDate": ""
+   },
+   {
+      "adImp": 4,
+      "title": "Jumping Knight",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/647bfdc3-920d-4fe5-bf5f-948a416a0c49/prodmain/1721665286.png",
+      "url": "https://bit.ly/3SkfwYC",
+      "store": "IndieGala",
+      "price": 5.00,
+      "date": "2024-??",
+      "horizontal": true,
+      "status": 2,
       "startDate": "",
       "endDate": ""
    },
