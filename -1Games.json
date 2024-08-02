@@ -53,6 +53,19 @@
    },
    {
       "adImp": 3,
+      "title": "CYGNI",
+      "image": "https://cdn1.epicgames.com/spt-assets/99e568930ad045a5a91b0b50ea3d5389/cygni--all-guns-blazing-1b886.jpg?h=270&quality=medium&resize=1&w=480",
+      "url": "https://bit.ly/46MZ89b",
+      "price": 27.00,
+      "store": "Epic Games",
+      "status": 3,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-08-08T15:00:00.000Z",
+      "endDate": "2024-08-15T15:00:00.000Z",
+      "date": "2024-08-08"
+   },
+   {
+      "adImp": 3,
       "title": "DNF Duel",
       "image": "https://cdn1.epicgames.com/spt-assets/98cdc7484b264021ad8a3a6e1e721989/dnf-duel-1alsy.jpg?h=480&quality=medium&resize=1&w=854",
       "url": "https://bit.ly/48aEsYn",
