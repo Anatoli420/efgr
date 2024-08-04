@@ -84,8 +84,8 @@
     "url": "https://bit.ly/4dmSJDy",
     "store": "Steam",
     "price": 60.00,
-    "status": "fechasProgramadas",
-    "horizontal": true,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
     "startDate": "2023-08-31T01:00:00.000Z",
     "endDate": "2024-08-29T16:00:00.000Z",
     "date": "2024-08-29"
