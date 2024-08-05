@@ -26,19 +26,6 @@
     "date": "2024-08-04"
   },
   {
-    "adImp": 5,
-    "title": "World of Warcraft - Welcome Back Weekend",
-    "image": "https://i.ytimg.com/vi/wbdOGABiQbY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCSub1wsR082bBjBmdkbI192uHZAw",
-    "url": "https://bit.ly/3YvDKDg",
-    "store": "Battle.net",
-    "price": 60.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-01-01T01:00:00.000Z",
-    "endDate": "2024-08-05T16:00:00.000Z",
-    "date": "2024-08-05"
-  },
-  {
     "adImp": 11,
     "title": "IMMORTAL: Gates of Pyre® Playtest Key Giveaway",
     "image": "https://media.alienwarearena.com/media/b36f13deb6e563cf202bc7122e5f8131.jpg?fit=crop&width=720&height=405&quality=75",
@@ -50,32 +37,6 @@
     "startDate": "2023-08-31T01:00:00.000Z",
     "endDate": "2024-08-04T16:00:00.000Z",
     "date": "2024-08-04"
-  },
-  {
-    "adImp": 11,
-    "title": "WWE 2K24",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315690/header.jpg?t=1722446964",
-    "url": "https://bit.ly/3WMCdqT",
-    "store": "Steam",
-    "price": 25.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2024-08-05T16:00:00.000Z",
-    "date": "2024-08-05"
-  },
-  {
-    "adImp": null,
-    "title": "Myth of Empires",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371580/header_alt_assets_1.jpg?t=1722495512",
-    "url": "https://bit.ly/3Aifl9R",
-    "store": "Steam",
-    "price": 8.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2024-08-05T16:00:00.000Z",
-    "date": "2024-08-05"
   },
   {
     "adImp": null,
@@ -116,6 +77,45 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": 5,
+    "title": "World of Warcraft - Welcome Back Weekend",
+    "image": "https://i.ytimg.com/vi/wbdOGABiQbY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCSub1wsR082bBjBmdkbI192uHZAw",
+    "url": "https://bit.ly/3YvDKDg",
+    "store": "Battle.net",
+    "price": 60.00,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-01-01T01:00:00.000Z",
+    "endDate": "2024-08-05T16:00:00.000Z",
+    "date": "2024-08-05"
+  },
+  {
+    "adImp": 11,
+    "title": "WWE 2K24",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315690/header.jpg?t=1722446964",
+    "url": "https://bit.ly/3WMCdqT",
+    "store": "Steam",
+    "price": 25.00,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2023-08-31T01:00:00.000Z",
+    "endDate": "2024-08-05T16:00:00.000Z",
+    "date": "2024-08-05"
+  },
+  {
+    "adImp": null,
+    "title": "Myth of Empires",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371580/header_alt_assets_1.jpg?t=1722495512",
+    "url": "https://bit.ly/3Aifl9R",
+    "store": "Steam",
+    "price": 8.00,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2023-08-31T01:00:00.000Z",
+    "endDate": "2024-08-05T16:00:00.000Z",
+    "date": "2024-08-05"
   },
   {
     "adImp": null,
