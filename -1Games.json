@@ -13,19 +13,6 @@
       "date": "2024-08-08"
    },
    {
-      "adImp": 4,
-      "title": "Doug and Lily",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/8d4f1103-0ef0-4258-ba68-ab5b648ac157/prodmain/1695270529.png",
-      "url": "https://bit.ly/453EY8j",
-      "store": "IndieGala",
-      "price": 5.00,
-      "date": "2024-??",
-      "horizontal": true,
-      "status": 1,
-      "startDate": "",
-      "endDate": ""
-   },
-   {
       "adImp": null,
       "title": "LumbearJack",
       "image": "https://cdn1.epicgames.com/spt-assets/67b80cb431834a1fa1ec3e69ef2f83f1/lumbearjack-offer-13qa5.jpg?h=480&quality=medium&resize=1&w=854",
@@ -52,17 +39,32 @@
       "date": "2024-08-28"
    },
    {
-      "adImp": 11,
-      "title": "Steam Tower Defense Fest - Claim your free point shop items",
-      "image": "https://pbs.twimg.com/card_img/1817605945402298368/yXqNT27a?format=png&name=900x900",
-      "url": "https://bit.ly/4c6l4x1",
-      "store": "Steam",
+      "id": "//?SUB SCREEN////",
+      "adImp": null,
+      "horizontal": false,
+      "image": "https://cdn2.unrealengine.com/fortnite-myths-and-mortals-battle-pass-1920x1080-56228b70b9b3.jpg?h=480&quality=medium&resize=1&w=854",
+      "url": "https://www.google.com",
+      "title": "Fortnite",
+      "store": "",
       "price": 0.00,
+      "date": "??-08-2022",
       "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2024-08-05T17:00:00.000Z",
-      "date": "2024-08-05"
+      "startDate": "",
+      "endDate": ""
+   },
+   {
+      "id": "//?SUB SCREEN////",
+      "adImp": null,
+      "horizontal": "RateUs",
+      "image": "",
+      "url": "https://www.google.com",
+      "title": "RATEUS",
+      "store": "",
+      "price": 0.00,
+      "date": "??-08-2022",
+      "status": 1,
+      "startDate": "",
+      "endDate": ""
    },
    {
       "adImp": 3,
@@ -104,29 +106,14 @@
       "date": "2024-08-08"
    },
    {
-      "id": "//?SUB SCREEN////",
-      "adImp": null,
-      "horizontal": false,
-      "image": "https://cdn2.unrealengine.com/fortnite-myths-and-mortals-battle-pass-1920x1080-56228b70b9b3.jpg?h=480&quality=medium&resize=1&w=854",
-      "url": "https://www.google.com",
-      "title": "Fortnite",
-      "store": "",
-      "price": 0.00,
-      "date": "??-08-2022",
-      "status": 1,
-      "startDate": "",
-      "endDate": ""
-   },
-   {
-      "id": "//?SUB SCREEN////",
-      "adImp": null,
-      "horizontal": "RateUs",
-      "image": "",
-      "url": "https://www.google.com",
-      "title": "RATEUS",
-      "store": "",
-      "price": 0.00,
-      "date": "??-08-2022",
+      "adImp": 4,
+      "title": "Doug and Lily",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/8d4f1103-0ef0-4258-ba68-ab5b648ac157/prodmain/1695270529.png",
+      "url": "https://bit.ly/453EY8j",
+      "store": "IndieGala",
+      "price": 5.00,
+      "date": "2024-??",
+      "horizontal": true,
       "status": 1,
       "startDate": "",
       "endDate": ""
@@ -183,7 +170,6 @@
       "endDate": "2024-04-07T15:00:00.001Z",
       "date": "2024-??"
    },
-
    {
       "adImp": 11,
       "title": "Black Desert Online Kuku Pet Key Giveaway",
@@ -338,6 +324,19 @@
       "status": 4,
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "adImp": 11,
+      "title": "Steam Tower Defense Fest - Claim your free point shop items",
+      "image": "https://pbs.twimg.com/card_img/1817605945402298368/yXqNT27a?format=png&name=900x900",
+      "url": "https://bit.ly/4c6l4x1",
+      "store": "Steam",
+      "price": 0.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-08-05T17:00:00.000Z",
+      "date": "2024-08-05"
    },
    {
       "adImp": 4,
