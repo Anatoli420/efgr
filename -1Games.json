@@ -78,20 +78,6 @@
       "date": "2024-08-28"
    },
    {
-      "id": "//?SUB SCREEN////",
-      "adImp": null,
-      "horizontal": false,
-      "image": "https://cdn2.unrealengine.com/fortnite-myths-and-mortals-battle-pass-1920x1080-56228b70b9b3.jpg?h=480&quality=medium&resize=1&w=854",
-      "url": "https://www.google.com",
-      "title": "Fortnite",
-      "store": "",
-      "price": 0.00,
-      "date": "??-08-2022",
-      "status": 1,
-      "startDate": "",
-      "endDate": ""
-   },
-   {
       "adImp": 3,
       "title": "CYGNI",
       "image": "https://cdn1.epicgames.com/spt-assets/99e568930ad045a5a91b0b50ea3d5389/cygni--all-guns-blazing-1b886.jpg?h=270&quality=medium&resize=1&w=480",
@@ -129,6 +115,33 @@
       "startDate": "2024-08-08T15:00:00.000Z",
       "endDate": "2024-08-15T15:00:00.000Z",
       "date": "2024-08-08"
+   },
+   {
+      "adImp": null,
+      "title": "",
+      "image": "",
+      "url": "",
+      "price": 10.00,
+      "store": "",
+      "status": 1,
+      "horizontal": "slider",
+      "startDate": "2024-08-01T15:00:00.000Z",
+      "endDate": "2024-08-08T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "id": "//?SUB SCREEN////",
+      "adImp": null,
+      "horizontal": false,
+      "image": "https://cdn2.unrealengine.com/fortnite-myths-and-mortals-battle-pass-1920x1080-56228b70b9b3.jpg?h=480&quality=medium&resize=1&w=854",
+      "url": "https://www.google.com",
+      "title": "Fortnite",
+      "store": "",
+      "price": 0.00,
+      "date": "??-08-2022",
+      "status": 1,
+      "startDate": "",
+      "endDate": ""
    },
    {
       "id": "//?SUB SCREEN////",
@@ -214,19 +227,6 @@
       "title": "Black Desert Online Kuku Pet Key Giveaway",
       "image": "https://media.alienwarearena.com/media/28190d5b6e11dfa5259e7173bcb74ceb.jpg?fit=crop&width=720&height=405&quality=75?h=480&quality=medium&resize=1&w=854",
       "url": "https://bit.ly/4b1FSoC",
-      "store": "Alienware Arena",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-04-04T15:00:00.000Z",
-      "endDate": "2024-04-07T15:00:00.001Z",
-      "date": "2024-??"
-   },
-   {
-      "adImp": 11,
-      "title": "The Elder Scrolls Online: Pyromancer's Quandary Emote Key Giveaway",
-      "image": "https://media.alienwarearena.com/media/a1c392ae695998cc017cbada9d453152.jpg?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/3VBw00x",
       "store": "Alienware Arena",
       "price": 5.00,
       "status": 1,
@@ -363,6 +363,19 @@
       "status": 4,
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "adImp": 11,
+      "title": "The Elder Scrolls Online: Pyromancer's Quandary Emote Key Giveaway",
+      "image": "https://media.alienwarearena.com/media/a1c392ae695998cc017cbada9d453152.jpg?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/3VBw00x",
+      "store": "Alienware Arena",
+      "price": 5.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.001Z",
+      "date": "2024-??"
    },
    {
       "adImp": 11,
