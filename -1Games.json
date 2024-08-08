@@ -53,6 +53,19 @@
    },
    {
       "adImp": 4,
+      "title": "Apex Legends™",
+      "image": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-27abg.jpg",
+      "url": "https://bit.ly/4ddoUpb",
+      "price": 8.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-08-08T15:00:00.000Z",
+      "endDate": "2024-08-15T15:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 4,
       "title": "Apex Legends™: Conduit Free Unlock Bundle",
       "image": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-wfmde.jpg?h=480&quality=medium&resize=1&w=854",
       "url": "https://bit.ly/3Ws2n0Y",
