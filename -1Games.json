@@ -3,7 +3,7 @@
       "adImp": 11,
       "title": "Intravenous",
       "image": "https://images.gog-statics.com/ebbd9dccd2d23cd70e9b812afda6ba121429bdccb80f0b28f368162742bbf24e.jpg",
-      "url":"https://bit.ly/4dhANdK",
+      "url": "https://bit.ly/4dhANdK",
       "price": 13.00,
       "store": "GoG",
       "status": 1,
@@ -65,32 +65,6 @@
       "date": "2024-08-15"
    },
    {
-      "adImp": 4,
-      "title": "RAWMEN: Food Fighter Arena 🍜",
-      "image": "https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-10deg.png?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/3WymN8B",
-      "price": 10.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-08-01T15:00:00.000Z",
-      "endDate": "2024-08-08T15:00:00.000Z",
-      "date": "2024-08-08"
-   },
-   {
-      "adImp": null,
-      "title": "LumbearJack",
-      "image": "https://cdn1.epicgames.com/spt-assets/67b80cb431834a1fa1ec3e69ef2f83f1/lumbearjack-offer-13qa5.jpg?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/4bXGDj9",
-      "price": 8.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-08-01T15:00:00.000Z",
-      "endDate": "2024-08-08T15:00:00.000Z",
-      "date": "2024-08-08"
-   },
-   {
       "adImp": null,
       "title": "Drawful 2",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442070/header.jpg?t=1721927113",
@@ -105,32 +79,6 @@
    },
    {
       "adImp": 3,
-      "title": "CYGNI",
-      "image": "https://cdn1.epicgames.com/spt-assets/99e568930ad045a5a91b0b50ea3d5389/cygni--all-guns-blazing-1b886.jpg?h=270&quality=medium&resize=1&w=480",
-      "url": "https://bit.ly/46MZ89b",
-      "price": 27.00,
-      "store": "Epic Games",
-      "status": 3,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-08-08T15:00:00.000Z",
-      "endDate": "2024-08-15T15:00:00.000Z",
-      "date": "2024-08-08"
-   },
-   {
-      "adImp": 3,
-      "title": "DNF Duel",
-      "image": "https://cdn1.epicgames.com/spt-assets/98cdc7484b264021ad8a3a6e1e721989/dnf-duel-1alsy.jpg?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/48aEsYn",
-      "price": 60.00,
-      "store": "Epic Games",
-      "status": 3,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-08-08T15:00:00.000Z",
-      "endDate": "2024-08-15T15:00:00.000Z",
-      "date": "2024-08-08"
-   },
-   {
-      "adImp": 3,
       "title": "Death's Gambit: Afterlife",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356650/header.jpg?t=1669922537",
       "url": "https://bit.ly/3AhLezt",
@@ -138,7 +86,7 @@
       "store": "Epic Games",
       "status": 3,
       "horizontal": "fechasProgramadas",
-      "startDate":  "2024-08-15T15:00:00.000Z",
+      "startDate": "2024-08-15T15:00:00.000Z",
       "endDate": "2024-08-22T15:00:00.000Z",
       "date": ""
    },
@@ -151,7 +99,7 @@
       "store": "Epic Games",
       "status": 3,
       "horizontal": "fechasProgramadas",
-      "startDate":  "2024-08-15T15:00:00.000Z",
+      "startDate": "2024-08-15T15:00:00.000Z",
       "endDate": "2024-08-22T15:00:00.000Z",
       "date": ""
    },
@@ -402,6 +350,32 @@
       "status": 4,
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "adImp": 4,
+      "title": "RAWMEN: Food Fighter Arena 🍜",
+      "image": "https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-10deg.png?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/3WymN8B",
+      "price": 10.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-08-01T15:00:00.000Z",
+      "endDate": "2024-08-08T15:00:00.000Z",
+      "date": "2024-08-08"
+   },
+   {
+      "adImp": null,
+      "title": "LumbearJack",
+      "image": "https://cdn1.epicgames.com/spt-assets/67b80cb431834a1fa1ec3e69ef2f83f1/lumbearjack-offer-13qa5.jpg?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/4bXGDj9",
+      "price": 8.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-08-01T15:00:00.000Z",
+      "endDate": "2024-08-08T15:00:00.000Z",
+      "date": "2024-08-08"
    },
    {
       "adImp": 11,
