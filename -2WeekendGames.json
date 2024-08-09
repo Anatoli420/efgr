@@ -1,5 +1,30 @@
 [
-
+  {
+    "adImp": null,
+    "title": "The Elder Scrolls® Online: Free Play Event",
+    "image": "https://cdn1.epicgames.com/offer/27aa2ebdcda14b3bb8a669aab73ca55f/EGS_TheElderScrollsOnline_ZeniMaxOnlineStudios_S1_2560x1440-c6c2917d1d80ae3c0e6d78b92445496b?h=480&quality=medium&resize=1&w=854",
+    "url": "https://bit.ly/3VHANOp",
+    "store": "Epic Games",
+    "price": 5.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-08-19T16:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": null,
+    "title": "The Elder Scrolls® Online",
+    "image": "https://cdn1.epicgames.com/offer/27aa2ebdcda14b3bb8a669aab73ca55f/EGS_TheElderScrollsOnline_ZeniMaxOnlineStudios_S1_2560x1440-c6c2917d1d80ae3c0e6d78b92445496b?h=480&quality=medium&resize=1&w=854",
+    "url": "https://beth.games/3SIxX9q",
+    "store": "elderscrollsonline",
+    "price": 5.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-08-19T16:00:00.000Z",
+    "date": ""
+  },
   {
     "adImp": 5,
     "title": "An Amazing Wizard: Prologue Early Access Key Giveaway",
@@ -642,19 +667,6 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/306130/header_alt_assets_16.jpg?t=1711726556",
     "url": "https://bit.ly/3kdI7gD",
     "store": "Steam",
-    "price": 5.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-04-08T16:00:00.000Z",
-    "date": "2024-04-08"
-  },
-  {
-    "adImp": 4,
-    "title": "The Elder Scrolls® Online",
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/306130/header_alt_assets_16.jpg?t=1711726556",
-    "url": "https://bit.ly/3VHANOp",
-    "store": "Epic Games",
     "price": 5.00,
     "status": 2,
     "horizontal": true,
