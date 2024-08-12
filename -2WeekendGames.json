@@ -36,20 +36,7 @@
     "horizontal": true,
     "startDate": "2023-08-31T01:00:00.000Z",
     "endDate": "2024-08-04T16:00:00.001Z",
-    "date": "2024-08-04"
-  },
-  {
-    "adImp": 11,
-    "title": "IMMORTAL: Gates of Pyre® Playtest Key Giveaway",
-    "image": "https://media.alienwarearena.com/media/b36f13deb6e563cf202bc7122e5f8131.jpg?fit=crop&width=720&height=405&quality=75",
-    "url": "https://bit.ly/4fsov3Q",
-    "store": "Alienware Arena",
-    "price": 60.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2024-08-04T16:00:00.000Z",
-    "date": "2024-08-04"
+    "date": ""
   },
   {
     "adImp": null,
@@ -90,6 +77,19 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": 11,
+    "title": "IMMORTAL: Gates of Pyre® Playtest Key Giveaway",
+    "image": "https://media.alienwarearena.com/media/b36f13deb6e563cf202bc7122e5f8131.jpg?fit=crop&width=720&height=405&quality=75",
+    "url": "https://bit.ly/4fsov3Q",
+    "store": "Alienware Arena",
+    "price": 60.00,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2023-08-31T01:00:00.000Z",
+    "endDate": "2024-08-04T16:00:00.000Z",
+    "date": ""
   },
   {
     "adImp": null,
