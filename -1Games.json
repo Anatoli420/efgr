@@ -171,32 +171,6 @@
       "date": "2024-??"
    },
    {
-      "adImp": 5,
-      "title": "Minion Masters - Power UP",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101570/header.jpg?t=1721923409",
-      "url": "https://bit.ly/4dzQugr",
-      "store": "Steam",
-      "price": 9.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2024-08-01T13:00:00.000Z",
-      "date": "2024-08-01"
-   },
-   {
-      "adImp": 5,
-      "title": "Archaeogem",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092730/header.jpg?t=1715939863",
-      "url": "https://bit.ly/3xW8jXC",
-      "store": "GX.games",
-      "price": 6.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-07-11T15:00:00.000Z",
-      "endDate": "2024-07-26T06:00:00.000Z",
-      "date": "2024-07-26"
-   },
-   {
       "adImp": 4,
       "title": "Neverwinter Mountain of Flame Smoldering Cape Key Giveaway",
       "image": "https://media.alienwarearena.com/media/b7f004b9ae9279837e421a063e91956a.jpg?fit=crop&width=720&height=405&quality=75",
@@ -221,58 +195,6 @@
       "startDate": "2024-04-04T15:00:00.000Z",
       "endDate": "2024-04-07T15:00:00.001Z",
       "date": "2024-??"
-   },
-   {
-      "adImp": 3,
-      "title": "Discord Nitro",
-      "image": "https://cdn1.epicgames.com/offer/5f3c898b2a3244af99e9900e015717f8/UpdatedNitroLogo_1MB_2560x1440-c77a4693df3d7434672f6424b4550bf0?h=270&quality=medium&resize=1&w=480",
-      "url": "https://bit.ly/3BYpB4N",
-      "price": 5.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-05-23T15:00:00.000Z",
-      "endDate": "2024-06-13T15:00:00.000Z",
-      "date": "2024-06-13"
-   },
-   {
-      "adImp": 2,
-      "title": "Fall Guys - Soda Crown",
-      "image": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/fallguys-16x9_1920x1080-f16a98ba2b730d163816c4e163167bc1?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/4bqcw4y",
-      "price": 0.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-05-16T15:00:00.000Z",
-      "endDate": "2024-06-13T15:00:00.000Z",
-      "date": "2024-06-13"
-   },
-   {
-      "adImp": 2,
-      "title": "Overclocked Combo Pack",
-      "image": "https://cdn1.epicgames.com/offer/fn/EN_FNECO_29-40_OverclockedCombo_RMT_EGS_2560x1440_2560x1440-cb9d77dea65eb7cdc7ce7ab3d40fba9a?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/3UNTI8b",
-      "price": 0.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-05-16T15:00:00.000Z",
-      "endDate": "2024-05-23T15:00:00.001Z",
-      "date": "2024-??"
-   },
-   {
-      "adImp": 2,
-      "title": "Police Stories: Zombie Case",
-      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1329730/header.jpg?t=1713982630",
-      "url": "https://bit.ly/44ygKnY",
-      "store": "Steam",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-30T17:00:00.000Z",
-      "endDate": "2024-05-20T17:00:00.000Z",
-      "date": "2024-05-20"
    },
    {
       "adImp": 3,
@@ -337,6 +259,45 @@
       "status": 4,
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "adImp": 3,
+      "title": "Discord Nitro",
+      "image": "https://cdn1.epicgames.com/offer/5f3c898b2a3244af99e9900e015717f8/UpdatedNitroLogo_1MB_2560x1440-c77a4693df3d7434672f6424b4550bf0?h=270&quality=medium&resize=1&w=480",
+      "url": "https://bit.ly/3BYpB4N",
+      "price": 5.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-05-23T15:00:00.000Z",
+      "endDate": "2024-06-13T15:00:00.000Z",
+      "date": "2024-06-13"
+   },
+   {
+      "adImp": 2,
+      "title": "Overclocked Combo Pack",
+      "image": "https://cdn1.epicgames.com/offer/fn/EN_FNECO_29-40_OverclockedCombo_RMT_EGS_2560x1440_2560x1440-cb9d77dea65eb7cdc7ce7ab3d40fba9a?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/3UNTI8b",
+      "price": 0.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-05-16T15:00:00.000Z",
+      "endDate": "2024-05-23T15:00:00.001Z",
+      "date": "2024-??"
+   },
+   {
+      "adImp": 2,
+      "title": "Fall Guys - Soda Crown",
+      "image": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/fallguys-16x9_1920x1080-f16a98ba2b730d163816c4e163167bc1?h=480&quality=medium&resize=1&w=854",
+      "url": "https://bit.ly/4bqcw4y",
+      "price": 0.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-05-16T15:00:00.000Z",
+      "endDate": "2024-06-13T15:00:00.000Z",
+      "date": "2024-06-13"
    },
    {
       "adImp": 11,
@@ -430,6 +391,19 @@
       "date": "2024-08-01"
    },
    {
+      "adImp": 5,
+      "title": "Minion Masters - Power UP",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101570/header.jpg?t=1721923409",
+      "url": "https://bit.ly/4dzQugr",
+      "store": "Steam",
+      "price": 9.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-08-01T13:00:00.000Z",
+      "date": "2024-08-01"
+   },
+   {
       "adImp": 11,
       "title": "Pizza Hero",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202770/header.jpg?t=1719772655",
@@ -441,6 +415,19 @@
       "startDate": "2024-04-15T01:00:00.000Z",
       "endDate": "2024-07-27T13:00:00.000Z",
       "date": "2024-07-27"
+   },
+   {
+      "adImp": 5,
+      "title": "Archaeogem",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092730/header.jpg?t=1715939863",
+      "url": "https://bit.ly/3xW8jXC",
+      "store": "GX.games",
+      "price": 6.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-07-11T15:00:00.000Z",
+      "endDate": "2024-07-26T06:00:00.000Z",
+      "date": "2024-07-26"
    },
    {
       "adImp": null,
@@ -623,6 +610,19 @@
       "startDate": "2024-04-15T01:00:00.000Z",
       "endDate": "2024-06-27T17:00:00.000Z",
       "date": "2024-06-27"
+   },
+   {
+      "adImp": 2,
+      "title": "Police Stories: Zombie Case",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1329730/header.jpg?t=1713982630",
+      "url": "https://bit.ly/44ygKnY",
+      "store": "Steam",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-30T17:00:00.000Z",
+      "endDate": "2024-05-20T17:00:00.000Z",
+      "date": "2024-05-20"
    },
    {
       "adImp": 11,
