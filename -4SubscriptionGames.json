@@ -1,5 +1,70 @@
 [
     {
+        "adImp": null,
+        "title": "Baldur's Gate II: Enhanced Edition",
+        "image": "https://m.media-amazon.com/images/I/61QmjP2ciGL._FMwebp_.jpg",
+        "url": "https://amzn.to/4dpVuo7",
+        "store": "Amazon Gaming",
+        "price": 20.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-09-14T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": null,
+        "title": "Beholder 3",
+        "image": "https://m.media-amazon.com/images/I/61N7TR-OJCL._FMwebp_.jpg",
+        "url": "https://amzn.to/3STNUKe",
+        "store": "Amazon Gaming",
+        "price": 18.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-11-13T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 3,
+        "title": "En Garde!",
+        "image": "https://m.media-amazon.com/images/I/61n5TjDTA2L._FMwebp_.jpg",
+        "url": "https://amzn.to/3X5FC4f",
+        "store": "Amazon Gaming",
+        "price": 15.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-11-13T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 3,
+        "title": "Hard West 2",
+        "image": "https://m.media-amazon.com/images/I/71UouI64Z8L._FMwebp_.jpg",
+        "url": "https://amzn.to/3yx7BAC",
+        "store": "Amazon Gaming",
+        "price": 30.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-11-13T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 4,
+        "title": "Stray Gods: The Roleplaying Musical",
+        "image": "https://m.media-amazon.com/images/I/717Q7wERd1L._FMwebp_.jpg",
+        "url": "https://amzn.to/3YL2YNM",
+        "store": "Amazon Gaming",
+        "price": 21.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-11-13T15:00:00.000Z",
+        "date": ""
+    },
+    {
         "adImp": 4,
         "title": "Trek to Yomi",
         "image": "https://m.media-amazon.com/images/I/51aHFR7-iDL._FMwebp_.jpg",
@@ -208,7 +273,6 @@
         "endDate": "2024-08-17T15:00:00.000Z",
         "date": "2024-08-17"
     },
-
     {
         "adImp": null,
         "title": "Suicide Squad: Kill the Justice League",
