@@ -1,16 +1,29 @@
 [
    {
       "adImp": 3,
+      "title": "Intravenous",
+      "image": "https://images.gog-statics.com/ebbd9dccd2d23cd70e9b812afda6ba121429bdccb80f0b28f368162742bbf24e.jpg",
+      "url": "https://bit.ly/3X75Lj9",
+      "store": "Fanatical",
+      "price": 19.99,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-02-01T16:00:00.000Z",
+      "endDate": "2024-08-22T16:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 3,
       "title": "ConflictCraft 2 - Game of the Year Edition",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/3d207ccd-f184-4fef-bca5-79b1a141f92e/prodmain/1697728007.png",
       "url": "https://bit.ly/3QsFA36",
       "store": "IndieGala",
       "price": 5.00,
-      "date": "2024-??",
+      "date": "",
       "horizontal": true,
       "status": 1,
-      "startDate": "",
-      "endDate": ""
+      "startDate": "2024-02-01T16:00:00.000Z",
+      "endDate": "2024-08-22T16:00:00.001Z"
    },
    {
       "adImp": null,
