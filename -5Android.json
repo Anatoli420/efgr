@@ -8,9 +8,9 @@
         "price": 0.00,
         "horizontal": true,
         "status": 1,
-        "startDate": "2024-03-21T06:00:00.000Z",
+        "startDate": "2024-03-20T06:00:00.000Z",
         "endDate": "",
-        "date": "2024-03-21"
+        "date": "2024-03-20"
     },
     {
         "adImp": null,
@@ -45,7 +45,7 @@
         "url": "https://bit.ly/3LebGg8",
         "store": "Google Play",
         "price": 0.00,
-        "date": "2023",
+        "date": "2023-09-07",
         "adImp": 3,
         "horizontal": true,
         "status": 1,
