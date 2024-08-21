@@ -1,5 +1,31 @@
 [
    {
+      "adImp": null,
+      "title": "The Callisto Protocol",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/header.jpg?t=1711549418",
+      "url": "https://bit.ly/3AlVZ3I",
+      "price": 60.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-08-22T15:00:00.000Z",
+      "endDate": "2024-08-29T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": null,
+      "title": "Gigantic: Rampage Edition",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1924490/header.jpg?t=1717106915",
+      "url": "https://bit.ly/3AqXFsU",
+      "price": 20.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-08-22T15:00:00.000Z",
+      "endDate": "2024-08-29T15:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": 11,
       "title": "Steam Rhythm Fest - Claim your free point shop items",
       "image": "https://i.ytimg.com/vi/fpWpFqfqj4c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDQ2JTddIxTQHG3GFaFzI2uS4_Y0Q",
