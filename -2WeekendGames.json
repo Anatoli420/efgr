@@ -1,5 +1,44 @@
 [
   {
+    "adImp": 3,
+    "title": "Core Keeper",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg?t=1724226264",
+    "url": "https://bit.ly/3z1fmyG",
+    "store": "Steam",
+    "price": 10.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2023-08-31T01:00:00.000Z",
+    "endDate": "2024-08-26T16:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": 3,
+    "title": "HELLCARD",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201540/header.jpg?t=1724346857",
+    "url": "https://bit.ly/3WURSDA",
+    "store": "Steam",
+    "price": 10.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2023-08-31T01:00:00.000Z",
+    "endDate": "2024-08-26T16:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Splitgate 2 Playtest",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918300/header_alt_assets_0.jpg?t=1724244229",
+    "url": "https://bit.ly/3WVjlF2",
+    "store": "Steam",
+    "price": 60.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2023-08-31T01:00:00.000Z",
+    "endDate": "2024-08-25T16:00:00.000Z",
+    "date": ""
+  },
+  {
     "adImp": 11,
     "title": "Diablo® IV",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/header.jpg?t=1724262498",
@@ -20,9 +59,9 @@
     "store": "Steam",
     "price": 60.00,
     "status": 1,
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2024-08-29T16:00:00.001Z",
+    "endDate": "2024-09-03T16:00:00.000Z",
     "date": ""
   },
   {
