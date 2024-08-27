@@ -1,5 +1,31 @@
 [
     {
+        "adImp": 11,
+        "title": "LEGO The Lord of the Rings",
+        "image": "https://m.media-amazon.com/images/I/61Wvhu47tRL._FMwebp_.jpg",
+        "url": "https://amzn.to/4dY2xEi",
+        "store": "Amazon Gaming",
+        "price": 20.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-09-30T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": null,
+        "title": "Middle-earth: Shadow of Mordor - Game of the Year Edition",
+        "image": "https://m.media-amazon.com/images/I/61kFaFsJOzL._FMwebp_.jpg",
+        "url": "https://amzn.to/3AKdQBJ",
+        "store": "Amazon Gaming",
+        "price": 20.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-09-30T15:00:00.000Z",
+        "date": ""
+    },
+    {
         "adImp": null,
         "title": "KeyWe",
         "image": "https://m.media-amazon.com/images/I/71Ruz3g7L6L._FMwebp_.jpg",
