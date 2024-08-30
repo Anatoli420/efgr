@@ -1,6 +1,19 @@
 [
    {
       "adImp": 2,
+      "title": "Shinobi Shift",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/71389e18-c223-48a0-906b-77310921b289/prodmain/1686633033.png",
+      "url": "https://bit.ly/3Pbe4Ho",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-01-01T01:00:00.000Z",
+      "endDate": "2024-08-24T17:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 2,
       "title": "Hero of the Kingdom",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259550/header.jpg?t=1721036822",
       "url": "https://bit.ly/479B8wV",
