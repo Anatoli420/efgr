@@ -1,17 +1,5 @@
 [
-   {
-      "adImp": 2,
-      "title": "Shinobi Shift",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/71389e18-c223-48a0-906b-77310921b289/prodmain/1686633033.png",
-      "url": "https://bit.ly/3Pbe4Ho",
-      "store": "IndieGala",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-01-01T01:00:00.000Z",
-      "endDate": "2024-08-24T17:00:00.001Z",
-      "date": ""
-   },
+
    {
       "adImp": 2,
       "title": "Hero of the Kingdom",
@@ -51,19 +39,7 @@
       "endDate": "2024-09-05T15:00:00.000Z",
       "date": ""
    },
-   {
-      "adImp": 11,
-      "title": "Tropico 4",
-      "image": "https://store-images.s-microsoft.com/image/apps.65527.69042377234479507.20e6000a-5fbf-4e36-8421-20d6dc45da90.ce2b13e7-f11d-454f-9323-e950e7647774?q=90&w=480&h=270",
-      "url": "https://bit.ly/3YVOISD",
-      "price": 15.00,
-      "store": "GoG",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-01-01T15:00:00.000Z",
-      "endDate": "2024-08-29T13:00:00.000Z",
-      "date": ""
-   },
+
 
    {
       "adImp": 3,
@@ -133,6 +109,19 @@
       "endDate": ""
    },
    {
+      "adImp": 2,
+      "title": "Shinobi Shift",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/71389e18-c223-48a0-906b-77310921b289/prodmain/1686633033.png",
+      "url": "https://bit.ly/3Pbe4Ho",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-01-01T01:00:00.000Z",
+      "endDate": "2024-08-24T17:00:00.001Z",
+      "date": ""
+   },
+   {
       "adImp": 4,
       "title": "Gelu",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/c6bcb0ea-5b75-444b-90f0-b4d1709f01bd/prodmain/1704132925.png",
@@ -158,19 +147,7 @@
       "endDate": "2024-04-07T15:00:00.001Z",
       "date": ""
    },
-   {
-      "adImp": null,
-      "title": "Drawful 2",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442070/header.jpg?t=1721927113",
-      "url": "https://bit.ly/3SsEnt7",
-      "store": "Steam",
-      "price": 10.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2024-08-28T17:00:00.000Z",
-      "date": "2024-08-28"
-   },
+
    {
       "adImp": 11,
       "title": "Dead by Daylight 50k Bloodpoints Key Giveaway",
@@ -224,19 +201,6 @@
       "date": "2024-??"
    },
    {
-      "adImp": null,
-      "title": "The Elder Scrolls Online Grand Gold Coast Experience Scroll Key Giveaway",
-      "image": "https://media.alienwarearena.com/media/2d72ea8fd3da62cead68dbceac151e84.jpg?quality=75",
-      "url": "https://bit.ly/3TQKbwE",
-      "store": "Alienware Arena",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-04-04T15:00:00.000Z",
-      "endDate": "2024-04-07T15:00:00.001Z",
-      "date": "2024-04-??"
-   },
-   {
       "title": "REDES SOCIALES",
       "image": "",
       "url": "",
@@ -288,6 +252,19 @@
       "endDate": ""
    },
    {
+      "adImp": 11,
+      "title": "Tropico 4",
+      "image": "https://store-images.s-microsoft.com/image/apps.65527.69042377234479507.20e6000a-5fbf-4e36-8421-20d6dc45da90.ce2b13e7-f11d-454f-9323-e950e7647774?q=90&w=480&h=270",
+      "url": "https://bit.ly/3YVOISD",
+      "price": 15.00,
+      "store": "GoG",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-01-01T15:00:00.000Z",
+      "endDate": "2024-08-29T13:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": null,
       "title": "The Callisto Protocol",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/header.jpg?t=1711549418",
@@ -312,6 +289,19 @@
       "startDate": "2024-08-22T15:00:00.000Z",
       "endDate": "2024-08-29T15:00:00.000Z",
       "date": ""
+   },
+   {
+      "adImp": null,
+      "title": "Drawful 2",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442070/header.jpg?t=1721927113",
+      "url": "https://bit.ly/3SsEnt7",
+      "store": "Steam",
+      "price": 10.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-08-28T17:00:00.000Z",
+      "date": "2024-08-28"
    },
    {
       "adImp": 11,
