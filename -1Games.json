@@ -1,5 +1,44 @@
 [
    {
+      "adImp": 11,
+      "title": "Steam Space Exploration Fest - Claim your free point shop items",
+      "image": "https://i.ytimg.com/vi/ztTdDEA8uz4/maxresdefault.jpg",
+      "url": "https://bit.ly/3z2UNlI",
+      "store": "Steam",
+      "price": 0.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-09-09T13:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 11,
+      "title": "Hero of the Kingdom II",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346560/header.jpg?t=1721036861",
+      "url": "https://bit.ly/4e95yl9",
+      "store": "Microsoft Store",
+      "price": 8.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-09-09T11:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 3,
+      "title": "Townopolis",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462730/header.jpg?t=1721036678",
+      "url": "https://bit.ly/4e8paWO",
+      "store": "Microsoft Store",
+      "price": 8.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-09-08T11:00:00.001Z",
+      "date": ""
+   },
+   {
       "adImp": 3,
       "title": "Once Upon a Jester",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1668190/header.jpg?t=1725119651",
