@@ -1,5 +1,31 @@
 [
    {
+      "adImp": null,
+      "title": "Football Manager 2024",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252570/header.jpg?t=1702984758",
+      "url": "https://bit.ly/4dZ0qQD",
+      "price": 60.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-09-05T15:00:00.000Z",
+      "endDate": "2024-09-12T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": null,
+      "title": "Sniper Ghost Warrior Contracts",
+      "image": "https://images.gog-statics.com/a097900bad23d791770b69decf3b47931101fc439e62afd6ea7be9fc4e039c5f.jpg",
+      "url": "https://bit.ly/3X6NiC1",
+      "price": 30.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-09-05T15:00:00.000Z",
+      "endDate": "2024-09-12T15:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": 11,
       "title": "Steam Space Exploration Fest - Claim your free point shop items",
       "image": "https://i.ytimg.com/vi/ztTdDEA8uz4/maxresdefault.jpg",
