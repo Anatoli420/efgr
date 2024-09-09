@@ -1,6 +1,19 @@
 [
    {
       "adImp": null,
+      "title": "Astronarch",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234940/header.jpg?t=1725088863",
+      "url": "https://bit.ly/4dYdsOI",
+      "price": 15.00,
+      "store": "Fanatical",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-09-05T15:00:00.000Z",
+      "endDate": "2024-09-13T23:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": null,
       "title": "Oniken: Unstoppable Edition",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/5ac17de6-28ba-4557-9938-9553ee4b8096/prodmain/1703584162.png",
       "url": "https://bit.ly/3vh9Zt6",
@@ -13,7 +26,7 @@
       "date": ""
    },
    {
-      "adImp": null,
+      "adImp": 11,
       "title": "Football Manager 2024",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252570/header.jpg?t=1702984758",
       "url": "https://bit.ly/4dZ0qQD",
@@ -26,7 +39,7 @@
       "date": ""
    },
    {
-      "adImp": 11,
+      "adImp": 3,
       "title": "Sniper Ghost Warrior Contracts",
       "image": "https://images.gog-statics.com/a097900bad23d791770b69decf3b47931101fc439e62afd6ea7be9fc4e039c5f.jpg",
       "url": "https://bit.ly/3X6NiC1",
@@ -36,84 +49,6 @@
       "horizontal": "fechasProgramadas",
       "startDate": "2024-09-05T15:00:00.000Z",
       "endDate": "2024-09-12T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 11,
-      "title": "Steam Space Exploration Fest - Claim your free point shop items",
-      "image": "https://i.ytimg.com/vi/ztTdDEA8uz4/maxresdefault.jpg",
-      "url": "https://bit.ly/3z2UNlI",
-      "store": "Steam",
-      "price": 0.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2024-09-09T13:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 11,
-      "title": "Hero of the Kingdom II",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346560/header.jpg?t=1721036861",
-      "url": "https://bit.ly/4e95yl9",
-      "store": "Microsoft Store",
-      "price": 8.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2024-09-09T11:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 3,
-      "title": "Townopolis",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462730/header.jpg?t=1721036678",
-      "url": "https://bit.ly/4e8paWO",
-      "store": "Microsoft Store",
-      "price": 8.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2024-09-08T11:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 3,
-      "title": "Once Upon a Jester",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1668190/header.jpg?t=1725119651",
-      "url": "https://bit.ly/4g2DUZ7",
-      "price": 6.00,
-      "store": "GoG",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-01-01T15:00:00.000Z",
-      "endDate": "2024-09-05T13:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": null,
-      "title": "Wild Card Football",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206370/header.jpg?t=1714230705",
-      "url": "https://bit.ly/3yPU72P",
-      "price": 30.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-08-29T15:00:00.000Z",
-      "endDate": "2024-09-05T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": null,
-      "title": "Fallout® Classic Collection",
-      "image": "https://s3.amazonaws.com/i.snag.gy/Cj81RB.jpg",
-      "url": "https://bit.ly/3Mex1pV",
-      "price": 30.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-08-29T15:00:00.000Z",
-      "endDate": "2024-09-05T15:00:00.000Z",
       "date": ""
    },
    {
@@ -298,6 +233,84 @@
       "status": 4,
       "startDate": "",
       "endDate": ""
+   },
+   {
+      "adImp": null,
+      "title": "Wild Card Football",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206370/header.jpg?t=1714230705",
+      "url": "https://bit.ly/3yPU72P",
+      "price": 30.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-08-29T15:00:00.000Z",
+      "endDate": "2024-09-05T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": null,
+      "title": "Fallout® Classic Collection",
+      "image": "https://s3.amazonaws.com/i.snag.gy/Cj81RB.jpg",
+      "url": "https://bit.ly/3Mex1pV",
+      "price": 30.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-08-29T15:00:00.000Z",
+      "endDate": "2024-09-05T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 11,
+      "title": "Steam Space Exploration Fest - Claim your free point shop items",
+      "image": "https://i.ytimg.com/vi/ztTdDEA8uz4/maxresdefault.jpg",
+      "url": "https://bit.ly/3z2UNlI",
+      "store": "Steam",
+      "price": 0.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-09-09T13:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 11,
+      "title": "Hero of the Kingdom II",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346560/header.jpg?t=1721036861",
+      "url": "https://bit.ly/4e95yl9",
+      "store": "Microsoft Store",
+      "price": 8.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-09-09T11:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 3,
+      "title": "Townopolis",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462730/header.jpg?t=1721036678",
+      "url": "https://bit.ly/4e8paWO",
+      "store": "Microsoft Store",
+      "price": 8.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-09-08T11:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 3,
+      "title": "Once Upon a Jester",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1668190/header.jpg?t=1725119651",
+      "url": "https://bit.ly/4g2DUZ7",
+      "price": 6.00,
+      "store": "GoG",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-01-01T15:00:00.000Z",
+      "endDate": "2024-09-05T13:00:00.000Z",
+      "date": ""
    },
    {
       "adImp": 11,
