@@ -1,5 +1,18 @@
 [
    {
+      "adImp": 2,
+      "title": "Hero of the Kingdom: The Lost Tales 1",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249130/header.jpg?t=1721036943",
+      "url": "https://bit.ly/3Xwxj0f",
+      "store": "Microsoft Store",
+      "price": 7.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-15T18:00:00.000Z",
+      "endDate": "2024-09-16T18:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": 11,
       "title": "Steam Planes, Trains and Automobiles Fest - Claim your free point shop items",
       "image": "https://clan.akamai.steamstatic.com/images/41316928/af98d68baf15704eefef6e3b2c7cf53504a77138.jpg",
@@ -13,7 +26,7 @@
       "date": ""
    },
    {
-      "adImp": null,
+      "adImp": 11,
       "title": "Dashy Square",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/f0b6d2af-c5d5-4122-8e2c-ed8673c35f88/prodmain/1707495491.png",
       "url": "https://bit.ly/48awqxL",
@@ -347,8 +360,8 @@
       "price": 8.00,
       "status": 2,
       "horizontal": true,
-      "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2024-09-09T11:00:00.000Z",
+      "startDate": "2024-04-15T18:00:00.000Z",
+      "endDate": "2024-09-16T18:00:00.000Z",
       "date": ""
    },
    {
@@ -399,8 +412,8 @@
       "price": 8.00,
       "status": 2,
       "horizontal": true,
-      "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2024-09-01T17:00:00.000Z",
+      "startDate": "2024-04-15T18:00:00.000Z",
+      "endDate": "2024-09-16T18:00:00.000Z",
       "date": ""
    },
    {
