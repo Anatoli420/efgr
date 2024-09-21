@@ -1,6 +1,19 @@
 [
   {
     "adImp": null,
+    "title": "Diablo IV",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2344520/header.jpg?t=1700156680",
+    "url": "https://bit.ly/3yjBwvw",
+    "store": "Battle.net",
+    "price": 45.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-08T01:00:00.000Z",
+    "endDate": "2024-09-23T16:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": null,
     "title": "Forza Horizon 5",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1725950938",
     "url": "https://bit.ly/45A8RgT",
@@ -13,7 +26,7 @@
     "date": ""
   },
   {
-    "adImp": null,
+    "adImp": 11,
     "title": "DUCKSIDE Playtest",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682580/header_alt_assets_1.jpg?t=1726243296",
     "url": "https://bit.ly/47wmIqP",
@@ -683,19 +696,6 @@
     "url": "https://bit.ly/3WMNWGA",
     "store": "Steam",
     "price": 1.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-05-20T16:00:00.000Z",
-    "date": "2024-05-20"
-  },
-  {
-    "adImp": 3,
-    "title": "Diablo IV",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2344520/header.jpg?t=1700156680",
-    "url": "https://bit.ly/3yjBwvw",
-    "store": "Battle.net",
-    "price": 45.00,
     "status": 2,
     "horizontal": true,
     "startDate": "2024-02-08T01:00:00.000Z",
