@@ -1,6 +1,19 @@
 [
   {
     "adImp": null,
+    "title": "Wild Planet Demo Key Giveaway",
+    "image": "https://media.alienwarearena.com/media/99c06c9538d7f11de675aad7692fc3d6.jpg?fit=crop&width=720&height=405&quality=75",
+    "url": "https://bit.ly/3MYRdwi",
+    "store": "Alienware Arena",
+    "price": 15.00,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2024-04-07T15:00:00.001Z",
+    "date": ""
+  },
+  {
+    "adImp": null,
     "title": "Squad",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/header_alt_assets_2.jpg?t=1727372738",
     "url": "https://bit.ly/3TrOtIH",
@@ -13,7 +26,7 @@
     "date": ""
   },
   {
-    "adImp": null,
+    "adImp": 11,
     "title": "Cross Blitz",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/header.jpg?t=1727370032",
     "url": "https://bit.ly/4eFYGMm",
