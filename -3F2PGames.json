@@ -1,6 +1,19 @@
 [
   {
-    "adImp": 11,
+    "adImp": null,
+    "title": "THRONE AND LIBERTY",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429640/header.jpg?t=1727802088",
+    "url": "https://bit.ly/4fn1tvk",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0.00,
+    "endDate": "",
+    "date": "",
+    "startDate": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "adImp": null,
     "title": "Faaast Penguin",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2590150/header.jpg?t=1726806162",
     "url": "https://bit.ly/3XP79r7",
@@ -13,7 +26,7 @@
     "startDate": "2024-09-19T07:00:00.000Z"
   },
   {
-    "adImp": 11,
+    "adImp":3,
     "title": "Farmer Against Potatoes Idle",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1535560/header.jpg?t=1725535750",
     "url": "https://bit.ly/4dUJkDZ",
@@ -26,7 +39,7 @@
     "startDate": "2024-09-05T07:00:00.000Z"
   },
   {
-    "adImp": 2,
+    "adImp": 3,
     "title": "Spectre Divide",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2641470/header.jpg?t=1725384086",
     "url": "https://bit.ly/47fOAPN",
@@ -39,7 +52,7 @@
     "startDate": "2024-09-03T07:00:00.000Z"
   },
   {
-    "adImp": 2,
+    "adImp": 3,
     "title": "Grand Fantasia : ORIGIN",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010230/header.jpg?t=1725258511",
     "url": "https://bit.ly/3XqAWWR",
@@ -52,7 +65,7 @@
     "startDate": "2024-09-02T07:00:00.000Z"
   },
   {
-    "adImp": 3,
+    "adImp": 1,
     "title": "Predecessor",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/961200/header.jpg?t=1724180059",
     "url": "https://bit.ly/4cLh7PP",
@@ -65,7 +78,7 @@
     "startDate": "2024-08-20T07:00:00.000Z"
   },
   {
-    "adImp": 3,
+    "adImp": 1,
     "title": "Stormgate",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2012510/header.jpg?t=1723574158",
     "url": "https://bit.ly/4fO5QQ2",
@@ -78,7 +91,7 @@
     "startDate": "2024-07-30T07:00:00.000Z"
   },
   {
-    "adImp": null,
+    "adImp": 1,
     "title": "TCG Card Shop Simulator: Prologue",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103840/header.jpg?t=1722962438",
     "url": "https://bit.ly/3Ma1fu8",
