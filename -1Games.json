@@ -1,5 +1,18 @@
 [
    {
+      "adImp": null,
+      "title": "Bear and Breakfast",
+      "image": "https://cdn1.epicgames.com/spt-assets/9f8b082e3cf84425be6aa563f0ddc2a0/bear-and-breakfast-offer-1ck44.jpg?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/3MZOouL",
+      "price": 15.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-10-03T15:00:00.000Z",
+      "endDate": "2024-10-10T15:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": 11,
       "title": "Steam Turn-Based RPG Fest - Claim your free point shop items",
       "image": "https://i.ytimg.com/vi/mrXOKZLv1DE/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGBEgZShlMA8=&rs=AOn4CLD5vCSWJcaAG2IT385qJMIDMigzQA",
