@@ -1,6 +1,19 @@
 [
    {
       "adImp": null,
+      "title": "Whispering Willows",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288060/header.jpg?t=1722450177",
+      "url": "https://bit.ly/3zSv27S",
+      "price": 6.00,
+      "store": "GoG",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-01-01T15:00:00.000Z",
+      "endDate": "2024-10-06T13:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": null,
       "title": "Bear and Breakfast",
       "image": "https://cdn1.epicgames.com/spt-assets/9f8b082e3cf84425be6aa563f0ddc2a0/bear-and-breakfast-offer-1ck44.jpg?resize=1&w=854&h=480&quality=medium",
       "url": "https://bit.ly/3MZOouL",
