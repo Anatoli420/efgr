@@ -1,6 +1,19 @@
 [
   {
     "adImp": null,
+    "title": "STRIDEN Demo Key Giveaway",
+    "image": "https://media.alienwarearena.com/media/ef6756bb1fa85b6a7075c3a51e02aba2.jpg?fit=crop&width=720&height=405&quality=75",
+    "url": "https://bit.ly/3Y1BHF4" ,
+    "store": "Alienware Arena",
+    "price": 10.00,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2024-04-07T15:00:00.001Z",
+    "date": ""
+  },
+  {
+    "adImp": null,
     "title": "PowerWash Simulator",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/header.jpg?t=1728567262",
     "url": "https://bit.ly/3NkSn5h",
@@ -13,7 +26,7 @@
     "date": ""
   },
   {
-    "adImp": null,
+    "adImp": 11,
     "title": "Kingdom Two Crowns",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/header.jpg?t=1728390754",
     "url": "https://bit.ly/3Y4LQRa",
@@ -26,7 +39,7 @@
     "date": ""
   },
   {
-    "adImp": 1,
+    "adImp": 11,
     "title": "Fast Food Simulator: Prologue",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3099020/header.jpg?t=1728298045",
     "url": "https://bit.ly/3Y24GbF",
@@ -39,7 +52,7 @@
     "date": ""
   },
   {
-    "adImp": 1,
+    "adImp": 11,
     "title": "Wild Planet Demo Key Giveaway",
     "image": "https://media.alienwarearena.com/media/99c06c9538d7f11de675aad7692fc3d6.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://bit.ly/3MYRdwi",
@@ -52,7 +65,7 @@
     "date": ""
   },
   {
-    "adImp": 11,
+    "adImp": 3,
     "title": "Lost in Prayer Closed Beta Key Giveaway",
     "image": "https://media.alienwarearena.com/media/cd29e83b30857b1d25f9480e7bab020f.jpg?quality=75",
     "url": "https://bit.ly/4dVUvwa",
@@ -65,7 +78,7 @@
     "date": ""
   },
   {
-    "adImp": 5,
+    "adImp": 3,
     "title": "An Amazing Wizard: Prologue Early Access Key Giveaway",
     "image": "https://media.alienwarearena.com/media/49d26db95d77d933288eb4098117aeee.jpg?quality=75",
     "url": "https://bit.ly/4d8uMzY",
@@ -92,7 +105,7 @@
     "endDate": ""
   },
   {
-    "adImp": null,
+    "adImp": 6,
     "title": "Squad",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/header_alt_assets_2.jpg?t=1727372738",
     "url": "https://bit.ly/3TrOtIH",
@@ -105,7 +118,7 @@
     "date": ""
   },
   {
-    "adImp": 11,
+    "adImp": 6,
     "title": "Cross Blitz",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/header.jpg?t=1727370032",
     "url": "https://bit.ly/4eFYGMm",
@@ -118,7 +131,7 @@
     "date": ""
   },
   {
-    "adImp": 11,
+    "adImp": 6,
     "title": "Shapelab 2024",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571890/header.jpg?t=1727110725",
     "url": "https://bit.ly/3N1LqG5",
