@@ -1,5 +1,4 @@
 [
-
   {
     "adImp": null,
     "title": "PowerWash Simulator",
@@ -37,19 +36,6 @@
     "horizontal": "fechasProgramadas",
     "startDate": "2023-08-31T01:00:00.000Z",
     "endDate": "2024-10-21T17:00:00.000Z",
-    "date": ""
-  },
-  {
-    "adImp": 11,
-    "title": "Wild Planet Demo Key Giveaway",
-    "image": "https://media.alienwarearena.com/media/99c06c9538d7f11de675aad7692fc3d6.jpg?fit=crop&width=720&height=405&quality=75",
-    "url": "https://bit.ly/3MYRdwi",
-    "store": "Alienware Arena",
-    "price": 15.00,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "endDate": "2024-04-07T15:00:00.001Z",
     "date": ""
   },
   {
@@ -93,10 +79,23 @@
     "endDate": ""
   },
   {
+    "adImp": 11,
+    "title": "Wild Planet Demo Key Giveaway",
+    "image": "https://media.alienwarearena.com/media/99c06c9538d7f11de675aad7692fc3d6.jpg?fit=crop&width=720&height=405&quality=75",
+    "url": "https://bit.ly/3MYRdwi",
+    "store": "Alienware Arena",
+    "price": 15.00,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2024-04-07T15:00:00.001Z",
+    "date": ""
+  },
+  {
     "adImp": null,
     "title": "STRIDEN Demo Key Giveaway",
     "image": "https://media.alienwarearena.com/media/ef6756bb1fa85b6a7075c3a51e02aba2.jpg?fit=crop&width=720&height=405&quality=75",
-    "url": "https://bit.ly/3Y1BHF4" ,
+    "url": "https://bit.ly/3Y1BHF4",
     "store": "Alienware Arena",
     "price": 10.00,
     "status": 2,
