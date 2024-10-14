@@ -1,17 +1,5 @@
 [
-  {
-    "adImp": null,
-    "title": "STRIDEN Demo Key Giveaway",
-    "image": "https://media.alienwarearena.com/media/ef6756bb1fa85b6a7075c3a51e02aba2.jpg?fit=crop&width=720&height=405&quality=75",
-    "url": "https://bit.ly/3Y1BHF4" ,
-    "store": "Alienware Arena",
-    "price": 10.00,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "endDate": "2024-04-07T15:00:00.001Z",
-    "date": ""
-  },
+
   {
     "adImp": null,
     "title": "PowerWash Simulator",
@@ -103,6 +91,19 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": null,
+    "title": "STRIDEN Demo Key Giveaway",
+    "image": "https://media.alienwarearena.com/media/ef6756bb1fa85b6a7075c3a51e02aba2.jpg?fit=crop&width=720&height=405&quality=75",
+    "url": "https://bit.ly/3Y1BHF4" ,
+    "store": "Alienware Arena",
+    "price": 10.00,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2024-04-07T15:00:00.001Z",
+    "date": ""
   },
   {
     "adImp": 6,
