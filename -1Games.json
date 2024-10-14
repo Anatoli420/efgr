@@ -1,5 +1,4 @@
 [
-
    {
       "adImp": null,
       "title": "Viking Rise Game Pack Key Giveaway",
@@ -50,19 +49,6 @@
       "horizontal": "fechasProgramadas",
       "startDate": "2024-10-10T15:00:00.000Z",
       "endDate": "2024-10-17T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 3,
-      "title": "Castle Break",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1018130/header.jpg?t=1727210421",
-      "url": "https://bit.ly/3XSs4s8",
-      "store": "Steam",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2024-10-13T17:00:00.000Z",
       "date": ""
    },
    {
@@ -146,6 +132,19 @@
       "date": ""
    },
    {
+      "adImp": null,
+      "title": "Zombies Killer Machine",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/994d0610-00a7-4c86-9c0e-ffbc73eed1b2/prodmain/1698074273.png",
+      "url": "https://bit.ly/45I3xIb",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.001Z",
+      "date": ""
+   },
+   {
       "adImp": 3,
       "title": "Magic: The Gathering Arena Dinosaur Deck Key Giveaway",
       "image": "https://media.alienwarearena.com/media/7d53d4c5a11e696f0b6b8c159233bb05.jpg?quality=75",
@@ -164,6 +163,19 @@
       "image": "https://media.alienwarearena.com/media/f8200f74d75300bff24d656f91b15413.png?fit=crop&width=720&height=405&quality=75",
       "url": "https://bit.ly/4gCpAGJ",
       "store": "Alienware Arena",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": null,
+      "title": "Extreme Racing on Highway",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/994d0610-00a7-4c86-9c0e-ffbc73eed1b2/prodmain/1698074273.png",
+      "url": "https://bit.ly/3tnLUwC",
+      "store": "IndieGala",
       "price": 5.00,
       "status": 1,
       "horizontal": true,
@@ -262,13 +274,26 @@
       "endDate": ""
    },
    {
+      "adImp": 3,
+      "title": "Castle Break",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1018130/header.jpg?t=1727210421",
+      "url": "https://bit.ly/3XSs4s8",
+      "store": "Steam",
+      "price": 5.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-10-13T17:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": null,
       "title": "THRONE AND LIBERTY Leveling Log Pass Key Giveaway",
       "image": "https://media.alienwarearena.com/media/8a679d3b22796878621694f2803a327e.jpg?fit=crop&width=720&height=405&quality=75",
       "url": "https://bit.ly/3zWwHcD",
       "store": "Alienware Arena",
       "price": 5.00,
-      "status":2,
+      "status": 2,
       "horizontal": true,
       "startDate": "2024-04-04T15:00:00.000Z",
       "endDate": "2024-04-07T15:00:00.001Z",
