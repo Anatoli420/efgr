@@ -10,7 +10,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2024-10-15T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 11,
@@ -22,7 +22,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2024-03-20T06:00:00.000Z",
-        "endDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z",
         "date": ""
     },
     {
@@ -37,7 +37,7 @@
         "date": "",
         "status": 1,
         "startDate": "",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 11,
@@ -50,7 +50,7 @@
         "status": 1,
         "date": "",
         "startDate": "2017-11-23T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 2,
@@ -61,7 +61,7 @@
         "price": 0.00,
         "horizontal": true,
         "status": 1,
-        "endDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z",
         "date": "",
         "startDate": "2016-10-07T06:00:00.000Z"
     },
@@ -76,7 +76,7 @@
         "status": 1,
         "date": "",
         "startDate": "2024-09-09T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 3,
@@ -87,7 +87,7 @@
         "price": 0.00,
         "horizontal": true,
         "status": 1,
-        "endDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z",
         "date": "",
         "startDate": "2014-07-16T06:00:00.000Z"
     },
@@ -101,7 +101,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2024-03-21T06:00:00.000Z",
-        "endDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z",
         "date": ""
     },
     {
@@ -114,7 +114,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2024-03-20T06:00:00.000Z",
-        "endDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z",
         "date": ""
     },
     {
@@ -129,7 +129,7 @@
         "date": "",
         "status": 1,
         "startDate": "",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "eFootball™ 2024",
@@ -142,7 +142,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2017-05-23T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -154,7 +154,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2015-05-04T06:00:00.000Z",
-        "endDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z",
         "date": ""
     },
     {
@@ -167,7 +167,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2021-10-03T06:00:00.000Z",
-        "endDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z",
         "date": ""
     },
     {
@@ -181,7 +181,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2019-10-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Stumble Guys",
@@ -194,7 +194,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2020-09-24T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "SILENT HILL: Ascension",
@@ -207,7 +207,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2023-10-31T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 5,
@@ -219,7 +219,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2024-06-24T06:00:00.000Z",
-        "endDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z",
         "date": ""
     },
     {
@@ -233,7 +233,7 @@
         "status": 1,
         "horizontal": true,
         "startDate": "2015-08-12T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Hero Z",
@@ -246,7 +246,7 @@
         "adImp": 3,
         "horizontal": true,
         "startDate": "2020-10-10T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 4,
@@ -259,7 +259,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2024-02-19T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -271,7 +271,7 @@
         "status": 1,
         "price": 0.00,
         "date": "",
-        "endDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z",
         "startDate": "2024-04-22T06:00:00.000Z"
     },
     {
@@ -285,7 +285,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2023-09-11T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "KartRider: Drift",
@@ -298,7 +298,7 @@
         "adImp": null,
         "horizontal": true,
         "startDate": "2023-01-09T19:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 4,
@@ -311,7 +311,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2018-06-13T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "id": "//?SUB SCREEN////",
@@ -336,7 +336,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2023-09-12T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -349,7 +349,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Warcraft Rumble",
@@ -362,7 +362,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2023-11-23T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Flash Party",
@@ -375,7 +375,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2023-01-05T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "IdleOn - Idle Game MMO",
@@ -388,7 +388,7 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2020-11-09T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "id": "//?SUB SCREEN////",
@@ -402,7 +402,7 @@
         "date": "",
         "status": 4,
         "startDate": "",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -415,7 +415,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 2,
@@ -428,7 +428,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 1,
@@ -441,7 +441,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -493,7 +493,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -506,7 +506,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -545,7 +545,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -558,7 +558,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 2,
@@ -571,7 +571,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -584,7 +584,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 11,
@@ -597,7 +597,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 2,
@@ -610,7 +610,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 4,
@@ -623,7 +623,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -636,7 +636,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 5,
@@ -649,7 +649,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 11,
@@ -662,7 +662,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 11,
@@ -675,7 +675,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 5,
@@ -688,7 +688,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 11,
@@ -701,7 +701,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 2,
@@ -714,7 +714,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -727,7 +727,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -740,7 +740,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 5,
@@ -766,7 +766,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 2,
@@ -779,7 +779,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 5,
@@ -805,7 +805,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 2,
@@ -818,7 +818,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -831,7 +831,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -844,7 +844,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 1,
@@ -857,7 +857,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 5,
@@ -883,7 +883,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 4,
@@ -896,7 +896,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 11,
@@ -948,7 +948,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 3,
@@ -961,7 +961,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 2,
@@ -1000,7 +1000,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -1013,7 +1013,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -1026,7 +1026,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": null,
@@ -1052,7 +1052,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 3,
@@ -1065,7 +1065,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 2,
@@ -1078,7 +1078,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 5,
@@ -1091,7 +1091,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 2,
@@ -1104,7 +1104,7 @@
         "status": 2,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Theme Solitaire Tripeaks Tri T",
@@ -1117,7 +1117,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Grow Dungeon Hero VIP",
@@ -1130,7 +1130,7 @@
         "adImp": null,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Stickman Master Premium",
@@ -1143,7 +1143,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Secret Tower VIP (IDLE RPG)",
@@ -1156,7 +1156,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "CARTOON CRAFT",
@@ -1169,7 +1169,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Stickman Warriors Super Heroes",
@@ -1182,7 +1182,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Evertale",
@@ -1195,7 +1195,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Stickman Warriors Dragon Hero",
@@ -1208,7 +1208,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Grow Heroes VIP",
@@ -1221,7 +1221,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Bricks Breaker Pro",
@@ -1234,7 +1234,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Pixel Blade M VIP : Season 6",
@@ -1247,7 +1247,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Kingdom War Premium TD Offline",
@@ -1260,7 +1260,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Empire Warriors - Offline Game",
@@ -1273,7 +1273,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Grow Zombie VIP : Merge Zombie",
@@ -1312,7 +1312,7 @@
         "adImp": null,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Stickman Legends: Shadow War",
@@ -1325,7 +1325,7 @@
         "adImp": null,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Lowriders Comeback 2: Cruising",
@@ -1338,7 +1338,7 @@
         "adImp": null,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Space Shooter: Galaxy Attack",
@@ -1364,7 +1364,7 @@
         "adImp": null,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "World War 3 - Tower Defense",
@@ -1377,7 +1377,7 @@
         "adImp": null,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "SPHAZE: Sci-fi puzzle game",
@@ -1390,7 +1390,7 @@
         "adImp": null,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Rogue Hearts",
@@ -1403,7 +1403,7 @@
         "adImp": null,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Cytus II",
@@ -1416,7 +1416,7 @@
         "adImp": null,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Shuriken Jump",
@@ -1429,7 +1429,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Legacy 3 - The Hidden Relic",
@@ -1442,7 +1442,7 @@
         "adImp": null,
         "horizontal": true,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Trojan War Premium",
@@ -1455,7 +1455,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Demon Hunter: Premium",
@@ -1468,7 +1468,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Magnet Balls 2",
@@ -1481,7 +1481,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Final Castle Defence:Idle RPG",
@@ -1494,7 +1494,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Live or Die: Survival Pro",
@@ -1507,7 +1507,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "Dungeon999",
@@ -1520,7 +1520,7 @@
         "horizontal": true,
         "status": 2,
         "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": ""
+        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "title": "BATTLE CRUSH BETA",
