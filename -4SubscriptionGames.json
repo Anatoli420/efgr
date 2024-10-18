@@ -1,5 +1,57 @@
 [
     {
+        "adImp": 11,
+        "title": "Killing Floor 2",
+        "image": "https://m.media-amazon.com/images/I/61mqUqAUJJL._FMwebp_.jpg",
+        "url": "https://amzn.to/4f3upY0",
+        "store": "Amazon Gaming",
+        "price": 30.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-12-18T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 11,
+        "title": "Through the Darkest of Times",
+        "image": "https://m.media-amazon.com/images/I/61TMmFiX7RL._FMwebp_.jpg",
+        "url": "https://amzn.to/4dPXt4q",
+        "store": "Amazon Gaming",
+        "price": 15.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2025-01-15T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 4,
+        "title": "Vlad Circus: Descend Into Madness",
+        "image": "https://m.media-amazon.com/images/I/61cgQwjVOML._FMwebp_.jpg",
+        "url": "https://amzn.to/4eLuEat",
+        "store": "Amazon Gaming",
+        "price": 20.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-10-31T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 4,
+        "title": "Zombies Ate My Neighbors and Ghoul Patrol",
+        "image": "https://m.media-amazon.com/images/I/61srVGNVsnL._FMwebp_.jpg",
+        "url": "https://amzn.to/4eMPVkh",
+        "store": "Amazon Gaming",
+        "price": 15.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-11-20T15:00:00.000Z",
+        "date": ""
+    },
+    {
         "adImp": 3,
         "title": "DOOM Eternal",
         "image": "https://m.media-amazon.com/images/I/71dBSw0a0OL._FMwebp_.jpg",
