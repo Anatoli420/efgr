@@ -1,5 +1,17 @@
 [
-
+  {
+    "adImp": 11,
+    "title": "Europa Universalis IV",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/236850/header_alt_assets_2.jpg?t=1729185149",
+    "url": "https://bit.ly/3dcL4OI",
+    "store": "Steam",
+    "price": 5.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2023-08-31T01:00:00.000Z",
+    "endDate": "2024-10-23T17:00:00.000Z",
+    "date": ""
+  },
   {
     "adImp": 11,
     "title": "Delta Force - Demo",
@@ -77,19 +89,6 @@
     "horizontal": true,
     "startDate": "2023-08-31T01:00:00.000Z",
     "endDate": "2024-10-21T17:00:00.001Z",
-    "date": ""
-  },
-  {
-    "adImp": 11,
-    "title": "Europa Universalis IV",
-    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/236850/header_alt_assets_2.jpg?t=1729185149",
-    "url": "https://bit.ly/3dcL4OI",
-    "store": "Steam",
-    "price": 5.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2024-10-21T17:00:00.000Z",
     "date": ""
   },
   {
