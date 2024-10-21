@@ -102,7 +102,7 @@
       "date": "??-08-2022",
       "status": 1,
       "startDate": "",
-      "endDate": ""
+      "endDate": "2050-01-01T15:00:00.000Z"
    },
    {
       "id": "//?SUB SCREEN////",
@@ -116,7 +116,7 @@
       "date": "??-08-2022",
       "status": 1,
       "startDate": "",
-      "endDate": ""
+      "endDate": "2050-01-01T15:00:00.000Z"
    },
    {
       "adImp": null,
@@ -258,7 +258,7 @@
       "date": "??-08-2022",
       "status": 4,
       "startDate": "",
-      "endDate": ""
+      "endDate": "2050-01-01T15:00:00.000Z"
    },
    {
       "adImp": null,
@@ -1709,12 +1709,12 @@
       "url": "https://bit.ly/3DuInD2",
       "store": "Epic Games",
       "price": 8.00,
-      "date": "29-09-2022",
+      "date": "",
       "adImp": 5,
       "horizontal": true,
       "status": 2,
       "startDate": "",
-      "endDate": ""
+      "endDate": "2022-09-29T15:00:00.000Z"
    },
    {
       "title": "Rocket League® - Battle Bus (Titanium White)",
@@ -1736,11 +1736,11 @@
       "url": "https://bit.ly/45Mfa1K",
       "store": "Epic Games",
       "price": 30.00,
-      "date": "2020-05-21",
+      "date": "",
       "horizontal": true,
       "status": 2,
       "startDate": "",
-      "endDate": ""
+      "endDate": "2020-05-21T15:00:00.000Z"
    },
    {
       "id": "//?SUB SCREEN////",
@@ -1754,7 +1754,7 @@
       "date": "??-08-2022",
       "status": 2,
       "startDate": "",
-      "endDate": ""
+      "endDate": "2050-01-01T15:00:00.000Z"
    },
    {
       "id": "//?SUB SCREEN////",
@@ -1768,6 +1768,6 @@
       "date": "??-08-2022",
       "status": 4,
       "startDate": "",
-      "endDate": ""
+      "endDate": "2050-01-01T15:00:00.000Z"
    }
 ]
