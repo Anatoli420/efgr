@@ -51,45 +51,7 @@
       "endDate": "2024-10-24T15:00:00.000Z",
       "date": ""
    },
-   {
-      "adImp": 2,
-      "title": "Viking Rise Game Pack Key Giveaway",
-      "image": "https://media.alienwarearena.com/media/e5b3bd4cbb91632a2ab5b5b214dd1c14.jpg?fit=crop&width=720&height=405&quality=75",
-      "url": "https://bit.ly/4h2AUMv",
-      "store": "Alienware Arena",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-04-04T15:00:00.000Z",
-      "endDate": "2024-04-07T15:00:00.001Z",
-      "date": ""
-   },
-   {
-      "adImp": 11,
-      "title": "Empyrion - Galactic Survival",
-      "image": "https://cdn1.epicgames.com/spt-assets/25da1d05381345f6b50cca947a2fc2fc/empyrion--galactic-survival-1fmc8.jpg?resize=1&w=854&h=480&quality=medium",
-      "url": "https://bit.ly/4eFXcC8",
-      "price": 20.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-10-10T15:00:00.000Z",
-      "endDate": "2024-10-17T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 3,
-      "title": "Outliver: Tribulation",
-      "image": "https://cdn1.epicgames.com/spt-assets/b3880830b9a54ae7bf9262ec56487f2f/outliver--tribulation-1hong.png?resize=1&w=854&h=480&quality=medium",
-      "url": "https://bit.ly/4gJGpjj",
-      "price": 5.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-10-10T15:00:00.000Z",
-      "endDate": "2024-10-17T15:00:00.000Z",
-      "date": ""
-   },
+
    {
       "adImp": 3,
       "title": "Ghostwire: Tokyo",
@@ -156,6 +118,19 @@
       "status": 1,
       "startDate": "",
       "endDate": "2050-01-01T15:00:00.000Z"
+   },
+   {
+      "adImp": 2,
+      "title": "Viking Rise Game Pack Key Giveaway",
+      "image": "https://media.alienwarearena.com/media/e5b3bd4cbb91632a2ab5b5b214dd1c14.jpg?fit=crop&width=720&height=405&quality=75",
+      "url": "https://bit.ly/4h2AUMv",
+      "store": "Alienware Arena",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.001Z",
+      "date": ""
    },
    {
       "adImp": null,
@@ -285,6 +260,32 @@
       "status": 4,
       "startDate": "",
       "endDate": "2050-01-01T15:00:00.000Z"
+   },
+   {
+      "adImp": 11,
+      "title": "Empyrion - Galactic Survival",
+      "image": "https://cdn1.epicgames.com/spt-assets/25da1d05381345f6b50cca947a2fc2fc/empyrion--galactic-survival-1fmc8.jpg?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/4eFXcC8",
+      "price": 20.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-10-10T15:00:00.000Z",
+      "endDate": "2024-10-17T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 3,
+      "title": "Outliver: Tribulation",
+      "image": "https://cdn1.epicgames.com/spt-assets/b3880830b9a54ae7bf9262ec56487f2f/outliver--tribulation-1hong.png?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/4gJGpjj",
+      "price": 5.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-10-10T15:00:00.000Z",
+      "endDate": "2024-10-17T15:00:00.000Z",
+      "date": ""
    },
    {
       "adImp": 3,
