@@ -1,6 +1,19 @@
 [
    {
-      "adImp": 2,
+      "adImp": 11,
+      "title": "Steam Scream 3 - Claim your free point shop items",
+      "image": "https://i.ytimg.com/vi/IZxECULBYbA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB0oOawEk5bFXpv0RuLKlsZZw6hVQ",
+      "url": "https://bit.ly/3C2Am9C",
+      "store": "Steam",
+      "price": 0.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-11-04T13:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 11,
       "title": "Lords Mobile In-Game Pack Key Giveaway",
       "image": "https://media.alienwarearena.com/media/efe294a83ea0a5fdcf2e643971ba9078.jpg?fit=crop&width=720&height=405&quality=75",
       "url": "https://bit.ly/3NGrokV",
