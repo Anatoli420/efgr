@@ -1,5 +1,57 @@
 [
    {
+      "adImp": null,
+      "title": "Ghostwire: Tokyo",
+      "image": "https://cdn1.epicgames.com/offer/a93cd6111251461c953776a0c4ea4d80/EGS_GhostwireTokyoWide_2560x1440-4bc1a83c819408d33e29e61f1a9d66e4?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/4auYUER",
+      "price": 60.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-10-31T15:00:00.000Z",
+      "endDate": "2024-11-07T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": null,
+      "title": "Witch It",
+      "image": "https://cdn1.epicgames.com/spt-assets/03887d7e03fd460eb1c3074d1de865dd/witch-it-ia44y.jpg?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/3Ak1Hn2",
+      "price": 5.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-10-31T15:00:00.000Z",
+      "endDate": "2024-11-07T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 3,
+      "title": "Megapolis 2010",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/485080/header.jpg?t=1721036785",
+      "url": "https://bit.ly/48pkwC9",
+      "store": "Microsoft Store",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-15T18:00:00.000Z",
+      "endDate": "2024-11-03T18:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 3,
+      "title": "Hero of the Kingdom: The Lost Tales 1",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249130/header.jpg?t=1721036943",
+      "url": "https://bit.ly/3Xwxj0f",
+      "store": "Microsoft Store",
+      "price": 7.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-15T18:00:00.000Z",
+      "endDate": "2024-11-03T18:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": 11,
       "title": "Steam Scream 3 - Claim your free point shop items",
       "image": "https://i.ytimg.com/vi/IZxECULBYbA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB0oOawEk5bFXpv0RuLKlsZZw6hVQ",
@@ -26,7 +78,7 @@
       "date": ""
    },
    {
-      "adImp": 2,
+      "adImp": null,
       "title": "Shot Online Gift Pack Key Giveaway",
       "image": "https://www.mmobomb.com/file/2024/10/shot-online-giveaway.png",
       "url": "https://bit.ly/3YAo29j",
@@ -39,7 +91,7 @@
       "date": ""
    },
    {
-      "adImp": 2,
+      "adImp": null,
       "title": "Moving Out",
       "image": "https://cdn1.epicgames.com/offer/f919a1262081444fb28f0fdef68d6b14/EGS_MovingOut_SMGStudioDevmGames_S1_2560x1440-86272cbdeb4cc4b39f0760ab720ac585?resize=1&w=854&h=480&quality=medium",
       "url": "https://bit.ly/3C02av2",
@@ -49,19 +101,6 @@
       "horizontal": "fechasProgramadas",
       "startDate": "2024-10-24T15:00:00.000Z",
       "endDate": "2024-10-31T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": null,
-      "title": "Romopolis",
-      "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/471170/header.jpg?t=1721036752",
-      "url": "https://bit.ly/4ffKiuA",
-      "store": "Microsoft Store",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-15T18:00:00.000Z",
-      "endDate": "2024-10-28T18:00:00.000Z",
       "date": ""
    },
    {
@@ -272,6 +311,19 @@
       "status": 4,
       "startDate": "",
       "endDate": "2050-01-01T15:00:00.000Z"
+   },
+   {
+      "adImp": null,
+      "title": "Romopolis",
+      "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/471170/header.jpg?t=1721036752",
+      "url": "https://bit.ly/4ffKiuA",
+      "store": "Microsoft Store",
+      "price": 5.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-04-15T18:00:00.000Z",
+      "endDate": "2024-10-28T18:00:00.000Z",
+      "date": ""
    },
    {
       "adImp": null,
