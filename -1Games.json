@@ -13,9 +13,9 @@
       "date": ""
    },
    {
-      "adImp": null,
+      "adImp": 3,
       "title": "Witch It",
-      "image": "https://cdn1.epicgames.com/spt-assets/03887d7e03fd460eb1c3074d1de865dd/witch-it-ia44y.jpg?resize=1&w=854&h=480&quality=medium",
+      "image": "https://cdn1.epicgames.com/spt-assets/03887d7e03fd460eb1c3074d1de865dd/witch-it-ia44y.jpg?resize=1&w=854&h=480&quality=high",
       "url": "https://bit.ly/3Ak1Hn2",
       "price": 5.00,
       "store": "Epic Games",
@@ -82,6 +82,19 @@
       "title": "Deceive Inc.",
       "image": "https://cdn1.epicgames.com/offer/eca9a86adffa4605b8250d383fc01098/EGS_DeceiveInc_SweetBanditsStudios_S1_2560x1440-3a1e885fd642564a44875bf005d8ffb3?resize=1&w=854&h=480&quality=medium",
       "url": "https://bit.ly/3Uu37lX",
+      "price": 6.00,
+      "store": "Epic Games",
+      "status": 3,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-11-07T15:00:00.000Z",
+      "endDate": "2024-11-14T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 3,
+      "title": "Apex Legends™: Ash Free Unlock Bundle",
+      "image": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1szf2.jpg?resize=1&w=480&h=270&quality=medium",
+      "url": "https://bit.ly/3Aj3d9a",
       "price": 5.00,
       "store": "Epic Games",
       "status": 3,
