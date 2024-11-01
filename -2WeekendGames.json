@@ -27,6 +27,19 @@
   },
   {
     "adImp": 2,
+    "title": "Don't Be Afraid",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/760410/header.jpg?t=1730110902",
+    "url": "https://bit.ly/48w7IK1",
+    "store": "Steam",
+    "price": 5.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-04-08T01:00:00.000Z",
+    "endDate": "2024-11-04T02:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": 2,
     "title": "An Amazing Wizard: Prologue Early Access Key Giveaway",
     "image": "https://media.alienwarearena.com/media/49d26db95d77d933288eb4098117aeee.jpg?quality=75",
     "url": "https://bit.ly/4d8uMzY",
@@ -53,7 +66,7 @@
     "endDate": ""
   },
   {
-    "adImp": 2,
+    "adImp": 3,
     "title": "Fallout 76",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1151340/header.jpg?t=1712851052",
     "url": "https://bit.ly/3tHqxJX",
@@ -66,7 +79,7 @@
     "date": ""
   },
   {
-    "adImp": 2,
+    "adImp": 3,
     "title": "Europa Universalis IV",
     "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/236850/header_alt_assets_2.jpg?t=1729185149",
     "url": "https://bit.ly/3dcL4OI",
@@ -92,7 +105,7 @@
     "date": ""
   },
   {
-    "adImp": 4,
+    "adImp": 11,
     "title": "Lost in Prayer Closed Beta Key Giveaway",
     "image": "https://media.alienwarearena.com/media/cd29e83b30857b1d25f9480e7bab020f.jpg?quality=75",
     "url": "https://bit.ly/4dVUvwa",
@@ -105,7 +118,7 @@
     "date": ""
   },
   {
-    "adImp": 1,
+    "adImp": 11,
     "title": "SMITE 2 Early Access Key Giveaway",
     "image": "https://media.alienwarearena.com/media/914364ab23f3b2820eeb96e98c25c3e0.jpg?quality=75",
     "url": "https://bit.ly/3UeNRJH",
