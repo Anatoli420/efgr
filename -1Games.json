@@ -1,30 +1,18 @@
 [
    {
-      "adImp": 11,
-      "title": "Return of the Phantom",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1299710/header.jpg?t=1613284263",
-      "url": "https://bit.ly/4hoHKMB",
-      "price": 8.00,
-      "store": "GoG",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-01-01T15:00:00.000Z",
-      "endDate": "2024-11-02T13:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 11,
-      "title": "UNLOVED",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/321270/header.jpg?t=1728018391",
-      "url": "https://bit.ly/3YVO9bb",
-      "store": "Steam",
+      "adImp": 3,
+      "title": "Project Kyzen x Bruce Lee Game Pack Key Giveaway",
+      "image": "https://media.alienwarearena.com/media/5bfcedad0b562c7b89a8ecccaff22bf5.jpg?quality=75",
+      "url":  "https://bit.ly/4hAgwCY",
+      "store": "Alienware Arena",
       "price": 5.00,
       "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2024-11-01T13:00:00.000Z",
+      "horizontal": true,
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.001Z",
       "date": ""
    },
+
    {
       "adImp": null,
       "title": "UNLOVED - Steam Game",
@@ -35,7 +23,7 @@
       "status": 1,
       "horizontal": true,
       "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2024-11-01T13:00:00.001Z",
+      "endDate": "2024-11-05T23:59:59.000Z",
       "date": ""
    },
    {
@@ -159,7 +147,7 @@
       "id": "//?SUB SCREEN////",
       "adImp": null,
       "horizontal": false,
-      "image": "https://cdn1.epicgames.com/offer/fn/Blade_2560x1440_2560x1440-95718a8046a942675a0bc4d27560e2bb?h=480&quality=medium&resize=1&w=854",
+      "image": "https://cdn1.epicgames.com/offer/fn/Blade_2560x1440_2560x1440-95718a8046a942675a0bc4d27560e2bb",
       "url": "https://www.google.com",
       "title": "Fortnite",
       "store": "",
@@ -350,6 +338,32 @@
       "status": 4,
       "startDate": "",
       "endDate": "2050-01-01T15:00:00.000Z"
+   },
+   {
+      "adImp": 11,
+      "title": "Return of the Phantom",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1299710/header.jpg?t=1613284263",
+      "url": "https://bit.ly/4hoHKMB",
+      "price": 8.00,
+      "store": "GoG",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-01-01T15:00:00.000Z",
+      "endDate": "2024-11-02T13:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 11,
+      "title": "UNLOVED",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/321270/header.jpg?t=1728018391",
+      "url": "https://bit.ly/3YVO9bb",
+      "store": "Steam",
+      "price": 5.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-11-01T13:00:00.000Z",
+      "date": ""
    },
    {
       "adImp": null,
