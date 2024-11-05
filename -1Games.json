@@ -1,6 +1,19 @@
 [
    {
       "adImp": null,
+      "title": "Hero of the Kingdom: The Lost Tales 2",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1784780/header.jpg?t=1721036982",
+      "url": "https://bit.ly/3TJqXtq",
+      "store": "Microsoft Store",
+      "price": 7.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-15T18:00:00.000Z",
+      "endDate": "2024-11-07T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": null,
       "title": "Project Kyzen x Bruce Lee Game Pack Key Giveaway",
       "image": "https://media.alienwarearena.com/media/5bfcedad0b562c7b89a8ecccaff22bf5.jpg?quality=75",
       "url": "https://bit.ly/4hAgwCY",
@@ -13,7 +26,7 @@
       "date": ""
    },
    {
-      "adImp": null,
+      "adImp": 11,
       "title": "Witch It",
       "image": "https://cdn1.epicgames.com/spt-assets/03887d7e03fd460eb1c3074d1de865dd/witch-it-ia44y.jpg?resize=1&w=854&h=480&quality=high",
       "url": "https://bit.ly/3Ak1Hn2",
@@ -557,19 +570,6 @@
       "horizontal": true,
       "startDate": "2024-09-26T15:00:00.000Z",
       "endDate": "2024-10-03T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": null,
-      "title": "Hero of the Kingdom: The Lost Tales 2",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1784780/header.jpg?t=1721036982",
-      "url": "https://bit.ly/3TJqXtq",
-      "store": "Microsoft Store",
-      "price": 7.00,
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-04-15T18:00:00.000Z",
-      "endDate": "2024-09-30T18:00:00.000Z",
       "date": ""
    },
    {
