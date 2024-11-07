@@ -1,5 +1,31 @@
 [
    {
+      "adImp": 3,
+      "title": "Deceive Inc.",
+      "image": "https://cdn1.epicgames.com/offer/eca9a86adffa4605b8250d383fc01098/EGS_DeceiveInc_SweetBanditsStudios_S1_2560x1440-3a1e885fd642564a44875bf005d8ffb3?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/3Uu37lX",
+      "price": 6.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-11-07T16:00:00.000Z",
+      "endDate": "2024-11-14T16:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": null,
+      "title": "Apex Legends™: Ash Free Unlock Bundle",
+      "image": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1szf2.jpg?resize=1&w=480&h=270&quality=medium",
+      "url": "https://bit.ly/3Aj3d9a",
+      "price": 5.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-11-07T16:00:00.000Z",
+      "endDate": "2024-11-14T16:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": null,
       "title": "Hero of the Kingdom: The Lost Tales 2",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1784780/header.jpg?t=1721036982",
@@ -13,7 +39,7 @@
       "date": ""
    },
    {
-      "adImp": null,
+      "adImp": 11,
       "title": "Project Kyzen x Bruce Lee Game Pack Key Giveaway",
       "image": "https://media.alienwarearena.com/media/5bfcedad0b562c7b89a8ecccaff22bf5.jpg?quality=75",
       "url": "https://bit.ly/4hAgwCY",
