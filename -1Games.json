@@ -1,31 +1,5 @@
 [
    {
-      "adImp": null,
-      "title": "Off-Road Drive",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/99eba863-65e2-4302-bed5-1b6751b0b410/prodmain/1586465298.png",
-      "url": "https://bit.ly/3YVtbJc",
-      "store": "IndieGala",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-04-04T15:00:00.000Z",
-      "endDate": "2024-04-07T15:00:00.001Z",
-      "date": ""
-   },
-   {
-      "adImp": null,
-      "title": "Where's My Helmet?",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/04548e2e-8e26-4dc4-8c94-826af634058d/prodmain/1708790350.png",
-      "url": "https://bit.ly/3YE90OQ",
-      "store": "IndieGala",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-04-04T15:00:00.000Z",
-      "endDate": "2024-04-07T15:00:00.001Z",
-      "date": ""
-   },
-   {
       "adImp": 4,
       "title": "Deceive Inc.",
       "image": "https://cdn1.epicgames.com/offer/eca9a86adffa4605b8250d383fc01098/EGS_DeceiveInc_SweetBanditsStudios_S1_2560x1440-3a1e885fd642564a44875bf005d8ffb3?resize=1&w=854&h=480&quality=medium",
