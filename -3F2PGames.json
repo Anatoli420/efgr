@@ -13,6 +13,19 @@
     "startDate": "2024-11-07T07:00:00.000Z"
   },
   {
+    "adImp": null,
+    "title": "Poppy Playtime",
+    "image": "https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-18ioj.jpg",
+    "url": "https://bit.ly/3UJeAOI",
+    "store": "Steam",
+    "price": 0.00,
+    "date": "",
+    "horizontal": true,
+    "status": 1,
+    "startDate": "2024-10-31T06:00:00.000Z",
+    "endDate": ""
+  },
+  {
     "adImp": 5,
     "title": "Apex Legends™",
     "image": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-27abg.jpg",
@@ -143,6 +156,7 @@
     "startDate": "2023-06-09T06:00:00.000Z",
     "endDate": ""
   },
+
   {
     "adImp": 3,
     "title": "Spectre Divide",
