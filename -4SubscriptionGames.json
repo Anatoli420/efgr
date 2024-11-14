@@ -1,6 +1,85 @@
 [
     {
-        "adImp": 11,
+        "adImp": 5,
+        "title": "Tomb Raider: Anniversary",
+        "image": "https://m.media-amazon.com/images/I/51+10zKN3gL._FMwebp_.jpg",
+        "url": "https://amzn.to/3URKvMJ",
+        "store": "Amazon Gaming",
+        "price": 9.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-12-18T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 5,
+        "title": "Blade of Darkness",
+        "image": "https://m.media-amazon.com/images/I/61LjzgXKubL._FMwebp_.jpg",
+        "url": "https://amzn.to/3YHcKyM",
+        "store": "Amazon Gaming",
+        "price": 15.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-12-18T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 3,
+        "title": "Chasm: The Rift",
+        "image": "https://m.media-amazon.com/images/I/611u+uQGrCL._FMwebp_.jpg",
+        "url": "https://amzn.to/3AHjvc2",
+        "store": "Amazon Gaming",
+        "price": 20.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2024-12-18T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 3,
+        "title": "Ms. Holmes: The Case of the Dancing Men - CE",
+        "image": "https://m.media-amazon.com/images/I/61eOgYVd2gL._FMwebp_.jpg",
+        "url": "https://amzn.to/40MLfql",
+        "store": "Amazon Gaming",
+        "price": 13.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2025-01-15T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 6,
+        "title": "House of Golf 2",
+        "image": "https://m.media-amazon.com/images/I/61bvX42VxPL._FMwebp_.jpg",
+        "url": "https://amzn.to/3AKcFTd",
+        "store": "Amazon Gaming",
+        "price": 30.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2024-04-04T21:00:00.000Z",
+        "endDate": "2025-02-12T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "id": "//?SUB SCREEN////",
+        "horizontal": "RateUs",
+        "image": "",
+        "url": "https://www.google.com",
+        "adImp": null,
+        "title": "RATEUS",
+        "store": "separador",
+        "price": 0.00,
+        "date": "??-08-2022",
+        "status": 1,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": 6,
         "title": "Disney•Pixar Cars",
         "image": "https://m.media-amazon.com/images/I/6190d3MNL6L._FMwebp_.jpg",
         "url": "https://amzn.to/4hFBiBa",
@@ -13,7 +92,7 @@
         "date": ""
     },
     {
-        "adImp": 11,
+        "adImp": 6,
         "title": "Snakebird Complete",
         "image": "https://m.media-amazon.com/images/I/61TKCU8kmQL._FMwebp_.jpg",
         "url": "https://amzn.to/4ektBNK",
@@ -232,20 +311,6 @@
         "startDate": "2024-04-04T21:00:00.000Z",
         "endDate": "2024-11-27T15:00:00.000Z",
         "date": ""
-    },
-    {
-        "id": "//?SUB SCREEN////",
-        "horizontal": "RateUs",
-        "image": "",
-        "url": "https://www.google.com",
-        "adImp": null,
-        "title": "RATEUS",
-        "store": "separador",
-        "price": 0.00,
-        "date": "??-08-2022",
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
     },
     {
         "adImp": 11,
