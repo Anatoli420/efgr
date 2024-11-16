@@ -7,7 +7,7 @@
       "store": "indiegala",
       "price": 5.00,
       "status": 1,
-      "horizontal": "fechasProgramadas",
+      "horizontal": true,
       "startDate": "2024-04-04T15:00:00.000Z",
       "endDate": "2024-04-07T15:00:00.001Z",
       "date": ""
