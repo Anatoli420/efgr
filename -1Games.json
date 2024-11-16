@@ -1,6 +1,19 @@
 [
    {
       "adImp": 3,
+      "title": "Eron",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/425ed8a2-b0a8-418f-83af-079dc3ee8a95/prodmain/1695621243.png",
+      "url": "https://bit.ly/3Rz72xe",
+      "store": "indiegala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 3,
       "title": "Half-Life 2",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220/header.jpg?t=1731715278",
       "url": "https://bit.ly/3CvxsKO",
@@ -39,7 +52,7 @@
       "date": ""
    },
    {
-      "adImp": 5,
+      "adImp": null,
       "title": "Clash of Lords 2 Gift Pack Key Giveaway",
       "image": "https://www.mmobomb.com/file/2024/3/clash-of-lords-2.png",
       "url": "https://bit.ly/3Cw5wX6",
@@ -91,7 +104,7 @@
       "date": ""
    },
    {
-      "adImp": null,
+      "adImp": 3,
       "title": "Flight Masters: The Horizon Chase",
       "image": "https://store-images.s-microsoft.com/image/apps.44258.13579269817217915.88eec049-015e-41bc-980b-e3bd6e33a347.609248e6-d1f9-4559-b6a6-cea818558e4a?mode=scale&q=90&h=270&w=270&background=%230078D7",
       "url": "https://bit.ly/3ARsKGB",
