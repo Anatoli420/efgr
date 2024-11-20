@@ -1,6 +1,19 @@
 [
   {
     "adImp": 11,
+    "title": "SUPERVIVE" ,
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1283700/header.jpg?t=1732111192" ,
+    "url": "https://bit.ly/3Zgp5vC" ,
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0.00,
+    "endDate": "",
+    "date": "",
+    "startDate": "2024-11-20T07:00:00.000Z"
+  },
+  {
+    "adImp": null,
     "title": "MLB Rivals",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2569510/header.jpg?t=1731471847",
     "url": "https://bit.ly/48ROiPX",
@@ -13,7 +26,7 @@
     "startDate": "2024-11-11T07:00:00.000Z"
   },
   {
-    "adImp": 11,
+    "adImp": null,
     "title": "Nightmare House: The Original Mod",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2954780/header.jpg?t=1731600319",
     "url": "https://bit.ly/4eAKnIF",
@@ -39,7 +52,7 @@
     "startDate": "2024-11-09T07:00:00.000Z"
   },
   {
-    "adImp": null,
+    "adImp": 3,
     "title": "NO STRANGERS",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3127650/header.jpg?t=1731078373",
     "url": "https://bit.ly/3V8ioJF",
