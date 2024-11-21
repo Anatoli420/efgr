@@ -1,5 +1,18 @@
 [
    {
+      "adImp": 3,
+      "title": "Jumping Knight" ,
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/647bfdc3-920d-4fe5-bf5f-948a416a0c49/prodmain/1721665286.png" ,
+      "url": "https://bit.ly/3SkfwYC" ,
+      "store": "indiegala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.001Z",
+      "date": ""
+   },
+   {
       "adImp": null,
       "title": "Beholder",
       "image": "https://cdn1.epicgames.com/spt-assets/e42eff0761f24bb089fe429611bd2e31/beholder-ud3jm.png?resize=1&w=854&h=480&quality=medium",
