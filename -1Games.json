@@ -39,19 +39,6 @@
       "date": "2024-06-13"
    },
    {
-      "adImp": 4,
-      "title": "Breathedge",
-      "image": "https://fanatical.imgix.net/product/original/d76e16f2-35b9-4fb9-a4d0-6d2b89cc6ef5.jpeg?auto=compress,format&w=436&fit=crop&h=245",
-      "url": "https://bit.ly/4i1U31T",
-      "price": 25.00,
-      "store": "Fanatical",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-09-05T15:00:00.000Z",
-      "endDate": "2024-11-30T23:00:00.000Z",
-      "date": ""
-   },
-   {
       "adImp": 3,
       "title": "Dark Sector",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/29900/header.jpg?t=1732734420",
@@ -402,6 +389,19 @@
       "status": 4,
       "startDate": "",
       "endDate": "2050-01-01T15:00:00.000Z"
+   },
+   {
+      "adImp": 4,
+      "title": "Breathedge",
+      "image": "https://fanatical.imgix.net/product/original/d76e16f2-35b9-4fb9-a4d0-6d2b89cc6ef5.jpeg?auto=compress,format&w=436&fit=crop&h=245",
+      "url": "https://bit.ly/4i1U31T",
+      "price": 25.00,
+      "store": "Fanatical",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-09-05T15:00:00.000Z",
+      "endDate": "2024-11-30T23:00:00.001Z",
+      "date": ""
    },
    {
       "adImp": 11,
