@@ -7,9 +7,9 @@
       "price": 3.00,
       "store": "itch.io",
       "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-11-28T16:00:00.000Z",
-      "endDate": "2024-12-01T23:59:00.001Z",
+      "horizontal": true,
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.001Z",
       "date": ""
    },
    {
