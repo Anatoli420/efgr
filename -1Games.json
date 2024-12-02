@@ -13,19 +13,6 @@
       "date": ""
    },
    {
-      "adImp": null,
-      "title": "Emote - Show 'Em Off",
-      "image": "https://s3.amazonaws.com/i.snag.gy/S61v7w.jpg",
-      "url": "https://bit.ly/3OzwFuW",
-      "price": 5.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-11-28T16:00:00.000Z",
-      "endDate": "2024-12-01T23:59:00.000Z",
-      "date": ""
-   },
-   {
       "adImp": 11,
       "title": "Exit Limbo: Opening",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/5fd7b600-f285-4a16-a8e2-dd7ffcb476a9/prodmain/1618565322.png",
@@ -51,19 +38,7 @@
       "endDate": "2024-12-04T17:00:00.000Z",
       "date": ""
    },
-   {
-      "adImp": 3,
-      "title": "Oaken",
-      "image": "https://images.gog-statics.com/0e92ab2da64177f6358a1bb02b1f6f289a64e45a4fcb0f9836a657c7040801f8_giveaway_465w.webp",
-      "url": "https://bit.ly/3AUxEmt",
-      "price": 8.00,
-      "store": "GoG",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-01-01T15:00:00.000Z",
-      "endDate": "2024-12-02T13:00:00.000Z",
-      "date": ""
-   },
+
    {
       "adImp": 3,
       "title": "Ghost Sweeper",
@@ -441,6 +416,19 @@
       "status": 4,
       "startDate": "",
       "endDate": "2050-01-01T15:00:00.000Z"
+   },
+   {
+      "adImp": 3,
+      "title": "Oaken",
+      "image": "https://images.gog-statics.com/0e92ab2da64177f6358a1bb02b1f6f289a64e45a4fcb0f9836a657c7040801f8_giveaway_465w.webp",
+      "url": "https://bit.ly/3AUxEmt",
+      "price": 8.00,
+      "store": "GoG",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-01-01T15:00:00.000Z",
+      "endDate": "2024-12-02T13:00:00.000Z",
+      "date": ""
    },
    {
       "adImp": null,
