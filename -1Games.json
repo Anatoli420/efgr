@@ -1,5 +1,31 @@
 [
    {
+      "adImp": 1,
+      "title": "LEGO® Star Wars™: La Saga Skywalker",
+      "image": "https://cdn1.epicgames.com/offer/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_S1_2560x1440-ae89e9c91aec1e461148f93f25b828ed?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/4fNUGub",
+      "price": 40.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-12-05T16:00:00.000Z",
+      "endDate": "2024-12-12T16:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 1,
+      "title": "Bus Simulator 21 Next Stop",
+      "image": "https://cdn1.epicgames.com/offer/2b09519576cb4276bfd8df52f5288e4a/EGS_BusSimulator21NextStop_stillalivestudios_S1_2560x1440-ae24be3577061e1b8f850fffe2e5b3a8?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/3Vbhv2E",
+      "price": 25.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-12-05T16:00:00.000Z",
+      "endDate": "2024-12-12T16:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": null,
       "title": "Copperbell",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/189c3f39-3236-47a1-8f1f-cb71cf105f3c/prodmain/1603296191.png",
