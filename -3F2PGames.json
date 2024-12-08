@@ -1,6 +1,19 @@
 [
   {
     "adImp": 3,
+    "title": "Path of Exile 2" ,
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2694490/header.jpg?t=1733510079" ,
+    "url": "https://bit.ly/3ZJ3HPV" ,
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0.00,
+    "endDate": "",
+    "date": "",
+    "startDate": "2024-12-06T07:00:00.000Z"
+  },
+  {
+    "adImp": 3,
     "title": "Marvel Rivals" ,
     "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2767030/header.jpg?t=1733443227" ,
     "url": "https://bit.ly/3ZfXTM0" ,
@@ -13,7 +26,7 @@
     "startDate": "2024-12-05T07:00:00.000Z"
   },
   {
-    "adImp": 3,
+    "adImp": 1,
     "title": "Delta Force" ,
     "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2507950/header.jpg?t=1733355250" ,
     "url": "https://bit.ly/3Nv4XPx" ,
