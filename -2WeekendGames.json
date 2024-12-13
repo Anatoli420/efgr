@@ -1,6 +1,19 @@
 [
   {
-    "adImp": 3,
+    "adImp": 11,
+    "title": "Squad 44",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/736220/header.jpg?t=1733958286",
+    "url": "https://bit.ly/4fe0M67",
+    "store": "Steam",
+    "price": 8.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-04-08T01:00:00.000Z",
+    "endDate": "2024-12-12T18:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": 11,
     "title": "Tom Clancy's Rainbow Six® Siege",
     "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg?t=1733419428",
     "url": "https://bit.ly/3UnkPEP",
@@ -13,7 +26,7 @@
     "date": ""
   },
   {
-    "adImp": 3,
+    "adImp": 1,
     "title": "Tom Clancy's Rainbow Six® Siege",
     "image": "https://cdn2.unrealengine.com/Diesel%2Fblog%2Frainbow-six-siege-available-now%2FEN_EGS_Social_R6S_TrialWeek_News-2560x1440-c0b5b1b92cbf43dfa9df8b0fc02ce4b47cfd3153.jpg?h=480&quality=medium&resize=1&w=854",
     "url": "https://bit.ly/3QMSZkB",
