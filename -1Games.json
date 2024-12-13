@@ -1,5 +1,31 @@
 [
    {
+      "adImp": 11,
+      "title": "HELLDIVERS™ 2 - TR-117 Alpha Commander Armor Set",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2765950/header.jpg?t=1734026350",
+      "url": "https://bit.ly/3ZQfqfl",
+      "store": "Steam",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-12-18T17:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 11,
+      "title": "Starborn Phoenix Ship",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3380990/header.jpg?t=1734027305",
+      "url": "https://bit.ly/4ixwuxY",
+      "store": "Steam",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2024-12-18T17:00:00.001Z",
+      "date": ""
+   },
+   {
       "adImp": 3,
       "title": "RIOT - Civil Unrest",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/342310/header.jpg?t=1572354561",
