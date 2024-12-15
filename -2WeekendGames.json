@@ -1,6 +1,19 @@
 [
   {
     "adImp": 11,
+    "title": "Virtua Fighter 5 R.E.V.O. - Open Beta",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3112260/header.jpg?t=1734105232",
+    "url": "https://bit.ly/3OUz4Au",
+    "store": "Steam",
+    "price": 15.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-04-08T01:00:00.000Z",
+    "endDate": "2024-12-16T18:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": 11,
     "title": "Squad 44",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/736220/header.jpg?t=1733958286",
     "url": "https://bit.ly/4fe0M67",
@@ -13,7 +26,7 @@
     "date": ""
   },
   {
-    "adImp": 11,
+    "adImp": 1,
     "title": "Tom Clancy's Rainbow Six® Siege",
     "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg?t=1733419428",
     "url": "https://bit.ly/3UnkPEP",
@@ -65,7 +78,7 @@
     "date": ""
   },
   {
-    "adImp": 1,
+    "adImp": 2,
     "title": "An Amazing Wizard: Prologue Early Access Key Giveaway",
     "image": "https://media.alienwarearena.com/media/49d26db95d77d933288eb4098117aeee.jpg?quality=75",
     "url": "https://bit.ly/4d8uMzY",
@@ -92,7 +105,7 @@
     "endDate": ""
   },
   {
-    "adImp": 4,
+    "adImp": 2,
     "title": "Cities: Skylines II",
     "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/949230/header_alt_assets_1.jpg?t=1733393880",
     "url": "https://bit.ly/3VkYtH9",
@@ -105,7 +118,7 @@
     "date": ""
   },
   {
-    "adImp": 4,
+    "adImp": 2,
     "title": "Synth Riders",
     "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/885000/header.jpg?t=1733427512",
     "url": "https://bit.ly/41gPnzd",
