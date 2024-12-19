@@ -1,5 +1,31 @@
 [
    {
+      "adImp": 11,
+      "title": "ScourgeBringer",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1037020/header.jpg?t=1722518559",
+      "url": "https://bit.ly/41HFElt",
+      "price": 25.00,
+      "store": "Fanatical",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-09-05T15:00:00.000Z",
+      "endDate": "2024-11-30T23:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 11,
+      "title": "Doodle Devil",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/b64c40e0-6875-405d-9345-427a55c73852/prodmain/1589266006.png",
+      "url": "https://bit.ly/3DkEmTE",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.001Z",
+      "date": ""
+   },
+   {
       "adImp": 3,
       "title": "Chicken Assassin: Reloaded",
       "image": "https://images.gog-statics.com/98a4ff2b7231a9454c07ebc1281e07541caae438099fa5e7baededea5c7dc026_giveaway_465w.webp",
