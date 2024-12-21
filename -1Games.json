@@ -53,19 +53,6 @@
    },
    {
       "adImp": 5,
-      "title": "ScourgeBringer - [Steam Key]",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1037020/header.jpg?t=1722518559",
-      "url": "https://bit.ly/41HFElt",
-      "price": 17.00,
-      "store": "Fanatical",
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-09-05T15:00:00.000Z",
-      "endDate": "2024-11-30T23:00:00.001Z",
-      "date": ""
-   },
-   {
-      "adImp": 5,
       "title": "Doodle Devil",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/b64c40e0-6875-405d-9345-427a55c73852/prodmain/1589266006.png",
       "url": "https://bit.ly/3DkEmTE",
@@ -493,6 +480,19 @@
       "status": 4,
       "startDate": "",
       "endDate": "2050-01-01T15:00:00.000Z"
+   },
+   {
+      "adImp": 5,
+      "title": "ScourgeBringer - [Steam Key]",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1037020/header.jpg?t=1722518559",
+      "url": "https://bit.ly/41HFElt",
+      "price": 17.00,
+      "store": "Fanatical",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-09-05T15:00:00.000Z",
+      "endDate": "2024-11-30T23:00:00.001Z",
+      "date": ""
    },
    {
       "adImp": 11,
