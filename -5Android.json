@@ -1,19 +1,6 @@
 [
     {
         "adImp": 11,
-        "title": "Tower Defense Legend 5 Pro",
-        "image": "https://play-lh.googleusercontent.com/-feL_VlRRGFz4GXzZFrd8h4pQUeBfFOXwAjgQO0DTbZxyH4hAkUTlII3u3gAaDaq_tWo=s480-rw",
-        "url": "https://bit.ly/4gHWq8G",
-        "store": "Google Play",
-        "price": 5.00,
-        "horizontal": true,
-        "status": 1,
-        "startDate": "2024-03-20T06:00:00.000Z",
-        "endDate": "2024-01-01T06:00:00.001Z",
-        "date": ""
-    },
-    {
-        "adImp": 11,
         "title": "Call of Duty®: Warzone™ Mobile",
         "image": "https://play-lh.googleusercontent.com/3MUvX7m7mXEO8X-5_BvYa8uEyE5-JasNLlNv2KiUaqf74oMcJUkpsKiSFceVuRjU2sk=s480-rw",
         "url": "https://bit.ly/3EduMij",
@@ -351,6 +338,19 @@
         "status": 1,
         "startDate": "2023-09-12T06:00:00.000Z",
         "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 11,
+        "title": "Tower Defense Legend 5 Pro",
+        "image": "https://play-lh.googleusercontent.com/-feL_VlRRGFz4GXzZFrd8h4pQUeBfFOXwAjgQO0DTbZxyH4hAkUTlII3u3gAaDaq_tWo=s480-rw",
+        "url": "https://bit.ly/4gHWq8G",
+        "store": "Google Play",
+        "price": 5.00,
+        "horizontal": true,
+        "status": 2,
+        "startDate": "2024-03-20T06:00:00.000Z",
+        "endDate": "2024-01-01T06:00:00.001Z",
+        "date": ""
     },
     {
         "adImp": null,
