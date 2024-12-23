@@ -1,6 +1,19 @@
 [
    {
       "adImp": 1,
+      "title": "Dark and Darker - Legendary Status",
+      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game6_1920x1080_1920x1080-a9761fce0451d8b9be7fa2e9892de753?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/49VeHgy",
+      "price": 25.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-12-23T16:00:00.000Z",
+      "endDate": "2024-12-24T16:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 1,
       "title": "Santa Rockstar",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/911cb08b-4839-4524-9c2c-e1306ebfc909/prodmain/1640350236.png",
       "url": "https://bit.ly/49RuY63",
@@ -13,7 +26,7 @@
       "date": ""
    },
    {
-      "adImp": 1,
+      "adImp": 3,
       "title": "11 Gifts Star Citizen - Login Required",
       "image": "https://robertsspaceindustries.com/i/45fb7fae74786d7b57cf99d33df2ffedd294267f/resize(2500,1407,cover,crop(3840,2160,0,0,3jpR3paJ37V8qwqMfJpRb6a9mqDPn6Smk1eWBrp7izt8WJEAZhFnthANUuPUEWytvj5eVKQ37PgfFYqN9PgEMNdHu31KieorMucT2bZ7w1wmHoKej1A4bd1voHFZ8w6ZCsCr2))/85/luminalia-2024-cutouts-numbers.webp",
       "url": "https://bit.ly/3ZQokIt",
@@ -27,19 +40,6 @@
    },
    {
       "adImp": 3,
-      "title": "Wizard of Legend",
-      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game5_1080x1920_1920x1080-76a9e2e9ff82f068293d98827a638253?resize=1&w=854&h=480&quality=medium",
-      "url": "https://bit.ly/3P7EGaH",
-      "price": 10.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-12-22T16:00:00.000Z",
-      "endDate": "2024-12-23T16:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 3,
       "title": "Distant Space 2",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/729460/header.jpg?t=1734475964",
       "url": "https://bit.ly/4gpv0V2",
@@ -49,32 +49,6 @@
       "horizontal": "fechasProgramadas",
       "startDate": "2024-12-19T20:30:00.000Z",
       "endDate": "2024-12-24T17:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 11,
-      "title": "Black Desert",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/582660/header.jpg?t=1734630860",
-      "url": "https://bit.ly/3qB1y6n",
-      "store": "Steam",
-      "price": 10.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-08T01:00:00.000Z",
-      "endDate": "2025-01-06T18:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 3,
-      "title": "Train Sim World® 2: Sherman Hill: Cheyenne - Laramie Route Add-On",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1664950/header.jpg?t=1734114766",
-      "url": "https://bit.ly/4fm3uqg",
-      "store": "Steam",
-      "price": 15.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-12-19T20:30:00.000Z",
-      "endDate": "2025-01-03T17:00:00.000Z",
       "date": ""
    },
    {
@@ -132,7 +106,33 @@
       "endDate": "2050-01-01T15:00:00.000Z"
    },
    {
-      "adImp": 3,
+      "adImp": 11,
+      "title": "Black Desert",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/582660/header.jpg?t=1734630860",
+      "url": "https://bit.ly/3qB1y6n",
+      "store": "Steam",
+      "price": 10.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-08T01:00:00.000Z",
+      "endDate": "2025-01-06T18:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 11,
+      "title": "Train Sim World® 2: Sherman Hill: Cheyenne - Laramie Route Add-On",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1664950/header.jpg?t=1734114766",
+      "url": "https://bit.ly/4fm3uqg",
+      "store": "Steam",
+      "price": 15.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-12-19T20:30:00.000Z",
+      "endDate": "2025-01-03T17:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 11,
       "title": "Doodle Devil",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/b64c40e0-6875-405d-9345-427a55c73852/prodmain/1589266006.png",
       "url": "https://bit.ly/3DkEmTE",
@@ -145,7 +145,7 @@
       "date": ""
    },
    {
-      "adImp": 11,
+      "adImp": 3,
       "title": "THRONE AND LIBERTY 300 Ornate Coins Key Giveaway",
       "image": "https://media.alienwarearena.com/media/ed4def973780bbba2adde5cf95e15e7b.jpg?fit=crop&width=720&height=405&quality=75",
       "url": "https://bit.ly/3DjGFGq",
@@ -481,6 +481,19 @@
       "status": 4,
       "startDate": "",
       "endDate": "2050-01-01T15:00:00.000Z"
+   },
+   {
+      "adImp": 3,
+      "title": "Wizard of Legend",
+      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game5_1080x1920_1920x1080-76a9e2e9ff82f068293d98827a638253?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/3P7EGaH",
+      "price": 10.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-12-22T16:00:00.000Z",
+      "endDate": "2024-12-23T16:00:00.000Z",
+      "date": ""
    },
    {
       "adImp": 1,
