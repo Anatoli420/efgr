@@ -14,6 +14,19 @@
    },
    {
       "adImp": 1,
+      "title": "Dark and Darker",
+      "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2016590/header.jpg?t=1734151964",
+      "url": "https://bit.ly/3P9YkTK",
+      "price": 0.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-12-23T16:00:00.000Z",
+      "endDate": "2024-12-24T16:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 1,
       "title": "Santa Rockstar",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/911cb08b-4839-4524-9c2c-e1306ebfc909/prodmain/1640350236.png",
       "url": "https://bit.ly/49RuY63",
