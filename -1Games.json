@@ -1,6 +1,32 @@
 [
    {
       "adImp": 3,
+      "title": "World of Warships: Holiday Pack Giveaway",
+      "image": "https://www.mmobomb.com/file/2024/12/world-of-warships-holiday-pack-giveaway.png",
+      "url": "https://bit.ly/4gx6ykO",
+      "store": "MMOBomb",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-12-28T18:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 1,
+      "title": "KILL KNIGHT",
+      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game11_1080x1920_1920x1080-040262a7bf171f8b775ddbf6fd290161?resize=1&w=854&h=480",
+      "url": "https://bit.ly/4gTuUoq",
+      "price": 6.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-12-28T16:00:00.000Z",
+      "endDate": "2024-12-29T16:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 3,
       "title": "The Dark Eye: Chains of Satinav",
       "image": "https://images.gog-statics.com/0328bcc4508ca255268ffd457d439ec1cc99db0faf52edab788fddda09bbc3cb_giveaway_465w.webp",
       "url": "https://bit.ly/41Tqdag",
@@ -34,8 +60,8 @@
       "store": "Epic Games",
       "status": 3,
       "horizontal": "fechasProgramadas",
-      "startDate": "2024-12-28T16:00:00.000Z",
-      "endDate": "2024-12-29T16:00:00.000Z",
+      "startDate": "2024-12-29T16:00:00.000Z",
+      "endDate": "2024-12-30T16:00:00.000Z",
       "date": ""
    },
    {
