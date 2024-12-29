@@ -6,11 +6,11 @@
         "url": "https://bit.ly/3W2rCY7",
         "store": "Google Play",
         "price": 1.00,
-        "date": "",
         "status": 1,
         "horizontal": true,
-        "startDate": "2018-04-03T06:00:00.000Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
+        "endDate": "2024-01-01T06:00:00.001Z",
+        "date": "",
+        "startDate": "2018-04-03T06:00:00.000Z"
     },
     {
         "adImp": 11,
@@ -21,9 +21,9 @@
         "price": 0.00,
         "horizontal": true,
         "status": 1,
-        "startDate": "2024-03-20T06:00:00.000Z",
         "endDate": "2024-01-01T06:00:00.001Z",
-        "date": ""
+        "date": "",
+        "startDate": "2024-03-20T06:00:00.000Z"
     },
     {
         "id": "//?SUB SCREEN////",
