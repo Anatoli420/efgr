@@ -1,6 +1,19 @@
 [
    {
       "adImp": 3,
+      "title": "Doodle God",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/307f3380-c087-4e72-8b6c-d38ad1f89f5a/prodmain/1584030125.png",
+      "url": "https://bit.ly/41rr29M",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 3,
       "title": "Vambrace: Cold Soul",
       "image": "https://images.gog-statics.com/e4bd4829fe05534671abd1e5c7b315c3fbf64f9e7f6109ec4ae79545463eec91_giveaway_465w.webp",
       "url": "https://bit.ly/3DC3yoB",
@@ -185,19 +198,6 @@
    },
    {
       "adImp": 11,
-      "title": "Doodle Devil",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/b64c40e0-6875-405d-9345-427a55c73852/prodmain/1589266006.png",
-      "url": "https://bit.ly/3DkEmTE",
-      "store": "IndieGala",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-04-04T15:00:00.000Z",
-      "endDate": "2024-04-07T15:00:00.001Z",
-      "date": ""
-   },
-   {
-      "adImp": 11,
       "title": "World of Warships Holiday Pack Key Giveaway",
       "image": "https://media.alienwarearena.com/media/aef7db10781e70ad898287cd9a51ed85.png?fit=crop&width=720&height=405&quality=75",
       "url": "https://bit.ly/4fsdNZU",
@@ -255,19 +255,6 @@
       "url": "https://bit.ly/418wPRF",
       "price": 3.00,
       "store": "itch.io",
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-04-04T15:00:00.000Z",
-      "endDate": "2024-04-07T15:00:00.001Z",
-      "date": ""
-   },
-   {
-      "adImp": 5,
-      "title": "Exit Limbo: Opening",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/5fd7b600-f285-4a16-a8e2-dd7ffcb476a9/prodmain/1618565322.png",
-      "url": "https://bit.ly/3whEJaY",
-      "store": "IndieGala",
-      "price": 5.00,
       "status": 1,
       "horizontal": true,
       "startDate": "2024-04-04T15:00:00.000Z",
