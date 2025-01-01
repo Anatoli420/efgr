@@ -1,6 +1,19 @@
 [
    {
-      "adImp": 3,
+      "adImp": 1,
+      "title": "Kingdom Come: Deliverance",
+      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game15_1080x1920_1920x1080-743a67452838d5cc246730f1ffb0c48c?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/3DFb1Dx",
+      "price": 20.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2025-01-01T16:00:00.000Z",
+      "endDate": "2025-01-02T16:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 1,
       "title": "Doodle God",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/307f3380-c087-4e72-8b6c-d38ad1f89f5a/prodmain/1584030125.png",
       "url": "https://bit.ly/41rr29M",
@@ -26,19 +39,6 @@
       "date": ""
    },
    {
-      "adImp": 1,
-      "title": "Sifu",
-      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game14_1080x1920_1920x1080-74a4bb3ae433e762b171a6641cbe71f5?resize=1&w=854&h=480&quality=medium",
-      "url": "https://bit.ly/4a0WcqW",
-      "price": 15.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-12-31T16:00:00.000Z",
-      "endDate": "2025-01-01T16:00:00.000Z",
-      "date": ""
-   },
-   {
       "adImp": 3,
       "title": "World of Warships: Holiday Pack Giveaway",
       "image": "https://www.mmobomb.com/file/2024/12/world-of-warships-holiday-pack-giveaway.png",
@@ -60,8 +60,8 @@
       "store": "Epic Games",
       "status": 3,
       "horizontal": "fechasProgramadas",
-      "startDate": "2025-01-01T16:00:00.000Z",
-      "endDate": "2025-01-02T16:00:00.000Z",
+      "startDate": "2025-01-02T16:00:00.000Z",
+      "endDate": "2025-01-03T16:00:00.000Z",
       "date": ""
    },
    {
@@ -507,6 +507,19 @@
       "status": 4,
       "startDate": "",
       "endDate": "2050-01-01T15:00:00.000Z"
+   },
+   {
+      "adImp": 1,
+      "title": "Sifu",
+      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game14_1080x1920_1920x1080-74a4bb3ae433e762b171a6641cbe71f5?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/4a0WcqW",
+      "price": 15.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-12-31T16:00:00.000Z",
+      "endDate": "2025-01-01T16:00:00.000Z",
+      "date": ""
    },
    {
       "adImp": 1,
