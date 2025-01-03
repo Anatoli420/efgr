@@ -1,5 +1,31 @@
 [
     {
+        "adImp": 5,
+        "title": "Eastern Exorcist",
+        "image": "https://m.media-amazon.com/images/I/61msb7nGgvL._FMwebp_.jpg",
+        "url": "https://amzn.to/4gUifBG",
+        "store": "Amazon Gaming",
+        "price": 18.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-03-05T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 5,
+        "title": "The Bridge",
+        "image": "https://m.media-amazon.com/images/I/51cg-NgrPPL._FMwebp_.jpg",
+        "url": "https://amzn.to/4gHtZbk",
+        "store": "Amazon Gaming",
+        "price": 10.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-03-05T15:00:00.000Z",
+        "date": ""
+    },
+    {
         "adImp": 3,
         "title": "The Town of Light",
         "image": "https://m.media-amazon.com/images/I/51boRR0lspL._FMwebp_.jpg",
