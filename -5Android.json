@@ -25,19 +25,7 @@
         "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
-    {
-        "adImp": 11,
-        "title": "Monster Killer Pro - Shooter",
-        "image": "https://play-lh.googleusercontent.com/GtbYRg2NOm6OB_MaGhV28f7N7_tRrAnxNN0AIBwN-jxyO8LLQV2r47D5UF0zCp32cu8=s480-rw",
-        "url": "https://bit.ly/47E7MW2",
-        "store": "Google Play",
-        "price": 1.00,
-        "status": 1,
-        "horizontal": true,
-        "date": "",
-        "startDate": "2020-09-03T06:00:00.000Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
+
     {
         "adImp": 11,
         "title": "Call of Duty®: Warzone™ Mobile",
@@ -496,6 +484,19 @@
         "date": "",
         "status": 4,
         "startDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 11,
+        "title": "Monster Killer Pro - Shooter",
+        "image": "https://play-lh.googleusercontent.com/GtbYRg2NOm6OB_MaGhV28f7N7_tRrAnxNN0AIBwN-jxyO8LLQV2r47D5UF0zCp32cu8=s480-rw",
+        "url": "https://bit.ly/47E7MW2",
+        "store": "Google Play",
+        "price": 1.00,
+        "status": 2,
+        "horizontal": true,
+        "date": "",
+        "startDate": "2020-09-03T06:00:00.000Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
