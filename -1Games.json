@@ -170,19 +170,7 @@
       "endDate": "2024-12-30T15:00:00.001Z",
       "date": ""
    },
-   {
-      "adImp": 3,
-      "title": "11 Gifts Star Citizen - Login Required",
-      "image": "https://robertsspaceindustries.com/i/45fb7fae74786d7b57cf99d33df2ffedd294267f/resize(2500,1407,cover,crop(3840,2160,0,0,3jpR3paJ37V8qwqMfJpRb6a9mqDPn6Smk1eWBrp7izt8WJEAZhFnthANUuPUEWytvj5eVKQ37PgfFYqN9PgEMNdHu31KieorMucT2bZ7w1wmHoKej1A4bd1voHFZ8w6ZCsCr2))/85/luminalia-2024-cutouts-numbers.webp",
-      "url": "https://bit.ly/3ZQokIt",
-      "store": "RSI",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-12-22T15:00:00.000Z",
-      "endDate": "2024-12-30T15:00:00.001Z",
-      "date": ""
-   },
+
    {
       "adImp": 11,
       "title": "World of Warships Holiday Pack Key Giveaway",
@@ -403,6 +391,19 @@
       "status": 4,
       "startDate": "",
       "endDate": "2050-01-01T15:00:00.000Z"
+   },
+   {
+      "adImp": 3,
+      "title": "11 Gifts Star Citizen - Login Required",
+      "image": "https://robertsspaceindustries.com/i/45fb7fae74786d7b57cf99d33df2ffedd294267f/resize(2500,1407,cover,crop(3840,2160,0,0,3jpR3paJ37V8qwqMfJpRb6a9mqDPn6Smk1eWBrp7izt8WJEAZhFnthANUuPUEWytvj5eVKQ37PgfFYqN9PgEMNdHu31KieorMucT2bZ7w1wmHoKej1A4bd1voHFZ8w6ZCsCr2))/85/luminalia-2024-cutouts-numbers.webp",
+      "url": "https://bit.ly/3ZQokIt",
+      "store": "RSI",
+      "price": 5.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-12-22T15:00:00.000Z",
+      "endDate": "2024-12-30T15:00:00.001Z",
+      "date": ""
    },
    {
       "adImp": 1,
