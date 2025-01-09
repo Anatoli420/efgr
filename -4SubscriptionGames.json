@@ -13,6 +13,19 @@
         "date": ""
     },
     {
+        "adImp": 11,
+        "title": "Skydrift Infinity",
+        "image": "https://m.media-amazon.com/images/I/71QOESuBV8L._FMwebp_.jpg",
+        "url": "https://amzn.to/40rmcIV",
+        "store": "Amazon Gaming",
+        "price": 10.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-04-09T15:00:00.000Z",
+        "date": ""
+    },
+    {
         "adImp": 5,
         "title": "Spirit Mancer",
         "image": "https://m.media-amazon.com/images/I/719Wcp5wgBL._FMwebp_.jpg",
