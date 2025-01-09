@@ -13,20 +13,6 @@
         "endDate": "2024-02-29T16:00:00.001Z"
     },
     {
-        "adImp": 3,
-        "title": "Stickman Master Premium",
-        "image": "https://play-lh.googleusercontent.com/CwniXYniPE95AIPEja3fQqihjwIqjUu3JUuIhBt2hAmNQlzE0zRifto5CO3S_051upZb=s480-rw",
-        "url": "https://bit.ly/3I77yN0",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-
-    {
         "adImp": 11,
         "title": "Call of Duty®: Warzone™ Mobile",
         "image": "https://play-lh.googleusercontent.com/3MUvX7m7mXEO8X-5_BvYa8uEyE5-JasNLlNv2KiUaqf74oMcJUkpsKiSFceVuRjU2sk=s480-rw",
@@ -484,6 +470,19 @@
         "date": "",
         "status": 4,
         "startDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 3,
+        "title": "Stickman Master Premium",
+        "image": "https://play-lh.googleusercontent.com/CwniXYniPE95AIPEja3fQqihjwIqjUu3JUuIhBt2hAmNQlzE0zRifto5CO3S_051upZb=s480-rw",
+        "url": "https://bit.ly/3I77yN0",
+        "store": "Google Play",
+        "price": 1.00,
+        "status": 2,
+        "horizontal": true,
+        "date": "",
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
