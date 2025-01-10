@@ -1,6 +1,19 @@
 [
    {
       "adImp": 1,
+      "title": "Land It Rocket",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/81c0b046-8b98-4a62-a6c0-e3371b7451ec/prodmain/1567249892.png",
+      "url": "https://bit.ly/4aelh1J",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-12-22T17:30:00.000Z",
+      "endDate": "2024-12-30T15:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 1,
       "title": "Turmoil",
       "image": "https://cdn1.epicgames.com/spt-assets/4985026f56654289a4a1fa848f41c4c9/turmoil-1qsb0.png?resize=1&w=854&h=480&quality=medium",
       "url": "https://bit.ly/3DBfvuX",
@@ -119,45 +132,6 @@
       "endDate": "2050-01-01T15:00:00.000Z"
    },
    {
-      "adImp": 3,
-      "title": "SKIIIIIIIIIIIIIIID",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/0fcfa5e5-56c9-4f70-9b3c-8c8a9fb54aed/prodmain/1677570067.png",
-      "url": "https://bit.ly/3kwAVAe",
-      "store": "IndieGala",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-04-04T15:00:00.000Z",
-      "endDate": "2024-04-07T15:00:00.001Z",
-      "date": ""
-   },
-   {
-      "adImp": 3,
-      "title": "Snowball",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/dcf1b416-9ad4-4cb9-8cb9-b92cd5576440/prodmain/1560282437.png",
-      "url": "https://bit.ly/3PFkJrp",
-      "store": "IndieGala",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-04-04T15:00:00.000Z",
-      "endDate": "2024-04-07T15:00:00.001Z",
-      "date": ""
-   },
-   {
-      "adImp": 1,
-      "title": "Doodle God",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/307f3380-c087-4e72-8b6c-d38ad1f89f5a/prodmain/1584030125.png",
-      "url": "https://bit.ly/41rr29M",
-      "store": "IndieGala",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-04-04T15:00:00.000Z",
-      "endDate": "2024-04-07T15:00:00.001Z",
-      "date": ""
-   },
-   {
       "adImp": 1,
       "title": "World of Warships: Holiday Pack Giveaway",
       "image": "https://www.mmobomb.com/file/2024/12/world-of-warships-holiday-pack-giveaway.png",
@@ -168,19 +142,6 @@
       "horizontal": true,
       "startDate": "2024-12-28T18:00:00.000Z",
       "endDate": "2024-04-07T15:00:00.001Z",
-      "date": ""
-   },
-   {
-      "adImp": 1,
-      "title": "Santa Rockstar",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/911cb08b-4839-4524-9c2c-e1306ebfc909/prodmain/1640350236.png",
-      "url": "https://bit.ly/49RuY63",
-      "store": "IndieGala",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-12-22T17:30:00.000Z",
-      "endDate": "2024-12-30T15:00:00.001Z",
       "date": ""
    },
    {
