@@ -13,32 +13,6 @@
         "endDate": "2025-01-01T06:00:00.001Z"
     },
     {
-        "adImp": 3,
-        "title": "DungeonCorp.VIP (Idle RPG)",
-        "image": "https://play-lh.googleusercontent.com/ocgY366KMIFQPtqYVlCFdFnKMgZwT1PZRsBGt9s-0DkJqkGqAH--kUvMQAcY7HH19g=s480-rw",
-        "url": "https://bit.ly/3Sy78VX",
-        "store": "Google Play",
-        "price": 1.00,
-        "status": 1,
-        "horizontal": true,
-        "date": "",
-        "startDate": "2024-02-01T18:00:00.001Z",
-        "endDate": "2025-01-01T06:00:00.001Z"
-    },
-    {
-        "adImp": 4,
-        "title": "Rogue Hearts",
-        "image": "https://play-lh.googleusercontent.com/BW_VuHT9UCj2WqPWvbXSOwUjc_be8BdyXhC6qXKXpo7XBmFXZlYJuColbljDTqNhFQ=s480-rw",
-        "url": "https://bit.ly/47LqISK",
-        "store": "Google Play",
-        "price": 1.00,
-        "status": 1,
-        "horizontal": true,
-        "date": "",
-        "startDate": "2024-02-01T18:00:00.001Z",
-        "endDate": "2025-01-01T06:00:00.001Z"
-    },
-    {
         "id": "//?SUB SCREEN////",
         "adImp": null,
         "horizontal": false,
@@ -51,19 +25,6 @@
         "status": 1,
         "startDate": "",
         "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
-        "adImp": 4,
-        "title": "Space Shooter: Galaxy Attack",
-        "image": "https://play-lh.googleusercontent.com/FEu9oAskY0DimLjJKnSMVddtlzcEitVMfGe2T_Gavg5Vv9V474w1Pqbkw1YTEwd1PAHO=s480-rw",
-        "url": "https://bit.ly/4bnUeBa",
-        "store": "Google Play",
-        "price": 2.00,
-        "status": 1,
-        "horizontal": true,
-        "date": "",
-        "startDate": "2024-02-01T18:00:00.000Z",
-        "endDate": "2024-02-29T16:00:00.001Z"
     },
     {
         "adImp": 11,
@@ -510,6 +471,45 @@
         "status": 4,
         "startDate": "",
         "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 3,
+        "title": "DungeonCorp.VIP (Idle RPG)",
+        "image": "https://play-lh.googleusercontent.com/ocgY366KMIFQPtqYVlCFdFnKMgZwT1PZRsBGt9s-0DkJqkGqAH--kUvMQAcY7HH19g=s480-rw",
+        "url": "https://bit.ly/3Sy78VX",
+        "store": "Google Play",
+        "price": 1.00,
+        "status": 2,
+        "horizontal": true,
+        "date": "",
+        "startDate": "2024-02-01T18:00:00.001Z",
+        "endDate": "2025-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 4,
+        "title": "Rogue Hearts",
+        "image": "https://play-lh.googleusercontent.com/BW_VuHT9UCj2WqPWvbXSOwUjc_be8BdyXhC6qXKXpo7XBmFXZlYJuColbljDTqNhFQ=s480-rw",
+        "url": "https://bit.ly/47LqISK",
+        "store": "Google Play",
+        "price": 1.00,
+        "status": 2,
+        "horizontal": true,
+        "date": "",
+        "startDate": "2024-02-01T18:00:00.001Z",
+        "endDate": "2025-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 4,
+        "title": "Space Shooter: Galaxy Attack",
+        "image": "https://play-lh.googleusercontent.com/FEu9oAskY0DimLjJKnSMVddtlzcEitVMfGe2T_Gavg5Vv9V474w1Pqbkw1YTEwd1PAHO=s480-rw",
+        "url": "https://bit.ly/4bnUeBa",
+        "store": "Google Play",
+        "price": 2.00,
+        "status": 2,
+        "horizontal": true,
+        "date": "",
+        "startDate": "2024-02-01T18:00:00.000Z",
+        "endDate": "2024-02-29T16:00:00.001Z"
     },
     {
         "adImp": 3,
