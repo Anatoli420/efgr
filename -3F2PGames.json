@@ -1,5 +1,31 @@
 [
   {
+    "adImp": 11,
+    "title": "SMITE 2",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2437170/header.jpg?t=1736977635",
+    "url": "https://bit.ly/4ah0Z7R",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0.00,
+    "endDate": "",
+    "date": "",
+    "startDate": "2024-08-27T07:00:00.000Z"
+  },
+  {
+    "adImp": 11,
+    "title": "SMITE 2",
+    "image": "https://cdn1.epicgames.com/offer/16ed9f15b1b449ccb59cb610b13df5b8/SMITE2-MarketingSizes-CA1-1920x1080_1920x1080-0438d4f5adde61e6764972609bb06fdd",
+    "url": "https://bit.ly/3PBiOow",
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": true,
+    "price": 0.00,
+    "endDate": "",
+    "date": "",
+    "startDate": "2024-08-27T07:00:00.000Z"
+  },
+  {
     "adImp": 3,
     "title": "Path of Exile 2",
     "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2694490/header.jpg?t=1733510079",
