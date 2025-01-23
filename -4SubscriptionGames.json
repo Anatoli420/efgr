@@ -1,6 +1,85 @@
 [
     {
+        "adImp": 11,
+        "title": "Deus Ex: Game of the Year Edition",
+        "image": "https://m.media-amazon.com/images/I/61xOU01tgLL._FMwebp_.jpg",
+        "url": "https://amzn.to/42n0B5P",
+        "store": "Amazon Gaming",
+        "price": 10.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-02-26T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 11,
+        "title": "Zombie Army 4: Dead War",
+        "image": "https://m.media-amazon.com/images/I/61YE8NlmaHL._FMwebp_.jpg",
+        "url": "https://amzn.to/3Co71qG",
+        "store": "Amazon Gaming",
+        "price": 50.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-02-26T15:00:00.000Z",
+        "date": ""
+    },
+    {
         "adImp": 3,
+        "title": "Star Stuff",
+        "image": "https://m.media-amazon.com/images/I/617lBgSUiRL._FMwebp_.jpg",
+        "url": "https://amzn.to/3PPw5Ki",
+        "store": "Amazon Gaming",
+        "price": 30.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-02-26T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 3,
+        "title": "Spitlings",
+        "image": "https://m.media-amazon.com/images/I/71oyGXY4zfL._FMwebp_.jpg",
+        "url": "https://amzn.to/3E7iE5T",
+        "store": "Amazon Gaming",
+        "price": 10.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-02-26T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 1,
+        "title": "To The Rescue!",
+        "image": "https://m.media-amazon.com/images/I/71vMJ7YNt+L._FMwebp_.jpg",
+        "url": "https://amzn.to/3PL3kyv",
+        "store": "Amazon Gaming",
+        "price": 20.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-03-26T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "id": "//?SUB SCREEN////",
+        "horizontal": "RateUs",
+        "image": "",
+        "url": "",
+        "adImp": null,
+        "title": "RATEUS",
+        "store": "separador",
+        "price": 0.00,
+        "date": "??-08-2022",
+        "status": 1,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
+        "adImp": 1,
         "title": "GRIP",
         "image": "https://m.media-amazon.com/images/I/71I4fN0gqUL._FMwebp_.jpg",
         "url": "https://amzn.to/4hfUEM8",
@@ -13,7 +92,7 @@
         "date": ""
     },
     {
-        "adImp": 3,
+        "adImp": 1,
         "title": "SteamWorld Quest: Hand of Gilgamech",
         "image": "https://m.media-amazon.com/images/I/71-pAq5Mb0L._FMwebp_.jpg",
         "url": "https://amzn.to/40CIpna",
@@ -37,20 +116,6 @@
         "startDate": "2025-01-01T21:00:00.000Z",
         "endDate": "2025-02-19T15:00:00.000Z",
         "date": ""
-    },
-    {
-        "id": "//?SUB SCREEN////",
-        "horizontal": "RateUs",
-        "image": "",
-        "url": "",
-        "adImp": null,
-        "title": "RATEUS",
-        "store": "separador",
-        "price": 0.00,
-        "date": "??-08-2022",
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
     },
     {
         "adImp": 11,
