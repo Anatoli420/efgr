@@ -26,19 +26,6 @@
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
-        "adImp": 5,
-        "title": "The Lost Treasure",
-        "image": "https://play-lh.googleusercontent.com/12hV5mKTrCNVXsOKR3ATvYTGXXivqHzPwYtoKk-eGS0B956O0KZB1hx-2wzsveFgEQyv=s480-rw",
-        "url": "https://bit.ly/40N25ox",
-        "store": "Google Play",
-        "price": 5.00,
-        "date": "",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "2024-01-01T06:00:00.001Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
         "id": "//?SUB SCREEN////",
         "adImp": null,
         "horizontal": false,
@@ -50,6 +37,19 @@
         "date": "",
         "status": 1,
         "startDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 5,
+        "title": "The Lost Treasure",
+        "image": "https://play-lh.googleusercontent.com/12hV5mKTrCNVXsOKR3ATvYTGXXivqHzPwYtoKk-eGS0B956O0KZB1hx-2wzsveFgEQyv=s480-rw",
+        "url": "https://bit.ly/40N25ox",
+        "store": "Google Play",
+        "price": 5.00,
+        "date": "",
+        "horizontal": true,
+        "status": 1,
+        "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
@@ -85,32 +85,6 @@
         "url": "https://bit.ly/3RUBVdX",
         "store": "Google Play",
         "price": 1.00,
-        "date": "",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "2024-01-01T06:00:00.001Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
-        "adImp": 1,
-        "title": "Romopolis",
-        "image": "https://play-lh.googleusercontent.com/eE2s-ShypYcGJF0KPSnX8Y8ge2A5_0iOaTLrdncwxjAQ1kqwT5D61e66wIwlqHkW61E=s480-rw",
-        "url": "https://bit.ly/3E5KbVj",
-        "store": "Google Play",
-        "price": 4.00,
-        "date": "",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "2024-01-01T06:00:00.001Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
-        "adImp": 1,
-        "title": "Hero of the Kingdom: Tales 1",
-        "image": "https://play-lh.googleusercontent.com/IhuXPg3yeBqwCE4x9kRGOrGfW5IkrIdQk5F4oSRcT3PGH_HLPNiW9s1R3SGhyDm9MQ=s480-rw",
-        "url": "https://bit.ly/3PN39CJ",
-        "store": "Google Play",
-        "price": 5.00,
         "date": "",
         "horizontal": true,
         "status": 1,
@@ -561,6 +535,32 @@
         "date": "",
         "status": 4,
         "startDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 1,
+        "title": "Romopolis",
+        "image": "https://play-lh.googleusercontent.com/eE2s-ShypYcGJF0KPSnX8Y8ge2A5_0iOaTLrdncwxjAQ1kqwT5D61e66wIwlqHkW61E=s480-rw",
+        "url": "https://bit.ly/3E5KbVj",
+        "store": "Google Play",
+        "price": 4.00,
+        "date": "",
+        "horizontal": true,
+        "status": 2,
+        "startDate": "2024-01-01T06:00:00.001Z",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 1,
+        "title": "Hero of the Kingdom: Tales 1",
+        "image": "https://play-lh.googleusercontent.com/IhuXPg3yeBqwCE4x9kRGOrGfW5IkrIdQk5F4oSRcT3PGH_HLPNiW9s1R3SGhyDm9MQ=s480-rw",
+        "url": "https://bit.ly/3PN39CJ",
+        "store": "Google Play",
+        "price": 5.00,
+        "date": "",
+        "horizontal": true,
+        "status": 2,
+        "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
