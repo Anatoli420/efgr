@@ -1,19 +1,32 @@
 [
   {
-    "adImp": 11,
-    "title": "Diablo® IV",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/header.jpg?t=1724262498",
-    "url": "https://bit.ly/49H4Dap",
+    "adImp": 2,
+    "title": "EXFIL",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/860020/header.jpg?t=1737394597",
+    "url": "https://bit.ly/3CEKQwn",
     "store": "Steam",
-    "price": 25.00,
+    "price": 15.00,
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2025-01-01T01:00:00.000Z",
-    "endDate": "2025-01-28T18:00:00.000Z",
+    "endDate": "2025-02-03T18:00:00.000Z",
     "date": ""
   },
   {
     "adImp": 2,
+    "title": "Phantom Line Closed Beta Key Giveaway",
+    "image": "https://media.alienwarearena.com/media/88676745673d7e0179b72abb6129296f.jpg?fit=crop&width=720&height=405&quality=75",
+    "url": "https://bit.ly/3zPEl8k",
+    "store": "Alienware Arena",
+    "price": 5.00,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2023-08-31T01:00:00.000Z",
+    "endDate": "2024-08-04T16:00:00.001Z",
+    "date": ""
+  },
+  {
+    "adImp": 3,
     "title": "King of Meat Closed Alpha Key Giveaway",
     "image": "https://media.alienwarearena.com/media/380999ae63b4c24a0a844242e4fe4e29.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://bit.ly/49lXFb3",
@@ -51,6 +64,19 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Diablo® IV",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/header.jpg?t=1724262498",
+    "url": "https://bit.ly/49H4Dap",
+    "store": "Steam",
+    "price": 25.00,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-01-01T01:00:00.000Z",
+    "endDate": "2025-01-28T18:00:00.000Z",
+    "date": ""
   },
   {
     "adImp": 11,
