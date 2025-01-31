@@ -1,5 +1,31 @@
 [
     {
+        "adImp": 5,
+        "title": "Heroes Legend - Epic Fantasy",
+        "image": "https://play-lh.googleusercontent.com/Lqk5um5_SUnFHEs-fk-H0hlzQjiyxRLkMCiTvd7cuN632FPdmVV7ftKrghgdR4L0K5Q=w240-h480-rw",
+        "url": "https://bit.ly/4by34wd",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "",
+        "horizontal": true,
+        "status": 1,
+        "startDate": "2024-01-01T06:00:00.001Z",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 5,
+        "title": "Evertale",
+        "image": "https://play-lh.googleusercontent.com/xrVcQ0xSlGfuwNTtnNNrHHIwXsbbRESdvKsI9PSEHc1z-xCCpYxlPblIbqysXeZgQe46",
+        "url": "https://bit.ly/48KFdYg",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "",
+        "horizontal": true,
+        "status": 1,
+        "startDate": "2024-01-01T06:00:00.001Z",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
         "adImp": 11,
         "title": "Shadow Hunter: Offline Premium",
         "image": "https://play-lh.googleusercontent.com/0s2XJkThZccJhXTR9ptbVpPY_TYpfegqZUwSJDayIi9byabZCElJcT7p1-wVCE_bjVk=s480-rw",
@@ -967,19 +993,6 @@
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
-        "adImp": 5,
-        "title": "Heroes Legend - Epic Fantasy",
-        "image": "https://play-lh.googleusercontent.com/Lqk5um5_SUnFHEs-fk-H0hlzQjiyxRLkMCiTvd7cuN632FPdmVV7ftKrghgdR4L0K5Q=w240-h480-rw",
-        "url": "https://bit.ly/4by34wd",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "",
-        "horizontal": true,
-        "status": 2,
-        "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
         "adImp": 11,
         "title": "Monster Killer Pro - Shooter",
         "image": "https://play-lh.googleusercontent.com/gBJL4G9yBC3RWxKutNb696uJPiVGe56r73WPv4_WDCn2tZu3QSjg_punsUZmdfJ9z8yT=s480-rw",
@@ -1451,19 +1464,6 @@
         "title": "Stickman Warriors Super Heroes",
         "image": "https://play-lh.googleusercontent.com/_7Su1hfN05qTZpbdzS1G6m_2lk13LTcbGjeHtcXzFHMuRMmj7docZpH5OIQnIURJne8=s480-rw",
         "url": "https://bit.ly/3SP30j9",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "",
-        "adImp": null,
-        "horizontal": true,
-        "status": 2,
-        "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
-        "title": "Evertale",
-        "image": "https://play-lh.googleusercontent.com/xrVcQ0xSlGfuwNTtnNNrHHIwXsbbRESdvKsI9PSEHc1z-xCCpYxlPblIbqysXeZgQe46",
-        "url": "https://bit.ly/48KFdYg",
         "store": "Google Play",
         "price": 1.00,
         "date": "",
