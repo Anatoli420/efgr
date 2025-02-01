@@ -1,6 +1,19 @@
 [
    {
       "adImp": 3,
+      "title": "Glorkian Warrior: The Trials Of Glork",
+      "image": "https://bit.ly/3G8tHJn",
+      "url": "https://bit.ly/3G8tHJn",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-12-22T17:30:00.000Z",
+      "endDate": "2024-12-30T15:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 3,
       "title": "Megapolis 2010",
       "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/485080/header.jpg?t=1737649284",
       "url": "https://bit.ly/4jRfzay",
