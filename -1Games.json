@@ -22,7 +22,7 @@
       "status": 1,
       "horizontal": "fechasProgramadas",
       "startDate": "2024-04-15T18:00:00.000Z",
-      "endDate": "2025-02-03T15:00:00.000Z",
+      "endDate": "2025-02-03T18:00:00.000Z",
       "date": ""
    },
    {
@@ -35,7 +35,7 @@
       "status": 1,
       "horizontal": "fechasProgramadas",
       "startDate": "2024-04-15T18:00:00.000Z",
-      "endDate": "2025-02-03T15:00:00.000Z",
+      "endDate": "2025-02-03T18:00:00.000Z",
       "date": ""
    },
    {
@@ -453,7 +453,7 @@
       "status": 2,
       "horizontal": true,
       "startDate": "2024-04-15T18:00:00.000Z",
-      "endDate": "2025-01-27T13:00:00.000Z",
+      "endDate": "2025-01-27T18:00:00.000Z",
       "date": ""
    },
    {
@@ -466,7 +466,7 @@
       "status": 2,
       "horizontal": true,
       "startDate": "2024-04-15T18:00:00.000Z",
-      "endDate": "2025-01-27T13:00:00.000Z",
+      "endDate": "2025-01-27T18:00:00.000Z",
       "date": ""
    },
    {
@@ -713,7 +713,7 @@
       "status": 2,
       "horizontal": true,
       "startDate": "2024-04-15T18:00:00.000Z",
-      "endDate": "2024-11-30T15:00:00.000Z",
+      "endDate": "2024-11-30T18:00:00.000Z",
       "date": ""
    },
    {
