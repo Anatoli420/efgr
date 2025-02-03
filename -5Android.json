@@ -1,9 +1,9 @@
 [
     {
         "adImp": 5,
-        "title": "Heroes Legend - Epic Fantasy",
-        "image": "https://play-lh.googleusercontent.com/Lqk5um5_SUnFHEs-fk-H0hlzQjiyxRLkMCiTvd7cuN632FPdmVV7ftKrghgdR4L0K5Q=w240-h480-rw",
-        "url": "https://bit.ly/4by34wd",
+        "title": "EvoCreo - Pocket Monster Game",
+        "image": "https://play-lh.googleusercontent.com/HTsEJO-cJwIln2gV-C1J1EnhkPj9hRErC7bk-1FAaLF_A1oKQ_zu6kzggRLHmB0ZIYxg=s480-rw",
+        "url": "https://bit.ly/3Q1jdkb",
         "store": "Google Play",
         "price": 1.00,
         "date": "",
@@ -13,10 +13,10 @@
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
-        "adImp": 11,
-        "title": "Evertale",
-        "image": "https://play-lh.googleusercontent.com/xrVcQ0xSlGfuwNTtnNNrHHIwXsbbRESdvKsI9PSEHc1z-xCCpYxlPblIbqysXeZgQe46",
-        "url": "https://bit.ly/48KFdYg",
+        "adImp": 5,
+        "title": "Heroes Legend - Epic Fantasy",
+        "image": "https://play-lh.googleusercontent.com/Lqk5um5_SUnFHEs-fk-H0hlzQjiyxRLkMCiTvd7cuN632FPdmVV7ftKrghgdR4L0K5Q=w240-h480-rw",
+        "url": "https://bit.ly/4by34wd",
         "store": "Google Play",
         "price": 1.00,
         "date": "",
@@ -37,6 +37,19 @@
         "date": "",
         "status": 1,
         "startDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 4,
+        "title": "Evertale",
+        "image": "https://play-lh.googleusercontent.com/xrVcQ0xSlGfuwNTtnNNrHHIwXsbbRESdvKsI9PSEHc1z-xCCpYxlPblIbqysXeZgQe46",
+        "url": "https://bit.ly/48KFdYg",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "",
+        "horizontal": true,
+        "status": 1,
+        "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
