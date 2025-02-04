@@ -1,5 +1,18 @@
 [
    {
+      "adImp": 1,
+      "title": "Beyond Blue",
+      "image": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/offer/EGS_BeyondBlue_ELineMedia_S1-2560x1440-5d205f1273f6b805db82bc525a1432b9.jpg?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/3KybUgQ",
+      "price": 8.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2025-02-06T16:00:00.000Z",
+      "endDate": "2025-02-13T16:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": 5,
       "title": "RPG Maker VX Ace",
       "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/220700/header.jpg?t=1724913240",
