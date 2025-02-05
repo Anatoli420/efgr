@@ -14,6 +14,19 @@
    },
    {
       "adImp": 3,
+      "title": "Deadfall",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/e09717de-f295-42b1-8882-a2cfcbd86eb1/prodmain/1738339372.png",
+      "url": "https://bit.ly/4jQ7GSL",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-12-22T17:30:00.000Z",
+      "endDate": "2024-12-30T15:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 3,
       "title": "Steam Idler Fest 2025 Items - Claim your free point shop items",
       "image": "https://i.ytimg.com/vi/_cWveLcjVEo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLACzj_b7N5rFIpzWpJqFLAQPPrVLw",
       "url": "https://bit.ly/4hmdfXb",
@@ -88,32 +101,6 @@
       "horizontal": "fechasProgramadas",
       "startDate": "2024-12-19T20:30:00.000Z",
       "endDate": "2025-02-10T17:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 11,
-      "title": "Super Destronaut",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/14b03d31-de38-45b2-8375-80996591098e/prodmain/1553870252.png",
-      "url": "https://bit.ly/42qyliF",
-      "store": "IndieGala",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-12-22T17:30:00.000Z",
-      "endDate": "2024-12-30T15:00:00.001Z",
-      "date": ""
-   },
-   {
-      "adImp": 11,
-      "title": "Earth Muncher",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/00989ae4-5c71-41c4-9345-595e0cef6ea4/prodmain/1555505668.png",
-      "url": "https://bit.ly/4gftgwH",
-      "store": "IndieGala",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-12-22T17:30:00.000Z",
-      "endDate": "2024-12-30T15:00:00.001Z",
       "date": ""
    },
    {
