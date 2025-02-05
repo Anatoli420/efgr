@@ -264,19 +264,6 @@
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
-        "adImp": 4,
-        "title": "Evertale",
-        "image": "https://play-lh.googleusercontent.com/xrVcQ0xSlGfuwNTtnNNrHHIwXsbbRESdvKsI9PSEHc1z-xCCpYxlPblIbqysXeZgQe46",
-        "url": "https://bit.ly/48KFdYg",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "2024-01-01T06:00:00.001Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
         "title": "Dragonheir: Silent Gods",
         "image": "https://play-lh.googleusercontent.com/7Do_78U_EOpsi_Xf2tlwI2YxV8vUCf7n-BAmvxlsUUeerC6ekmS3fn8F1qoHlqbHrhC_=s480-rw",
         "url": "https://bit.ly/40J2K8W",
@@ -313,19 +300,6 @@
         "status": 1,
         "date": "",
         "startDate": "2024-09-09T06:00:00.000Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
-        "adImp": 5,
-        "title": "Heroes Legend - Epic Fantasy",
-        "image": "https://play-lh.googleusercontent.com/Lqk5um5_SUnFHEs-fk-H0hlzQjiyxRLkMCiTvd7cuN632FPdmVV7ftKrghgdR4L0K5Q=w240-h480-rw",
-        "url": "https://bit.ly/4by34wd",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
@@ -496,6 +470,32 @@
         "date": "",
         "status": 4,
         "startDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 4,
+        "title": "Evertale",
+        "image": "https://play-lh.googleusercontent.com/xrVcQ0xSlGfuwNTtnNNrHHIwXsbbRESdvKsI9PSEHc1z-xCCpYxlPblIbqysXeZgQe46",
+        "url": "https://bit.ly/48KFdYg",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "",
+        "horizontal": true,
+        "status": 2,
+        "startDate": "2024-01-01T06:00:00.001Z",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 5,
+        "title": "Heroes Legend - Epic Fantasy",
+        "image": "https://play-lh.googleusercontent.com/Lqk5um5_SUnFHEs-fk-H0hlzQjiyxRLkMCiTvd7cuN632FPdmVV7ftKrghgdR4L0K5Q=w240-h480-rw",
+        "url": "https://bit.ly/4by34wd",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "",
+        "horizontal": true,
+        "status": 2,
+        "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
