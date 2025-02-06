@@ -53,20 +53,6 @@
         "startDate": "2024-03-20T06:00:00.000Z"
     },
     {
-        "id": "//?SUB SCREEN////",
-        "adImp": null,
-        "horizontal": "RateUs",
-        "image": "",
-        "url": "",
-        "title": "RATEUS",
-        "store": "",
-        "price": 0.00,
-        "date": "",
-        "status": 1,
-        "startDate": "",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
         "adImp": 2,
         "title": "EA SPORTS FC™ Mobile Soccer",
         "image": "https://play-lh.googleusercontent.com/wD3nE-orQx4ZEYFzzyhanH6yHLjCDO7w3aE5DTvDbWKBeHKY3UGrt5P-w4YyhOIcRiM=s960-rw",
@@ -90,6 +76,20 @@
         "horizontal": true,
         "status": 1,
         "startDate": "2018-06-13T06:00:00.000Z",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "id": "//?SUB SCREEN////",
+        "adImp": null,
+        "horizontal": "RateUs",
+        "image": "",
+        "url": "",
+        "title": "RATEUS",
+        "store": "",
+        "price": 0.00,
+        "date": "",
+        "status": 1,
+        "startDate": "",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
