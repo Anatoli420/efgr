@@ -40,32 +40,6 @@
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
-        "adImp": 5,
-        "title": "CARTOON CRAFT",
-        "image": "https://play-lh.googleusercontent.com/q2GbzLCuaCQ9QGnHFMNHejzkMrudabNeePcXCNSmP2Hog73NKrJBNKcYKplWA9wf_A=w240-h480-rw",
-        "url": "https://bit.ly/48zMFp5",
-        "store": "Google Play",
-        "price": 1.50,
-        "date": "",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "2024-01-01T06:00:00.001Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
-        "adImp": 5,
-        "title": "EvoCreo - Pocket Monster Game",
-        "image": "https://play-lh.googleusercontent.com/HTsEJO-cJwIln2gV-C1J1EnhkPj9hRErC7bk-1FAaLF_A1oKQ_zu6kzggRLHmB0ZIYxg=s480-rw",
-        "url": "https://bit.ly/3Q1jdkb",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "2024-01-01T06:00:00.001Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
         "adImp": 4,
         "title": "Call of Duty®: Warzone™ Mobile",
         "image": "https://play-lh.googleusercontent.com/3MUvX7m7mXEO8X-5_BvYa8uEyE5-JasNLlNv2KiUaqf74oMcJUkpsKiSFceVuRjU2sk=s480-rw",
@@ -496,6 +470,32 @@
         "date": "",
         "status": 4,
         "startDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 5,
+        "title": "CARTOON CRAFT",
+        "image": "https://play-lh.googleusercontent.com/q2GbzLCuaCQ9QGnHFMNHejzkMrudabNeePcXCNSmP2Hog73NKrJBNKcYKplWA9wf_A=w240-h480-rw",
+        "url": "https://bit.ly/48zMFp5",
+        "store": "Google Play",
+        "price": 1.50,
+        "date": "",
+        "horizontal": true,
+        "status": 2,
+        "startDate": "2024-01-01T06:00:00.001Z",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 5,
+        "title": "EvoCreo - Pocket Monster Game",
+        "image": "https://play-lh.googleusercontent.com/HTsEJO-cJwIln2gV-C1J1EnhkPj9hRErC7bk-1FAaLF_A1oKQ_zu6kzggRLHmB0ZIYxg=s480-rw",
+        "url": "https://bit.ly/3Q1jdkb",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "",
+        "horizontal": true,
+        "status": 2,
+        "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
