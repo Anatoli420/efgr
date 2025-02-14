@@ -26,19 +26,6 @@
     "date": ""
   },
   {
-    "adImp": 3,
-    "title": "Exoborne Playtest Key Giveaway",
-    "image": "https://media.alienwarearena.com/media/e0fbd0eaa16ea0222a5c8bc50b0f4a53.jpg?fit=crop&width=720&height=405&quality=75",
-    "url": "https://bit.ly/3EMAMCb",
-    "store": "Alienware Arena",
-    "price": 5.00,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2024-08-04T16:00:00.001Z",
-    "date": ""
-  },
-  {
     "adImp": 2,
     "title": "King of Meat Closed Alpha Key Giveaway",
     "image": "https://media.alienwarearena.com/media/380999ae63b4c24a0a844242e4fe4e29.jpg?fit=crop&width=720&height=405&quality=75",
@@ -77,6 +64,19 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Exoborne Playtest Key Giveaway",
+    "image": "https://media.alienwarearena.com/media/e0fbd0eaa16ea0222a5c8bc50b0f4a53.jpg?fit=crop&width=720&height=405&quality=75",
+    "url": "https://bit.ly/3EMAMCb",
+    "store": "Alienware Arena",
+    "price": 5.00,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2023-08-31T01:00:00.000Z",
+    "endDate": "2024-08-04T16:00:00.001Z",
+    "date": ""
   },
   {
     "adImp": 2,
