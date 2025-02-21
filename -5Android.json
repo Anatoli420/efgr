@@ -78,19 +78,6 @@
         "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
-    {
-        "adImp": 2,
-        "title": "EHW Premium & stick fight",
-        "image": "https://play-lh.googleusercontent.com/otEAVXa2NNyIhEB46xN8oZNX4MoJgyqfBY6oOSgFcTBwYqW4A_eSB0aTBbKv0Xgwq0A=s480-rw",
-        "url": "https://bit.ly/47Y7ppF",
-        "store": "Google Play",
-        "price": 1.00,
-        "status": 1,
-        "horizontal": true,
-        "date": "",
-        "startDate": "2024-02-01T18:00:00.001Z",
-        "endDate": "2025-01-01T06:00:00.001Z"
-    },
 
     {
         "adImp": 3,
@@ -525,6 +512,20 @@
         "startDate": "",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
+    {
+        "adImp": 2,
+        "title": "EHW Premium & stick fight",
+        "image": "https://play-lh.googleusercontent.com/otEAVXa2NNyIhEB46xN8oZNX4MoJgyqfBY6oOSgFcTBwYqW4A_eSB0aTBbKv0Xgwq0A=s480-rw",
+        "url": "https://bit.ly/47Y7ppF",
+        "store": "Google Play",
+        "price": 1.00,
+        "status": 2,
+        "horizontal": true,
+        "date": "",
+        "startDate": "2024-02-01T18:00:00.001Z",
+        "endDate": "2025-01-01T06:00:00.001Z"
+    },
+
     {
         "adImp": 2,
         "title": "Space Shooter: Galaxy Attack",
