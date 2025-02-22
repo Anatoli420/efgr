@@ -1,6 +1,19 @@
 [
   {
     "adImp": 3,
+    "title": "Mecha BREAK Demo",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2870990/header.jpg?t=1740044443",
+    "url": "https://bit.ly/41tuAYE",
+    "store": "Steam",
+    "price": 30.00,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2025-01-01T01:00:00.000Z",
+    "endDate": "2025-02-17T18:00:00.001Z",
+    "date": ""
+  },
+  {
+    "adImp": 3,
     "title": "Nested Lands Closed Alpha Key Giveaway",
     "image": "https://media.alienwarearena.com/media/48945ade69d4aed922f67340a194a648.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://bit.ly/4hCOBBM",
