@@ -41,19 +41,6 @@
     },
     {
         "adImp": 1,
-        "title": "FASTAR VIP - Rhythm Game",
-        "image": "https://play-lh.googleusercontent.com/xjMHxJtOXXgYvBXRVb9PDrh6zoNsvkHS_sqWwLO5A6hLQMHGGU4cTBpu5JqOPoNSpuk",
-        "url": "https://bit.ly/3u6OMBO",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
-        "adImp": 1,
         "title": "Grow Zombie VIP : Merge Zombie",
         "image": "https://play-lh.googleusercontent.com/1MSlRilnTS8wWFXLXf0lgEigGr_yGr4t3bmT_3t4pS_4UKwRCQYN0mUz8LNFfACgn-Q=s480-rw",
         "url": "https://bit.ly/4biJQKW",
@@ -78,7 +65,6 @@
         "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
-
     {
         "adImp": 3,
         "title": "Call of Duty®: Warzone™ Mobile",
@@ -513,6 +499,19 @@
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
+        "adImp": 1,
+        "title": "FASTAR VIP - Rhythm Game",
+        "image": "https://play-lh.googleusercontent.com/xjMHxJtOXXgYvBXRVb9PDrh6zoNsvkHS_sqWwLO5A6hLQMHGGU4cTBpu5JqOPoNSpuk",
+        "url": "https://bit.ly/3u6OMBO",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "",
+        "status": 2,
+        "horizontal": true,
+        "startDate": "2024-01-01T06:00:00.000Z",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
         "adImp": 2,
         "title": "EHW Premium & stick fight",
         "image": "https://play-lh.googleusercontent.com/otEAVXa2NNyIhEB46xN8oZNX4MoJgyqfBY6oOSgFcTBwYqW4A_eSB0aTBbKv0Xgwq0A=s480-rw",
@@ -525,7 +524,6 @@
         "startDate": "2024-02-01T18:00:00.001Z",
         "endDate": "2025-01-01T06:00:00.001Z"
     },
-
     {
         "adImp": 2,
         "title": "Space Shooter: Galaxy Attack",
@@ -851,7 +849,6 @@
         "startDate": "2024-02-01T18:00:00.001Z",
         "endDate": "2025-01-01T06:00:00.001Z"
     },
-
     {
         "adImp": 3,
         "title": "Stickman Master Premium",
