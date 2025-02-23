@@ -1,31 +1,5 @@
 [
     {
-        "adImp": 11,
-        "title": "ExtremeJobsKnight’sManager VIP",
-        "image": "https://play-lh.googleusercontent.com/jfFJ_xaTTzqL4HNRo0-EBOkVJvtMtrPz6uwNsKlQsqBPf1cTu-NvlfJwEGu26InRev8",
-        "url": "https://bit.ly/42iAIBY",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "2024-01-01T06:00:00.001Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
-        "adImp": 11,
-        "title": "Summoners Era: Idle Strategy",
-        "image": "https://play-lh.googleusercontent.com/NlbXWMy7a05zQzYYnuTXWauxBHUWgkeqQtiHj2wiU9531OmqoVREYG5bQqXOqEP4GQ=s480-rw",
-        "url": "https://bit.ly/49kPH0y",
-        "store": "Google Play",
-        "price": 1.00,
-        "status": 1,
-        "horizontal": true,
-        "startDate": "2024-02-01T18:00:00.001Z",
-        "endDate": "2024-02-29T16:00:00.001Z",
-        "date": ""
-    },
-    {
         "id": "//?SUB SCREEN////",
         "adImp": null,
         "horizontal": false,
@@ -38,19 +12,6 @@
         "status": 1,
         "startDate": "",
         "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
-        "adImp": 1,
-        "title": "Grow Zombie VIP : Merge Zombie",
-        "image": "https://play-lh.googleusercontent.com/1MSlRilnTS8wWFXLXf0lgEigGr_yGr4t3bmT_3t4pS_4UKwRCQYN0mUz8LNFfACgn-Q=s480-rw",
-        "url": "https://bit.ly/4biJQKW",
-        "store": "Google Play",
-        "price": 1.00,
-        "status": 1,
-        "horizontal": true,
-        "startDate": "2024-02-01T18:00:00.001Z",
-        "endDate": "2024-02-29T16:00:00.001Z",
-        "date": ""
     },
     {
         "adImp": 2,
@@ -497,6 +458,45 @@
         "status": 4,
         "startDate": "",
         "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 11,
+        "title": "ExtremeJobsKnight’sManager VIP",
+        "image": "https://play-lh.googleusercontent.com/jfFJ_xaTTzqL4HNRo0-EBOkVJvtMtrPz6uwNsKlQsqBPf1cTu-NvlfJwEGu26InRev8",
+        "url": "https://bit.ly/42iAIBY",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "",
+        "status": 2,
+        "horizontal": true,
+        "startDate": "2024-01-01T06:00:00.001Z",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 11,
+        "title": "Summoners Era: Idle Strategy",
+        "image": "https://play-lh.googleusercontent.com/NlbXWMy7a05zQzYYnuTXWauxBHUWgkeqQtiHj2wiU9531OmqoVREYG5bQqXOqEP4GQ=s480-rw",
+        "url": "https://bit.ly/49kPH0y",
+        "store": "Google Play",
+        "price": 1.00,
+        "status": 2,
+        "horizontal": true,
+        "startDate": "2024-02-01T18:00:00.001Z",
+        "endDate": "2024-02-29T16:00:00.001Z",
+        "date": ""
+    },
+    {
+        "adImp": 1,
+        "title": "Grow Zombie VIP : Merge Zombie",
+        "image": "https://play-lh.googleusercontent.com/1MSlRilnTS8wWFXLXf0lgEigGr_yGr4t3bmT_3t4pS_4UKwRCQYN0mUz8LNFfACgn-Q=s480-rw",
+        "url": "https://bit.ly/4biJQKW",
+        "store": "Google Play",
+        "price": 1.00,
+        "status": 2,
+        "horizontal": true,
+        "startDate": "2024-02-01T18:00:00.001Z",
+        "endDate": "2024-02-29T16:00:00.001Z",
+        "date": ""
     },
     {
         "adImp": 1,
