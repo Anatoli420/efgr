@@ -457,19 +457,6 @@
     "date": ""
   },
   {
-    "adImp": null,
-    "title": "Across the Obelisk",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1385380/header_alt_assets_2.jpg?t=1732212063",
-    "url": "https://bit.ly/3G6IAg2",
-    "store": "Steam",
-    "price": 10.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-04-08T01:00:00.000Z",
-    "endDate": "2024-11-25T18:00:00.000Z",
-    "date": ""
-  },
-  {
     "adImp": 11,
     "title": "Isonzo",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1556790/header_alt_assets_9.jpg?t=1731616851",
@@ -528,19 +515,6 @@
     "url": "https://bit.ly/470JbLQ",
     "store": "Steam",
     "price": 15.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-04-08T01:00:00.000Z",
-    "endDate": "2024-11-11T02:00:00.000Z",
-    "date": ""
-  },
-  {
-    "adImp": 3,
-    "title": "Age of Wonders 4",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1669000/header_alt_assets_4.jpg?t=1730997606",
-    "url": "https://bit.ly/4hA53mJ",
-    "store": "Steam",
-    "price": 33.00,
     "status": 2,
     "horizontal": true,
     "startDate": "2024-04-08T01:00:00.000Z",
@@ -626,19 +600,6 @@
     "date": ""
   },
   {
-    "adImp": 3,
-    "title": "Europa Universalis IV",
-    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/236850/header_alt_assets_2.jpg?t=1729185149",
-    "url": "https://bit.ly/3dcL4OI",
-    "store": "Steam",
-    "price": 5.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2024-10-23T17:00:00.000Z",
-    "date": ""
-  },
-  {
     "adImp": 11,
     "title": "Delta Force - Demo",
     "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2507950/header.jpg?t=1729081389",
@@ -692,19 +653,6 @@
   },
   {
     "adImp": 11,
-    "title": "Kingdom Two Crowns",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/header.jpg?t=1728390754",
-    "url": "https://bit.ly/3Y4LQRa",
-    "store": "Steam",
-    "price": 5.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2024-10-14T17:00:00.000Z",
-    "date": ""
-  },
-  {
-    "adImp": 11,
     "title": "Wild Planet Demo Key Giveaway",
     "image": "https://media.alienwarearena.com/media/99c06c9538d7f11de675aad7692fc3d6.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://bit.ly/3MYRdwi",
@@ -736,32 +684,6 @@
     "url": "https://bit.ly/3TrOtIH",
     "store": "Steam",
     "price": 10.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2024-09-30T17:00:00.000Z",
-    "date": ""
-  },
-  {
-    "adImp": 6,
-    "title": "Cross Blitz",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619520/header.jpg?t=1727370032",
-    "url": "https://bit.ly/4eFYGMm",
-    "store": "Steam",
-    "price": 15.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2024-09-30T17:00:00.000Z",
-    "date": ""
-  },
-  {
-    "adImp": 6,
-    "title": "Shapelab 2024",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571890/header.jpg?t=1727110725",
-    "url": "https://bit.ly/3N1LqG5",
-    "store": "Steam",
-    "price": 25.00,
     "status": 2,
     "horizontal": true,
     "startDate": "2023-08-31T01:00:00.000Z",
@@ -900,32 +822,6 @@
   },
   {
     "adImp": 11,
-    "title": "HELLCARD",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201540/header.jpg?t=1724346857",
-    "url": "https://bit.ly/3WURSDA",
-    "store": "Steam",
-    "price": 10.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2024-08-26T16:00:00.000Z",
-    "date": ""
-  },
-  {
-    "adImp": 3,
-    "title": "Core Keeper",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg?t=1724226264",
-    "url": "https://bit.ly/3z1fmyG",
-    "store": "Steam",
-    "price": 10.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2024-08-26T16:00:00.000Z",
-    "date": ""
-  },
-  {
-    "adImp": 11,
     "title": "Hunt: Showdown 1896",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/header.jpg?t=1723744245",
     "url": "https://bit.ly/4dsHsCe",
@@ -977,19 +873,6 @@
     "date": ""
   },
   {
-    "adImp": 11,
-    "title": "IMMORTAL: Gates of Pyre® Playtest Key Giveaway",
-    "image": "https://media.alienwarearena.com/media/b36f13deb6e563cf202bc7122e5f8131.jpg?fit=crop&width=720&height=405&quality=75",
-    "url": "https://bit.ly/4fsov3Q",
-    "store": "Alienware Arena",
-    "price": 60.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2024-08-04T16:00:00.000Z",
-    "date": ""
-  },
-  {
     "adImp": null,
     "title": "Delta Force: Hawk Ops Playtest Key Giveaway",
     "image": "https://media.alienwarearena.com/media/4e49df768d1eae7a9c093f52085e7988.jpg?fit=crop&width=720&height=405&quality=75",
@@ -1030,19 +913,6 @@
   },
   {
     "adImp": null,
-    "title": "Myth of Empires",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371580/header_alt_assets_1.jpg?t=1722495512",
-    "url": "https://bit.ly/3Aifl9R",
-    "store": "Steam",
-    "price": 8.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2024-08-05T16:00:00.000Z",
-    "date": "2024-08-05"
-  },
-  {
-    "adImp": null,
     "title": "Dead by Daylight",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg?t=1693340525",
     "url": "https://bit.ly/3MA9xJj",
@@ -1068,32 +938,6 @@
     "date": "2024-??"
   },
   {
-    "adImp": 4,
-    "title": "Wild Bastards Game Demo Key Giveaway",
-    "image": "https://media.alienwarearena.com/media/8357181fb3f6f6e27f2d7ea2be762b92.jpg?quality=75",
-    "url": "https://bit.ly/3zVCSxr",
-    "store": "Alienware Arena",
-    "price": 40.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-02-01T20:00:00.000Z",
-    "endDate": "2024-02-13T10:00:00.001Z",
-    "date": "2024-??"
-  },
-  {
-    "adImp": null,
-    "title": "Concord™ Beta",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2443720/header.jpg?t=1721337196",
-    "url": "https://bit.ly/4bR5Bki",
-    "store": "Steam",
-    "price": 60.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-05-17T17:00:00.000Z",
-    "endDate": "2024-07-21T16:00:00.000Z",
-    "date": "2024-07-21"
-  },
-  {
     "adImp": null,
     "title": "THRONE AND LIBERTY Playtest",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429640/header.jpg?t=1721339855",
@@ -1105,19 +949,6 @@
     "startDate": "2024-05-17T17:00:00.000Z",
     "endDate": "2024-07-23T16:00:00.000Z",
     "date": "2024-07-23"
-  },
-  {
-    "adImp": 4,
-    "title": "PGA TOUR 2K23",
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1588010/header.jpg?t=1710524489",
-    "url": "https://bit.ly/3KkMYcq",
-    "store": "Steam",
-    "price": 15.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-05-17T17:00:00.000Z",
-    "endDate": "2024-07-22T16:00:00.000Z",
-    "date": "2024-07-22"
   },
   {
     "adImp": null,
@@ -1144,97 +975,6 @@
     "startDate": "2024-03-14T01:00:00.000Z",
     "endDate": "2024-07-08T16:00:00.000Z",
     "date": "2024-07-08"
-  },
-  {
-    "adImp": 11,
-    "title": "Gigantic: Rampage Edition Free Week",
-    "image": "https://cdn2.unrealengine.com/egsm-gigantic-trial-breaker-1920x1080-6ac8ec00bb68.jpg?h=480&quality=medium&resize=1&w=854",
-    "url": "https://bit.ly/3VA5fII",
-    "store": "Epic Games",
-    "price": 5.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-06-06T01:00:00.000Z",
-    "endDate": "2024-06-26T16:00:00.000Z",
-    "date": "2024-06-26"
-  },
-  {
-    "adImp": 11,
-    "title": "Mannequin",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2409260/header_alt_assets_0.jpg?t=1718899050",
-    "url": "https://bit.ly/45CjJfO",
-    "store": "Steam",
-    "price": 5.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-06-06T01:00:00.000Z",
-    "endDate": "2024-06-24T16:00:00.000Z",
-    "date": "2024-06-24"
-  },
-  {
-    "adImp": null,
-    "title": "Stellaris",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/header_alt_assets_4.jpg?t=1718902815",
-    "url": "https://bit.ly/3plp4aA",
-    "store": "Steam",
-    "price": 5.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-06-06T01:00:00.000Z",
-    "endDate": "2024-06-24T16:00:00.000Z",
-    "date": "2024-06-24"
-  },
-  {
-    "adImp": null,
-    "title": "Deep Rock Galactic",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/header_alt_assets_25.jpg?t=1718281349",
-    "url": "https://bit.ly/3h7E7A4",
-    "store": "Steam",
-    "price": 5.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-06-06T01:00:00.000Z",
-    "endDate": "2024-06-17T16:00:00.000Z",
-    "date": "2024-06-17"
-  },
-  {
-    "adImp": null,
-    "title": "Hell Let Loose",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/header.jpg?t=1714466235",
-    "url": "https://bit.ly/3PIVFhW",
-    "store": "Steam",
-    "price": 20.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-06-06T01:00:00.000Z",
-    "endDate": "2024-06-17T16:00:00.000Z",
-    "date": "2024-06-17"
-  },
-  {
-    "adImp": 1,
-    "title": "GTFO",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493520/header.jpg?t=1717587899",
-    "url": "https://bit.ly/3b6xfjA",
-    "store": "Steam",
-    "price": 10.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-06-06T01:00:00.000Z",
-    "endDate": "2024-06-17T16:00:00.000Z",
-    "date": "2024-06-17"
-  },
-  {
-    "adImp": null,
-    "title": "TopSpin 2K25",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1785650/header.jpg?t=1717516113",
-    "url": "https://bit.ly/459Sxop",
-    "store": "Steam",
-    "price": 45.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-06-06T01:00:00.000Z",
-    "endDate": "2024-06-10T16:00:00.000Z",
-    "date": "2024-06-10"
   },
   {
     "adImp": 4,
@@ -1290,19 +1030,6 @@
   },
   {
     "adImp": null,
-    "title": "THE SIGNAL",
-    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1830110/header.jpg?t=1716928001",
-    "url": "https://bit.ly/3V3r7f4",
-    "store": "Steam",
-    "price": 60.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-06-06T16:00:00.000Z",
-    "date": "2024-06-06"
-  },
-  {
-    "adImp": null,
     "title": "Warhammer 40,000: Speed Freeks",
     "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2078450/header.jpg?t=1716910375",
     "url": "https://bit.ly/3Kjb1ZI",
@@ -1313,19 +1040,6 @@
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-05-30T16:00:00.000Z",
     "date": "2024-05-30"
-  },
-  {
-    "adImp": 4,
-    "title": "RPG MAKER UNITE Free Trial",
-    "image": "https://cdn1.epicgames.com/spt-assets/6bbb1f28256f4487861ade0140405ef3/rpg-maker-unite-3lgcr.png?h=270&quality=medium&resize=1&w=480",
-    "url": "https://bit.ly/4apHMiH",
-    "store": "Epic Games",
-    "price": 35.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-06-13T16:00:00.000Z",
-    "date": "2024-06-13"
   },
   {
     "adImp": null,
@@ -1339,19 +1053,6 @@
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-05-27T16:00:00.000Z",
     "date": "2024-05-27"
-  },
-  {
-    "adImp": 3,
-    "title": "Wizard with a Gun",
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1150530/header_alt_assets_2.jpg?t=1715717604",
-    "url": "https://bit.ly/3yirJFU",
-    "store": "Steam",
-    "price": 7.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-05-20T16:00:00.000Z",
-    "date": "2024-05-20"
   },
   {
     "adImp": 3,
@@ -1373,19 +1074,6 @@
     "url": "https://bit.ly/3QxnAmA",
     "store": "Steam",
     "price": 25.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-04-08T01:00:00.000Z",
-    "endDate": "2024-05-13T01:00:00.000Z",
-    "date": "2024-05-13"
-  },
-  {
-    "adImp": 5,
-    "title": "Crusader Kings III",
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header_alt_assets_4.jpg?t=1715275928",
-    "url": "https://bit.ly/3RCp4Mk",
-    "store": "Steam",
-    "price": 15.00,
     "status": 2,
     "horizontal": true,
     "startDate": "2024-04-08T01:00:00.000Z",
@@ -1495,32 +1183,6 @@
     "date": "2024-04-08"
   },
   {
-    "adImp": 11,
-    "title": "RIPOUT",
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1558830/header_alt_assets_2.jpg?t=1712325699",
-    "url": "https://bit.ly/49pTQQo",
-    "store": "Steam",
-    "price": 8.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-04-08T16:00:00.000Z",
-    "date": "2024-04-08"
-  },
-  {
-    "adImp": 11,
-    "title": "Hearts of Iron IV",
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/394360/header_alt_assets_4.jpg?t=1712235692",
-    "url": "https://bit.ly/3SHp5OU",
-    "store": "Steam",
-    "price": 5.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-04-08T16:00:00.000Z",
-    "date": "2024-04-08"
-  },
-  {
     "adImp": 4,
     "title": "The Elder Scrolls® Online",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/306130/header_alt_assets_16.jpg?t=1711726556",
@@ -1558,19 +1220,6 @@
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-04-02T01:00:00.000Z",
     "date": "2024-04-02"
-  },
-  {
-    "adImp": 4,
-    "title": "Midnight Ghost Hunt",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/915810/header.jpg?t=1711043622",
-    "url": "https://bit.ly/3LFkN8z",
-    "store": "Steam",
-    "price": 3.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-03-25T16:00:00.000Z",
-    "date": "2024-03-25"
   },
   {
     "adImp": 4,
@@ -1623,32 +1272,6 @@
     "startDate": "2024-02-08T01:00:00.000Z",
     "endDate": "2024-03-11T16:00:00.000Z",
     "date": "2024-03-11"
-  },
-  {
-    "adImp": null,
-    "title": "Fractured Online",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426050/header.jpg?t=1709583032",
-    "url": "https://bit.ly/3wKVjmS",
-    "store": "Steam",
-    "price": 9.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-03-11T16:00:00.000Z",
-    "date": "2024-03-11"
-  },
-  {
-    "adImp": 3,
-    "title": "Deceive Inc.",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/820520/header.jpg?t=1709236255",
-    "url": "https://bit.ly/3AAZlwQ",
-    "store": "Steam",
-    "price": 5.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-03-04T16:00:00.000Z",
-    "date": "2024-03-04"
   },
   {
     "adImp": 3,
@@ -1731,19 +1354,6 @@
   },
   {
     "adImp": 4,
-    "title": "West Hunt",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1570330/header.jpg?t=1707409714",
-    "url": "https://bit.ly/3UsOdgC",
-    "store": "Steam",
-    "price": 3.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-02-14T16:00:00.000Z",
-    "date": "2024-02-14"
-  },
-  {
-    "adImp": 4,
     "title": "Islands of Insight Demo Early Access Key Giveaway",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/2071500/header.jpg?t=1706643215",
     "url": "https://bit.ly/3ukiGTm",
@@ -1754,19 +1364,6 @@
     "startDate": "2024-02-01T20:00:00.000Z",
     "endDate": "2024-02-13T10:00:00.000Z",
     "date": "2024-02-13"
-  },
-  {
-    "adImp": null,
-    "title": "DNF Duel",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1216060/header.jpg?t=1704492568",
-    "url": "https://bit.ly/3SB6mpJ",
-    "store": "Steam",
-    "price": 20.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-02-08T01:00:00.000Z",
-    "endDate": "2024-02-12T16:00:00.000Z",
-    "date": "2024-02-12"
   },
   {
     "adImp": null,
@@ -1796,19 +1393,6 @@
   },
   {
     "adImp": null,
-    "title": "This War of Mine",
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/282070/header.jpg?t=1701880357",
-    "url": "https://bit.ly/3Ugez5s",
-    "store": "Steam",
-    "price": 10.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-01-18T01:00:00.000Z",
-    "endDate": "2024-01-29T16:00:00.000Z",
-    "date": "2024-01-29"
-  },
-  {
-    "adImp": null,
     "title": "EA SPORTS FC™ 24",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2195250/header.jpg?t=1705478125",
     "url": "https://bit.ly/47OPrG8",
@@ -1819,19 +1403,6 @@
     "startDate": "2024-01-18T01:00:00.000Z",
     "endDate": "2024-01-22T16:00:00.000Z",
     "date": "2024-01-22"
-  },
-  {
-    "adImp": null,
-    "title": "Prince of Persia The Lost Crown - DEMO",
-    "image": "https://cdn1.epicgames.com/offer/22600f09e936468c8ecfc22b5eac7d7c/EGST_StoreLandscape_2560x1440_2560x1440-d49d4862a0e1a243638d5f95517ed205?h=480&quality=medium&resize=1&w=854",
-    "url": "https://bit.ly/47x4jIP",
-    "store": "Ubisoft Connect",
-    "price": 50.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2023-09-21T01:00:00.000Z",
-    "endDate": "2024-01-18T16:00:00.000Z",
-    "date": "2024-01-18"
   },
   {
     "id": "//?SUB SCREEN////",
@@ -1937,19 +1508,6 @@
     "startDate": "2023-09-21T01:00:00.000Z",
     "endDate": "2023-11-16T16:00:00.000Z",
     "date": "2023-11-16"
-  },
-  {
-    "adImp": null,
-    "title": "LEGO® 2K Drive",
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1451810/header.jpg?t=1689974447",
-    "url": "https://bit.ly/3L4wRkF",
-    "store": "Steam",
-    "price": 35.00,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2023-09-04T16:00:00.000Z",
-    "date": "04-09-2023"
   },
   {
     "id": "//?SUB SCREEN////",
