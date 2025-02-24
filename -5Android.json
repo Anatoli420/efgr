@@ -9,7 +9,7 @@
         "date": "",
         "status": 1,
         "horizontal": true,
-        "startDate": "2024-01-01T06:00:00.000Z",
+        "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
@@ -48,8 +48,8 @@
         "price": 2.00,
         "date": "",
         "horizontal": true,
-        "status": 2,
-        "startDate": "2024-01-01T06:00:00.000Z",
+        "status": 1,
+        "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
