@@ -1,5 +1,18 @@
 [
    {
+      "adImp": 11,
+      "title": "Deep Despair 3",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/8b709f13-bc33-41ab-81e6-5729509a73df/prodmain/1740417863.png",
+      "url": "https://bit.ly/41w1TKH",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-12-22T17:30:00.000Z",
+      "endDate": "2025-12-30T15:00:00.001Z",
+      "date": ""
+   },
+   {
       "adImp": 5,
       "title": "Golden Light",
       "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245430/header.jpg?t=1740124611",
@@ -544,19 +557,6 @@
       "horizontal": true,
       "startDate": "2024-04-15T01:00:00.000Z",
       "endDate": "2025-02-09T13:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 1,
-      "title": "HELLCARD Bruja DLC Key Giveaway",
-      "image": "https://media.alienwarearena.com/media/ae23698fcc1081b83d84cfbb2fbb15c0.jpg?fit=crop&width=720&height=405&quality=75",
-      "url": "https://bit.ly/3UeNRJH",
-      "store": "Alienware Arena",
-      "price": 5.00,
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-04-04T15:00:00.000Z",
-      "endDate": "2024-04-07T15:00:00.001Z",
       "date": ""
    },
    {
@@ -1418,19 +1418,6 @@
       "date": ""
    },
    {
-      "adImp": null,
-      "title": "Diggles: The Myth of Fenris",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1478650/header.jpg?t=1728488031",
-      "url": "https://bit.ly/4i1Hp2W",
-      "price": 10.00,
-      "store": "GoG",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-01-01T15:00:00.000Z",
-      "endDate": "2024-11-18T13:00:00.000Z",
-      "date": ""
-   },
-   {
       "adImp": 3,
       "title": "Half-Life 2",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220/header.jpg?t=1731715278",
@@ -1510,19 +1497,6 @@
    },
    {
       "adImp": 11,
-      "title": "Witch It",
-      "image": "https://cdn1.epicgames.com/spt-assets/03887d7e03fd460eb1c3074d1de865dd/witch-it-ia44y.jpg?resize=1&w=854&h=480&quality=high",
-      "url": "https://bit.ly/3Ak1Hn2",
-      "price": 5.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-10-31T15:00:00.000Z",
-      "endDate": "2024-11-07T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 11,
       "title": "Megapolis 2010",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/485080/header.jpg?t=1721036785",
       "url": "https://bit.ly/48pkwC9",
@@ -1587,19 +1561,6 @@
       "date": ""
    },
    {
-      "adImp": 2,
-      "title": "Kardboard Kings",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1298480/header.jpg?t=1728492843",
-      "url": "https://bit.ly/3BF4VSA",
-      "price": 20.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-10-17T15:00:00.000Z",
-      "endDate": "2024-10-24T15:00:00.000Z",
-      "date": ""
-   },
-   {
       "adImp": 11,
       "title": "Empyrion - Galactic Survival",
       "image": "https://cdn1.epicgames.com/spt-assets/25da1d05381345f6b50cca947a2fc2fc/empyrion--galactic-survival-1fmc8.jpg?resize=1&w=854&h=480&quality=medium",
@@ -1639,19 +1600,6 @@
       "date": ""
    },
    {
-      "adImp": null,
-      "title": "DC Universe Online: Amazonian Conqueror Style Pack Key Giveaway",
-      "image": "https://www.mmobomb.com/file/2024/10/dc-universe-online-amazonian-conqueror-style-pack-key-giveaway.png",
-      "url": "https://bit.ly/3BKtoFX",
-      "store": "MMOBomb",
-      "price": 5.00,
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-04-04T15:00:00.000Z",
-      "endDate": "2024-04-07T15:00:00.001Z",
-      "date": ""
-   },
-   {
       "adImp": 3,
       "title": "Castle Break",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1018130/header.jpg?t=1727210421",
@@ -1675,19 +1623,6 @@
       "horizontal": true,
       "startDate": "2024-04-15T01:00:00.000Z",
       "endDate": "2024-10-12T17:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": null,
-      "title": "THRONE AND LIBERTY Leveling Log Pass Key Giveaway",
-      "image": "https://media.alienwarearena.com/media/8a679d3b22796878621694f2803a327e.jpg?fit=crop&width=720&height=405&quality=75",
-      "url": "https://bit.ly/3zWwHcD",
-      "store": "Alienware Arena",
-      "price": 5.00,
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-04-04T15:00:00.000Z",
-      "endDate": "2024-04-07T15:00:00.001Z",
       "date": ""
    },
    {
@@ -1727,32 +1662,6 @@
       "horizontal": true,
       "startDate": "2024-04-15T01:00:00.000Z",
       "endDate": "2024-10-07T13:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": null,
-      "title": "The Spirit and the Mouse",
-      "image": "https://cdn1.epicgames.com/spt-assets/836b235a73124dff93ad3f6ec12dbaeb/the-spirit-and-the-mouse-offer-ldey6.jpg?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/3Tz7L1s",
-      "price": 12.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-09-26T15:00:00.000Z",
-      "endDate": "2024-10-03T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 11,
-      "title": "TOEM",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307580/header.jpg?t=1710254611",
-      "url": "https://bit.ly/4d3lzYT",
-      "price": 10.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-09-19T15:00:00.000Z",
-      "endDate": "2024-09-26T15:00:00.000Z",
       "date": ""
    },
    {
@@ -2004,19 +1913,6 @@
    },
    {
       "adImp": null,
-      "title": "Gigantic: Rampage Edition",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1924490/header.jpg?t=1717106915",
-      "url": "https://bit.ly/3AqXFsU",
-      "price": 20.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-08-22T15:00:00.000Z",
-      "endDate": "2024-08-29T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": null,
       "title": "Drawful 2",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442070/header.jpg?t=1721927113",
       "url": "https://bit.ly/3SsEnt7",
@@ -2052,19 +1948,6 @@
       "horizontal": true,
       "startDate": "2024-01-01T01:00:00.000Z",
       "endDate": "2024-09-22T17:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 11,
-      "title": "Distant Space",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569610/header.jpg?t=1724170752",
-      "url": "https://bit.ly/3MisrqI",
-      "store": "Steam",
-      "price": 5.00,
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-01-01T01:00:00.000Z",
-      "endDate": "2024-08-24T17:00:00.000Z",
       "date": ""
    },
    {
@@ -2105,19 +1988,6 @@
       "startDate": "2024-08-15T15:00:00.000Z",
       "endDate": "2024-08-22T15:00:00.000Z",
       "date": ""
-   },
-   {
-      "adImp": null,
-      "title": "CYGNI",
-      "image": "https://cdn1.epicgames.com/spt-assets/99e568930ad045a5a91b0b50ea3d5389/cygni--all-guns-blazing-1b886.jpg?h=270&quality=medium&resize=1&w=480",
-      "url": "https://bit.ly/46MZ89b",
-      "price": 27.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-08-08T15:00:00.000Z",
-      "endDate": "2024-08-15T15:00:00.000Z",
-      "date": "2024-08-15"
    },
    {
       "adImp": 4,
@@ -2237,19 +2107,6 @@
       "date": "2024-??"
    },
    {
-      "adImp": null,
-      "title": "F.I.S.T.: Forged In Shadow Torch",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1330470/header.jpg?t=1695348154",
-      "url": "https://bit.ly/3vjHPdU",
-      "price": 11.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-07-25T15:00:00.000Z",
-      "endDate": "2024-08-01T15:00:00.000Z",
-      "date": "2024-08-01"
-   },
-   {
       "adImp": 4,
       "title": "Exclusive Outfits Pack",
       "image": "https://cdn1.epicgames.com/spt-assets/16c163a44eea408c94b388cb63aafe6d/olympics-go-paris-2024-akv5w.jpg?h=480&quality=medium&resize=1&w=854",
@@ -2260,19 +2117,6 @@
       "horizontal": true,
       "startDate": "2024-07-25T15:00:00.000Z",
       "endDate": "2024-08-01T15:00:00.000Z",
-      "date": "2024-08-01"
-   },
-   {
-      "adImp": 5,
-      "title": "Minion Masters - Power UP",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101570/header.jpg?t=1721923409",
-      "url": "https://bit.ly/4dzQugr",
-      "store": "Steam",
-      "price": 9.00,
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2024-08-01T13:00:00.000Z",
       "date": "2024-08-01"
    },
    {
@@ -2307,19 +2151,6 @@
       "image": "https://cdn1.epicgames.com/spt-assets/964693002c1b447c949b155c71727c45/maid-of-sker-1ig0g.jpg?h=480&quality=medium&resize=1&w=854",
       "url": "https://bit.ly/4bH9Wq7",
       "price": 11.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-07-18T15:00:00.000Z",
-      "endDate": "2024-07-25T15:00:00.000Z",
-      "date": "2024-07-25"
-   },
-   {
-      "adImp": 11,
-      "title": "Arcade Paradise",
-      "image": "https://cdn1.epicgames.com/offer/89b9c510e8d74b9da34c447915b1ffb1/EGS_ArcadeParadise_NosebleedInteractive_S1_2560x1440-5a8ca84efde851f3ca2b0d30b393543e?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/3VYaZvN",
-      "price": 5.00,
       "store": "Epic Games",
       "status": 2,
       "horizontal": true,
@@ -2394,32 +2225,6 @@
    },
    {
       "adImp": 11,
-      "title": "Larger Than Light",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597650/header.jpg?t=1622297086",
-      "url": "https://bit.ly/41a8hFi",
-      "store": "itch.io",
-      "price": 5.00,
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-04-04T15:00:00.000Z",
-      "endDate": "2024-04-07T15:00:00.001Z",
-      "date": "2024-??"
-   },
-   {
-      "adImp": null,
-      "title": "The Falconeer",
-      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/3zhAYH8",
-      "price": 8.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-07-04T15:00:00.000Z",
-      "endDate": "2024-07-11T15:00:00.000Z",
-      "date": "2024-07-11"
-   },
-   {
-      "adImp": 11,
       "title": "Cakey's Twisted Bakery",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3028500/header.jpg?t=1720180846",
       "url": "https://bit.ly/4coo0Wy",
@@ -2430,45 +2235,6 @@
       "startDate": "2024-04-15T01:00:00.000Z",
       "endDate": "2024-07-07T13:00:00.000Z",
       "date": "2024-07-07"
-   },
-   {
-      "adImp": null,
-      "title": "Sunless Skies: Sovereign Edition",
-      "image": "https://cdn1.epicgames.com/spt-assets/c940bf4524614968826999d859f79dbd/sunless-skies-1v5ll.jpg?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/3xp28Ly",
-      "price": 11.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-06-27T15:00:00.000Z",
-      "endDate": "2024-07-04T15:00:00.000Z",
-      "date": "2024-07-04"
-   },
-   {
-      "adImp": null,
-      "title": "Freshly Frosted",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1070790/header.jpg?t=1656610791",
-      "url": "https://bit.ly/3VFfxbv",
-      "price": 5.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-06-20T15:00:00.000Z",
-      "endDate": "2024-06-27T15:00:00.000Z",
-      "date": "2024-06-27"
-   },
-   {
-      "adImp": 4,
-      "title": "Rumble Club - Free Game of the Week Bonus",
-      "image": "https://cdn1.epicgames.com/spt-assets/dcc6ac462e384ff1a3b388fe7be5d51c/rumble-club-juolk.png?h=270&quality=medium&resize=1&w=480",
-      "url": "https://bit.ly/3Rqra3E",
-      "price": 5.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-06-20T15:00:00.000Z",
-      "endDate": "2024-06-27T15:00:00.000Z",
-      "date": "2024-06-27"
    },
    {
       "adImp": null,
@@ -2508,19 +2274,6 @@
       "startDate": "2024-04-04T15:00:00.000Z",
       "endDate": "2024-04-07T15:00:00.001Z",
       "date": "2024-??"
-   },
-   {
-      "adImp": null,
-      "title": "Redout 2",
-      "image": "https://cdn1.epicgames.com/offer/05ae696a3c5f49af91a7433547460c21/EGS_Redout2_34BigThings_S1_2560x1440-15165db53ba987f704968f8c3e4c0f0b?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/3V4Lete",
-      "price": 12.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-06-13T15:00:00.000Z",
-      "endDate": "2024-06-20T15:00:00.000Z",
-      "date": "2024-06-20"
    },
    {
       "adImp": 4,
@@ -2601,19 +2354,6 @@
       "date": "2024-05-30"
    },
    {
-      "adImp": 11,
-      "title": "ENDLESS™ Legend",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/289130/header.jpg?t=1715276566",
-      "url": "https://bit.ly/3V2XDPC",
-      "store": "Steam",
-      "price": 15.00,
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-04-30T17:00:00.000Z",
-      "endDate": "2024-05-23T17:00:00.000Z",
-      "date": "2024-05-23"
-   },
-   {
       "adImp": 5,
       "title": "100% Orange Juice",
       "image": "https://cdn.akamai.steamstatic.com/steam/apps/282800/header.jpg?t=1710265769",
@@ -2653,19 +2393,6 @@
       "date": "2024-05-20"
    },
    {
-      "adImp": null,
-      "title": "Cat Quest II",
-      "image": "https://cdn.akamai.steamstatic.com/steam/apps/914710/header.jpg?t=1708441428",
-      "url": "https://bit.ly/3QqEe8A",
-      "price": 8.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-05-02T15:00:00.000Z",
-      "endDate": "2024-05-09T15:00:00.000Z",
-      "date": "2024-05-09"
-   },
-   {
       "adImp": 11,
       "title": "Orcs Must Die! 3",
       "image": "https://cdn1.epicgames.com/spt-assets/af503dd7e8b64218b69c22a9003de268/orcs-must-die-3-1puow.jpg?h=480&quality=medium&resize=1&w=854",
@@ -2690,45 +2417,6 @@
       "startDate": "2024-04-30T17:00:00.000Z",
       "endDate": "2024-05-06T17:00:00.000Z",
       "date": "2024-05-06"
-   },
-   {
-      "adImp": null,
-      "title": "INDUSTRIA",
-      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_INDUSTRIA_Bleakmill_S1_2560x1440-6ac8f445f036547e0f7cc20dd4fd814f?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/3TW9jSs",
-      "price": 8.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-04-25T15:00:00.000Z",
-      "endDate": "2024-05-02T15:00:00.000Z",
-      "date": "2024-05-02"
-   },
-   {
-      "adImp": null,
-      "title": "The Big Con",
-      "image": "https://cdn1.epicgames.com/offer/a1f2a672b08f45d28bb6b65eef6ffe41/EGS_TheBigCon_MightyYell_S1_2560x1440-532e70014a0082daf975946d402a4c85?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/43Vw51y",
-      "price": 8.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-04-18T15:00:00.000Z",
-      "endDate": "2024-04-25T15:00:00.000Z",
-      "date": "2024-04-25"
-   },
-   {
-      "adImp": 2,
-      "title": "Town of Salem 2",
-      "image": "https://cdn1.epicgames.com/spt-assets/5461784e424b43709943f14954a9f83f/town-of-salem-2-1imcg.png?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/3vQEmap",
-      "price": 0.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-04-18T15:00:00.000Z",
-      "endDate": "2024-04-25T15:00:00.000Z",
-      "date": "2024-04-25"
    },
    {
       "adImp": 2,
@@ -2784,19 +2472,6 @@
    },
    {
       "adImp": null,
-      "title": "Islets",
-      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1669420/header.jpg?t=1689190435",
-      "url": "https://bit.ly/3x92R36",
-      "price": 12.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-03-28T15:00:00.000Z",
-      "endDate": "2024-04-04T15:00:00.000Z",
-      "date": "2024-04-04"
-   },
-   {
-      "adImp": null,
       "title": "Content Warning",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2881650/header.jpg?t=1711987881",
       "url": "https://bit.ly/3IZuw90",
@@ -2848,19 +2523,6 @@
       "date": "2024-03-21"
    },
    {
-      "adImp": 4,
-      "title": "The Bridge",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/204240/header.jpg?t=1673726138",
-      "url": "https://bit.ly/3V8BBLP",
-      "price": 15.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-03-14T15:00:00.000Z",
-      "endDate": "2024-03-21T15:00:00.000Z",
-      "date": "2024-03-21"
-   },
-   {
       "adImp": 5,
       "title": "One Month of Discord Nitro Exclusive Key Giveaway - Only for users who have not had Nitro active",
       "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Discord_Nitro_2560x1440_withlogo_2560x1440-944994658df3b04d0c4940be832da19e?h=270&quality=medium&resize=1&w=480",
@@ -2885,32 +2547,6 @@
       "startDate": "2024-02-26T19:00:00.000Z",
       "endDate": "2024-03-14T17:00:00.000Z",
       "date": "2024-03-14"
-   },
-   {
-      "adImp": null,
-      "title": "Astro Duel 2",
-      "image": "https://cdn1.epicgames.com/spt-assets/3251b927449a471c883aab00c076d63c/astro-duel-2-ukpi8.png?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/3Ik3UiS",
-      "price": 5.00,
-      "store": "Epic Games",
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-03-07T16:00:00.000Z",
-      "endDate": "2024-03-14T16:00:00.000Z",
-      "date": "2024-03-14"
-   },
-   {
-      "adImp": 3,
-      "title": "Aerial_Knight's Never Yield",
-      "image": "https://cdn1.epicgames.com/offer/2ed7ed64d8604265924b85bbd5670220/EGS_Aerial_KnightsNeverYield_Aerial_Knight_S1_2560x1440-9699d7ad1cbf87e6cb570cba7efb5fa6?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/42ZNINp",
-      "store": "Epic Games",
-      "price": 7.00,
-      "status": 2,
-      "horizontal": true,
-      "startDate": "2024-02-29T16:00:00.000Z",
-      "endDate": "2024-03-07T16:00:00.000Z",
-      "date": "2024-03-07"
    },
    {
       "title": "Dakar Desert Rally",
@@ -2965,19 +2601,6 @@
       "date": "2024-02-12"
    },
    {
-      "title": "Infinifactory",
-      "image": "https://cdn1.epicgames.com/spt-assets/006ad04cca8f4cd89d80210e142abb89/infinifactory-1akaj.png?h=480&quality=medium&resize=1&w=854",
-      "url": "https://bit.ly/48Asyao",
-      "store": "Epic Games",
-      "price": 5.00,
-      "status": 2,
-      "adImp": null,
-      "horizontal": true,
-      "startDate": "2024-01-25T16:00:00.000Z",
-      "endDate": "2024-02-01T16:00:00.000Z",
-      "date": "2024-02-01"
-   },
-   {
       "title": "Marvel's Guardians of the Galaxy",
       "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Free-Game-17_1920x1080-5014a073a3666df3541f1913b3af38c1?h=480&quality=medium&resize=1&w=854",
       "url": "https://bit.ly/47vYBXW",
@@ -3028,6 +2651,19 @@
       "startDate": "2024-01-03T16:00:00.000Z",
       "endDate": "2024-01-04T16:00:00.000Z",
       "date": "2024-01-04"
+   },
+   {
+      "title": "Predecessor",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/961200/header.jpg?t=1700477318https://cdn.cloudflare.steamstatic.com/steam/apps/961200/header.jpg?t=1700477318",
+      "url": "https://bit.ly/40ZIEYd",
+      "store": "Epic Games",
+      "price": 4.00,
+      "status": 2,
+      "adImp": null,
+      "horizontal": true,
+      "startDate": "2023-12-07T16:00:00.000Z",
+      "endDate": "2023-12-14T16:00:00.000Z",
+      "date": "2023-12-14"
    },
    {
       "title": "Bloons TD 6",
