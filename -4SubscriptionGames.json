@@ -1,5 +1,57 @@
 [
     {
+        "adImp": 1,
+        "title": "Deus Ex: Human Revolution - Director's Cut",
+        "image": "https://m.media-amazon.com/images/I/61MNyiY+BpL._FMwebp_.jpg",
+        "url": "https://amzn.to/3DeqHxz",
+        "store": "Amazon Gaming",
+        "price": 20.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-04-02T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 1,
+        "title": "Yes, Your Grace",
+        "image": "https://m.media-amazon.com/images/I/61-QQdB1iNL._FMwebp_.jpg",
+        "url": "https://amzn.to/4bmgnQX",
+        "store": "Amazon Gaming",
+        "price": 10.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-04-02T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 5,
+        "title": "Redemption Reapers",
+        "image": "https://m.media-amazon.com/images/I/61VTeaXL5SL._FMwebp_.jpg",
+        "url": "https://amzn.to/3XmSKlc",
+        "store": "Amazon Gaming",
+        "price": 25.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-03-20T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 5,
+        "title": "Night Reverie",
+        "image": "https://m.media-amazon.com/images/I/51GPOOGrXgL._FMwebp_.jpg",
+        "url": "https://amzn.to/4gVnYa8",
+        "store": "Amazon Gaming",
+        "price": 10.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-03-20T15:00:00.000Z",
+        "date": ""
+    },
+    {
         "adImp": 2,
         "title": "Wolfenstein: Youngblood (PC)",
         "image": "https://m.media-amazon.com/images/I/61H3Ap2nuXL._FMwebp_.jpg",
