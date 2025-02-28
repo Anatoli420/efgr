@@ -1,5 +1,18 @@
 [
    {
+      "adImp": 11,
+      "title": "Lunar New Year 2025 Items - Claim your free point shop items",
+      "image": "https://clan.fastly.steamstatic.com/images/39769908/3fc11143838b5b95e610aea0369b94d12a8d3480.jpg",
+      "url": "https://bit.ly/3Da9Bky",
+      "store": "Steam",
+      "price": 0.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2025-02-09T13:00:00.001Z",
+      "date": ""
+   },
+   {
       "adImp": 1,
       "title": "Mages of Mystralia",
       "image": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S1_2560x1440-fef9c8f9f6253ed99fb389372df85f88?resize=1&w=854&h=480&quality=medium",
@@ -23,32 +36,6 @@
       "horizontal": true,
       "startDate": "2024-12-22T17:30:00.000Z",
       "endDate": "2025-12-30T15:00:00.001Z",
-      "date": ""
-   },
-   {
-      "adImp": 1,
-      "title": "World War Z: Aftermath",
-      "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/699130/header.jpg?t=1733932481",
-      "url": "https://bit.ly/42WiuIO",
-      "price": 30.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2025-02-20T16:00:00.000Z",
-      "endDate": "2025-02-27T16:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 11,
-      "title": "Garden Story",
-      "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1062140/header.jpg?t=1701800219",
-      "url": "https://bit.ly/41ddj63",
-      "price": 20.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2025-02-20T16:00:00.000Z",
-      "endDate": "2025-02-27T16:00:00.000Z",
       "date": ""
    },
    {
@@ -338,6 +325,32 @@
       "status": 4,
       "startDate": "",
       "endDate": "2050-01-01T15:00:00.000Z"
+   },
+   {
+      "adImp": 1,
+      "title": "World War Z: Aftermath",
+      "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/699130/header.jpg?t=1733932481",
+      "url": "https://bit.ly/42WiuIO",
+      "price": 30.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2025-02-20T16:00:00.000Z",
+      "endDate": "2025-02-27T16:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 11,
+      "title": "Garden Story",
+      "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1062140/header.jpg?t=1701800219",
+      "url": "https://bit.ly/41ddj63",
+      "price": 20.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2025-02-20T16:00:00.000Z",
+      "endDate": "2025-02-27T16:00:00.000Z",
+      "date": ""
    },
    {
       "adImp": 3,
