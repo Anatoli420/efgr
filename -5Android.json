@@ -65,19 +65,7 @@
         "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
-    {
-        "adImp": 1,
-        "title": "Guardian War: Ultimate Edition",
-        "image": "https://play-lh.googleusercontent.com/H2ihoxm0TsDIznVtl9cQms6rhOh8z7b47XWFbsL2aD-6Mcm3wU087sSmVDHm5UcpKQ=w240-h480-rw",
-        "url": "https://bit.ly/3UqiF9i",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "2024-01-01T06:00:00.001Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
+
     {
         "adImp": 1,
         "title": "DungeonCorp. P (Idle RPG)",
@@ -509,6 +497,19 @@
         "date": "",
         "status": 4,
         "startDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 1,
+        "title": "Guardian War: Ultimate Edition",
+        "image": "https://play-lh.googleusercontent.com/H2ihoxm0TsDIznVtl9cQms6rhOh8z7b47XWFbsL2aD-6Mcm3wU087sSmVDHm5UcpKQ=w240-h480-rw",
+        "url": "https://bit.ly/3UqiF9i",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "",
+        "status": 2,
+        "horizontal": true,
+        "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
