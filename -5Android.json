@@ -13,19 +13,6 @@
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
-        "adImp": 3,
-        "title": "Pixel Blade M VIP",
-        "image": "https://play-lh.googleusercontent.com/3fSDakxpkcRdmS9Tck18EJz75zJdDypyWpMJ4fXLKtTjVg3lgNbYsk1Yt5D_seIH1Gk=s480-rw",
-        "url": "https://bit.ly/3HUrbrl",
-        "store": "Google Play",
-        "price": 2.00,
-        "date": "",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "2024-01-01T06:00:00.001Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
         "id": "//?SUB SCREEN////",
         "adImp": null,
         "horizontal": false,
@@ -49,33 +36,6 @@
         "date": "",
         "status": 1,
         "horizontal": true,
-        "startDate": "2024-01-01T06:00:00.001Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
-        "adImp": 2,
-        "title": "Survival Island: Evolve Pro",
-        "image": "https://play-lh.googleusercontent.com/H3TG6NPavhcnqrs5Yc60KC8OmN5o3suswp9pt-SbHD8yAjJz684MilWf7xwEjm67IQ=w240-h480-rw",
-        "url": "https://bit.ly/4bwljCV",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "2024-01-01T06:00:00.001Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-
-    {
-        "adImp": 1,
-        "title": "DungeonCorp. P (Idle RPG)",
-        "image": "https://play-lh.googleusercontent.com/7Wb1wp7M4vOg07MVcOLxZ4jkNbTtoMy3MoQNsZMGzXEOjdpnNKLXFeGzFp95YjonRAA=s480-rw",
-        "url": "https://bit.ly/3urHTeI",
-        "store": "Google Play",
-        "price": 2.00,
-        "date": "",
-        "horizontal": true,
-        "status": 1,
         "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
@@ -497,6 +457,58 @@
         "date": "",
         "status": 4,
         "startDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 1,
+        "title": "DungeonCorp. P (Idle RPG)",
+        "image": "https://play-lh.googleusercontent.com/7Wb1wp7M4vOg07MVcOLxZ4jkNbTtoMy3MoQNsZMGzXEOjdpnNKLXFeGzFp95YjonRAA=s480-rw",
+        "url": "https://bit.ly/3urHTeI",
+        "store": "Google Play",
+        "price": 2.00,
+        "date": "",
+        "horizontal": true,
+        "status": 2,
+        "startDate": "2024-01-01T06:00:00.001Z",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 2,
+        "title": "Survival Island: Evolve Pro",
+        "image": "https://play-lh.googleusercontent.com/H3TG6NPavhcnqrs5Yc60KC8OmN5o3suswp9pt-SbHD8yAjJz684MilWf7xwEjm67IQ=w240-h480-rw",
+        "url": "https://bit.ly/4bwljCV",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "",
+        "status": 2,
+        "horizontal": true,
+        "startDate": "2024-01-01T06:00:00.001Z",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 3,
+        "title": "Pixel Blade M VIP",
+        "image": "https://play-lh.googleusercontent.com/3fSDakxpkcRdmS9Tck18EJz75zJdDypyWpMJ4fXLKtTjVg3lgNbYsk1Yt5D_seIH1Gk=s480-rw",
+        "url": "https://bit.ly/3HUrbrl",
+        "store": "Google Play",
+        "price": 2.00,
+        "date": "",
+        "horizontal": true,
+        "status": 2,
+        "startDate": "2024-01-01T06:00:00.001Z",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 3,
+        "title": "Pixel Blade M VIP",
+        "image": "https://play-lh.googleusercontent.com/3fSDakxpkcRdmS9Tck18EJz75zJdDypyWpMJ4fXLKtTjVg3lgNbYsk1Yt5D_seIH1Gk=s480-rw",
+        "url": "https://bit.ly/3HUrbrl",
+        "store": "Google Play",
+        "price": 2.00,
+        "date": "",
+        "horizontal": true,
+        "status": 2,
+        "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
