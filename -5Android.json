@@ -41,19 +41,6 @@
     },
     {
         "adImp": 11,
-        "title": "Zombie Age 3 Premium: Survival",
-        "image": "https://play-lh.googleusercontent.com/ANrEYqPAYay93atxcnCsAyeo9AXSRaIcW-OFpEKbbwkG72XRCGYVSzYH27bQV8Oif9Y=s9600-rw",
-        "url": "https://bit.ly/48RyJXr",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "2024-01-01T06:00:00.001Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
-        "adImp": 11,
         "title": "Call of Duty®: Warzone™ Mobile",
         "image": "https://play-lh.googleusercontent.com/3MUvX7m7mXEO8X-5_BvYa8uEyE5-JasNLlNv2KiUaqf74oMcJUkpsKiSFceVuRjU2sk=s480-rw",
         "url": "https://bit.ly/3EduMij",
@@ -470,6 +457,19 @@
         "date": "",
         "status": 4,
         "startDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 11,
+        "title": "Zombie Age 3 Premium: Survival",
+        "image": "https://play-lh.googleusercontent.com/ANrEYqPAYay93atxcnCsAyeo9AXSRaIcW-OFpEKbbwkG72XRCGYVSzYH27bQV8Oif9Y=s9600-rw",
+        "url": "https://bit.ly/48RyJXr",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "",
+        "status": 2,
+        "horizontal": true,
+        "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
