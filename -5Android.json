@@ -1,6 +1,32 @@
 [
     {
         "adImp": 11,
+        "title": "STAR WARS™ Knights of the Old Republic™",
+        "image": "https://cdn1.epicgames.com/spt-assets/ea7b093262e54eaf82861c16148dafba/kotor-1-iim6w.png?resize=1&w=480&h=270&quality=medium",
+        "url": "https://bit.ly/3Xss3vG",
+        "store": "Epic Games",
+        "price": 5.00,
+        "horizontal": "fechasProgramadas",
+        "status": 1,
+        "startDate": "2025-01-01T06:00:00.000Z",
+        "endDate": "2025-03-20T16:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 11,
+        "title": "STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™",
+        "image": "https://cdn1.epicgames.com/spt-assets/903773004d514e2d99398698cec67f5c/kotor-2-1yw8j.png?resize=1&w=480&h=270&quality=medium",
+        "url": "https://bit.ly/3QRLXMF",
+        "store": "Epic Games",
+        "price": 5.00,
+        "horizontal": "fechasProgramadas",
+        "status": 1,
+        "startDate": "2025-01-01T06:00:00.000Z",
+        "endDate": "2025-03-20T16:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 11,
         "title": "SPHAZE: Sci-fi puzzle game",
         "image": "https://play-lh.googleusercontent.com/6stvCUKOOu1dxKUMTVclWjebJd7lST3XDVWchJalTsuWY_jTeh_ppUoJrs0O2l3BMZA=s480-rw",
         "url": "https://bit.ly/49df7gF",
