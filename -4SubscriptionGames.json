@@ -1,5 +1,57 @@
 [
     {
+        "adImp": 3,
+        "title": "Saints Row: The Third Remastered",
+        "image": "https://m.media-amazon.com/images/I/61vrHlt--TL._FMwebp_.jpg",
+        "url": "https://amzn.to/3F5wo1j",
+        "store": "Amazon Gaming",
+        "price": 30.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-05-07T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 3,
+        "title": "Mafia II: Definitive Edition",
+        "image": "https://m.media-amazon.com/images/I/61oJV6ikoWL._FMwebp_.jpg",
+        "url": "https://amzn.to/41pllrv",
+        "store": "Amazon Gaming",
+        "price": 20.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-06-04T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 1,
+        "title": "Crime Boss: Rockay City",
+        "image": "https://m.media-amazon.com/images/I/61Iy3bBFDbL._FMwebp_.jpg",
+        "url": "https://amzn.to/3D9kGT1",
+        "store": "Amazon Gaming",
+        "price": 20.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-04-09T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 1,
+        "title": "Naheulbeuk's Dungeon Master",
+        "image": "https://m.media-amazon.com/images/I/71jTGVMV61L._FMwebp_.jpg",
+        "url": "https://amzn.to/3F9mQT6",
+        "store": "Amazon Gaming",
+        "price": 20.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-05-07T15:00:00.000Z",
+        "date": ""
+    },
+    {
         "adImp": 1,
         "title": "Deus Ex: Human Revolution - Director's Cut",
         "image": "https://m.media-amazon.com/images/I/61MNyiY+BpL._FMwebp_.jpg",
