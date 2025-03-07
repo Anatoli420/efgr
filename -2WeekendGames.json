@@ -1,6 +1,19 @@
 [
   {
     "adImp": 5,
+    "title": "Company of Heroes 3",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677280/d2600cefa7aaae1ef874289ea217cc1c0c88b4ab/header_alt_assets_6.jpg?t=1741286646",
+    "url": "https://bit.ly/3QxnAmA",
+    "store": "Steam",
+    "price": 15.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T01:00:00.000Z",
+    "endDate": "2025-03-10T18:00:00.001Z",
+    "date": ""
+  },
+  {
+    "adImp": 5,
     "title": "KARMA: The Dark World Closed Beta Key Giveaway",
     "image": "https://media.alienwarearena.com/media/43416e1e8135a4d9ccf28dc9211be524.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://bit.ly/3UeNRJH",
