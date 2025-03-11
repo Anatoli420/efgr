@@ -1,6 +1,19 @@
 [
   {
     "adImp": 2,
+    "title": "The WereCleaner",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2795000/header.jpg?t=1740006175",
+    "url": "https://bit.ly/4apWV3E",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0.00,
+    "endDate": "",
+    "date": "",
+    "startDate": "2024-05-07T07:00:00.000Z"
+  },
+  {
+    "adImp": 2,
     "title": "FragPunk",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2943650/34ec73c3b90db8becc8a656c25c56aacb99ad18d/header.jpg?t=1741330906",
     "url": "https://bit.ly/4bAgIPT",
