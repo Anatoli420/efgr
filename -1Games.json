@@ -1,5 +1,31 @@
 [
    {
+      "adImp": 3,
+      "title": "Scheming Through The Zombie Apocalypse: The Beginning",
+      "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/813540/header.jpg?t=1741635715",
+      "url": "https://bit.ly/4kNev7Q",
+      "store": "Steam",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-12-19T20:30:00.000Z",
+      "endDate": "2025-03-18T17:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 1,
+      "title": "World of Warships — Starter Pack: Ishizuchi",
+      "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/844890/header.jpg?t=1741886254",
+      "url": "https://bit.ly/3FrUJ1E",
+      "store": "Steam",
+      "price": 15.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-12-19T20:30:00.000Z",
+      "endDate": "2025-03-20T17:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": 1,
       "title": "Mortal Shell",
       "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/066a34b0-e1dc-4eee-87f9-42b95d5238c6_2560x1440-60b72b7b1479ebafc188502d441c3ee5?resize=1&w=854&h=480&quality=medium",
