@@ -1,6 +1,19 @@
 [
   {
     "adImp": 2,
+    "title": "Blood Strike",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3199170/header.jpg?t=1741881611",
+    "url": "https://bit.ly/425wrTV",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0.00,
+    "endDate": "",
+    "date": "",
+    "startDate": "2025-03-13T07:00:00.000Z"
+  },
+  {
+    "adImp": 2,
     "title": "The WereCleaner",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2795000/header.jpg?t=1740006175",
     "url": "https://bit.ly/4apWV3E",
