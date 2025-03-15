@@ -1,6 +1,19 @@
 [
   {
     "adImp": 5,
+    "title": "R6 Siege X Closed Beta - Closed Beta",
+    "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/K5EV6DulVy6rFyr2AlnSt/3794d154b0819ac7c51c618cf8860345/R6X_BETA_KEYART_960.jpg",
+    "url": "https://bit.ly/4bAbW5a",
+    "store": "Ubisoft Connect",
+    "price": 60.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-04-08T01:00:00.000Z",
+    "endDate": "2025-03-19T18:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": 5,
     "title": "Company of Heroes 3",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677280/d2600cefa7aaae1ef874289ea217cc1c0c88b4ab/header_alt_assets_6.jpg?t=1741286646",
     "url": "https://bit.ly/3QxnAmA",
