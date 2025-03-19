@@ -54,19 +54,6 @@
     },
     {
         "adImp": 3,
-        "title": "Defense Zone 2 HD",
-        "image": "https://play-lh.googleusercontent.com/y3b0FnSuJ24YxFAqAWSbVvpAKe9e0ZDvf-8WxpsBIsD3CvESq9LX7XggKnu4d_7-TVGs=s480-rw",
-        "url": "https://bit.ly/3IEDxEh",
-        "store": "Google Play",
-        "price": 1.00,
-        "status": 1,
-        "horizontal": true,
-        "startDate": "2024-02-01T18:00:00.000Z",
-        "endDate": "2024-02-29T16:00:00.001Z",
-        "date": ""
-    },
-    {
-        "adImp": 3,
         "title": "CARTOON CRAFT",
         "image": "https://play-lh.googleusercontent.com/q2GbzLCuaCQ9QGnHFMNHejzkMrudabNeePcXCNSmP2Hog73NKrJBNKcYKplWA9wf_A=w480-h960-rw",
         "url": "https://bit.ly/48zMFp5",
@@ -536,6 +523,19 @@
         "status": 4,
         "startDate": "",
         "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 3,
+        "title": "Defense Zone 2 HD",
+        "image": "https://play-lh.googleusercontent.com/y3b0FnSuJ24YxFAqAWSbVvpAKe9e0ZDvf-8WxpsBIsD3CvESq9LX7XggKnu4d_7-TVGs=s480-rw",
+        "url": "https://bit.ly/3IEDxEh",
+        "store": "Google Play",
+        "price": 1.00,
+        "status": 2,
+        "horizontal": true,
+        "startDate": "2024-02-01T18:00:00.000Z",
+        "endDate": "2024-02-29T16:00:00.001Z",
+        "date": ""
     },
     {
         "adImp": 3,
