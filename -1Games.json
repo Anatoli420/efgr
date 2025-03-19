@@ -1,5 +1,31 @@
 [
    {
+      "adImp": 1,
+      "title": "Jurassic World Evolution 2",
+      "image": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_JurassicWorldEvolution2_FrontierDevelopments_S1_2560x1440-4103be22950c498c9687d9457d9e0815?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/4iPaNc4",
+      "price": 30.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2025-03-20T16:00:00.000Z",
+      "endDate": "2025-03-27T16:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 11,
+      "title": "Earn the “Home cape” inspired by A Minecraft Movie",
+      "image": "https://pbs.twimg.com/media/GmWg1ZLXkAAEH0M?format=jpg&name=large",
+      "url": "https://bit.ly/4kV65eJ",
+      "store": "Twitch",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2025-04-06T15:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": 11,
       "title": "THRONE AND LIBERTY: Gift Pack Key Giveaway",
       "image": "https://www.mmobomb.com/file/2025/3/throne-liberty-giveaway.png",
@@ -12,7 +38,6 @@
       "endDate": "2024-04-07T15:00:00.001Z",
       "date": ""
    },
-
    {
       "adImp": 3,
       "title": "Dark Odyssey Gift Pack Key Giveaway",
@@ -26,7 +51,6 @@
       "endDate": "2024-04-07T15:00:00.001Z",
       "date": ""
    },
-
    {
       "adImp": 3,
       "title": "World of Warships — Starter Pack: Ishizuchi",
@@ -93,19 +117,6 @@
       "date": ""
    },
    {
-      "adImp": 1,
-      "title": "Them's Fightin' Herds",
-      "image": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S1_2560x1440-da3a940faafe30c602d3966d2c295825?resize=1&w=854&h=480&quality=medium",
-      "url": "https://bit.ly/3HOV4uq",
-      "price": 10.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2025-03-06T16:00:00.000Z",
-      "endDate": "2025-03-13T16:00:00.000Z",
-      "date": ""
-   },
-   {
       "adImp": 2,
       "title": "Madness Inside",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3102000/header.jpg?t=1738043320",
@@ -116,45 +127,6 @@
       "horizontal": true,
       "startDate": "2024-04-04T15:00:00.000Z",
       "endDate": "2024-04-07T15:00:00.001Z",
-      "date": ""
-   },
-   {
-      "adImp": 2,
-      "title": "Visual Novel Fest 2025 - Claim your free point shop items",
-      "image": "https://i.ytimg.com/vi/mdUDJuRLEO8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBHE16PFGfagDuXmhn6ECaOETkQxA",
-      "url": "https://bit.ly/43gsixB",
-      "store": "Steam",
-      "price": 0.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2025-03-10T13:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 11,
-      "title": "Isle of Jura",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1703140/header.jpg?t=1740941260",
-      "url": "https://bit.ly/41gtGxy",
-      "store": "Steam",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-12-19T20:30:00.000Z",
-      "endDate": "2025-03-09T17:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 1,
-      "title": "Mages of Mystralia",
-      "image": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S1_2560x1440-fef9c8f9f6253ed99fb389372df85f88?resize=1&w=854&h=480&quality=medium",
-      "url": "https://bit.ly/3EIByQW",
-      "price": 10.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2025-02-27T16:00:00.000Z",
-      "endDate": "2025-03-06T16:00:00.000Z",
       "date": ""
    },
    {
@@ -420,6 +392,58 @@
       "endDate": "2050-01-01T15:00:00.000Z"
    },
    {
+      "adImp": 1,
+      "title": "Them's Fightin' Herds",
+      "image": "https://cdn1.epicgames.com/offer/a567c32599bf4d4fb609e424f3691b39/EGS_ThemsFightinHerds_Mane6Inc_S1_2560x1440-da3a940faafe30c602d3966d2c295825?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/3HOV4uq",
+      "price": 10.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2025-03-06T16:00:00.000Z",
+      "endDate": "2025-03-13T16:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 2,
+      "title": "Visual Novel Fest 2025 - Claim your free point shop items",
+      "image": "https://i.ytimg.com/vi/mdUDJuRLEO8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBHE16PFGfagDuXmhn6ECaOETkQxA",
+      "url": "https://bit.ly/43gsixB",
+      "store": "Steam",
+      "price": 0.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2025-03-10T13:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 11,
+      "title": "Isle of Jura",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1703140/header.jpg?t=1740941260",
+      "url": "https://bit.ly/41gtGxy",
+      "store": "Steam",
+      "price": 5.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-12-19T20:30:00.000Z",
+      "endDate": "2025-03-09T17:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 1,
+      "title": "Mages of Mystralia",
+      "image": "https://cdn1.epicgames.com/offer/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S1_2560x1440-fef9c8f9f6253ed99fb389372df85f88?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/3EIByQW",
+      "price": 10.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2025-02-27T16:00:00.000Z",
+      "endDate": "2025-03-06T16:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": 11,
       "title": "Party Club",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2796010/header.jpg?t=1742223671",
@@ -427,7 +451,7 @@
       "store": "Steam",
       "price": 5.00,
       "status": 2,
-      "horizontal": "fechasProgramadas",
+      "horizontal": true,
       "startDate": "2024-12-19T20:30:00.000Z",
       "endDate": "2025-03-18T15:00:00.000Z",
       "date": ""
@@ -440,7 +464,7 @@
       "store": "Steam",
       "price": 5.00,
       "status": 2,
-      "horizontal": "fechasProgramadas",
+      "horizontal": true,
       "startDate": "2024-12-19T20:30:00.000Z",
       "endDate": "2025-03-18T17:00:00.000Z",
       "date": ""
