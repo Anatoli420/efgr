@@ -6,8 +6,8 @@
         "url": "https://bit.ly/4htcdbl",
         "store": "Epic Games",
         "price": 1.00,
-        "horizontal": "fechasProgramadas",
         "status": 1,
+        "horizontal": "fechasProgramadas",
         "startDate": "2025-01-01T06:00:00.000Z",
         "endDate": "2025-03-27T16:00:00.000Z",
         "date": ""
@@ -90,32 +90,6 @@
         "endDate": "2024-01-01T06:00:00.000Z",
         "date": "",
         "startDate": "2025-01-25T06:00:00.000Z"
-    },
-    {
-        "adImp": 3,
-        "title": "STAR WARS™ Knights of the Old Republic™",
-        "image": "https://cdn1.epicgames.com/spt-assets/ea7b093262e54eaf82861c16148dafba/kotor-1-iim6w.png?resize=1&w=480&h=270&quality=medium",
-        "url": "https://bit.ly/3Xss3vG",
-        "store": "Epic Games",
-        "price": 5.00,
-        "horizontal": "fechasProgramadas",
-        "status": 1,
-        "startDate": "2025-01-01T06:00:00.000Z",
-        "endDate": "2025-03-20T16:00:00.000Z",
-        "date": ""
-    },
-    {
-        "adImp": 11,
-        "title": "STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™",
-        "image": "https://cdn1.epicgames.com/spt-assets/903773004d514e2d99398698cec67f5c/kotor-2-1yw8j.png?resize=1&w=480&h=270&quality=medium",
-        "url": "https://bit.ly/3QRLXMF",
-        "store": "Epic Games",
-        "price": 5.00,
-        "horizontal": "fechasProgramadas",
-        "status": 1,
-        "startDate": "2025-01-01T06:00:00.000Z",
-        "endDate": "2025-03-20T16:00:00.000Z",
-        "date": ""
     },
     {
         "adImp": 11,
@@ -536,6 +510,32 @@
         "status": 4,
         "startDate": "",
         "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 3,
+        "title": "STAR WARS™ Knights of the Old Republic™",
+        "image": "https://cdn1.epicgames.com/spt-assets/ea7b093262e54eaf82861c16148dafba/kotor-1-iim6w.png?resize=1&w=480&h=270&quality=medium",
+        "url": "https://bit.ly/3Xss3vG",
+        "store": "Epic Games",
+        "price": 5.00,
+        "status": 2,
+        "horizontal": true,
+        "startDate": "2025-01-01T06:00:00.000Z",
+        "endDate": "2025-03-20T16:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 11,
+        "title": "STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™",
+        "image": "https://cdn1.epicgames.com/spt-assets/903773004d514e2d99398698cec67f5c/kotor-2-1yw8j.png?resize=1&w=480&h=270&quality=medium",
+        "url": "https://bit.ly/3QRLXMF",
+        "store": "Epic Games",
+        "price": 5.00,
+        "status": 2,
+        "horizontal": true,
+        "startDate": "2025-01-01T06:00:00.000Z",
+        "endDate": "2025-03-20T16:00:00.000Z",
+        "date": ""
     },
     {
         "adImp": 3,
