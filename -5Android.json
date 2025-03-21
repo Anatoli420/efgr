@@ -67,19 +67,6 @@
     },
     {
         "adImp": 3,
-        "title": "CARTOON CRAFT",
-        "image": "https://play-lh.googleusercontent.com/q2GbzLCuaCQ9QGnHFMNHejzkMrudabNeePcXCNSmP2Hog73NKrJBNKcYKplWA9wf_A=w480-h960-rw",
-        "url": "https://bit.ly/48zMFp5",
-        "store": "Google Play",
-        "price": 1.50,
-        "horizontal": true,
-        "status": 1,
-        "endDate": "2024-01-01T06:00:00.001Z",
-        "date": "",
-        "startDate": "2025-01-25T06:00:00.001Z"
-    },
-    {
-        "adImp": 3,
         "title": "The WereCleaner",
         "image": "https://play-lh.googleusercontent.com/gAXVAh__R71Gq3MhgOBNZ1TrEktUmmb2qNpq0Stp0iNhP3YbVjAdGb52kzhViQ4HHhU=s960-rw",
         "url": "https://bit.ly/3FkPqky",
@@ -510,6 +497,19 @@
         "status": 4,
         "startDate": "",
         "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 3,
+        "title": "CARTOON CRAFT",
+        "image": "https://play-lh.googleusercontent.com/q2GbzLCuaCQ9QGnHFMNHejzkMrudabNeePcXCNSmP2Hog73NKrJBNKcYKplWA9wf_A=w480-h960-rw",
+        "url": "https://bit.ly/48zMFp5",
+        "store": "Google Play",
+        "price": 1.50,
+        "horizontal": true,
+        "status": 2,
+        "endDate": "2024-01-01T06:00:00.001Z",
+        "date": "",
+        "startDate": "2025-01-25T06:00:00.001Z"
     },
     {
         "adImp": 3,
