@@ -67,19 +67,6 @@
     },
     {
         "adImp": 11,
-        "title": "EvoCreo - Pocket Monster Game",
-        "image": "https://play-lh.googleusercontent.com/HTsEJO-cJwIln2gV-C1J1EnhkPj9hRErC7bk-1FAaLF_A1oKQ_zu6kzggRLHmB0ZIYxg=s480-rw",
-        "url": "https://bit.ly/3Q1jdkb",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "2024-01-01T06:00:00.001Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
-        "adImp": 11,
         "title": "The WereCleaner",
         "image": "https://play-lh.googleusercontent.com/gAXVAh__R71Gq3MhgOBNZ1TrEktUmmb2qNpq0Stp0iNhP3YbVjAdGb52kzhViQ4HHhU=s960-rw",
         "url": "https://bit.ly/3FkPqky",
@@ -509,6 +496,19 @@
         "date": "",
         "status": 4,
         "startDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 11,
+        "title": "EvoCreo - Pocket Monster Game",
+        "image": "https://play-lh.googleusercontent.com/HTsEJO-cJwIln2gV-C1J1EnhkPj9hRErC7bk-1FAaLF_A1oKQ_zu6kzggRLHmB0ZIYxg=s480-rw",
+        "url": "https://bit.ly/3Q1jdkb",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "",
+        "horizontal": true,
+        "status": 2,
+        "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
