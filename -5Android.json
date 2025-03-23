@@ -39,32 +39,7 @@
         "startDate": "",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
-    {
-        "adImp": 5,
-        "title": "Neo Monsters",
-        "image": "https://play-lh.googleusercontent.com/7MIw_TaxkX9d0bTe8LRRjdQHispRojxI0TlmwNWFFYpv_DAYyNJCgbsmnao-eA8xHQ=w240-h480-rw",
-        "url": "https://bit.ly/3Su0U9E",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "",
-        "horizontal": true,
-        "status": 1,
-        "startDate": "2024-01-01T06:00:00.001Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
-        "adImp": 5,
-        "title": "Grow Spaceship VIP",
-        "image": "https://play-lh.googleusercontent.com/DI-nCVHLnZotKTzEE3-wubP9ZV0dXLLoiiwDRo3ZXBgMTGUcMfsdNgSsZJ-lC7PmBGk",
-        "url": "https://bit.ly/3SpUesN",
-        "store": "Google Play",
-        "price": 2.00,
-        "date": "",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "2024-01-01T06:00:00.000Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
+
     {
         "adImp": 11,
         "title": "The WereCleaner",
@@ -496,6 +471,19 @@
         "date": "",
         "status": 4,
         "startDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 5,
+        "title": "Grow Spaceship VIP",
+        "image": "https://play-lh.googleusercontent.com/DI-nCVHLnZotKTzEE3-wubP9ZV0dXLLoiiwDRo3ZXBgMTGUcMfsdNgSsZJ-lC7PmBGk",
+        "url": "https://bit.ly/3SpUesN",
+        "store": "Google Play",
+        "price": 2.00,
+        "date": "",
+        "status": 2,
+        "horizontal": true,
+        "startDate": "2024-01-01T06:00:00.000Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
@@ -1188,16 +1176,16 @@
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
-        "adImp": 11,
+        "adImp": 5,
         "title": "Neo Monsters",
         "image": "https://play-lh.googleusercontent.com/7MIw_TaxkX9d0bTe8LRRjdQHispRojxI0TlmwNWFFYpv_DAYyNJCgbsmnao-eA8xHQ=w240-h480-rw",
         "url": "https://bit.ly/3Su0U9E",
         "store": "Google Play",
         "price": 1.00,
         "date": "",
-        "status": 2,
         "horizontal": true,
-        "startDate": "2024-01-01T06:00:00.000Z",
+        "status": 2,
+        "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
