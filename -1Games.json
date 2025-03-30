@@ -1,13 +1,26 @@
 [
    {
+      "adImp": 11,
+      "title": "Fortnite Twitch Drops",
+      "image": "https://cdn2.unrealengine.com/fortnite-command-executor-pickaxe-klassic-kombat-wraps-and-lil-armored-truck-emote-1920x1080-3e2b2ce76dbf.jpg",
+      "url": "https://bit.ly/4iP2ldv",
+      "store": "Twitch",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2025-04-08T15:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": 1,
       "title": "Intravenous - [Steam Key]",
       "image": "https://images.gog-statics.com/ebbd9dccd2d23cd70e9b812afda6ba121429bdccb80f0b28f368162742bbf24e.jpg",
       "url": "https://bit.ly/3X75Lj9",
       "store": "Fanatical",
       "price": 19.99,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
+      "status": 2,
+      "horizontal": true,
       "startDate": "2024-02-01T16:00:00.000Z",
       "endDate": "2025-03-31T21:00:00.001Z",
       "date": ""
