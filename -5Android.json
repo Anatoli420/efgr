@@ -1,19 +1,6 @@
 [
     {
         "adImp": 2,
-        "title": "Traffix: Traffic Simulator",
-        "image": "https://play-lh.googleusercontent.com/66DeGh23aWSuePNkmbv7m8JwHPEIWBC2CDbDWqy11-rglKPF_rsYRdp-NUnopFT5tg=s480-rw",
-        "url": "https://bit.ly/3FYn6EM",
-        "store": "Google Play",
-        "price": 1.50,
-        "horizontal": true,
-        "status": 1,
-        "date": "",
-        "startDate": "2024-01-01T06:00:00.001Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
-        "adImp": 2,
         "title": "Grow Zombie VIP : Merge Zombie",
         "image": "https://play-lh.googleusercontent.com/1MSlRilnTS8wWFXLXf0lgEigGr_yGr4t3bmT_3t4pS_4UKwRCQYN0mUz8LNFfACgn-Q=s480-rw",
         "url": "https://bit.ly/4biJQKW",
@@ -496,6 +483,19 @@
         "date": "",
         "status": 4,
         "startDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 2,
+        "title": "Traffix: Traffic Simulator",
+        "image": "https://play-lh.googleusercontent.com/66DeGh23aWSuePNkmbv7m8JwHPEIWBC2CDbDWqy11-rglKPF_rsYRdp-NUnopFT5tg=s480-rw",
+        "url": "https://bit.ly/3FYn6EM",
+        "store": "Google Play",
+        "price": 1.50,
+        "horizontal": true,
+        "status": 2,
+        "date": "",
+        "startDate": "2024-01-01T06:00:00.001Z",
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
