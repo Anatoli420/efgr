@@ -1,5 +1,31 @@
 [
    {
+      "adImp": 1,
+      "title": "September 7th",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2249160/header.jpg?t=1726572967",
+      "url": "https://bit.ly/3HbEpQY",
+      "store": "itch.io",
+      "price": 6.99,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 1,
+      "title": "Three Sisters",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3584190/f156ca37cb73d91d6cefb7b69dd81bf96289103c/header.jpg?t=1743524241",
+      "url": "https://bit.ly/4jdsHW3",
+      "store": "Steam",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-12-19T20:30:00.000Z",
+      "endDate": "2025-04-04T17:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": 11,
       "title": "Dreams of Aether",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3463050/94028b04f09a7dd96729ac429a5ecf200a172e62/header.jpg?t=1743527778",
