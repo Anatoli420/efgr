@@ -1,5 +1,31 @@
 [
    {
+      "adImp": 5,
+      "title": "False Shelter",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/9d0088c6-c365-4dc5-af1b-ea7cc0b83f8d/prodmain/1573580308.png",
+      "url": "https://bit.ly/3E5LDHs",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-12-22T17:30:00.000Z",
+      "endDate": "2025-12-30T15:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 5,
+      "title": "Call of Fries",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/735b47de-cd9c-4bb5-892e-3d9ccd291cb9/prodmain/1573261938.png",
+      "url": "https://bit.ly/4l5eJHE",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-12-22T17:30:00.000Z",
+      "endDate": "2025-12-30T15:00:00.001Z",
+      "date": ""
+   },
+   {
       "adImp": 1,
       "title": "Throne and Liberty Talandre Welcome Pack Key Giveaway",
       "image": "https://media.alienwarearena.com/media/c3d086774cc5513961c123a0fa1e5bb4.jpg?fit=crop&width=720&height=405&quality=75",
@@ -107,7 +133,7 @@
       "adImp": 5,
       "title": "ScreenPlay CCG Box Office Bundle Key Giveaway",
       "image": "https://media.alienwarearena.com/media/920d70eecb0c08e4ef82f0d616fa3504.jpg?fit=crop&width=720&height=405&quality=75",
-      "url": "https://bit.ly/3RAKhre" ,
+      "url": "https://bit.ly/3RAKhre",
       "store": "Alienware Arena",
       "price": 5.00,
       "status": 1,
