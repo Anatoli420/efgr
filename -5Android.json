@@ -1,6 +1,19 @@
 [
     {
         "adImp": 2,
+        "title": "Doodle Kingdom: Medieval",
+        "image": "https://cdn1.epicgames.com/spt-assets/909e66381ffc4b248be0d9e1c6deb5cb/doodle-kingdom-medieval-lh2ip.png?resize=1&w=480&h=270&quality=medium",
+        "url": "https://bit.ly/42gWaro",
+        "price": 1.00,
+        "store": "Epic Games",
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-04-03T15:00:00.000Z",
+        "endDate": "2025-04-10T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 2,
         "title": "Grow Zombie VIP : Merge Zombie",
         "image": "https://play-lh.googleusercontent.com/1MSlRilnTS8wWFXLXf0lgEigGr_yGr4t3bmT_3t4pS_4UKwRCQYN0mUz8LNFfACgn-Q=s480-rw",
         "url": "https://bit.ly/4biJQKW",
