@@ -39,19 +39,6 @@
     "startDate": "2025-03-25T07:00:00.000Z"
   },
   {
-    "adImp": 3,
-    "title": "Poppy Playtime",
-    "image": "https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-18ioj.jpg",
-    "url": "https://bit.ly/3UJeAOI",
-    "store": "Steam",
-    "price": 0.00,
-    "date": "",
-    "horizontal": true,
-    "status": 1,
-    "startDate": "2024-10-31T06:00:00.000Z",
-    "endDate": ""
-  },
-  {
     "adImp": null,
     "title": "Poppy Playtime",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1721470/header.jpg?t=1690910910",
@@ -62,6 +49,19 @@
     "horizontal": true,
     "status": 1,
     "startDate": "2023-06-09T06:00:00.000Z",
+    "endDate": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Poppy Playtime",
+    "image": "https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-18ioj.jpg",
+    "url": "https://bit.ly/3UJeAOI",
+    "store": "Epic Games",
+    "price": 0.00,
+    "date": "",
+    "horizontal": true,
+    "status": 1,
+    "startDate": "2024-10-31T06:00:00.000Z",
     "endDate": ""
   },
   {
