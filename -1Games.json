@@ -52,32 +52,6 @@
       "date": ""
    },
    {
-      "adImp": 1,
-      "title": "Three Sisters",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3584190/f156ca37cb73d91d6cefb7b69dd81bf96289103c/header.jpg?t=1743524241",
-      "url": "https://bit.ly/4jdsHW3",
-      "store": "Steam",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-12-19T20:30:00.000Z",
-      "endDate": "2025-04-04T17:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 11,
-      "title": "Dreams of Aether",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3463050/94028b04f09a7dd96729ac429a5ecf200a172e62/header.jpg?t=1743527778",
-      "url": "https://bit.ly/4j226vq",
-      "store": "Steam",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-12-19T20:30:00.000Z",
-      "endDate": "2025-04-02T17:00:00.000Z",
-      "date": ""
-   },
-   {
       "adImp": 11,
       "title": "Fortnite Twitch Drops",
       "image": "https://cdn2.unrealengine.com/fortnite-command-executor-pickaxe-klassic-kombat-wraps-and-lil-armored-truck-emote-1920x1080-3e2b2ce76dbf.jpg",
@@ -88,45 +62,6 @@
       "horizontal": "fechasProgramadas",
       "startDate": "2024-04-04T15:00:00.000Z",
       "endDate": "2025-04-08T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 1,
-      "title": "Cat Quest",
-      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/CQ_Gift_1920x1080_wrap-b_1920x1080-d6743a93b51240dab421e4f48d0e95d5?resize=1&w=854&h=480&quality=medium",
-      "url": "https://bit.ly/4aBMPOg",
-      "price": 5.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2025-03-27T15:00:00.000Z",
-      "endDate": "2025-04-03T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 2,
-      "title": "Neko Ghost, Jump!",
-      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Gift_1920x1080_wrap-b_1920x1080-d6e0c4f1fa0962bbb9b30317081c5b6d?resize=1&w=854&h=480&quality=medium",
-      "url": "https://bit.ly/4j4inQd",
-      "price": 5.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2025-03-27T15:00:00.000Z",
-      "endDate": "2025-04-03T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 2,
-      "title": "City Builder & Colony Sim Fest - Claim your free point shop items",
-      "image": "https://i.ytimg.com/vi/T5PFuDEexTU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBS3TNal6t8WylIII8RhDHHGjM-Ow",
-      "url": "https://bit.ly/4j41GVj",
-      "store": "Steam",
-      "price": 0.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2025-03-31T13:00:00.000Z",
       "date": ""
    },
    {
@@ -298,19 +233,6 @@
       "horizontal": "fechasProgramadas",
       "startDate": "2024-12-19T20:30:00.000Z",
       "endDate": "2025-03-20T17:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 5,
-      "title": "Die Young",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/4e318d89-4845-41bb-9481-8a81f062ad0a/prodmain/1638544486.png",
-      "url": "https://bit.ly/3ZU8uuR",
-      "store": "IndieGala",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-12-22T17:30:00.000Z",
-      "endDate": "2025-12-30T15:00:00.001Z",
       "date": ""
    },
    {
@@ -533,6 +455,71 @@
       "status": 4,
       "startDate": "",
       "endDate": "2050-01-01T15:00:00.000Z"
+   },
+   {
+      "adImp": 11,
+      "title": "Dreams of Aether",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3463050/94028b04f09a7dd96729ac429a5ecf200a172e62/header.jpg?t=1743527778",
+      "url": "https://bit.ly/4j226vq",
+      "store": "Steam",
+      "price": 5.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-12-19T20:30:00.000Z",
+      "endDate": "2025-04-02T17:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 1,
+      "title": "Three Sisters",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3584190/f156ca37cb73d91d6cefb7b69dd81bf96289103c/header.jpg?t=1743524241",
+      "url": "https://bit.ly/4jdsHW3",
+      "store": "Steam",
+      "price": 5.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-12-19T20:30:00.000Z",
+      "endDate": "2025-04-04T17:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 1,
+      "title": "Cat Quest",
+      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/CQ_Gift_1920x1080_wrap-b_1920x1080-d6743a93b51240dab421e4f48d0e95d5?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/4aBMPOg",
+      "price": 5.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2025-03-27T15:00:00.000Z",
+      "endDate": "2025-04-03T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 2,
+      "title": "Neko Ghost, Jump!",
+      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Gift_1920x1080_wrap-b_1920x1080-d6e0c4f1fa0962bbb9b30317081c5b6d?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/4j4inQd",
+      "price": 5.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2025-03-27T15:00:00.000Z",
+      "endDate": "2025-04-03T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 2,
+      "title": "City Builder & Colony Sim Fest - Claim your free point shop items",
+      "image": "https://i.ytimg.com/vi/T5PFuDEexTU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBS3TNal6t8WylIII8RhDHHGjM-Ow",
+      "url": "https://bit.ly/4j41GVj",
+      "store": "Steam",
+      "price": 0.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2025-03-31T13:00:00.000Z",
+      "date": ""
    },
    {
       "adImp": 5,
