@@ -1,5 +1,44 @@
 [
    {
+      "adImp": 1,
+      "title": "Arcadgeddon",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1515640/7a7c60d170079552ba817de4b42f87caad63cce9/header.jpg?t=1743105012",
+      "url": "https://bit.ly/4jgmcC4",
+      "price": 5.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2025-04-10T15:00:00.000Z",
+      "endDate": "2025-04-17T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 1,
+      "title": "Idle Champions of the Forgotten Realms",
+      "image": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-15jur.png?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/3OPkSqU",
+      "price": 5.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2025-04-10T15:00:00.000Z",
+      "endDate": "2025-04-17T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 2,
+      "title": "River City Girls",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1049320/header.jpg?t=1698777577",
+      "url": "https://bit.ly/4cepm6V",
+      "price": 30.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2025-04-10T15:00:00.000Z",
+      "endDate": "2025-04-17T15:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": 2,
       "title": "World of Warships Naval History Handy Pack Key Giveaway",
       "image": "https://media.alienwarearena.com/media/aa8a109a71549e4791ebad4fd146e054.png?fit=crop&width=720&height=405&quality=75",
@@ -39,7 +78,7 @@
       "date": ""
    },
    {
-      "adImp": 1,
+      "adImp": 4,
       "title": "False Shelter",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/9d0088c6-c365-4dc5-af1b-ea7cc0b83f8d/prodmain/1573580308.png",
       "url": "https://bit.ly/3E5LDHs",
@@ -52,7 +91,7 @@
       "date": ""
    },
    {
-      "adImp": 5,
+      "adImp": 4,
       "title": "Call of Fries",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/735b47de-cd9c-4bb5-892e-3d9ccd291cb9/prodmain/1573261938.png",
       "url": "https://bit.ly/4l5eJHE",
