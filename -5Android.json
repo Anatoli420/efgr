@@ -1,15 +1,15 @@
 [
     {
-        "adImp": 2,
-        "title": "Doodle Kingdom: Medieval",
-        "image": "https://cdn1.epicgames.com/spt-assets/909e66381ffc4b248be0d9e1c6deb5cb/doodle-kingdom-medieval-lh2ip.png?resize=1&w=480&h=270&quality=medium",
-        "url": "https://bit.ly/42gWaro",
-        "price": 1.00,
+        "adImp": 5,
+        "title": "Bridge Constructor: The Walking Dead",
+        "image": "https://cdn1.epicgames.com/spt-assets/178ad1a58a354f9a9949318e60a9bb38/bridge-constructor-the-walking-dead-k1f3y.jpg?resize=1&w=480&h=270&quality=medium",
+        "url": "https://bit.ly/3Gf14Oc",
+        "price": 2.00,
         "store": "Epic Games",
         "status": 1,
         "horizontal": "fechasProgramadas",
-        "startDate": "2025-04-03T15:00:00.000Z",
-        "endDate": "2025-04-10T15:00:00.000Z",
+        "startDate": "2025-04-10T15:00:00.000Z",
+        "endDate": "2025-04-17T15:00:00.000Z",
         "date": ""
     },
     {
@@ -25,32 +25,6 @@
         "status": 1,
         "startDate": "",
         "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
-        "adImp": 2,
-        "title": "Evoland 2",
-        "image": "https://cdn1.epicgames.com/spt-assets/26056e5331db4680b8e2e84073e67cef/evoland-2-1h9vu.png?resize=1&w=480&h=270&quality=medium",
-        "url": "https://bit.ly/41Oyk7A",
-        "store": "Epic Games",
-        "price": 3.00,
-        "status": 1,
-        "horizontal": "fechasProgramadas",
-        "startDate": "2025-03-27T15:00:00.000Z",
-        "endDate": "2025-04-03T15:00:00.000Z",
-        "date": ""
-    },
-    {
-        "adImp": 5,
-        "title": "Out There - Omega Edition",
-        "image": "https://cdn1.epicgames.com/spt-assets/c7ffc2e06af04a98b1b3c6a2539c43d9/out-there--omega-edition-k8b1k.jpg?resize=1&w=480&h=270&quality=medium",
-        "url": "https://bit.ly/4hPsp6G",
-        "store": "Epic Games",
-        "price": 2.00,
-        "status": 1,
-        "horizontal": "fechasProgramadas",
-        "startDate": "2025-03-27T15:00:00.000Z",
-        "endDate": "2025-04-03T15:00:00.000Z",
-        "date": ""
     },
     {
         "adImp": 5,
@@ -470,6 +444,32 @@
         "status": 4,
         "startDate": "",
         "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 2,
+        "title": "Doodle Kingdom: Medieval",
+        "image": "https://cdn1.epicgames.com/spt-assets/909e66381ffc4b248be0d9e1c6deb5cb/doodle-kingdom-medieval-lh2ip.png?resize=1&w=480&h=270&quality=medium",
+        "url": "https://bit.ly/42gWaro",
+        "price": 1.00,
+        "store": "Epic Games",
+        "status": 2,
+        "horizontal": true,
+        "startDate": "2025-04-03T15:00:00.000Z",
+        "endDate": "2025-04-10T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 5,
+        "title": "Out There - Omega Edition",
+        "image": "https://cdn1.epicgames.com/spt-assets/c7ffc2e06af04a98b1b3c6a2539c43d9/out-there--omega-edition-k8b1k.jpg?resize=1&w=480&h=270&quality=medium",
+        "url": "https://bit.ly/4hPsp6G",
+        "store": "Epic Games",
+        "price": 2.00,
+        "status": 2,
+        "horizontal": true,
+        "startDate": "2025-03-27T15:00:00.000Z",
+        "endDate": "2025-04-03T15:00:00.000Z",
+        "date": ""
     },
     {
         "adImp": 2,
