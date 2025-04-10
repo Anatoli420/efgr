@@ -1,5 +1,57 @@
 [
     {
+        "adImp": 6,
+        "title": "ENDLESS Space - Definitive Edition",
+        "image": "https://m.media-amazon.com/images/I/51IHOEBxANL._FMwebp_.jpg",
+        "url": "https://amzn.to/3E3Rygt",
+        "store": "Amazon Gaming",
+        "price": 10.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-05-14T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 6,
+        "title": "DreadOut 2",
+        "image": "https://m.media-amazon.com/images/I/61sjn0DVrSL._FMwebp_.jpg",
+        "url": "https://amzn.to/42sH4zl",
+        "store": "Amazon Gaming",
+        "price": 20.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-04-24T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 3,
+        "title": "God's Trigger",
+        "image": "https://m.media-amazon.com/images/I/61Q48N3ofSL._FMwebp_.jpg",
+        "url": "https://amzn.to/3Yrtk6t",
+        "store": "Amazon Gaming",
+        "price": 15.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-05-14T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 3,
+        "title": "Projection: First Light",
+        "image": "https://m.media-amazon.com/images/I/61Hdz-vWtlL._FMwebp_.jpg",
+        "url": "https://amzn.to/426GGYg",
+        "store": "Amazon Gaming",
+        "price": 20.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-05-14T15:00:00.000Z",
+        "date": ""
+    },
+    {
         "adImp": 3,
         "title": "Minecraft Legends (PC)",
         "image": "https://m.media-amazon.com/images/I/61sM7tE-hAL._FMwebp_.jpg",
