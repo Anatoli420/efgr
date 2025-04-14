@@ -2,6 +2,19 @@
    {
       "adImp": 11,
       "title": "Metro 2033 Redux",
+      "image": "https://images.gog-statics.com/5ce02a450ed46472f85e171fe3f8f6b09addb5c8b10e09cbe2e80a5ae9e5172b_giveaway_465w.webp",
+      "url": "https://bit.ly/4id2TbJ",
+      "price": 15.00,
+      "store": "GoG",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-12-19T17:00:00.000Z",
+      "endDate": "2025-04-16T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 11,
+      "title": "Metro 2033 Redux",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/header.jpg?t=1741110084",
       "url": "https://bit.ly/42e8ha6",
       "store": "Steam",
