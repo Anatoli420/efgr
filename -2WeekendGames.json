@@ -1,5 +1,31 @@
 [
   {
+    "adImp": 3,
+    "title": "Skull and Bones",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2853730/57473570430f487d6dda6e447f8f533a208fc19a/header.jpg?t=1744818003",
+    "url": "https://bit.ly/3yIu51f",
+    "store": "Ubisoft Connect",
+    "price": 60.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-04-08T01:00:00.000Z",
+    "endDate": "2025-04-21T18:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Star Wars Outlaws - Demo",
+    "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5Rmy8w4e4mlCugxsmI7ow6/c57cab3aa52ed0d55fbff4920a785d77/swo-keyart-thumbnail-960x540.jpg",
+    "url": "https://bit.ly/4jjSmNw",
+    "store": "Ubisoft Connect",
+    "price": 60.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-04-08T01:00:00.000Z",
+    "endDate": "2025-04-21T18:00:00.000Z",
+    "date": ""
+  },
+  {
     "adImp": 5,
     "title": "No More Room in Hell 2",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292000/b94430d5426e23e97ad018068d3fd285cf2543b4/header_alt_assets_4.jpg?t=1744726728",
