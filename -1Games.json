@@ -1,6 +1,19 @@
 [
    {
       "adImp": 1,
+      "title": "Alessia's Dollhouse",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/0294650d-11b9-429b-abb3-1d9e60182b86/prodmain/1745155426.png",
+      "url": "https://bit.ly/42NF44W",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-12-22T17:30:00.000Z",
+      "endDate": "2025-12-30T15:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 1,
       "title": "Botanicula",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/207690/header.jpg?t=1743605648",
       "url": "https://bit.ly/44so8mG",
