@@ -1,6 +1,19 @@
 [
    {
-      "adImp": 1,
+      "adImp": 2,
+      "title": "Steam box pushing fest - Claim your free point shop items",
+      "image": "https://i.ytimg.com/vi/EDuTgwSPqjw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDvzpu86Zp3-8i75_pV4SOk-_kQWw",
+      "url": "https://bit.ly/3Y9HsS1",
+      "store": "Steam",
+      "price": 0.00,
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2025-04-28T13:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 2,
       "title": "Alessia's Dollhouse",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/0294650d-11b9-429b-abb3-1d9e60182b86/prodmain/1745155426.png",
       "url": "https://bit.ly/42NF44W",
