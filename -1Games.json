@@ -52,58 +52,6 @@
       "date": ""
    },
    {
-      "adImp": 1,
-      "title": "Alessia's Dollhouse",
-      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/0294650d-11b9-429b-abb3-1d9e60182b86/prodmain/1745155426.png",
-      "url": "https://bit.ly/42NF44W",
-      "store": "IndieGala",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": true,
-      "startDate": "2024-12-22T17:30:00.000Z",
-      "endDate": "2025-12-30T15:00:00.001Z",
-      "date": ""
-   },
-   {
-      "adImp": 1,
-      "title": "Botanicula",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/207690/header.jpg?t=1743605648",
-      "url": "https://bit.ly/44so8mG",
-      "price": 15.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2025-04-17T15:00:00.000Z",
-      "endDate": "2025-04-24T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 1,
-      "title": "Firestone Online Idle RPG - Log In to claim 100 Value + Exclusive Skin",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1013320/762200693240c9410fbf8ccd44307e02d3a23782/header.jpg?t=1743779944",
-      "url": "https://bit.ly/4bsyEe2",
-      "price": 5.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2025-04-17T15:00:00.000Z",
-      "endDate": "2025-04-24T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 3,
-      "title": "AtmaSphere",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753660/header.jpg?t=1744821880",
-      "url": "https://bit.ly/42E0voZ",
-      "store": "Steam",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-12-19T20:30:00.000Z",
-      "endDate": "2025-04-23T15:00:00.000Z",
-      "date": ""
-   },
-   {
       "adImp": 3,
       "title": "Super Space Club",
       "image": "https://cdn1.epicgames.com/spt-assets/d23691af8c7d42729f66d929c8609676/super-space-club-t55ij.png?resize=1&w=854&h=480&quality=medium",
@@ -156,6 +104,19 @@
       "status": 1,
       "startDate": "",
       "endDate": "2050-01-01T15:00:00.000Z"
+   },
+   {
+      "adImp": 1,
+      "title": "Alessia's Dollhouse",
+      "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/0294650d-11b9-429b-abb3-1d9e60182b86/prodmain/1745155426.png",
+      "url": "https://bit.ly/42NF44W",
+      "store": "IndieGala",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-12-22T17:30:00.000Z",
+      "endDate": "2025-12-30T15:00:00.001Z",
+      "date": ""
    },
    {
       "adImp": 11,
@@ -520,6 +481,45 @@
       "status": 4,
       "startDate": "",
       "endDate": "2050-01-01T15:00:00.000Z"
+   },
+   {
+      "adImp": 1,
+      "title": "Botanicula",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/207690/header.jpg?t=1743605648",
+      "url": "https://bit.ly/44so8mG",
+      "price": 15.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2025-04-17T15:00:00.000Z",
+      "endDate": "2025-04-24T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 1,
+      "title": "Firestone Online Idle RPG - Log In to claim 100 Value + Exclusive Skin",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1013320/762200693240c9410fbf8ccd44307e02d3a23782/header.jpg?t=1743779944",
+      "url": "https://bit.ly/4bsyEe2",
+      "price": 5.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2025-04-17T15:00:00.000Z",
+      "endDate": "2025-04-24T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 3,
+      "title": "AtmaSphere",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753660/header.jpg?t=1744821880",
+      "url": "https://bit.ly/42E0voZ",
+      "store": "Steam",
+      "price": 5.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-12-19T20:30:00.000Z",
+      "endDate": "2025-04-23T15:00:00.000Z",
+      "date": ""
    },
    {
       "adImp": 1,
