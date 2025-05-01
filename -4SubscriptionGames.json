@@ -1,5 +1,71 @@
 [
     {
+        "adImp": 3,
+        "title": "LEGO Star Wars: The Complete Saga",
+        "image": "https://m.media-amazon.com/images/I/61ex8aCG8xL._FMwebp_.jpg",
+        "url": "https://amzn.to/3GMEooM",
+        "store": "Amazon Gaming",
+        "price": 20.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-06-04T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 3,
+        "title": "STAR WARS Galactic Battlegrounds Saga",
+        "image": "https://m.media-amazon.com/images/I/61NqDd1XhcL._FMwebp_.jpg",
+        "url": "https://amzn.to/44NIEOU ",
+        "store": "Amazon Gaming",
+        "price": 5.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-06-15T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 2,
+        "title": "Styx: Master of Shadows",
+        "image": "https://m.media-amazon.com/images/I/612enJ6f3TL._FMwebp_.jpg",
+        "url": "https://amzn.to/44RBQzH",
+        "store": "Amazon Gaming",
+        "price": 20.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-06-15T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "adImp": 2,
+        "title": "The Invisible Hand",
+        "image": "https://m.media-amazon.com/images/I/51EMHrNZzsL._FMwebp_.jpg",
+        "url": "https://amzn.to/3Yma62o",
+        "store": "Amazon Gaming",
+        "price": 10.00,
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-01-01T21:00:00.000Z",
+        "endDate": "2025-05-15T15:00:00.000Z",
+        "date": ""
+    },
+    {
+        "id": "//?SUB SCREEN////",
+        "horizontal": "RateUs",
+        "image": "",
+        "url": "",
+        "adImp": null,
+        "title": "RATEUS",
+        "store": "separador",
+        "price": 0.00,
+        "date": "??-08-2022",
+        "status": 1,
+        "startDate": "",
+        "endDate": ""
+    },
+    {
         "adImp": 4,
         "title": "Troublemaker",
         "image": "https://m.media-amazon.com/images/I/71NbM9TSPzL._FMwebp_.jpg",
@@ -50,20 +116,6 @@
         "startDate": "2025-01-01T21:00:00.000Z",
         "endDate": "2025-05-08T15:00:00.000Z",
         "date": ""
-    },
-    {
-        "id": "//?SUB SCREEN////",
-        "horizontal": "RateUs",
-        "image": "",
-        "url": "",
-        "adImp": null,
-        "title": "RATEUS",
-        "store": "separador",
-        "price": 0.00,
-        "date": "??-08-2022",
-        "status": 1,
-        "startDate": "",
-        "endDate": ""
     },
     {
         "adImp": 2,
