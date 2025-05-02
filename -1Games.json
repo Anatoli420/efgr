@@ -1,6 +1,19 @@
 [
    {
-      "adImp": 1,
+      "adImp": 3,
+      "title": "Magic: The Gathering Arena Sliver Overlord Sleeve Key Giveaway",
+      "image": "https://media.alienwarearena.com/media/0c7d98d28c910620d4e94b51fe648362.jpg?fit=crop&width=720&height=405&quality=75",
+      "url": "https://bit.ly/3YroiXV",
+      "store": "Alienware Arena",
+      "price": 5.00,
+      "status": 1,
+      "horizontal": true,
+      "startDate": "2024-04-04T15:00:00.000Z",
+      "endDate": "2024-04-07T15:00:00.001Z",
+      "date": ""
+   },
+   {
+      "adImp": 3,
       "title": "Infinity Nikki Game Pack Key Giveaway",
       "image": "https://media.alienwarearena.com/media/028505eb19a57da33be7a884ce671ed2.jpg?fit=crop&width=720&height=405&quality=75",
       "url": "https://bit.ly/4jEfCWG",
@@ -39,7 +52,7 @@
       "date": ""
    },
    {
-      "adImp": 11,
+      "adImp": 2,
       "title": "Steam Wargames Fest 2025 - Claim your free point shop items",
       "image": "https://i.ytimg.com/vi/AcKqnca11bk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCmqEUD4Sskx_u6Dm7ceIKGSVIjew",
       "url": "https://bit.ly/3Yo6PzA",
@@ -62,58 +75,6 @@
       "horizontal": true,
       "startDate": "2024-04-04T15:00:00.000Z",
       "endDate": "2024-04-07T15:00:00.001Z",
-      "date": ""
-   },
-   {
-      "adImp": 1,
-      "title": "CHUCHEL",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/711660/header.jpg?t=1743605682",
-      "url": "https://bit.ly/4ikqEi8",
-      "price": 5.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2025-04-24T15:00:00.000Z",
-      "endDate": "2025-05-01T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 1,
-      "title": "Albion Online Free Welcome Gift",
-      "image": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-4pxzl.png?resize=1&w=480&h=270&quality=medium",
-      "url": "https://bit.ly/3RRGXbp",
-      "price": 5.00,
-      "store": "Epic Games",
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2025-04-24T15:00:00.000Z",
-      "endDate": "2025-05-01T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 2,
-      "title": "Like a Dragon: Pirate Yakuza in Hawaii - Kazuma Kiryu Special Outfit",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3184050/header.jpg?t=1745250073",
-      "url": "https://bit.ly/4jhxbeJ",
-      "store": "Steam",
-      "price": 5.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-12-19T20:30:00.000Z",
-      "endDate": "2025-04-26T15:00:00.000Z",
-      "date": ""
-   },
-   {
-      "adImp": 2,
-      "title": "Steam box pushing fest - Claim your free point shop items",
-      "image": "https://i.ytimg.com/vi/EDuTgwSPqjw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDvzpu86Zp3-8i75_pV4SOk-_kQWw",
-      "url": "https://bit.ly/3Y9HsS1",
-      "store": "Steam",
-      "price": 0.00,
-      "status": 1,
-      "horizontal": "fechasProgramadas",
-      "startDate": "2024-04-15T01:00:00.000Z",
-      "endDate": "2025-04-28T13:00:00.000Z",
       "date": ""
    },
    {
@@ -520,6 +481,57 @@
       "status": 4,
       "startDate": "",
       "endDate": "2050-01-01T15:00:00.000Z"
+   },
+   {
+      "adImp": 1,
+      "title": "CHUCHEL",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/711660/header.jpg?t=1743605682",
+      "url": "https://bit.ly/4ikqEi8",
+      "price": 5.00,
+      "store": "Epic Games",
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2025-04-24T15:00:00.000Z",
+      "endDate": "2025-05-01T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 1,
+      "title": "Albion Online Free Welcome Gift",
+      "image": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-4pxzl.png?resize=1&w=480&h=270&quality=medium",
+      "url": "https://bit.ly/3RRGXbp",
+      "price": 5.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2025-04-24T15:00:00.000Z",
+      "endDate": "2025-05-01T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 2,
+      "title": "Like a Dragon: Pirate Yakuza in Hawaii - Kazuma Kiryu Special Outfit",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3184050/header.jpg?t=1745250073",
+      "url": "https://bit.ly/4jhxbeJ",
+      "store": "Steam",
+      "price": 5.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-12-19T20:30:00.000Z",
+      "endDate": "2025-04-26T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 2,
+      "title": "Steam box pushing fest - Claim your free point shop items",
+      "image": "https://i.ytimg.com/vi/EDuTgwSPqjw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDvzpu86Zp3-8i75_pV4SOk-_kQWw",
+      "url": "https://bit.ly/3Y9HsS1",
+      "store": "Steam",
+      "price": 0.00,
+      "status": 2,
+      "horizontal": true,
+      "startDate": "2024-04-15T01:00:00.000Z",
+      "endDate": "2025-04-28T13:00:00.000Z",
+      "date": ""
    },
    {
       "adImp": 2,
