@@ -1,5 +1,31 @@
 [
   {
+    "adImp": 3,
+    "title": "Wuthering Waves",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3513350/d5186eb0965fb3351397486008855142fc7ae124/header.jpg?t=1745912798",
+    "url": "https://bit.ly/44X2VBF",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0.00,
+    "endDate": "",
+    "date": "",
+    "startDate": "2025-04-28T17:00:00.000Z"
+  },
+  {
+    "adImp": 3,
+    "title": "Revolution Idle",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2763740/header.jpg?t=1746128226",
+    "url": "https://bit.ly/42S1jrH",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0.00,
+    "endDate": "",
+    "date": "",
+    "startDate": "2025-05-01T17:00:00.000Z"
+  },
+  {
     "adImp": 11,
     "title": "Diplomacy is Not an Option: Shareware",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3043710/header.jpg?t=1746035196",
