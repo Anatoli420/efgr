@@ -1,5 +1,31 @@
 [
    {
+      "adImp": 1,
+      "title": "Deadtime Defenders",
+      "image": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1r5me.png?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/44WYFSy",
+      "price": 5.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2025-05-08T15:00:00.000Z",
+      "endDate": "2025-05-15T15:00:00.000Z",
+      "date": ""
+   },
+   {
+      "adImp": 3,
+      "title": "Touch Type Tale",
+      "image": "https://cdn1.epicgames.com/offer/7029f6353d7f468eb6940bbe6041474e/EGS_TouchTypeTale_PumpernickelStudio_S1_2560x1440-0d3402bfb34e9a73019de6569f6e66b6?resize=1&w=854&h=480&quality=medium",
+      "url": "https://bit.ly/4iJAOt1",
+      "price": 15.00,
+      "store": "Epic Games",
+      "status": 1,
+      "horizontal": "fechasProgramadas",
+      "startDate": "2025-05-08T15:00:00.000Z",
+      "endDate": "2025-05-15T15:00:00.000Z",
+      "date": ""
+   },
+   {
       "adImp": 3,
       "title": "Magic: The Gathering Arena Sliver Overlord Sleeve Key Giveaway",
       "image": "https://media.alienwarearena.com/media/0c7d98d28c910620d4e94b51fe648362.jpg?fit=crop&width=720&height=405&quality=75",
