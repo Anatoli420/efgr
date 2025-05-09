@@ -1,6 +1,19 @@
 [
     {
         "adImp": 5,
+        "title": "RFS - Real Flight Simulator",
+        "image": "https://play-lh.googleusercontent.com/kwlIDGuHPCwW6YVpmfEELagMBuwFYYdYczT_ueJxu-5YX6A5YlQclOnKsgV-ShlSBg=s480-rw",
+        "url": "https://bit.ly/44oYyiC",
+        "price": 5.00,
+        "store": "Google Play",
+        "status": 1,
+        "horizontal": true,
+        "startDate": "2025-05-01T15:00:00.001Z",
+        "endDate": "2025-05-08T15:00:00.001Z",
+        "date": ""
+    },
+    {
+        "adImp": 11,
         "title": "MR RACER : Premium",
         "image": "https://cdn1.epicgames.com/spt-assets/9a81f51cb53441daa0adb2c3bd1d46dd/mr-racer--premium-1us35.jpg?resize=1&w=480&h=270&quality=medium",
         "url": "https://bit.ly/44vlBIz",
