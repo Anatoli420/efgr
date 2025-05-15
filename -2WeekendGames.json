@@ -1,5 +1,44 @@
 [
   {
+    "adImp": 3,
+    "title": "House Flipper 2",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1190970/5250ae65b2e0f5d39118a629d719d8f405e0a9f4/header_alt_assets_7.jpg?t=1747335954",
+    "url": "https://bit.ly/4k5ibkU",
+    "store": "Steam",
+    "price": 15.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T01:00:00.000Z",
+    "endDate": "2025-05-19T17:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": 3,
+    "title": "FOUNDRY",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/983870/8e4f5170d573678229d7f881ab87f5e9207e66c1/header_alt_assets_3.jpg?t=1747328737 ",
+    "url": "https://bit.ly/3Fd3tW9",
+    "store": "Steam",
+    "price": 15.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T01:00:00.000Z",
+    "endDate": "2025-05-19T17:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Legacy: Steel & Sorcery",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2344320/header.jpg?t=1747328908",
+    "url": "https://bit.ly/4kf9xQe",
+    "store": "Steam",
+    "price": 15.00,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T01:00:00.000Z",
+    "endDate": "2025-05-19T17:00:00.000Z",
+    "date": ""
+  },
+  {
     "adImp": 2,
     "title": "Wildgate Community Preview Invite Giveaway",
     "image": "https://media.alienwarearena.com/media/7c34cc3adde1498fdefad290dcbb51a1.jpg?fit=crop&width=720&height=405&quality=75",
@@ -9,19 +48,6 @@
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2025-05-12T17:00:00.000Z",
-    "date": ""
-  },
-  {
-    "adImp": 2,
-    "title": "Stellaris",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281990/71701ed86c7c86ddb82216da4c15c7151106fcef/header_alt_assets_8.jpg?t=1746546960",
-    "url": "https://bit.ly/3plp4aA",
-    "store": "Steam",
-    "price": 15.00,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-01-01T01:00:00.000Z",
     "endDate": "2025-05-12T17:00:00.000Z",
     "date": ""
   },
@@ -51,6 +77,19 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Stellaris",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281990/71701ed86c7c86ddb82216da4c15c7151106fcef/header_alt_assets_8.jpg?t=1746546960",
+    "url": "https://bit.ly/3plp4aA",
+    "store": "Steam",
+    "price": 15.00,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-01-01T01:00:00.000Z",
+    "endDate": "2025-05-12T17:00:00.000Z",
+    "date": ""
   },
   {
     "adImp": 5,
