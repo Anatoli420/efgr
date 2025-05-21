@@ -5,7 +5,7 @@
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/5fd7b600-f285-4a16-a8e2-dd7ffcb476a9/prodmain/1618565322.png",
     "url": "https://bit.ly/3whEJaY",
     "store": "IndieGala",
-    "price": 6,
+    "price": 5,
     "status": 1,
     "horizontal": true,
     "startDate": "2024-12-22T17:30:00.000Z",
@@ -19,7 +19,7 @@
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/e09717de-f295-42b1-8882-a2cfcbd86eb1/prodmain/1738339372.png",
     "url": "https://bit.ly/4jQ7GSL",
     "store": "IndieGala",
-    "price": 5,
+    "price": 6,
     "status": 1,
     "horizontal": true,
     "startDate": "2024-12-22T17:30:00.000Z",
@@ -264,7 +264,7 @@
   },
   {
     "horizontal": "slider",
-    "adImp": "",
+    "adImp": 0,
     "title": "",
     "image": "",
     "url": "",
@@ -277,7 +277,7 @@
   },
   {
     "id": "//?SUB SCREEN////",
-    "adImp": "",
+    "adImp": 0,
     "horizontal": false,
     "image": "https://cdn1.epicgames.com/offer/fn/FNBR_35-00_C6MS1_EGS_Launcher_KeyArt_FN_Blade_2560x1440_2560x1440-8fd35061502b51f1df276474d28e7f59?h=270&quality=medium&resize=1&w=480",
     "url": "",
@@ -291,7 +291,7 @@
   },
   {
     "id": "//?SUB SCREEN////",
-    "adImp": "",
+    "adImp": 0,
     "horizontal": "RateUs",
     "image": "",
     "url": "",
@@ -617,7 +617,7 @@
   },
   {
     "id": "//?SUB SCREEN////",
-    "adImp": "",
+    "adImp": 0,
     "horizontal": false,
     "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2707/rNZrAmBmEe1hBvfE5WC6JjcR.jpg",
     "url": "",
@@ -688,13 +688,13 @@
     "store": "",
     "price": 0,
     "date": "13-03-2023",
-    "adImp": "",
+    "adImp": 0,
     "horizontal": "social",
     "status": 1
   },
   {
     "id": "//?SUB SCREEN////",
-    "adImp": "",
+    "adImp": 0,
     "horizontal": false,
     "title": "Diablo Immortal",
     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt77f4425de611b362/blt0b41183f11404532/61660a3ace267e66ae2fe854/di-opengraph_001.jpg",
@@ -1075,7 +1075,7 @@
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2249160/header.jpg?t=1726572967",
     "url": "https://bit.ly/3HbEpQY",
     "store": "itch.io",
-    "price": 6,
+    "price": 6.99,
     "status": 2,
     "horizontal": true,
     "startDate": "2024-04-04T15:00:00.000Z",
@@ -1127,7 +1127,7 @@
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3102000/header.jpg?t=1738043320",
     "url": "https://bit.ly/4ir6Lqb",
     "store": "itch.io",
-    "price": 6,
+    "price": 6.99,
     "status": 2,
     "horizontal": true,
     "startDate": "2024-04-04T15:00:00.000Z",
@@ -1140,7 +1140,7 @@
     "image": "https://images.gog-statics.com/ebbd9dccd2d23cd70e9b812afda6ba121429bdccb80f0b28f368162742bbf24e.jpg",
     "url": "https://bit.ly/3X75Lj9",
     "store": "Fanatical",
-    "price": 19,
+    "price": 19.99,
     "status": 2,
     "horizontal": true,
     "startDate": "2024-02-01T16:00:00.000Z",
@@ -1257,7 +1257,7 @@
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2372870/header.jpg?t=1718301758",
     "url": "https://bit.ly/4kBUnWb",
     "store": "itch.io",
-    "price": 6,
+    "price": 6.99,
     "status": 2,
     "horizontal": true,
     "startDate": "2024-04-04T15:00:00.000Z",
@@ -2135,7 +2135,7 @@
     "date": ""
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "The Lord of the Rings™: Return to Moria™",
     "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_Game1_1080x1920_1920x1080-86e04a5abce8b42fb56bdfe41d103bba?resize=1&w=854&h=480&quality=medium",
     "url": "https://bit.ly/49Cw8SY",
@@ -2278,7 +2278,7 @@
     "date": ""
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Stinova Starter Pack Key Giveaway",
     "image": "https://media.alienwarearena.com/media/7a601e767dab1f06c19702510ab17133.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://bit.ly/410ikiM",
@@ -2291,7 +2291,7 @@
     "date": ""
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Dark Sector",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/29900/header.jpg?t=1732734420",
     "url": "https://bit.ly/3Zo9xWu",
@@ -2408,7 +2408,7 @@
     "date": ""
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Spirit of the North",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1213700/header.jpg?t=1701265706",
     "url": "https://bit.ly/3ACSPJp",
@@ -2473,7 +2473,7 @@
     "date": ""
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Moving Out",
     "image": "https://cdn1.epicgames.com/offer/f919a1262081444fb28f0fdef68d6b14/EGS_MovingOut_SMGStudioDevmGames_S1_2560x1440-86272cbdeb4cc4b39f0760ab720ac585?resize=1&w=854&h=480&quality=medium",
     "url": "https://bit.ly/3C02av2",
@@ -2486,7 +2486,7 @@
     "date": ""
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Invincible Presents: Atom Eve",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060870/header.jpg?t=1700478595",
     "url": "https://bit.ly/3ID6qkk",
@@ -2564,7 +2564,7 @@
     "date": ""
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Bear and Breakfast",
     "image": "https://cdn1.epicgames.com/spt-assets/9f8b082e3cf84425be6aa563f0ddc2a0/bear-and-breakfast-offer-1ck44.jpg?resize=1&w=854&h=480&quality=medium",
     "url": "https://bit.ly/3MZOouL",
@@ -2577,7 +2577,7 @@
     "date": ""
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Whispering Willows",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288060/header.jpg?t=1722450177",
     "url": "https://bit.ly/3zSv27S",
@@ -2603,7 +2603,7 @@
     "date": ""
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "The Last Stand: Aftermath",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1266840/header.jpg?t=1695840454",
     "url": "https://bit.ly/3XKetV6",
@@ -2642,7 +2642,7 @@
     "date": ""
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Rugrats: Adventures in Gameland",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2633950/header.jpg?t=1724881110",
     "url": "https://bit.ly/4cPMt6J",
@@ -2681,7 +2681,7 @@
     "date": ""
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Astronarch",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234940/header.jpg?t=1725088863",
     "url": "https://bit.ly/4dYdsOI",
@@ -2733,7 +2733,7 @@
     "date": ""
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Wild Card Football",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206370/header.jpg?t=1714230705",
     "url": "https://bit.ly/3yPU72P",
@@ -2837,7 +2837,7 @@
     "date": ""
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "The Callisto Protocol",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/header.jpg?t=1711549418",
     "url": "https://bit.ly/3AlVZ3I",
@@ -2850,7 +2850,7 @@
     "date": ""
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Drawful 2",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442070/header.jpg?t=1721927113",
     "url": "https://bit.ly/3SsEnt7",
@@ -2889,7 +2889,7 @@
     "date": ""
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Death's Gambit: Afterlife",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356650/header.jpg?t=1669922537",
     "url": "https://bit.ly/3AhLezt",
@@ -2902,7 +2902,7 @@
     "date": ""
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "World of Warships — Starter Pack: Albany",
     "image": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackAlbany_Wargaming_AddOn_S1_2560x1440-f1fc6756bfdca0304c3cfbbb7da76b15?h=270&quality=medium&resize=1&w=480",
     "url": "https://bit.ly/4fFurXe",
@@ -3006,7 +3006,7 @@
     "date": "2024-08-08"
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "LumbearJack",
     "image": "https://cdn1.epicgames.com/spt-assets/67b80cb431834a1fa1ec3e69ef2f83f1/lumbearjack-offer-13qa5.jpg?h=480&quality=medium&resize=1&w=854",
     "url": "https://bit.ly/4bXGDj9",
@@ -3071,7 +3071,7 @@
     "date": "2024-07-26"
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Maid of Sker",
     "image": "https://cdn1.epicgames.com/spt-assets/964693002c1b447c949b155c71727c45/maid-of-sker-1ig0g.jpg?h=480&quality=medium&resize=1&w=854",
     "url": "https://bit.ly/4bH9Wq7",
@@ -3110,7 +3110,7 @@
     "date": "2024-07-06"
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Floppy Knights",
     "image": "https://cdn1.epicgames.com/spt-assets/e6d8370167ce4fe99a69d195174f6208/floppy-knights-rnv64.png?h=480&quality=medium&resize=1&w=854",
     "url": "https://bit.ly/3RWoB9T",
@@ -3128,7 +3128,7 @@
     "image": "https://img.itch.zone/aW1nLzEzNDY1NjEwLnBuZw==/original/4BICCx.png",
     "url": "https://bit.ly/3ROsjCm",
     "store": "itch.io",
-    "price": 7,
+    "price": 7.99,
     "status": 2,
     "horizontal": true,
     "startDate": "2024-04-04T15:00:00.000Z",
@@ -3149,7 +3149,7 @@
     "date": "2024-07-07"
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Islands of Insight",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071500/header.jpg?t=1716489364",
     "url": "https://bit.ly/4exe1zE",
@@ -3201,7 +3201,7 @@
     "date": "2024-??"
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Marvel's Midnight Suns",
     "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_MarvelsMidnightSuns_FiraxisGames_S1_2560x1440-2f3d597f3afd9e9fd4cea1df3394705e_2560x1440-2f3d597f3afd9e9fd4cea1df3394705e?h=480&quality=medium&resize=1&w=854",
     "url": "https://bit.ly/4ead4gA",
@@ -3214,7 +3214,7 @@
     "date": "2024-06-13"
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Chivalry 2",
     "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/chiv2_wide_2560x1440-4248ed263080045c7cb13960711c5f58?h=480&quality=medium&resize=1&w=854",
     "url": "https://bit.ly/4529TDs",
@@ -3253,7 +3253,7 @@
     "date": "2024-05-30"
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Farming Simulator 22",
     "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/c93edfff-e8d3-4c0d-855b-03f44f1d9cd3_2560x1440-79fcb25480b4c1faf67a97207b97b7e2_2560x1440-79fcb25480b4c1faf67a97207b97b7e2?h=480&quality=medium&resize=1&w=854",
     "url": "https://bit.ly/44W24zl",
@@ -3279,7 +3279,7 @@
     "date": "2024-05-22"
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Dragon Age: Inquisition – Game of the Year Edition",
     "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/dragon-age-inquisition-game-of-the-year-edition-1ruf7_2560x1440-24b891a8ac072d9b532539047c7a1c23?h=480&quality=medium&resize=1&w=854",
     "url": "https://bit.ly/44J4cKu",
@@ -3349,7 +3349,7 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1261040/header.jpg?t=1711040183",
     "url": "https://bit.ly/3vLp7jd",
     "store": "Fanatical",
-    "price": 19,
+    "price": 19.99,
     "status": 2,
     "horizontal": true,
     "startDate": "2024-02-01T16:00:00.000Z",
@@ -3357,7 +3357,7 @@
     "date": "2024-04-23"
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Thief",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/239160/header.jpg?t=1705940374",
     "url": "https://bit.ly/4avenEf",
@@ -3370,7 +3370,7 @@
     "date": "2024-04-11"
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "The Elder Scrolls Online Steam Game Key Giveaway",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/306130/header.jpg?t=1712247229",
     "url": "https://bit.ly/3xtBfWr",
@@ -3383,7 +3383,7 @@
     "date": "2024-04-??"
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Content Warning",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2881650/header.jpg?t=1711987881",
     "url": "https://bit.ly/3IZuw90",
@@ -3396,7 +3396,7 @@
     "date": "2024-04-02"
   },
   {
-    "adImp": "",
+    "adImp": 0,
     "title": "Call of the Wild: The Angler™",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1408610/header.jpg?t=1710270197",
     "url": "https://bit.ly/3TBWHBi",
@@ -3467,7 +3467,7 @@
     "store": "Epic Games",
     "price": 15,
     "status": 2,
-    "adImp": "",
+    "adImp": 0,
     "horizontal": true,
     "startDate": "2024-02-15T16:00:00.000Z",
     "endDate": "2024-02-22T16:00:00.000Z",
@@ -3480,7 +3480,7 @@
     "store": "Steam",
     "price": 16,
     "status": 2,
-    "adImp": "",
+    "adImp": 0,
     "horizontal": true,
     "startDate": "2024-02-09T19:30:00.000Z",
     "endDate": "2024-02-15T18:00:00.000Z",
@@ -3493,7 +3493,7 @@
     "store": "Epic Games",
     "price": 8,
     "status": 2,
-    "adImp": "",
+    "adImp": 0,
     "horizontal": true,
     "startDate": "2024-02-08T16:00:00.000Z",
     "endDate": "2024-02-15T16:00:00.000Z",
@@ -3506,7 +3506,7 @@
     "store": "Steam",
     "price": 3,
     "status": 2,
-    "adImp": "",
+    "adImp": 0,
     "horizontal": true,
     "startDate": "2024-02-09T19:30:00.000Z",
     "endDate": "2024-02-12T18:00:00.000Z",
@@ -3519,7 +3519,7 @@
     "store": "Epic Games",
     "price": 70,
     "status": 2,
-    "adImp": "",
+    "adImp": 0,
     "horizontal": true,
     "startDate": "2024-01-04T16:00:00.000Z",
     "endDate": "2024-01-11T16:00:00.000Z",
@@ -3532,7 +3532,7 @@
     "store": "Bandai Namco",
     "price": 15,
     "status": 2,
-    "adImp": "",
+    "adImp": 0,
     "horizontal": true,
     "startDate": "2024-01-08T13:00:00.000Z",
     "endDate": "2024-01-12T13:00:00.000Z",
@@ -3545,7 +3545,7 @@
     "store": "Steam",
     "price": 9,
     "status": 2,
-    "adImp": "",
+    "adImp": 0,
     "horizontal": true,
     "startDate": "2023-03-30T16:00:00.000Z",
     "endDate": "2024-01-09T16:00:00.000Z",
@@ -3571,7 +3571,7 @@
     "store": "Epic Games",
     "price": 4,
     "status": 2,
-    "adImp": "",
+    "adImp": 0,
     "horizontal": true,
     "startDate": "2023-12-07T16:00:00.000Z",
     "endDate": "2023-12-14T16:00:00.000Z",
@@ -3584,7 +3584,7 @@
     "store": "Epic Games",
     "price": 7,
     "status": 2,
-    "adImp": "",
+    "adImp": 0,
     "horizontal": true,
     "startDate": "2023-08-03T15:00:00.000Z",
     "endDate": "2023-08-10T15:00:00.000Z",
@@ -3595,10 +3595,10 @@
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN-Epic-Coupon-foundation-team-image_1920x1079-d0aa1594942034ce8e84d023c53e2fb5",
     "url": "https://bit.ly/3PAn1HO",
     "store": "Epic Games",
-    "price": 14,
+    "price": 14.99,
     "date": "15-06-2023",
     "status": 2,
-    "adImp": "",
+    "adImp": 0,
     "horizontal": true,
     "startDate": "2023-05-18T15:00:00.000Z",
     "endDate": "2023-06-15T15:00:00.000Z"
@@ -3611,7 +3611,7 @@
     "price": 5,
     "date": "25-05-2023",
     "status": 2,
-    "adImp": "",
+    "adImp": 0,
     "horizontal": true,
     "startDate": "2023-05-18T15:00:00.000Z",
     "endDate": "2023-05-25T15:00:00.000Z"
@@ -3637,14 +3637,14 @@
     "price": 0,
     "date": "15-06-2023",
     "status": 2,
-    "adImp": "",
+    "adImp": 0,
     "horizontal": true,
     "startDate": "2023-06-08T15:00:00.000Z",
     "endDate": "2023-06-15T15:00:00.000Z"
   },
   {
     "id": "//?SUB SCREEN////",
-    "adImp": "",
+    "adImp": 0,
     "horizontal": false,
     "image": "https://www.rocketleague.com/images/keyart/rl_evergreen.jpg",
     "url": "",
@@ -3671,7 +3671,7 @@
   },
   {
     "id": "//?SUB SCREEN////",
-    "adImp": "",
+    "adImp": 0,
     "horizontal": false,
     "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2707/rNZrAmBmEe1hBvfE5WC6JjcR.jpg",
     "url": "",
@@ -3685,7 +3685,7 @@
   },
   {
     "id": "//?SUB SCREEN////",
-    "adImp": "",
+    "adImp": 0,
     "horizontal": false,
     "title": "Diablo Immortal",
     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt77f4425de611b362/blt0b41183f11404532/61660a3ace267e66ae2fe854/di-opengraph_001.jpg",
