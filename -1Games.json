@@ -1,19 +1,5 @@
 [
   {
-    "adImp": 1,
-    "title": "",
-    "image": "",
-    "url": "",
-    "store": "Steam",
-    "price": "5.00",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-12-19T20:30:00.000Z",
-    "endDate": "2025-05-20T17:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 11,
     "title": "Exit Limbo: Opening",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/5fd7b600-f285-4a16-a8e2-dd7ffcb476a9/prodmain/1618565322.png",
