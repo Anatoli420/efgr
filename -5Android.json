@@ -1,5 +1,45 @@
 [
     {
+        "adImp": 11,
+        "title": "Space Rush",
+        "image": "https://play-lh.googleusercontent.com/JHHawGXNPMQaW445ho3V9MJBxIH4dS4-QR0IkuU7kr0TzJ771tpb9XnXI52sJx0EeQg=w240-h480-rw",
+        "url": "https://bit.ly/3H1lR8n",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "",
+        "horizontal": true,
+        "status": 1,
+        "startDate": "2024-01-01T06:00:00.001Z",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 11,
+        "title": "Shadow Hunter: Offline Premium",
+        "image": "https://play-lh.googleusercontent.com/0s2XJkThZccJhXTR9ptbVpPY_TYpfegqZUwSJDayIi9byabZCElJcT7p1-wVCE_bjVk=s480-rw",
+        "url": "https://bit.ly/48UoZvI",
+        "store": "Google Play",
+        "price": 1.00,
+        "date": "",
+        "horizontal": true,
+        "status": 1,
+        "startDate": "2024-01-01T06:00:00.001Z",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "id": "//?SUB SCREEN////",
+        "adImp": null,
+        "horizontal": false,
+        "image": "https://cdn1.epicgames.com/offer/fn/FNBR_35-00_C6MS1_EGS_Launcher_KeyArt_FN_Blade_2560x1440_2560x1440-8fd35061502b51f1df276474d28e7f59?h=270&quality=medium&resize=1&w=480?h=480&quality=medium&resize=1&w=854",
+        "url": "",
+        "title": "Fortnite",
+        "store": "",
+        "price": 0.00,
+        "date": "",
+        "status": 1,
+        "startDate": "",
+        "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
         "adImp": 5,
         "title": "Legend of the Moon",
         "image": "https://play-lh.googleusercontent.com/6ZgtvhrukpyruLcX9BbMWwLGZjw2KM6fX5RRpmNFjz_QJHPO3LbtsPItre_v77aYYvY=s480-rw",
@@ -24,20 +64,6 @@
         "startDate": "2025-05-15T15:00:00.000Z",
         "endDate": "2025-05-22T15:00:00.000Z",
         "date": ""
-    },
-    {
-        "id": "//?SUB SCREEN////",
-        "adImp": null,
-        "horizontal": false,
-        "image": "https://cdn1.epicgames.com/offer/fn/FNBR_35-00_C6MS1_EGS_Launcher_KeyArt_FN_Blade_2560x1440_2560x1440-8fd35061502b51f1df276474d28e7f59?h=270&quality=medium&resize=1&w=480?h=480&quality=medium&resize=1&w=854",
-        "url": "",
-        "title": "Fortnite",
-        "store": "",
-        "price": 0.00,
-        "date": "",
-        "status": 1,
-        "startDate": "",
-        "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
         "adImp": 11,
@@ -801,19 +827,6 @@
         "title": "[VIP] Missile Dude RPG : idle",
         "image": "https://play-lh.googleusercontent.com/ZdTSOlqgYuikWMpvzvic_yhUu85nUs1GPgnrouTp8y9oRcf_dyHXox7I0po0OJlV1hc=s480-rw",
         "url": "https://bit.ly/49ur1mh",
-        "store": "Google Play",
-        "price": 1.00,
-        "date": "",
-        "horizontal": true,
-        "status": 2,
-        "startDate": "2024-01-01T06:00:00.001Z",
-        "endDate": "2024-01-01T06:00:00.001Z"
-    },
-    {
-        "adImp": 11,
-        "title": "Shadow Hunter: Offline Premium",
-        "image": "https://play-lh.googleusercontent.com/0s2XJkThZccJhXTR9ptbVpPY_TYpfegqZUwSJDayIi9byabZCElJcT7p1-wVCE_bjVk=s480-rw",
-        "url": "https://bit.ly/48UoZvI",
         "store": "Google Play",
         "price": 1.00,
         "date": "",
