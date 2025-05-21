@@ -42,6 +42,7 @@
     "id": ""
   },
   {
+<<<<<<< HEAD
     "adImp": 1,
     "title": "Cast & Spell",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3032020/header.jpg?t=1747594513",
@@ -55,6 +56,8 @@
     "date": ""
   },
   {
+=======
+>>>>>>> e40e7fa221d9aecd7e2704da52354a61ee00c34e
     "adImp": 5,
     "title": "Dead Island 2",
     "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/934700/header.jpg?t=1740480586",
@@ -68,6 +71,7 @@
     "date": ""
   },
   {
+<<<<<<< HEAD
     "adImp": 4,
     "title": "One Month of Discord Nitro",
     "image": "https://cdn1.epicgames.com/offer/5f3c898b2a3244af99e9900e015717f8/UpdatedNitroLogo_1MB_2560x1440-c77a4693df3d7434672f6424b4550bf0?h=270&quality=medium&resize=1&w=480",
@@ -82,6 +86,9 @@
   },
   {
     "adImp": 4,
+=======
+    "adImp": 1,
+>>>>>>> e40e7fa221d9aecd7e2704da52354a61ee00c34e
     "title": "Happy Game",
     "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1206060/header.jpg?t=1743605763",
     "url": "https://bit.ly/459gBJW",
@@ -91,6 +98,19 @@
     "horizontal": "fechasProgramadas",
     "startDate": "2025-05-15T15:00:00.000Z",
     "endDate": "2025-05-22T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": 1,
+    "title": "One Month of Discord Nitro",
+    "image": "https://cdn1.epicgames.com/offer/5f3c898b2a3244af99e9900e015717f8/UpdatedNitroLogo_1MB_2560x1440-c77a4693df3d7434672f6424b4550bf0?h=270&quality=medium&resize=1&w=480",
+    "url": "https://bit.ly/3BYpB4N",
+    "price": "10.00",
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-23T15:00:00.000Z",
+    "endDate": "2025-06-12T15:00:00.000Z",
     "date": ""
   },
   {
@@ -107,7 +127,7 @@
     "date": ""
   },
   {
-    "adImp": 1,
+    "adImp": 2,
     "title": "Neverwinter Red Harvest Ashen Cape Key Giveaway",
     "image": "https://media.alienwarearena.com/media/b23dd104650b81157df386c3406cb05a.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://bit.ly/4396a6A",
@@ -133,6 +153,7 @@
     "date": ""
   },
   {
+<<<<<<< HEAD
     "adImp": 2,
     "title": "Steam Creature Collector Fest 2025 - Claim your free point shop items",
     "image": "https://i.ytimg.com/vi/BVEeHkDf8RM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD3KnxxUx10pyCAeMaNLhZAYpYrrw",
@@ -199,6 +220,9 @@
   },
   {
     "adImp": 4,
+=======
+    "adImp": 3,
+>>>>>>> e40e7fa221d9aecd7e2704da52354a61ee00c34e
     "title": "Rocket League® - TriTrim Wheels",
     "image": "https://cdn2.unrealengine.com/rocket-league-breaker-asset-a3935ca71df9.avif?resize=1&w=854&h=480&quality=medium",
     "url": "https://bit.ly/43lRQb5",
@@ -211,16 +235,25 @@
     "date": ""
   },
   {
+<<<<<<< HEAD
     "adImp": 4,
     "title": "Epic Starter Pack Bundle",
     "image": "https://cdn2.unrealengine.com/startrek-breaker-asset-3eb0288aef4e.avif?resize=1&w=854&h=480&quality=medium",
     "url": "https://bit.ly/3GUpsFv",
     "price": 5,
     "store": "Epic Games",
+=======
+    "adImp": 3,
+    "title": "World of Warships — Oktyabrskaya Revolutsiya",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1739020/header.jpg?t=1747254306",
+    "url": "https://bit.ly/4jZyOyg",
+    "store": "Steam",
+    "price": "10.00",
+>>>>>>> e40e7fa221d9aecd7e2704da52354a61ee00c34e
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2024-05-23T15:00:00.000Z",
-    "endDate": "2025-06-12T15:00:00.000Z",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-05-23T17:00:00.000Z",
     "date": ""
   },
   {
@@ -302,6 +335,58 @@
     "status": 1,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 3,
+    "title": "Infinity Nikki MEGA Sale Bundle",
+    "image": "https://cdn2.unrealengine.com/infinity-nikki-breaker-asset-2f304ea10fc5.avif?resize=1&w=854&h=480&quality=medium",
+    "url": "https://bit.ly/45dWxpL",
+    "price": "5.00",
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-23T15:00:00.000Z",
+    "endDate": "2025-06-12T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": 3,
+    "title": "RAWMEN Sakura Gusoku Cosmetic Set",
+    "image": "https://cdn2.unrealengine.com/rawmen-breaker-asset-578355e480f9.avif?resize=1&w=854&h=480&quality=medium",
+    "url": "https://bit.ly/45cKuJg",
+    "price": "5.00",
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-23T15:00:00.000Z",
+    "endDate": "2025-06-12T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Epic Starter Pack",
+    "image": "https://cdn2.unrealengine.com/neverwinter-breaker-asset-c5184cba1a60.avif?resize=1&w=854&h=480&quality=medium",
+    "url": "https://bit.ly/4dmqQwF",
+    "price": "5.00",
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-23T15:00:00.000Z",
+    "endDate": "2025-06-12T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": 4,
+    "title": "Epic Starter Pack Bundle",
+    "image": "https://cdn2.unrealengine.com/startrek-breaker-asset-3eb0288aef4e.avif?resize=1&w=854&h=480&quality=medium",
+    "url": "https://bit.ly/3GUpsFv",
+    "price": "5.00",
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-23T15:00:00.000Z",
+    "endDate": "2025-06-12T15:00:00.000Z",
+    "date": ""
   },
   {
     "adImp": 4,
@@ -705,6 +790,32 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 2,
+    "title": "Steam Creature Collector Fest 2025 - Claim your free point shop items",
+    "image": "https://i.ytimg.com/vi/BVEeHkDf8RM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD3KnxxUx10pyCAeMaNLhZAYpYrrw",
+    "url": "https://bit.ly/3ERpTzH",
+    "store": "Steam",
+    "price": "0.00",
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2025-05-19T13:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Cast & Spell",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3032020/header.jpg?t=1747594513",
+    "url": "https://bit.ly/3FovQnI",
+    "store": "Steam",
+    "price": "5.00",
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-05-20T17:00:00.000Z",
+    "date": ""
   },
   {
     "adImp": 11,
