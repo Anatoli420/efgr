@@ -1,5 +1,18 @@
 [
     {
+        "adImp": 3,
+        "title": "Gigapocalypse",
+        "image": "https://cdn1.epicgames.com/spt-assets/79460c9ca0ac41f1bff52983d803a2d7/gigapocalypse-1bted.png?resize=1&w=480&h=270&quality=medium",
+        "url": "https://bit.ly/4dyjl5R",
+        "price": 5.00,
+        "store": "Epic Games",
+        "status": 1,
+        "horizontal": "fechasProgramadas",
+        "startDate": "2025-05-22T15:00:00.000Z",
+        "endDate": "2025-05-29T15:00:00.000Z",
+        "date": ""
+    },
+    {
         "adImp": 11,
         "title": "Space Rush",
         "image": "https://play-lh.googleusercontent.com/JHHawGXNPMQaW445ho3V9MJBxIH4dS4-QR0IkuU7kr0TzJ771tpb9XnXI52sJx0EeQg=w240-h480-rw",
