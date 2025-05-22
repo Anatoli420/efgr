@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 5,
+    "title": "Warhammer 40,000: Gladius - Relics of War",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489630/d6c4421339f92ea8c366dd2114e1ff1fbd3fb168/header_alt_assets_3.jpg?t=1747933905",
+    "url": "https://bit.ly/3OGJcOy",
+    "store": "Steam",
+    "price": 20,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-05-26T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Deliver At All Costs",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1880610/header.jpg?t=1747926130",
@@ -9,7 +23,7 @@
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2025-05-22T15:00:00.000Z",
-    "endDate": "2025-05-30T15:00:00.000Z",
+    "endDate": "2025-05-29T15:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -23,12 +37,12 @@
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2025-05-22T15:00:00.000Z",
-    "endDate": "2025-05-30T15:00:00.000Z",
+    "endDate": "2025-05-29T15:00:00.000Z",
     "date": "",
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 11,
     "title": "Sifu",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138710/header.jpg?t=1734256859",
     "url": "https://bit.ly/4a0WcqW",
@@ -37,7 +51,7 @@
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2025-05-22T15:00:00.000Z",
-    "endDate": "2025-05-30T15:00:00.000Z",
+    "endDate": "2025-05-29T15:00:00.000Z",
     "date": ""
   },
   {
@@ -215,7 +229,7 @@
     "endDate": "2050-01-01T15:00:00.000Z"
   },
   {
-    "adImp": 5,
+    "adImp": 6,
     "title": "World of Warships — Oktyabrskaya Revolutsiya",
     "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1739020/header.jpg?t=1747254306",
     "url": "https://bit.ly/4jZyOyg",
@@ -228,7 +242,7 @@
     "date": ""
   },
   {
-    "adImp": 5,
+    "adImp": 6,
     "title": "Infinity Nikki MEGA Sale Bundle",
     "image": "https://cdn2.unrealengine.com/infinity-nikki-breaker-asset-2f304ea10fc5.avif?resize=1&w=854&h=480&quality=medium",
     "url": "https://bit.ly/45dWxpL",
@@ -241,7 +255,7 @@
     "date": ""
   },
   {
-    "adImp": 5,
+    "adImp": 6,
     "title": "RAWMEN Sakura Gusoku Cosmetic Set",
     "image": "https://cdn2.unrealengine.com/rawmen-breaker-asset-578355e480f9.avif?resize=1&w=854&h=480&quality=medium",
     "url": "https://bit.ly/45cKuJg",
