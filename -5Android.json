@@ -53,19 +53,6 @@
         "endDate": "2024-01-01T06:00:00.001Z"
     },
     {
-        "adImp": 5,
-        "title": "Legend of the Moon",
-        "image": "https://play-lh.googleusercontent.com/6ZgtvhrukpyruLcX9BbMWwLGZjw2KM6fX5RRpmNFjz_QJHPO3LbtsPItre_v77aYYvY=s480-rw",
-        "url": "https://bit.ly/4bfHNar",
-        "price": 3.00,
-        "store": "Google Play",
-        "status": 1,
-        "horizontal": true,
-        "startDate": "2025-05-01T15:00:00.001Z",
-        "endDate": "2025-05-08T15:00:00.001Z",
-        "date": ""
-    },
-    {
         "adImp": 3,
         "title": "Happy Game",
         "image": "https://cdn1.epicgames.com/spt-assets/61e093fe853d48eca37b3b7db72d6cd4/happy-game-15af3.jpg?resize=1&w=480&h=270&quality=medium",
@@ -496,6 +483,19 @@
         "status": 4,
         "startDate": "",
         "endDate": "2024-01-01T06:00:00.001Z"
+    },
+    {
+        "adImp": 5,
+        "title": "Legend of the Moon",
+        "image": "https://play-lh.googleusercontent.com/6ZgtvhrukpyruLcX9BbMWwLGZjw2KM6fX5RRpmNFjz_QJHPO3LbtsPItre_v77aYYvY=s480-rw",
+        "url": "https://bit.ly/4bfHNar",
+        "price": 3.00,
+        "store": "Google Play",
+        "status": 2,
+        "horizontal": true,
+        "startDate": "2025-05-01T15:00:00.001Z",
+        "endDate": "2025-05-08T15:00:00.001Z",
+        "date": ""
     },
     {
         "adImp": 5,
