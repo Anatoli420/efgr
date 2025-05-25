@@ -78,6 +78,20 @@
     "date": ""
   },
   {
+    "id": "//?SUB SCREEN////",
+    "adImp": null,
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "title": "RATEUS",
+    "store": "separador",
+    "price": 0,
+    "date": "??-08-2022",
+    "status": 1,
+    "startDate": "",
+    "endDate": ""
+  },
+  {
     "adImp": 2,
     "title": "Wildgate Community Preview Invite Giveaway",
     "image": "https://media.alienwarearena.com/media/7c34cc3adde1498fdefad290dcbb51a1.jpg?fit=crop&width=720&height=405&quality=75",
@@ -102,20 +116,6 @@
     "startDate": "2023-08-31T01:00:00.000Z",
     "endDate": "2024-08-04T16:00:00.001Z",
     "date": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "adImp": null,
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "title": "RATEUS",
-    "store": "",
-    "price": 0,
-    "date": "??-08-2022",
-    "status": 1,
-    "startDate": "",
-    "endDate": ""
   },
   {
     "adImp": 2,
