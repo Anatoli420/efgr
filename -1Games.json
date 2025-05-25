@@ -10,7 +10,8 @@
     "horizontal": true,
     "startDate": "2024-12-19T17:00:00.000Z",
     "endDate": "2025-05-29T15:00:00.000Z",
-    "date": ""
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
@@ -23,7 +24,8 @@
     "horizontal": true,
     "startDate": "2024-04-04T15:00:00.000Z",
     "endDate": "2024-04-07T15:00:00.001Z",
-    "date": ""
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 5,
@@ -36,7 +38,8 @@
     "horizontal": "fechasProgramadas",
     "startDate": "2024-12-19T20:30:00.000Z",
     "endDate": "2025-05-26T17:00:00.000Z",
-    "date": ""
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 1,
@@ -49,7 +52,8 @@
     "horizontal": "fechasProgramadas",
     "startDate": "2025-05-22T15:00:00.000Z",
     "endDate": "2025-05-29T15:00:00.000Z",
-    "date": ""
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 1,
@@ -62,7 +66,8 @@
     "horizontal": "fechasProgramadas",
     "startDate": "2025-05-22T15:00:00.000Z",
     "endDate": "2025-05-29T15:00:00.000Z",
-    "date": ""
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
@@ -88,7 +93,8 @@
     "horizontal": true,
     "startDate": "2024-12-22T17:30:00.000Z",
     "endDate": "2025-12-30T15:00:00.001Z",
-    "date": ""
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
@@ -101,7 +107,9 @@
     "horizontal": true,
     "startDate": "2024-12-22T17:30:00.000Z",
     "endDate": "2025-12-30T15:00:00.001Z",
-    "date": ""  },
+    "date": "",
+    "id": ""
+  },
   {
     "adImp": 11,
     "title": "Arena Breakout: Infinite Koen Pack Key Giveaway",
@@ -113,7 +121,8 @@
     "horizontal": true,
     "startDate": "2024-04-04T15:00:00.000Z",
     "endDate": "2024-04-07T15:00:00.001Z",
-    "date": ""
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 2,
