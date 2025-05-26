@@ -57,20 +57,6 @@
   },
   {
     "id": "",
-    "adImp": 3,
-    "title": "Space Rush",
-    "image": "https://play-lh.googleusercontent.com/JHHawGXNPMQaW445ho3V9MJBxIH4dS4-QR0IkuU7kr0TzJ771tpb9XnXI52sJx0EeQg=w240-h480-rw",
-    "url": "https://bit.ly/3H1lR8n",
-    "store": "Google Play",
-    "price": 1,
-    "date": "",
-    "horizontal": true,
-    "status": 1,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "",
     "adImp": 11,
     "title": "Shadow Hunter: Offline Premium",
     "image": "https://play-lh.googleusercontent.com/0s2XJkThZccJhXTR9ptbVpPY_TYpfegqZUwSJDayIi9byabZCElJcT7p1-wVCE_bjVk=s480-rw",
@@ -527,6 +513,20 @@
     "date": "",
     "status": 4,
     "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 3,
+    "title": "Space Rush",
+    "image": "https://play-lh.googleusercontent.com/JHHawGXNPMQaW445ho3V9MJBxIH4dS4-QR0IkuU7kr0TzJ771tpb9XnXI52sJx0EeQg=w240-h480-rw",
+    "url": "https://bit.ly/3H1lR8n",
+    "store": "Google Play",
+    "price": 1,
+    "date": "",
+    "horizontal": "true",
+    "status": 2,
+    "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
