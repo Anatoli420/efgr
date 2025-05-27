@@ -1,6 +1,20 @@
 [
   {
     "adImp": 11,
+    "title": "Risk of Pain",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/d53728f3-9dca-4cf7-99cd-eb5a6a16c1da/prodmain/1739859348.png",
+    "url": "https://bit.ly/430Bzd5",
+    "store": "IndieGala",
+    "price": 5,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": "Steam Zombies vs. Vampires Fest - Claim your free point shop items",
     "image": "https://i.ytimg.com/vi/KzpepBSpK1g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC9xd9JI7RMwAG9lnsR17GbX04PRg",
     "url": "https://bit.ly/4jmRpmC",
@@ -14,7 +28,7 @@
     "id": ""
   },
   {
-    "adImp": 11,
+    "adImp": 5,
     "title": "Warhammer 40,000: Rites of War",
     "image": "https://images.gog-statics.com/958a1e4668c50f72d2daffb9875bfa4437055f1b7507f16263654d96ceb29a60_giveaway_465w.webp",
     "url": "https://bit.ly/3Zy2PNg",
@@ -38,20 +52,6 @@
     "horizontal": true,
     "startDate": "2024-04-04T15:00:00.000Z",
     "endDate": "2024-04-07T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 5,
-    "title": "Warhammer 40,000: Gladius - Relics of War",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489630/d6c4421339f92ea8c366dd2114e1ff1fbd3fb168/header_alt_assets_3.jpg?t=1747933905",
-    "url": "https://bit.ly/3OGJcOy",
-    "store": "Steam",
-    "price": 20,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-12-19T20:30:00.000Z",
-    "endDate": "2025-05-26T17:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -724,6 +724,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 5,
+    "title": "Warhammer 40,000: Gladius - Relics of War",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489630/d6c4421339f92ea8c366dd2114e1ff1fbd3fb168/header_alt_assets_3.jpg?t=1747933905",
+    "url": "https://bit.ly/3OGJcOy",
+    "store": "Steam",
+    "price": 20,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-05-26T17:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 5,
