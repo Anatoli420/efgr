@@ -506,19 +506,6 @@
   },
   {
     "adImp": 5,
-    "title": "THRONE AND LIBERTY: Gift Pack Key Giveaway",
-    "image": "https://www.mmobomb.com/file/2025/3/throne-liberty-giveaway.png",
-    "url": "https://bit.ly/3XYKDvv",
-    "store": "MMOBomb",
-    "price": 5,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "endDate": "2024-04-07T15:00:00.001Z",
-    "date": ""
-  },
-  {
-    "adImp": 5,
     "title": "Dark Odyssey Gift Pack Key Giveaway",
     "image": "https://www.mmobomb.com/file/2023/12/dark-odyssey-giveaway.png",
     "url": "https://bit.ly/4hzs0VS",
@@ -737,6 +724,19 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 5,
+    "title": "THRONE AND LIBERTY: Gift Pack Key Giveaway",
+    "image": "https://www.mmobomb.com/file/2025/3/throne-liberty-giveaway.png",
+    "url": "https://bit.ly/3XYKDvv",
+    "store": "MMOBomb",
+    "price": 5,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2024-04-07T15:00:00.001Z",
+    "date": ""
   },
   {
     "adImp": 1,
