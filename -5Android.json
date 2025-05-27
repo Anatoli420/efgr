@@ -58,20 +58,6 @@
   {
     "id": "",
     "adImp": 11,
-    "title": "Shadow Hunter: Offline Premium",
-    "image": "https://play-lh.googleusercontent.com/0s2XJkThZccJhXTR9ptbVpPY_TYpfegqZUwSJDayIi9byabZCElJcT7p1-wVCE_bjVk=s480-rw",
-    "url": "https://bit.ly/48UoZvI",
-    "store": "Google Play",
-    "price": 1,
-    "date": "",
-    "horizontal": true,
-    "status": 1,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "",
-    "adImp": 11,
     "title": "Call of Duty®: Warzone™ Mobile",
     "image": "https://play-lh.googleusercontent.com/3MUvX7m7mXEO8X-5_BvYa8uEyE5-JasNLlNv2KiUaqf74oMcJUkpsKiSFceVuRjU2sk=s480-rw",
     "url": "https://bit.ly/3EduMij",
@@ -513,6 +499,20 @@
     "date": "",
     "status": 4,
     "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 11,
+    "title": "Shadow Hunter: Offline Premium",
+    "image": "https://play-lh.googleusercontent.com/0s2XJkThZccJhXTR9ptbVpPY_TYpfegqZUwSJDayIi9byabZCElJcT7p1-wVCE_bjVk=s480-rw",
+    "url": "https://bit.ly/48UoZvI",
+    "store": "Google Play",
+    "price": 1,
+    "date": "",
+    "horizontal": "true",
+    "status": 2,
+    "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
