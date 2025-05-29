@@ -62,7 +62,7 @@
     "price": 15,
     "store": "GoG",
     "status": 1,
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "startDate": "2024-12-19T17:00:00.000Z",
     "endDate": "2025-05-29T15:00:00.000Z",
     "date": "",
