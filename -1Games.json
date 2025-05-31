@@ -1,6 +1,20 @@
 [
   {
     "adImp": 3,
+    "title": "Arelite Core",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/9814a4cb-e83a-4230-9465-e82fd56a5b04/prodmain/1546254441.png",
+    "url": "https://bit.ly/453V6u2",
+    "store": "IndieGala",
+    "price": 5,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
     "title": "Rocco's Island: Ring to End the Pain",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1394480/header.jpg?t=1741924824",
     "url": "https://bit.ly/43q83xe",
@@ -14,7 +28,7 @@
     "id": ""
   },
   {
-    "adImp": 3,
+    "adImp": 1,
     "title": "Tell Me Why",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1180660/header.jpg?t=1747155575",
     "url": "https://bit.ly/3zdJ41g",
@@ -42,7 +56,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 5,
     "title": "Tiny Tina's Wonderlands",
     "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Tinytinawide_2560x1440-ba126bdeac3faab0596b7c56e9c09990?resize=1&w=854&h=480&quality=medium",
     "url": "https://bit.ly/3Z9tiki",
@@ -163,7 +177,7 @@
     "endDate": "2050-01-01T15:00:00.000Z"
   },
   {
-    "adImp": 5,
+    "adImp": 3,
     "title": "Splitgate 2 Councilor Warden Weapon Skin Key Giveaway",
     "image": "https://media.alienwarearena.com/media/1c7d740f557a6fdef24448b9e5910c2d.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://bit.ly/4jhLhw8",
@@ -177,7 +191,7 @@
     "id": ""
   },
   {
-    "adImp": 11,
+    "adImp": 2,
     "title": "Arena Breakout: Infinite Koen Pack Key Giveaway",
     "image": "https://media.alienwarearena.com/media/03d31883d6ca86151e765c45d3b2894b.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://bit.ly/3Zl7e6c",
@@ -204,7 +218,7 @@
     "date": ""
   },
   {
-    "adImp": 3,
+    "adImp": 2,
     "title": "Frosted Skyline Pack",
     "image": "https://cdn2.unrealengine.com/fortnite-breaker-asset-9ac04c194797.avif?resize=1&w=854&h=480&quality=medium",
     "url": "https://bit.ly/3SDdgeG",
