@@ -1,15 +1,15 @@
 [
   {
     "adImp": 3,
-    "title": "Arelite Core",
-    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/9814a4cb-e83a-4230-9465-e82fd56a5b04/prodmain/1546254441.png",
-    "url": "https://bit.ly/453V6u2",
-    "store": "IndieGala",
+    "title": "Hellslave",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1608450/582beb8d816c07080228cdb2c67be0eacf0674e1/header_alt_assets_0.jpg?t=1748941926",
+    "url": "https://bit.ly/4mKRqDK",
+    "store": "Steam",
     "price": 5,
     "status": 1,
-    "horizontal": true,
-    "startDate": "2024-12-22T17:30:00.000Z",
-    "endDate": "2025-12-30T15:00:00.001Z",
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-06-16T17:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -697,6 +697,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 3,
+    "title": "Arelite Core",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/9814a4cb-e83a-4230-9465-e82fd56a5b04/prodmain/1546254441.png",
+    "url": "https://bit.ly/453V6u2",
+    "store": "IndieGala",
+    "price": 5,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 2,
