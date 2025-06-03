@@ -452,19 +452,6 @@
     "date": ""
   },
   {
-    "adImp": 2,
-    "title": "Zal vs May",
-    "image": "https://img.itch.zone/aW1nLzE1NDY4MjgzLnBuZw==/original/Vyqw4L.png",
-    "url": "https://bit.ly/3RE6uEW",
-    "store": "itch.io",
-    "price": 4,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "endDate": "2024-04-07T15:00:00.001Z",
-    "date": ""
-  },
-  {
     "adImp": 4,
     "title": "Throne and Liberty Talandre Welcome Pack Key Giveaway",
     "image": "https://media.alienwarearena.com/media/c3d086774cc5513961c123a0fa1e5bb4.jpg?fit=crop&width=720&height=405&quality=75",
@@ -710,6 +697,19 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 2,
+    "title": "Zal vs May",
+    "image": "https://img.itch.zone/aW1nLzE1NDY4MjgzLnBuZw==/original/Vyqw4L.png",
+    "url": "https://bit.ly/3RE6uEW",
+    "store": "itch.io",
+    "price": 4,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2024-04-07T15:00:00.001Z",
+    "date": ""
   },
   {
     "adImp": 11,
