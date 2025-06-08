@@ -389,19 +389,6 @@
   },
   {
     "adImp": 11,
-    "title": "Silent Gentlemen",
-    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/eecf0b8c-1716-4036-b33a-24db992a5065/prodmain/1570753703.png",
-    "url": "https://bit.ly/3YBGG0f",
-    "store": "IndieGala",
-    "price": 5,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-12-22T17:30:00.000Z",
-    "endDate": "2025-12-30T15:00:00.001Z",
-    "date": ""
-  },
-  {
-    "adImp": 11,
     "title": "Magic: The Gathering Arena Sliver Overlord Sleeve Key Giveaway",
     "image": "https://media.alienwarearena.com/media/0c7d98d28c910620d4e94b51fe648362.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://bit.ly/3YroiXV",
@@ -672,6 +659,19 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 11,
+    "title": "Silent Gentlemen",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/eecf0b8c-1716-4036-b33a-24db992a5065/prodmain/1570753703.png",
+    "url": "https://bit.ly/3YBGG0f",
+    "store": "IndieGala",
+    "price": 5,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": ""
   },
   {
     "adImp": 2,
