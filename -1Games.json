@@ -9,7 +9,7 @@
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2024-12-19T20:30:00.000Z",
-    "endDate": "2025-06-09T17:00:00.000Z",
+    "endDate": "2025-06-24T17:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -3586,19 +3586,6 @@
     "startDate": "2024-04-15T01:00:00.000Z",
     "endDate": "2024-06-03T17:00:00.000Z",
     "date": "2024-06-03"
-  },
-  {
-    "adImp": 11,
-    "title": "Warhammer 40,000: Gladius - Relics of War",
-    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/489630/header_alt_assets_1.jpg?t=1716496762",
-    "url": "https://bit.ly/3VdwvxE",
-    "price": 15,
-    "store": "GoG",
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-05-23T15:00:00.000Z",
-    "endDate": "2024-05-30T15:00:00.000Z",
-    "date": "2024-05-30"
   },
   {
     "adImp": null,
