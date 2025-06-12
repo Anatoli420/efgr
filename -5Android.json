@@ -2,15 +2,15 @@
   {
     "id": "",
     "adImp": 3,
-    "title": "Ogu and the Secret Forest",
-    "image": "https://cdn1.epicgames.com/spt-assets/ab32c6c664f340f0bb18afcb9b036dae/ogu-and-the-secret-forest-13j1m.png?resize=1&w=480&h=270&quality=medium",
-    "url": "https://bit.ly/4mSwYBe",
-    "price": 22,
+    "title": "Shapez",
+    "image": "https://cdn1.epicgames.com/spt-assets/14158b2525434cb2bc053748edefb55c/shapez-1jdi4.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://bit.ly/43OFaJK",
+    "price": 6,
     "store": "Epic Games",
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2025-06-05T15:00:00.000Z",
-    "endDate": "2025-06-12T15:00:00.000Z",
+    "startDate": "2025-06-12T15:00:00.000Z",
+    "endDate": "2025-06-19T15:00:00.000Z",
     "date": ""
   },
   {
@@ -472,6 +472,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 3,
+    "title": "Ogu and the Secret Forest",
+    "image": "https://cdn1.epicgames.com/spt-assets/ab32c6c664f340f0bb18afcb9b036dae/ogu-and-the-secret-forest-13j1m.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://bit.ly/4mSwYBe",
+    "price": 22,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2025-06-05T15:00:00.000Z",
+    "endDate": "2025-06-12T15:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
