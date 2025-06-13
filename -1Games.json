@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "Welcome to Princeland - SP Version",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/ea96d703-eb31-46f8-bbfc-da8038a43a0d/prodmain/1551194061.png",
+    "url": "https://bit.ly/3FCKxnD",
+    "store": "IndieGala",
+    "price": 5,
+    "status": 1,
+    "horizontal": "true",
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Paradox Soul",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610570/header.jpg?t=1749761874",
     "url": "https://bit.ly/4n5wR5s",
