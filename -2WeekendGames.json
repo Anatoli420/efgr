@@ -57,20 +57,6 @@
   },
   {
     "adImp": 2,
-    "title": "Construction Simulator",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1273400/header.jpg?t=1747636769",
-    "url": "https://bit.ly/45LJnAy",
-    "store": "Steam",
-    "price": 15,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-01-01T01:00:00.000Z",
-    "endDate": "2025-06-15T17:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 2,
     "title": "An Amazing Wizard: Prologue Early Access Key Giveaway",
     "image": "https://media.alienwarearena.com/media/49d26db95d77d933288eb4098117aeee.jpg?quality=75",
     "url": "https://bit.ly/4d8uMzY",
@@ -95,6 +81,20 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Construction Simulator",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1273400/header.jpg?t=1747636769",
+    "url": "https://bit.ly/45LJnAy",
+    "store": "Steam",
+    "price": 15,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2025-01-01T01:00:00.000Z",
+    "endDate": "2025-06-15T17:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 2,
