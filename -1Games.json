@@ -1,6 +1,19 @@
 [
   {
     "adImp": 2,
+    "title": "The Operator",
+    "image": "https://cdn1.epicgames.com/spt-assets/65963abab56541eda0887402d505167e/the-operator-4mdnk.png?resize=1&w=854&h=480&quality=medium",
+    "url": "https://bit.ly/4mYGHG7",
+    "price": 12,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-06-19T15:00:00.000Z",
+    "endDate": "2025-06-26T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "adImp": 2,
     "title": "Antisquad",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/ea96d703-eb31-46f8-bbfc-da8038a43a0d/prodmain/1551194061.png",
     "url": "https://bit.ly/4ebYq8X",
