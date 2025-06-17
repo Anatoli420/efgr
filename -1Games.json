@@ -14,9 +14,9 @@
   },
   {
     "adImp": 2,
-    "title": "Antisquad",
-    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/ea96d703-eb31-46f8-bbfc-da8038a43a0d/prodmain/1551194061.png",
-    "url": "https://bit.ly/4ebYq8X",
+    "title": "Dreaming Sarah",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/0edd6a72-06b9-4d77-b4f6-11e62eb369c0/prodmain/1551532434.png",
+    "url": "https://bit.ly/3ZzqHAq",
     "store": "IndieGala",
     "price": 5,
     "status": 1,
@@ -424,6 +424,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 2,
+    "title": "Antisquad",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/ea96d703-eb31-46f8-bbfc-da8038a43a0d/prodmain/1551194061.png",
+    "url": "https://bit.ly/4ebYq8X",
+    "store": "IndieGala",
+    "price": 5,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 5,
