@@ -1,16 +1,16 @@
 [
   {
     "id": "",
-    "adImp": 3,
-    "title": "Shapez",
-    "image": "https://cdn1.epicgames.com/spt-assets/14158b2525434cb2bc053748edefb55c/shapez-1jdi4.jpg?resize=1&w=480&h=270&quality=medium",
-    "url": "https://bit.ly/43OFaJK",
-    "price": 6,
+    "adImp": 11,
+    "title": "Doodle God: Infinite Alchemy Merge",
+    "image": "https://cdn1.epicgames.com/spt-assets/2221b636e7a540efabe9719bc46750f8/doodle-god-infinite-alchemy-merge-2ohpj.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://bit.ly/4lhBBmI",
+    "price": 2,
     "store": "Epic Games",
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2025-06-12T15:00:00.000Z",
-    "endDate": "2025-06-19T15:00:00.000Z",
+    "startDate": "2025-06-19T15:00:00.000Z",
+    "endDate": "2025-06-26T15:00:00.000Z",
     "date": ""
   },
   {
@@ -472,6 +472,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 3,
+    "title": "Shapez",
+    "image": "https://cdn1.epicgames.com/spt-assets/14158b2525434cb2bc053748edefb55c/shapez-1jdi4.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://bit.ly/43OFaJK",
+    "price": 6,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2025-06-12T15:00:00.000Z",
+    "endDate": "2025-06-19T15:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
