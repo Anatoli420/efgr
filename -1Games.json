@@ -1,6 +1,20 @@
 [
   {
-    "adImp": 2,
+    "adImp": 1,
+    "title": "Architect Life - Architect's Home Office",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478930/b63f5602e20608e783f62bae3995e54d1fc9d77c/header.jpg?t=1750320150",
+    "url": "https://bit.ly/45wCenJ",
+    "store": "Steam",
+    "price": 3,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-06-26T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "The Operator",
     "image": "https://cdn1.epicgames.com/spt-assets/65963abab56541eda0887402d505167e/the-operator-4mdnk.png?resize=1&w=854&h=480&quality=medium",
     "url": "https://bit.ly/4mYGHG7",
@@ -13,7 +27,7 @@
     "date": ""
   },
   {
-    "adImp": 2,
+    "adImp": 11,
     "title": "Dreaming Sarah",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/0edd6a72-06b9-4d77-b4f6-11e62eb369c0/prodmain/1551532434.png",
     "url": "https://bit.ly/3ZzqHAq",
@@ -27,7 +41,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 11,
     "title": "Paradox Soul",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610570/header.jpg?t=1749761874",
     "url": "https://bit.ly/4n5wR5s",
@@ -41,7 +55,7 @@
     "id": ""
   },
   {
-    "adImp": 11,
+    "adImp": 3,
     "title": "WHAT THE PAK?!",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2752710/80ab616e80fa566471fd368f06da73a2d735ee3d/header.jpg?t=1749637682",
     "url": "https://bit.ly/4mXerU5",
@@ -55,7 +69,7 @@
     "id": ""
   },
   {
-    "adImp": 5,
+    "adImp": 3,
     "title": "Tell Me Why",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1180660/header.jpg?t=1747155575",
     "url": "https://bit.ly/3zdJ41g",
