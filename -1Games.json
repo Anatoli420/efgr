@@ -83,15 +83,15 @@
   },
   {
     "adImp": 3,
-    "title": "The Operator",
-    "image": "https://cdn1.epicgames.com/spt-assets/65963abab56541eda0887402d505167e/the-operator-4mdnk.png?resize=1&w=854&h=480&quality=medium",
-    "url": "https://bit.ly/4mYGHG7",
-    "price": 12,
+    "title": "Sable",
+    "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S1_2560x1440-64ec090eed8335263a9083de0eb7f5cf?resize=1&w=854&h=480&quality=medium",
+    "url": "https://bit.ly/3W8TyYe",
+    "price": 20,
     "store": "Epic Games",
     "status": 3,
     "horizontal": "fechasProgramadas",
-    "startDate": "2025-06-19T15:00:00.000Z",
-    "endDate": "2025-06-26T15:00:00.000Z",
+    "startDate": "2025-06-26T15:00:00.000Z",
+    "endDate": "2025-07-03T15:00:00.000Z",
     "date": ""
   },
   {
