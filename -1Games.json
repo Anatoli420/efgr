@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "The Great Story of a Mighty Hero - Remastered",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/8bd224cf-9468-4851-b578-0cbfc8a04777/prodmain/1552401562.png",
+    "url": "https://bit.ly/43Un9et",
+    "store": "IndieGala",
+    "price": 5,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Steam Fishing Fest - Claim your free point shop items",
     "image": "https://clan.akamai.steamstatic.com/images/27766192/6e020fa7067c2497f08fd537e1cca17724c149b7_400x225.jpg",
     "url": "https://bit.ly/3G6dMPI",
@@ -14,7 +28,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 2,
     "title": "Space Pilgrim Episode II: Epsilon Indi",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431710/header.jpg?t=1750436684",
     "url": "https://bit.ly/3HRoPgb",
@@ -28,7 +42,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 2,
     "title": "Architect Life - Architect's Home Office",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478930/b63f5602e20608e783f62bae3995e54d1fc9d77c/header.jpg?t=1750320150",
     "url": "https://bit.ly/45wCenJ",
@@ -42,7 +56,7 @@
     "id": ""
   },
   {
-    "adImp": 11,
+    "adImp": 3,
     "title": "The Operator",
     "image": "https://cdn1.epicgames.com/spt-assets/65963abab56541eda0887402d505167e/the-operator-4mdnk.png?resize=1&w=854&h=480&quality=medium",
     "url": "https://bit.ly/4mYGHG7",
@@ -55,7 +69,7 @@
     "date": ""
   },
   {
-    "adImp": 2,
+    "adImp": 3,
     "title": "Paradox Soul",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610570/header.jpg?t=1749761874",
     "url": "https://bit.ly/4n5wR5s",
@@ -69,7 +83,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 4,
     "title": "WHAT THE PAK?!",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2752710/80ab616e80fa566471fd368f06da73a2d735ee3d/header.jpg?t=1749637682",
     "url": "https://bit.ly/4mXerU5",
@@ -83,7 +97,7 @@
     "id": ""
   },
   {
-    "adImp": 3,
+    "adImp": 4,
     "title": "Tell Me Why",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1180660/header.jpg?t=1747155575",
     "url": "https://bit.ly/3zdJ41g",
