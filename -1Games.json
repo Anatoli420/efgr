@@ -41,20 +41,6 @@
     "id": ""
   },
   {
-    "adImp": 1,
-    "title": "Steam Fishing Fest - Claim your free point shop items",
-    "image": "https://clan.akamai.steamstatic.com/images/27766192/6e020fa7067c2497f08fd537e1cca17724c149b7_400x225.jpg",
-    "url": "https://bit.ly/3G6dMPI",
-    "store": "Steam",
-    "price": 0,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-12-19T20:30:00.000Z",
-    "endDate": "2025-06-23T17:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 2,
     "title": "Space Pilgrim Episode II: Epsilon Indi",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431710/header.jpg?t=1750436684",
@@ -94,34 +80,6 @@
     "startDate": "2025-06-19T15:00:00.000Z",
     "endDate": "2025-06-26T15:00:00.000Z",
     "date": ""
-  },
-  {
-    "adImp": 3,
-    "title": "Paradox Soul",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610570/header.jpg?t=1749761874",
-    "url": "https://bit.ly/4n5wR5s",
-    "store": "Steam",
-    "price": 5,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-12-19T20:30:00.000Z",
-    "endDate": "2025-06-24T17:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 4,
-    "title": "WHAT THE PAK?!",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2752710/80ab616e80fa566471fd368f06da73a2d735ee3d/header.jpg?t=1749637682",
-    "url": "https://bit.ly/4mXerU5",
-    "store": "Steam",
-    "price": 5,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-12-19T20:30:00.000Z",
-    "endDate": "2025-06-24T17:00:00.000Z",
-    "date": "",
-    "id": ""
   },
   {
     "adImp": 4,
@@ -466,6 +424,48 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 4,
+    "title": "WHAT THE PAK?!",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2752710/80ab616e80fa566471fd368f06da73a2d735ee3d/header.jpg?t=1749637682",
+    "url": "https://bit.ly/4mXerU5",
+    "store": "Steam",
+    "price": 5,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-06-24T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Paradox Soul",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610570/header.jpg?t=1749761874",
+    "url": "https://bit.ly/4n5wR5s",
+    "store": "Steam",
+    "price": 5,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-06-24T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Steam Fishing Fest - Claim your free point shop items",
+    "image": "https://clan.akamai.steamstatic.com/images/27766192/6e020fa7067c2497f08fd537e1cca17724c149b7_400x225.jpg",
+    "url": "https://bit.ly/3G6dMPI",
+    "store": "Steam",
+    "price": 0,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-06-23T17:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
