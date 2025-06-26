@@ -84,16 +84,17 @@
   },
   {
     "adImp": 3,
-    "title": "The Operator",
-    "image": "https://cdn1.epicgames.com/spt-assets/65963abab56541eda0887402d505167e/the-operator-4mdnk.png?resize=1&w=854&h=480&quality=medium",
-    "url": "https://bit.ly/4mYGHG7",
+    "title": "Backpack Hero",
+    "image": "",
+    "url": "https://store.epicgames.com/p/backpack-hero-449c5e",
     "price": 12,
     "store": "Epic Games",
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2025-06-19T15:00:00.000Z",
-    "endDate": "2025-06-26T15:00:00.000Z",
-    "date": ""
+    "startDate": "2025-06-26T15:00:00.000Z",
+    "endDate": "2025-07-03T15:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 4,
