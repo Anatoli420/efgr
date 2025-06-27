@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 1,
+    "title": "Persona5: The Phantom X",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3061570/header.jpg?t=1750905048",
+    "url": "https://bit.ly/4kaCDjv",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2015-06-26T17:00:00.000Z",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Umamusume: Pretty Derby",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224770/header.jpg?t=1750819298",
+    "url": "https://bit.ly/3I21c4A",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2015-06-25T17:00:00.000Z",
+    "id": ""
+  },
+  {
     "adImp": 2,
     "title": "Tom Clancy's Rainbow Six® Siege X",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359550/577527b79a51f0616e5b28b72849419de40ee551/header.jpg?t=1749691915",
@@ -197,6 +225,20 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": 2,
+    "title": "",
+    "image": "",
+    "url": "",
+    "store": "Steam",
+    "status": 2,
+    "horizontal": "true",
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2015-12-01T17:00:00.000Z",
+    "id": ""
   },
   {
     "adImp": 2,
