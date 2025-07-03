@@ -2,15 +2,15 @@
   {
     "id": "",
     "adImp": 3,
-    "title": "Cultist Simulator",
-    "image": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1mcff.png?resize=1&w=480&h=270&quality=medium",
-    "url": "https://bit.ly/4enCgRi",
-    "price": 6,
+    "title": "Figment",
+    "image": "https://cdn1.epicgames.com/spt-assets/1c8da4b090f347819213f9130f5289d7/figment-1q6eo.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://bit.ly/44zQ5Yh",
+    "price": 5,
     "store": "Epic Games",
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2025-06-26T15:00:00.000Z",
-    "endDate": "2025-07-03T15:00:00.000Z",
+    "startDate": "2025-07-03T15:00:00.000Z",
+    "endDate": "2025-07-10T15:00:00.000Z",
     "date": ""
   },
   {
@@ -528,6 +528,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 3,
+    "title": "Cultist Simulator",
+    "image": "https://cdn1.epicgames.com/spt-assets/02ff04eaf61e4fa8b9869b50b64bff94/cultist-simulator-1mcff.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://bit.ly/4enCgRi",
+    "price": 6,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2025-06-26T15:00:00.000Z",
+    "endDate": "2025-07-03T15:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
