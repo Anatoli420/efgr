@@ -168,20 +168,6 @@
   },
   {
     "adImp": 11,
-    "title": "Viking Rise Gift Pack Key Giveaway",
-    "image": "https://www.mmobomb.com/file/2023/4/viking-rise-gift-pack-key-giveaway.png",
-    "url": "https://bit.ly/4kcyonq",
-    "store": "MMOBomb",
-    "price": 5,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "endDate": "2026-12-12T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 11,
     "title": "Memetown USA",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/951ebcac-3465-42dc-b54d-81ecb98b690a/prodmain/1552721951.png",
     "url": "https://bit.ly/3Gmfnkr",
@@ -455,6 +441,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 11,
+    "title": "Viking Rise Gift Pack Key Giveaway",
+    "image": "https://www.mmobomb.com/file/2023/4/viking-rise-gift-pack-key-giveaway.png",
+    "url": "https://bit.ly/4kcyonq",
+    "store": "MMOBomb",
+    "price": 5,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2026-12-12T15:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 5,
