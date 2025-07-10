@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 1,
+    "title": "Figment 2: Creed Valley",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1085220/header.jpg?t=1729500878",
+    "url": "https://bit.ly/4nOCMw7",
+    "price": 22,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-07-10T15:00:00.000Z",
+    "endDate": "2025-07-17T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Sky Racket",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/994500/header.jpg?t=1720809366",
+    "url": "https://bit.ly/4lBRog3",
+    "price": 12,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-07-10T15:00:00.000Z",
+    "endDate": "2025-07-17T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "HOTEL GREENWOOD",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/50228bff-1fa7-4c46-bc66-b73862cca02d/prodmain/1751952922.png",
