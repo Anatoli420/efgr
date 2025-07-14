@@ -1,6 +1,20 @@
 [
   {
     "adImp": 11,
+    "title": "Steam Automation Fest - Claim your free point shop items",
+    "image": "https://i.ytimg.com/vi/gWkOEImLYxI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBLAzc7yZGZc_BeAIIQOuI7W3G4GA",
+    "url": "https://bit.ly/40jIBHE",
+    "store": "Steam",
+    "price": 0,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-07-21T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": "World of Warships — Starter Pack: Dreadnought",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1880790/header.jpg?t=1752251235",
     "url": "https://bit.ly/3TLNt20",
