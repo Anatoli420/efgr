@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 1,
+    "title": "Legion TD 2",
+    "image": "https://cdn1.epicgames.com/spt-assets/29586d03c1c147569a1991a8616c1413/legion-td-2-1em1j.png?resize=1&w=854&h=480&quality=medium",
+    "url": "https://bit.ly/3UfpHOC",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-07-24T15:00:00.000Z",
+    "endDate": "2025-07-31T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "Magic Soldier Gift Pack Key Giveaway",
     "image": "https://www.mmobomb.com/file/2025/7/magic-soldier-giveaway.png",
@@ -115,7 +129,7 @@
     "title": "Legion TD 2",
     "image": "https://cdn1.epicgames.com/spt-assets/29586d03c1c147569a1991a8616c1413/legion-td-2-1em1j.png?resize=1&w=854&h=480&quality=medium",
     "url": "https://bit.ly/3UfpHOC",
-    "price": 88,
+    "price": 20,
     "store": "Epic Games",
     "status": 3,
     "horizontal": "fechasProgramadas",
