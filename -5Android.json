@@ -1,16 +1,16 @@
 [
   {
     "id": "",
-    "adImp": 3,
-    "title": "There Is No Game: Wrong Dimension",
-    "image": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-7jlkl.jpg?resize=1&w=480&h=270&quality=medium",
-    "url": "https://bit.ly/44OJQzW",
-    "price": 10,
+    "adImp": 1,
+    "title": "Doodle Mafia: Epic Alchemy",
+    "image": "https://cdn1.epicgames.com/spt-assets/c4e2177224b94cee92bab3ae0cdc3b6d/doodle-mafia-epic-alchemy-393vi.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://bit.ly/40XcXjF",
+    "price": 5,
     "store": "Epic Games",
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2025-07-17T15:00:00.000Z",
-    "endDate": "2025-07-24T15:00:00.000Z",
+    "startDate": "2025-07-24T15:00:00.000Z",
+    "endDate": "2025-07-31T15:00:00.000Z",
     "date": ""
   },
   {
@@ -514,6 +514,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 3,
+    "title": "There Is No Game: Wrong Dimension",
+    "image": "https://cdn1.epicgames.com/spt-assets/bae5c1d9c043458c8c402c6728005527/there-is-no-game--wd-7jlkl.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://bit.ly/44OJQzW",
+    "price": 10,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2025-07-17T15:00:00.000Z",
+    "endDate": "2025-07-24T15:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
