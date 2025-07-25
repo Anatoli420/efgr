@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "SUPERVIVE",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283700/626a673d8171b46ba04c9d00f689732fce279098/header.jpg?t=1753344046",
+    "url": "https://bit.ly/3Zgp5vC",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2015-07-23T17:00:00.000Z",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "BLACK STIGMA",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1277530/b88ae9c1e11ad05b9fa75ba40a73b598eec0d37a/header.jpg?t=1752846034",
     "url": "https://bit.ly/4f0SksB",
