@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "War of the Human Tanks",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/9573503c-f645-4344-854c-d1fb3d74c700/prodmain/1558175634.png",
+    "url": "https://bit.ly/46vuTFC",
+    "store": "IndieGala",
+    "price": 5,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "StarRabbits The Beginning",
     "image": "https://d2x8kymwjom7h7.cloudfront.net/live/application_no/119001/images/indie-studio-v3/Library%20Header460X215_1750742125644.webp",
     "url": "https://bit.ly/3TYz19G",
@@ -14,7 +28,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 3,
     "title": "Bullet Delivery Space Spot Collection",
     "image": "https://d2x8kymwjom7h7.cloudfront.net/live/application_no/119001/images/indie-studio-v3/stove169_en.webp",
     "url": "https://bit.ly/455GOY2",
@@ -28,7 +42,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 3,
     "title": "Eternal Return Exclusive Game Pack Key Giveaway",
     "image": "https://media.alienwarearena.com/media/b0c34ccf5b376c6fd5c003b8088023e7.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://bit.ly/4o6ru6m",
@@ -56,7 +70,7 @@
     "id": ""
   },
   {
-    "adImp": 3,
+    "adImp": 11,
     "title": "All of us are dead",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2177170/header.jpg?t=1727260157",
     "url": "https://bit.ly/4kT6dtY",
@@ -70,7 +84,7 @@
     "id": ""
   },
   {
-    "adImp": 3,
+    "adImp": 11,
     "title": "Magic Soldier Gift Pack Key Giveaway",
     "image": "https://www.mmobomb.com/file/2025/7/magic-soldier-giveaway.png",
     "url": "https://bit.ly/46QyZrN",
@@ -84,7 +98,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 11,
     "title": "Fate Trigger Closed Beta Key Giveaway",
     "image": "https://media.alienwarearena.com/media/6ba2e6645f8bd8c1520a3ecd77ecad81.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://bit.ly/4nX7KC6",
@@ -98,7 +112,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 5,
     "title": "Space Pilgrim Episode I: Alpha Centauri",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a7c70f71-38de-41e5-8cf9-f15103e47591/prodmain/1561475438.png",
     "url": "https://bit.ly/4eVsNAP",
