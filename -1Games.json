@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "7Days Origins",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494140/header.jpg?t=1729549485",
+    "url": "https://bit.ly/44R1Rir",
+    "store": "Stove",
+    "price": 1,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-07-28T09:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "ODIN:VALHALLA RISING Exclusive Game Pack Key Giveaway",
     "image": "https://media.alienwarearena.com/media/18de42f1a5d3f983daee8124eb501095.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://bit.ly/4kZBBXR",
@@ -14,7 +28,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 3,
     "title": "War of the Human Tanks",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/9573503c-f645-4344-854c-d1fb3d74c700/prodmain/1558175634.png",
     "url": "https://bit.ly/46vuTFC",
@@ -28,7 +42,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 3,
     "title": "Bullet Delivery Space Spot Collection",
     "image": "https://d2x8kymwjom7h7.cloudfront.net/live/application_no/119001/images/indie-studio-v3/stove169_en.webp",
     "url": "https://bit.ly/455GOY2",
@@ -42,7 +56,7 @@
     "id": ""
   },
   {
-    "adImp": 3,
+    "adImp": 11,
     "title": "Eternal Return Exclusive Game Pack Key Giveaway",
     "image": "https://media.alienwarearena.com/media/b0c34ccf5b376c6fd5c003b8088023e7.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://bit.ly/4o6ru6m",
@@ -56,7 +70,7 @@
     "id": ""
   },
   {
-    "adImp": 3,
+    "adImp": 11,
     "title": "Legion TD 2",
     "image": "https://cdn1.epicgames.com/spt-assets/29586d03c1c147569a1991a8616c1413/legion-td-2-1em1j.png?resize=1&w=854&h=480&quality=medium",
     "url": "https://bit.ly/3UfpHOC",
@@ -70,7 +84,7 @@
     "id": ""
   },
   {
-    "adImp": 3,
+    "adImp": 11,
     "title": "All of us are dead",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2177170/header.jpg?t=1727260157",
     "url": "https://bit.ly/4kT6dtY",
