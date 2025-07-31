@@ -1,6 +1,34 @@
 [
   {
     "adImp": 1,
+    "title": "Pilgrims",
+    "image": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-jgz8i.png?resize=1&w=854&h=480&quality=medium",
+    "url": "https://bit.ly/3IOttvW",
+    "price": 7,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-07-31T15:00:00.000Z",
+    "endDate": "2025-08-07T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Keylocker | Turn Based Cyberpunk Action",
+    "image": "https://cdn1.epicgames.com/spt-assets/186103570e674b0f9b60a1003ec09d07/keylocker-cr3ty.png?resize=1&w=854&h=480&quality=medium",
+    "url": "https://bit.ly/4lYAF7e",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-07-31T15:00:00.000Z",
+    "endDate": "2025-08-07T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Barro GT",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1990740/header.jpg?t=1752000284",
     "url": "https://bit.ly/4lNeAbO",
