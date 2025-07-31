@@ -57,20 +57,6 @@
   },
   {
     "id": "",
-    "title": "Crazy Taxi Classic",
-    "image": "https://play-lh.googleusercontent.com/JciAjxmcW-o3miDiunWR8ztXVfBUXqlryHvBeHE-oP4f6CKocMaP-211gpv2OzBHQw=w480-h960-rw",
-    "url": "https://bit.ly/463V1qC",
-    "store": "Google Play",
-    "price": 0,
-    "date": "",
-    "adImp": 11,
-    "horizontal": true,
-    "status": 1,
-    "startDate": "2023-10-31T06:00:00.000Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "",
     "adImp": 1,
     "title": "ARK: Survival Evolved",
     "image": "https://play-lh.googleusercontent.com/obLsGjjXiNRe8w0barRRjIAu-fXWswv5n-UMzZyooidFtdUdGFW7PS1Vn7qpPCqUYQ",
@@ -81,20 +67,6 @@
     "horizontal": true,
     "status": 1,
     "startDate": "2018-06-13T06:00:00.000Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "",
-    "title": "Sonic CD Classic",
-    "image": "https://play-lh.googleusercontent.com/dd5v3Gf3uOasyVE4mYeg96WZbuc_EQLkZxu53mxpCVzWFcjVjNGVhKV3GNCun0Z3NIDK=s960-rw",
-    "url": "https://bit.ly/44amdl7",
-    "store": "Google Play",
-    "price": 0,
-    "date": "",
-    "adImp": 1,
-    "horizontal": true,
-    "status": 1,
-    "startDate": "2023-10-31T06:00:00.000Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
@@ -513,6 +485,34 @@
     "date": "",
     "status": 4,
     "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "title": "Sonic CD Classic",
+    "image": "https://play-lh.googleusercontent.com/dd5v3Gf3uOasyVE4mYeg96WZbuc_EQLkZxu53mxpCVzWFcjVjNGVhKV3GNCun0Z3NIDK=s960-rw",
+    "url": "https://bit.ly/44amdl7",
+    "store": "Google Play",
+    "price": 0,
+    "date": "",
+    "adImp": 1,
+    "horizontal": "true",
+    "status": 2,
+    "startDate": "2023-10-31T06:00:00.000Z",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "title": "Crazy Taxi Classic",
+    "image": "https://play-lh.googleusercontent.com/JciAjxmcW-o3miDiunWR8ztXVfBUXqlryHvBeHE-oP4f6CKocMaP-211gpv2OzBHQw=w480-h960-rw",
+    "url": "https://bit.ly/463V1qC",
+    "store": "Google Play",
+    "price": 0,
+    "date": "",
+    "adImp": 11,
+    "horizontal": "true",
+    "status": 2,
+    "startDate": "2023-10-31T06:00:00.000Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
