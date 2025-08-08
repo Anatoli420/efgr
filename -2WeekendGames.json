@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 3,
+    "title": "Lynked: Banner of the Spark",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3159570/6a2595c27284ab39547568165df1a76320f27d74/header.jpg?t=1753215930",
+    "url": "https://bit.ly/45pogCh",
+    "store": "Steam",
+    "price": 25,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-06-12T16:00:00.000Z",
+    "endDate": "2025-08-11T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Ashes of the Singularity: Escalation",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/507490/header.jpg?t=1749495661",
+    "url": "https://bit.ly/4maRAUt",
+    "store": "Steam",
+    "price": 30,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-06-12T16:00:00.000Z",
+    "endDate": "2025-08-11T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "The Elder Scrolls® Online",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/0d72f13b2d3f75385a0c83e2551ba97e1059c6fe/header.jpg?t=1754402742",
