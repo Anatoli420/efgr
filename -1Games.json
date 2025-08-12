@@ -181,20 +181,6 @@
     "id": ""
   },
   {
-    "adImp": 11,
-    "title": "Eternal Return Exclusive Game Pack Key Giveaway",
-    "image": "https://media.alienwarearena.com/media/b0c34ccf5b376c6fd5c003b8088023e7.jpg?fit=crop&width=720&height=405&quality=75",
-    "url": "https://www.alienwarearena.com/ucf/show/2172715/boards/contest-and-giveaways-global/Giveaway/eternal-return-exclusive-game-pack-key-giveaway",
-    "store": "Alienware Arena",
-    "price": 5,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-01-01T15:00:00.000Z",
-    "endDate": "2024-01-01T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 2,
     "title": "Lunar New Year 2025 - New Items! Claim your free point shop items",
     "image": "https://clan.fastly.steamstatic.com/images/39769908/3fc11143838b5b95e610aea0369b94d12a8d3480.jpg",
@@ -511,6 +497,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 11,
+    "title": "Eternal Return Exclusive Game Pack Key Giveaway",
+    "image": "https://media.alienwarearena.com/media/b0c34ccf5b376c6fd5c003b8088023e7.jpg?fit=crop&width=720&height=405&quality=75",
+    "url": "https://www.alienwarearena.com/ucf/show/2172715/boards/contest-and-giveaways-global/Giveaway/eternal-return-exclusive-game-pack-key-giveaway",
+    "store": "Alienware Arena",
+    "price": 5,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-01-01T15:00:00.000Z",
+    "endDate": "2024-01-01T15:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 1,
