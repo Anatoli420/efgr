@@ -2,15 +2,15 @@
   {
     "id": "",
     "adImp": 1,
-    "title": "112 Operator",
-    "image": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1dvw8.jpg?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/112-operator-android-979286",
-    "price": 10,
+    "title": "Hidden Folks",
+    "image": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-4zn1u.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/hidden-folks-android-55dede",
+    "price": 15,
     "store": "Epic Games",
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2025-07-31T15:00:00.000Z",
-    "endDate": "2025-08-14T15:00:00.000Z",
+    "startDate": "2025-08-14T15:00:00.000Z",
+    "endDate": "2025-08-21T15:00:00.000Z",
     "date": ""
   },
   {
@@ -458,6 +458,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 1,
+    "title": "112 Operator",
+    "image": "https://cdn1.epicgames.com/spt-assets/6036e5ea111a448ea1b41d5ab3800d99/112-operator-1dvw8.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/112-operator-android-979286",
+    "price": 10,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2025-07-31T15:00:00.000Z",
+    "endDate": "2025-08-14T15:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
