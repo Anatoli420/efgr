@@ -168,20 +168,6 @@
   },
   {
     "adImp": 5,
-    "title": "Steam China - Multiplayer Games Fest - Claim your free point shop items",
-    "image": "https://cdn.fastly.steamstatic.com/store/rewards/social_media.jpg",
-    "url": "https://store.steampowered.com/points/shop/app/3923090",
-    "store": "Steam",
-    "price": 0,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-12-19T20:30:00.000Z",
-    "endDate": "2025-08-29T17:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 5,
     "title": "ODIN:VALHALLA RISING Exclusive Game Pack Key Giveaway",
     "image": "https://media.alienwarearena.com/media/18de42f1a5d3f983daee8124eb501095.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://www.alienwarearena.com/ucf/show/2172716/boards/contest-and-giveaways-global/Giveaway/odin-valhalla-rising-exclusive-game-pack-key-giveaway",
@@ -511,6 +497,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 5,
+    "title": "Steam China - Multiplayer Games Fest - Claim your free point shop items",
+    "image": "https://cdn.fastly.steamstatic.com/store/rewards/social_media.jpg",
+    "url": "https://store.steampowered.com/points/shop/app/3923090",
+    "store": "Steam",
+    "price": 0,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-08-29T17:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
