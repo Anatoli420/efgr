@@ -2,6 +2,20 @@
   {
     "id": "",
     "adImp": 1,
+    "title": "Colorzzle",
+    "image": "https://play-lh.googleusercontent.com/MCmI0oE3C5kHtT2TCornFRXMEeJCGzTbDz6-BWBQ0KjVXu4a-In97yUZcZv7Lxk46g=s480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.DarongStudio.Colorzzle",
+    "store": "Google Play",
+    "price": 5,
+    "horizontal": true,
+    "status": 1,
+    "startDate": "2024-01-01T06:00:00.000Z",
+    "endDate": "2025-12-12T06:00:00.001Z",
+    "date": ""
+  },
+  {
+    "id": "",
+    "adImp": 1,
     "title": "Hidden Folks",
     "image": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-4zn1u.png?resize=1&w=480&h=270&quality=medium",
     "url": "https://store.epicgames.com/p/hidden-folks-android-55dede",
