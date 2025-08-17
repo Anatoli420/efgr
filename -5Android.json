@@ -7,7 +7,7 @@
     "url": "https://play.google.com/store/apps/details?id=com.DarongStudio.Colorzzle",
     "store": "Google Play",
     "price": 5,
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "status": 1,
     "startDate": "2024-01-01T06:00:00.000Z",
     "endDate": "2025-12-12T06:00:00.001Z",
