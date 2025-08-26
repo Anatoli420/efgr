@@ -167,20 +167,6 @@
     "id": ""
   },
   {
-    "adImp": 11,
-    "title": "GUNTOUCHABLES",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2543510/98d544c7a4a44d721cf47ae418788af44314bab6/header_alt_assets_2.jpg?t=1754577029",
-    "url": "https://store.steampowered.com/app/2543510/GUNTOUCHABLES/",
-    "store": "Steam",
-    "price": 10,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-12-19T20:30:00.000Z",
-    "endDate": "2025-08-08T10:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 5,
     "title": "ODIN:VALHALLA RISING Exclusive Game Pack Key Giveaway",
     "image": "https://media.alienwarearena.com/media/18de42f1a5d3f983daee8124eb501095.jpg?fit=crop&width=720&height=405&quality=75",
@@ -511,6 +497,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 11,
+    "title": "GUNTOUCHABLES",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2543510/98d544c7a4a44d721cf47ae418788af44314bab6/header_alt_assets_2.jpg?t=1754577029",
+    "url": "https://store.steampowered.com/app/2543510/GUNTOUCHABLES/",
+    "store": "Steam",
+    "price": 10,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-08-08T10:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 3,
