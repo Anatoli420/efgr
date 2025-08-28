@@ -1,6 +1,48 @@
 [
   {
-    "adImp": 11,
+    "adImp": 2,
+    "title": "Heroes of Loot 2",
+    "image": "https://m.media-amazon.com/images/I/614eTdrc4tL._FMwebp_.jpg",
+    "url": "https://gaming.amazon.com/heroes-of-loot-2-gog/dp/amzn1.pg.item.960ca075-f916-4013-a454-4d7d4d53a496?ingress=amzn&ref_=SM_HeroesofLoot2_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 10,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2025-11-26T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Fantasy Empires",
+    "image": "https://m.media-amazon.com/images/I/71ATCx+eA9L._FMwebp_.jpg",
+    "url": "https://gaming.amazon.com/fantasy-empires-gog/dp/amzn1.pg.item.8d18454f-8b8b-4ee4-a868-9239710669ec?ingress=amzn&ref_=SM_FantasyEmpires_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 10,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2025-10-01T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "City Legends: The Ghost of Misty Hill - CE",
+    "image": "https://m.media-amazon.com/images/I/61AvHvwpf-L._FMwebp_.jpg",
+    "url": "https://gaming.amazon.com/city-legends-the-ghost-of-misty-hill-ce-legacy/dp/amzn1.pg.item.598f7c0e-768c-4699-a769-15c5de6b5e40?ingress=amzn&ref_=SM_CityLegendsTheGhostofMistyHillCE_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 10,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2025-10-01T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
     "title": "Silver Box Classics",
     "image": "https://m.media-amazon.com/images/I/71uGBPlR1VL._FMwebp_.jpg",
     "url": "https://gaming.amazon.com/silver-box-classics-gog/dp/amzn1.pg.item.a0f2f883-35f6-4f3b-9fbf-23a212b11f2a?ingress=amzn&ref_=SM_SilverBoxClassics_S01_FGWP_CRWN",
@@ -14,7 +56,7 @@
     "id": ""
   },
   {
-    "adImp": 11,
+    "adImp": 3,
     "title": "Labyrinth City: Pierre the Maze Detective",
     "image": "https://m.media-amazon.com/images/I/81ds1WcFedL._FMwebp_.jpg",
     "url": "https://gaming.amazon.com/labyrinth-city-pierre-the-maze-detective-aga/dp/amzn1.pg.item.8d9caace-93c2-46c2-b5a8-924158871936?ingress=amzn&ref_=SM_LabyrinthCityPierretheMazeDetective_S01_FGWP_CRWN",
