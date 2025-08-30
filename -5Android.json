@@ -43,20 +43,6 @@
   },
   {
     "id": "",
-    "adImp": 1,
-    "title": "Strange Horticulture",
-    "image": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-1pfex.png?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/strange-horticulture-android-8143c0",
-    "price": 15,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-08-21T15:00:00.000Z",
-    "endDate": "2025-08-28T15:00:00.000Z",
-    "date": ""
-  },
-  {
-    "id": "",
     "adImp": 3,
     "title": "EA SPORTS FC™ Mobile Soccer",
     "image": "https://play-lh.googleusercontent.com/wD3nE-orQx4ZEYFzzyhanH6yHLjCDO7w3aE5DTvDbWKBeHKY3UGrt5P-w4YyhOIcRiM=s960-rw",
@@ -486,6 +472,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 1,
+    "title": "Strange Horticulture",
+    "image": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-1pfex.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/strange-horticulture-android-8143c0",
+    "price": 15,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2025-08-21T15:00:00.000Z",
+    "endDate": "2025-08-28T15:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
