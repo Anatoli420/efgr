@@ -1,6 +1,48 @@
 [
   {
     "id": "",
+    "adImp": 2,
+    "title": "Avalar: Shadow War Premium",
+    "image": "https://play-lh.googleusercontent.com/T5V-mqnmPlPC62-DmEcrqBAW8_QkYvXl5Px4Cj18j0VrG9PWrcgMNs2htuCW_Chp_J8=s480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.avalar.athree.epl.gp",
+    "store": "Google Play",
+    "price": 5,
+    "horizontal": "fechasProgramadas",
+    "status": 1,
+    "startDate": "2024-01-01T06:00:00.000Z",
+    "endDate": "2025-12-12T06:00:00.001Z",
+    "date": ""
+  },
+  {
+    "id": "",
+    "adImp": 2,
+    "title": "Shadow Knight: Ninja Fighting",
+    "image": "https://play-lh.googleusercontent.com/9aLNxR4tHzWd5xuZpcB2mtIGCADD2PVteqvAD8SW702GVGY_ZnUrm4EDCoQuIzj3qSI=s480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.fansipan.stickman.shadow.knights.fightinggames",
+    "store": "Google Play",
+    "price": 5,
+    "horizontal": "fechasProgramadas",
+    "status": 1,
+    "startDate": "2024-01-01T06:00:00.000Z",
+    "endDate": "2025-12-12T06:00:00.001Z",
+    "date": ""
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "adImp": null,
+    "horizontal": false,
+    "image": "https://notifimg.ariochpds.cc/fortnite.jpg",
+    "url": "",
+    "title": "Fortnite",
+    "store": "",
+    "price": 0,
+    "date": "",
+    "status": 1,
+    "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
     "adImp": 3,
     "title": "Theme Park Simulator",
     "image": "https://play-lh.googleusercontent.com/2iRFrb0Wja9A4J8b4Ss94Y5KznG8Y8B5h8-E04VmgGoUfL6TE35pR5I3H-tdTZhf4lM=w240-h480-rw",
@@ -26,20 +68,6 @@
     "startDate": "2025-08-28T15:00:00.000Z",
     "endDate": "2025-09-04T15:00:00.000Z",
     "date": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "adImp": null,
-    "horizontal": false,
-    "image": "https://notifimg.ariochpds.cc/fortnite.jpg",
-    "url": "",
-    "title": "Fortnite",
-    "store": "",
-    "price": 0,
-    "date": "",
-    "status": 1,
-    "startDate": "",
-    "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
     "id": "",
@@ -472,6 +500,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 3,
+    "title": "",
+    "image": "",
+    "url": "",
+    "store": "Google Play",
+    "price": 5,
+    "horizontal": "true",
+    "status": 2,
+    "startDate": "2024-01-01T06:00:00.000Z",
+    "endDate": "2025-12-12T06:00:00.001Z",
+    "date": ""
   },
   {
     "id": "",
