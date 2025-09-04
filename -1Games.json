@@ -1,6 +1,34 @@
 [
   {
     "adImp": 1,
+    "title": "Monument Valley",
+    "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg?w=720&quality=medium&resize=1",
+    "url": "https://store.epicgames.com/p/monument-valley-1d99d3",
+    "price": 8,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-09-04T15:00:00.000Z",
+    "endDate": "2025-09-11T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "The Battle of Polytopia",
+    "image": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-1oi5a.png?w=600&quality=medium&resize=1",
+    "url": "https://store.epicgames.com/p/the-battle-of-polytopia-12fed6",
+    "price": 15,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-09-04T15:00:00.000Z",
+    "endDate": "2025-09-11T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Carlos the Taco",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/7685a903-2344-4755-996b-66c423a813c9/prodmain/1756472525.png",
     "url": "https://freebies.indiegala.com/carlos-the-taco",
