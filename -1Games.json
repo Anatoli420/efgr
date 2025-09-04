@@ -14,20 +14,6 @@
     "id": ""
   },
   {
-    "adImp": 1,
-    "title": "The Battle of Polytopia",
-    "image": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-1oi5a.png?w=600&quality=medium&resize=1",
-    "url": "https://store.epicgames.com/p/the-battle-of-polytopia-12fed6",
-    "price": 15,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-09-04T15:00:00.000Z",
-    "endDate": "2025-09-11T15:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "horizontal": "slider",
     "adImp": null,
     "title": "SLIDER",
@@ -427,6 +413,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 1,
+    "title": "The Battle of Polytopia",
+    "image": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-1oi5a.png?w=600&quality=medium&resize=1",
+    "url": "https://store.epicgames.com/p/the-battle-of-polytopia-12fed6",
+    "price": 15,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2025-09-04T15:00:00.000Z",
+    "endDate": "2025-09-11T15:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 1,
