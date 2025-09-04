@@ -223,20 +223,6 @@
   },
   {
     "adImp": 4,
-    "title": "Fate Trigger Closed Beta Key Giveaway",
-    "image": "https://media.alienwarearena.com/media/6ba2e6645f8bd8c1520a3ecd77ecad81.jpg?fit=crop&width=720&height=405&quality=75",
-    "url": "https://www.alienwarearena.com/ucf/show/2172681/boards/contest-and-giveaways-global/Giveaway/fate-trigger-closed-beta-key-giveaway",
-    "store": "Alienware Arena",
-    "price": 60,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-01-01T15:00:00.000Z",
-    "endDate": "2024-01-01T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 4,
     "title": "World of Warships Alienware Flag Key Giveaway",
     "image": "https://media.alienwarearena.com/media/eebfcb0b0bbd7895359c0264d35859b9.png?fit=crop&width=720&height=405&quality=75",
     "url": "https://www.alienwarearena.com/ucf/show/2172688/boards/contest-and-giveaways-global/Giveaway/world-of-warships-alienware-flag-key-giveaway",
@@ -511,6 +497,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 4,
+    "title": "Fate Trigger Closed Beta Key Giveaway",
+    "image": "https://media.alienwarearena.com/media/6ba2e6645f8bd8c1520a3ecd77ecad81.jpg?fit=crop&width=720&height=405&quality=75",
+    "url": "https://www.alienwarearena.com/ucf/show/2172681/boards/contest-and-giveaways-global/Giveaway/fate-trigger-closed-beta-key-giveaway",
+    "store": "Alienware Arena",
+    "price": 60,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-01-01T15:00:00.000Z",
+    "endDate": "2024-01-01T15:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 5,
