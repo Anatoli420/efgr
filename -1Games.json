@@ -98,20 +98,6 @@
   },
   {
     "adImp": 1,
-    "title": "Carlos the Taco",
-    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/7685a903-2344-4755-996b-66c423a813c9/prodmain/1756472525.png",
-    "url": "https://freebies.indiegala.com/carlos-the-taco",
-    "store": "IndieGala",
-    "price": 3,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-12-22T17:30:00.000Z",
-    "endDate": "2025-12-30T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 1,
     "title": "League of Angels: Pact Gift Pack Key Giveaway",
     "image": "https://www.mmobomb.com/file/2023/11/league-of-angels-pact-gift-pack-key-giveaway.png",
     "url": "https://www.mmobomb.com/giveaway/league-of-angels-pact-keys",
@@ -441,6 +427,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 1,
+    "title": "Carlos the Taco",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/7685a903-2344-4755-996b-66c423a813c9/prodmain/1756472525.png",
+    "url": "https://freebies.indiegala.com/carlos-the-taco",
+    "store": "IndieGala",
+    "price": 3,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
