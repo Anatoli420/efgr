@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "Broilers",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1562780/header.jpg?t=1756943867",
+    "url": "https://store.steampowered.com/app/1562780/Broilers/",
+    "store": "Steam",
+    "price": 5,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-09-13T10:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "The Brave Little Cloud",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/92d9cb63-ef57-4bbb-90c5-372023e28b84/prodmain/1757077337.png",
     "url": "https://freebies.indiegala.com/the-brave-little-cloud",
