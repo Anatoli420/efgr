@@ -22,7 +22,7 @@
     "price": 0,
     "store": "Epic Games",
     "status": 1,
-    "horizontal": "true",
+    "horizontal": "fechasProgramadas",
     "startDate": "2025-04-29T15:00:00.000Z",
     "endDate": "2099-01-01T06:00:00.001Z",
     "date": ""
