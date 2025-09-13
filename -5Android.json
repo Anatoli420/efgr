@@ -36,7 +36,7 @@
     "store": "Google Play",
     "price": 1,
     "date": "",
-    "horizontal": "true",
+    "horizontal": "fechasProgramadas",
     "status": 1,
     "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2024-01-01T06:00:00.001Z"
