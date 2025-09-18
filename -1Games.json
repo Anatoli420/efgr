@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "Blacklist Mafia",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/4405a019-d67a-48ec-8471-26224a11618d/prodmain/1758097999.png",
+    "url": "https://freebies.indiegala.com/blacklist-mafia",
+    "store": "IndieGala",
+    "price": 3,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Away",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757910/7a460e6428f11588dd4f37d37529b085399cc3ff/header.jpg?t=1757020738",
     "url": "https://store.steampowered.com/app/757910/Away/",
