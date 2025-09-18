@@ -1,6 +1,48 @@
 [
   {
     "adImp": 2,
+    "title": "Residual",
+    "image": "https://m.media-amazon.com/images/I/61BKFudWSgL._FMwebp_.jpg",
+    "url": "https://gaming.amazon.com/residual-gog/dp/amzn1.pg.item.6c1f74ce-2720-4cb5-a5f1-b996c8a7a1fa?ingress=amzn&ref_=SM_Residual_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 20,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2025-12-17T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "FATE: The Cursed King",
+    "image": "https://m.media-amazon.com/images/I/61GfvG315yL._FMwebp_.jpg",
+    "url": "https://gaming.amazon.com/fate-the-cursed-king-gog/dp/amzn1.pg.item.d2b5ccef-a10d-4db3-abd9-de6620c11970?ingress=amzn&ref_=SM_FATETheCursedKing_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 8,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2025-10-22T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "adImp": null,
+    "title": "RATEUS",
+    "store": "separador",
+    "price": 0,
+    "date": "??-08-2022",
+    "status": 1,
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "adImp": 2,
     "title": "Afterimage",
     "image": "https://m.media-amazon.com/images/I/71Osjcb4v5L._FMwebp_.jpg",
     "url": "https://gaming.amazon.com/afterimage-aga/dp/amzn1.pg.item.f18930ba-9433-4248-b54a-83086669219e?ingress=amzn&ref_=SM_Afterimage_S01_FGWP_CRWN",
@@ -54,20 +96,6 @@
     "endDate": "2025-10-15T15:00:00.000Z",
     "date": "",
     "id": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "adImp": null,
-    "title": "RATEUS",
-    "store": "separador",
-    "price": 0,
-    "date": "??-08-2022",
-    "status": 1,
-    "startDate": "",
-    "endDate": ""
   },
   {
     "adImp": 2,
