@@ -14,20 +14,6 @@
     "date": ""
   },
   {
-    "id": "",
-    "adImp": 4,
-    "title": "Evertale",
-    "image": "https://play-lh.googleusercontent.com/xrVcQ0xSlGfuwNTtnNNrHHIwXsbbRESdvKsI9PSEHc1z-xCCpYxlPblIbqysXeZgQe46",
-    "url": "https://bit.ly/48KFdYg",
-    "store": "Google Play",
-    "price": 1,
-    "date": "",
-    "horizontal": true,
-    "status": 1,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
     "id": "//?SUB SCREEN////",
     "adImp": null,
     "horizontal": false,
@@ -485,6 +471,20 @@
     "date": "",
     "status": 4,
     "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 4,
+    "title": "Evertale",
+    "image": "https://play-lh.googleusercontent.com/xrVcQ0xSlGfuwNTtnNNrHHIwXsbbRESdvKsI9PSEHc1z-xCCpYxlPblIbqysXeZgQe46",
+    "url": "https://bit.ly/48KFdYg",
+    "store": "Google Play",
+    "price": 1,
+    "date": "",
+    "horizontal": "true",
+    "status": 2,
+    "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
