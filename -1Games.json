@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 11,
+    "title": "Jorel’s Brother and The Most Important Game of the Galaxy",
+    "image": "https://cdn1.epicgames.com/spt-assets/6d5a003f768f4957b4ed48b373f86b32/jorels-brother-and-the-most-important-game-of-the-galaxy-liq5n.png?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/jorels-brother-and-the-most-important-game-of-the-galaxy-47435f",
+    "price": 15,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-09-25T15:00:00.000Z",
+    "endDate": "2025-10-02T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Eastern Exorcist",
+    "image": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-k4a82.png?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/eastern-exorcist-d49923",
+    "price": 18,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-09-25T15:00:00.000Z",
+    "endDate": "2025-10-02T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Mr.Brocco & Co",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/23d2ad9f-ce20-4049-9544-87b781aac366/prodmain/1758361240.png",
