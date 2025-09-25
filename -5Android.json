@@ -2,9 +2,9 @@
   {
     "id": "",
     "adImp": 11,
-    "title": "Samorost 2",
-    "image": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-12rpr.jpg?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/samorost-2-android-96a371",
+    "title": "Eastern Exorcist",
+    "image": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-1ku0u.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/eastern-exorcist-android-8e99ad",
     "price": 5,
     "store": "Epic Games",
     "status": 1,
@@ -472,6 +472,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 11,
+    "title": "Samorost 2",
+    "image": "https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-12rpr.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/samorost-2-android-96a371",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2025-09-18T15:00:00.000Z",
+    "endDate": "2025-09-25T15:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
