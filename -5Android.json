@@ -2,15 +2,15 @@
   {
     "id": "",
     "adImp": 11,
-    "title": "Eastern Exorcist",
-    "image": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-1ku0u.png?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/eastern-exorcist-android-8e99ad",
+    "title": "Doodle Devil: Dark Side",
+    "image": "https://cdn1.epicgames.com/spt-assets/c9c97160d58f4e428cebd428f85333e4/doodle-devil-dark-side-1m4it.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/doodle-devil-dark-side-android-2b0231",
     "price": 5,
     "store": "Epic Games",
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2025-09-25T15:00:00.000Z",
-    "endDate": "2025-10-02T15:00:00.000Z",
+    "startDate": "2025-10-02T15:00:00.000Z",
+    "endDate": "2025-10-09T15:00:00.000Z",
     "date": ""
   },
   {
@@ -472,6 +472,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 11,
+    "title": "Eastern Exorcist",
+    "image": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-1ku0u.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/eastern-exorcist-android-8e99ad",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2025-09-25T15:00:00.000Z",
+    "endDate": "2025-10-02T15:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
