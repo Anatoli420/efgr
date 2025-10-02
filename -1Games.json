@@ -56,20 +56,6 @@
     "id": ""
   },
   {
-    "adImp": 11,
-    "title": "Eastern Exorcist",
-    "image": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-k4a82.png?w=600&quality=high&resize=1",
-    "url": "https://store.epicgames.com/p/eastern-exorcist-d49923",
-    "price": 18,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-09-25T15:00:00.000Z",
-    "endDate": "2025-10-02T15:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "horizontal": "slider",
     "adImp": null,
     "title": "SLIDER",
@@ -651,6 +637,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 11,
+    "title": "Eastern Exorcist",
+    "image": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-k4a82.png?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/eastern-exorcist-d49923",
+    "price": 18,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2025-09-25T15:00:00.000Z",
+    "endDate": "2025-10-02T15:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
