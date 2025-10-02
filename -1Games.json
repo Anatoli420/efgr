@@ -42,20 +42,6 @@
     "id": ""
   },
   {
-    "adImp": 11,
-    "title": "Jorel’s Brother and The Most Important Game of the Galaxy",
-    "image": "https://cdn1.epicgames.com/spt-assets/6d5a003f768f4957b4ed48b373f86b32/jorels-brother-and-the-most-important-game-of-the-galaxy-liq5n.png?w=600&quality=high&resize=1",
-    "url": "https://store.epicgames.com/p/jorels-brother-and-the-most-important-game-of-the-galaxy-47435f",
-    "price": 15,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-09-25T15:00:00.000Z",
-    "endDate": "2025-10-02T15:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "horizontal": "slider",
     "adImp": null,
     "title": "SLIDER",
@@ -637,6 +623,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 11,
+    "title": "Jorel’s Brother and The Most Important Game of the Galaxy",
+    "image": "https://cdn1.epicgames.com/spt-assets/6d5a003f768f4957b4ed48b373f86b32/jorels-brother-and-the-most-important-game-of-the-galaxy-liq5n.png?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/jorels-brother-and-the-most-important-game-of-the-galaxy-47435f",
+    "price": 15,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2025-09-25T15:00:00.000Z",
+    "endDate": "2025-10-02T15:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
