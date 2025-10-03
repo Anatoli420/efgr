@@ -55,6 +55,20 @@
     "id": ""
   },
   {
+    "adImp": 1,
+    "title": "Rogue Journeyman Bundle",
+    "image": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-qadpy.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/albion-online-rogue-journeyman-bundle-99807a",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-10-09T15:00:00.000Z",
+    "endDate": "2025-10-16T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "id": "//?SUB SCREEN////",
     "adImp": null,
     "horizontal": false,
