@@ -42,20 +42,6 @@
     "id": ""
   },
   {
-    "adImp": 1,
-    "title": "Snake Eyes Dungeon",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740240/header.jpg?t=1758801559",
-    "url": "https://store.steampowered.com/app/740240/Snake_Eyes_Dungeon/",
-    "store": "Steam",
-    "price": 3,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-12-19T20:30:00.000Z",
-    "endDate": "2025-10-03T05:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "horizontal": "slider",
     "adImp": null,
     "title": "SLIDER",
@@ -637,6 +623,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 1,
+    "title": "Snake Eyes Dungeon",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740240/header.jpg?t=1758801559",
+    "url": "https://store.steampowered.com/app/740240/Snake_Eyes_Dungeon/",
+    "store": "Steam",
+    "price": 3,
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-10-03T05:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
