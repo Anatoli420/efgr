@@ -55,20 +55,6 @@
     "id": ""
   },
   {
-    "adImp": 3,
-    "title": "TEST..",
-    "image": "",
-    "url": "",
-    "price": 30,
-    "store": "Epic Games",
-    "status": 3,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-10-09T15:00:00.000Z",
-    "endDate": "2025-10-09T15:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "id": "//?SUB SCREEN////",
     "adImp": null,
     "horizontal": false,
@@ -623,6 +609,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 3,
+    "title": "TEST..",
+    "image": "",
+    "url": "",
+    "price": 30,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": "true",
+    "startDate": "2025-10-09T15:00:00.000Z",
+    "endDate": "2025-10-09T15:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 1,
