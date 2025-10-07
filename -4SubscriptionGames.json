@@ -71,6 +71,20 @@
   },
   {
     "adImp": 2,
+    "title": "",
+    "image": "",
+    "url": "",
+    "store": "Amazon Gaming",
+    "price": 13,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2025-12-03T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
     "title": "Residual",
     "image": "https://m.media-amazon.com/images/I/61BKFudWSgL._FMwebp_.jpg",
     "url": "https://gaming.amazon.com/residual-gog/dp/amzn1.pg.item.6c1f74ce-2720-4cb5-a5f1-b996c8a7a1fa?ingress=amzn&ref_=SM_Residual_S01_FGWP_CRWN",
