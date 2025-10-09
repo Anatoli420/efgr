@@ -14,20 +14,6 @@
     "date": ""
   },
   {
-    "id": "",
-    "title": "Mini Restaurant Premium",
-    "image": "https://play-lh.googleusercontent.com/yQ1prPqR2tHZzJprSj_e0_7Tl7st1qFOVFcxhYGin6q2M-XBW4NOwGQU5Afzur8S5sc=s960-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.unimob.mini.restaurant.premium",
-    "store": "Google Play",
-    "price": 5,
-    "date": "",
-    "adImp": 1,
-    "horizontal": "fechasProgramadas",
-    "status": 1,
-    "startDate": "2023-10-31T06:00:00.000Z",
-    "endDate": "2050-12-12T06:00:00.001Z"
-  },
-  {
     "id": "//?SUB SCREEN////",
     "adImp": null,
     "horizontal": false,
@@ -486,6 +472,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "title": "Mini Restaurant Premium",
+    "image": "https://play-lh.googleusercontent.com/yQ1prPqR2tHZzJprSj_e0_7Tl7st1qFOVFcxhYGin6q2M-XBW4NOwGQU5Afzur8S5sc=s960-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.unimob.mini.restaurant.premium",
+    "store": "Google Play",
+    "price": 5,
+    "date": "",
+    "adImp": 1,
+    "horizontal": true,
+    "status": 2,
+    "startDate": "2023-10-31T06:00:00.000Z",
+    "endDate": "2050-12-12T06:00:00.001Z"
   },
   {
     "id": "",
