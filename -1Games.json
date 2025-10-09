@@ -1,6 +1,20 @@
 [
   {
     "adImp": 11,
+    "title": "Rogue Journeyman Bundle",
+    "image": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-qadpy.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/albion-online-rogue-journeyman-bundle-99807a",
+    "price": 15,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-10-09T15:00:00.000Z",
+    "endDate": "2025-10-16T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": "Gravity Circuit",
     "image": "https://cdn1.epicgames.com/spt-assets/c259931bc98344a1a16427cb079f049f/gravity-circuit-offer-4kzn5.jpg?resize=1&w=854&h=480&quality=medium",
     "url": "https://store.epicgames.com/p/gravity-circuit-489baa",
