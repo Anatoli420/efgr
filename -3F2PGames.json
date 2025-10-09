@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "Blue Protocol: Star Resonance",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681810/bab705e2414243cd247a14a07b2d5490dcd2cefd/header.jpg?t=1760012967",
+    "url": "https://store.steampowered.com/app/3681810/Blue_Protocol_Star_Resonance/",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2025-10-09T17:00:00.000Z",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Train Sim World® 6",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3656800/ea750f90cc32c79a12a471b1e67fcc57e23173f9/header.jpg?t=1759254767",
     "url": "https://store.steampowered.com/app/3656800/Train_Sim_World_6/",
