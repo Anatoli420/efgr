@@ -1,6 +1,20 @@
 [
   {
     "id": "",
+    "adImp": 11,
+    "title": "Double Dragon Trilogy",
+    "image": "https://cdn1.epicgames.com/spt-assets/1fab5bdfae33477a94e6f0fea5e927c3/double-dragon-trilogy-1x25v.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/double-dragon-trilogy-android-aa344a",
+    "price": 6,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-10-09T15:00:00.000Z",
+    "endDate": "2025-10-16T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
     "title": "Mini Restaurant Premium",
     "image": "https://play-lh.googleusercontent.com/yQ1prPqR2tHZzJprSj_e0_7Tl7st1qFOVFcxhYGin6q2M-XBW4NOwGQU5Afzur8S5sc=s960-rw",
     "url": "https://play.google.com/store/apps/details?id=com.unimob.mini.restaurant.premium",
