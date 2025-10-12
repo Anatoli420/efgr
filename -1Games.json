@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 1,
+    "title": "Sausage Hunter",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/e2e061d5-7344-4c7d-b5d4-1f0261a70619/prodmain/1760155959.png",
+    "url": "https://freebies.indiegala.com/sausage-hunter",
+    "store": "IndieGala",
+    "price": 3,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "Rogue Journeyman Bundle",
     "image": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-qadpy.jpg?resize=1&w=480&h=270&quality=medium",
