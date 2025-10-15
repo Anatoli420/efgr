@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "Habbo Hotel: Origins",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3809900/783219610fbf8a7736e204f8623336da760e5818/header.jpg?t=1760545611",
+    "url": "https://store.steampowered.com/app/3809900/Habbo_Hotel_Origins/",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2025-10-09T17:00:00.000Z",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Blue Protocol: Star Resonance",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681810/bab705e2414243cd247a14a07b2d5490dcd2cefd/header.jpg?t=1760012967",
     "url": "https://store.steampowered.com/app/3681810/Blue_Protocol_Star_Resonance/",
