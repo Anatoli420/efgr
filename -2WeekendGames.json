@@ -1,15 +1,29 @@
 [
   {
     "adImp": 2,
-    "title": "Call of Duty®: Black Ops 6",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933620/header.jpg?t=1760027717",
-    "url": "https://store.steampowered.com/app/2933620/Call_of_Duty_Black_Ops_6/",
+    "title": "F1® 25",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3059520/37f833ca5bd3d5c3eec2b411131f3e00f580bbe7/header.jpg?t=1760633810",
+    "url": "https://store.steampowered.com/app/3059520/F1_25/",
     "store": "Steam",
-    "price": 35,
+    "price": 42,
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2025-06-12T16:00:00.000Z",
-    "endDate": "2025-10-16T05:00:00.000Z",
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2025-10-20T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "MORDHAU",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/629760/header.jpg?t=1760646918",
+    "url": "https://store.steampowered.com/app/629760/MORDHAU/",
+    "store": "Steam",
+    "price": 30,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2025-10-20T16:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -67,6 +81,20 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Call of Duty®: Black Ops 6",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933620/header.jpg?t=1760027717",
+    "url": "https://store.steampowered.com/app/2933620/Call_of_Duty_Black_Ops_6/",
+    "store": "Steam",
+    "price": 35,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-06-12T16:00:00.000Z",
+    "endDate": "2025-10-16T05:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 2,
