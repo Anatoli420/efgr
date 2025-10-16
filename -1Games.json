@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 11,
+    "title": "Samorost 3",
+    "image": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-1ukhw.jpg?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/samorost-3-0c4489",
+    "price": 30,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-10-16T15:00:00.000Z",
+    "endDate": "2025-10-23T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Amnesia: The Bunker",
+    "image": "https://cdn1.epicgames.com/spt-assets/671aee4c8fb64a1c967d97f31f093e7a/amnesia-the-bunker-1x2n7.png?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/amnesia-the-bunker-9d5799",
+    "price": 25,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-10-16T15:00:00.000Z",
+    "endDate": "2025-10-23T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Battle Ram",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/25bb9ba0-56e4-4c68-92b1-55bf43db7a52/prodmain/1760533443.png",
