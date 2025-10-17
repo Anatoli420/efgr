@@ -8,7 +8,7 @@
     "price": 1,
     "date": "",
     "adImp": 1,
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "status": 1,
     "startDate": "2023-10-31T06:00:00.000Z",
     "endDate": "2050-12-12T06:00:00.001Z"
@@ -22,7 +22,7 @@
     "price": 2,
     "date": "",
     "adImp": 1,
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "status": 1,
     "startDate": "2023-10-31T06:00:00.000Z",
     "endDate": "2050-12-12T06:00:00.001Z"
