@@ -1,6 +1,34 @@
 [
   {
     "id": "",
+    "title": "ECO Inc. Green World Sandbox!",
+    "image": "https://play-lh.googleusercontent.com/JdfFbaGOPhCwEPEjoFziv8chjLwYmvbxYVfzGrd_gd6Qg4zBImK_z3iYVk_qcNrDNg=w480-h960-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.gamefirst.savetheearth",
+    "store": "Google Play",
+    "price": 1,
+    "date": "",
+    "adImp": 1,
+    "horizontal": true,
+    "status": 1,
+    "startDate": "2023-10-31T06:00:00.000Z",
+    "endDate": "2050-12-12T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "title": "Slime Legends - Survivor",
+    "image": "https://play-lh.googleusercontent.com/yH-fMtkj_NGH_ChvyPpS9JhIGc1eN9eWVVhfCg-gWnZUVjod0CU50UZJtItLFomqNJ1o=s960-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.fori.slimelegends",
+    "store": "Google Play",
+    "price": 2,
+    "date": "",
+    "adImp": 1,
+    "horizontal": true,
+    "status": 1,
+    "startDate": "2023-10-31T06:00:00.000Z",
+    "endDate": "2050-12-12T06:00:00.001Z"
+  },
+  {
+    "id": "",
     "adImp": 11,
     "title": "Samorost 3",
     "image": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-rla7k.jpg?resize=1&w=480&h=270&quality=medium",
