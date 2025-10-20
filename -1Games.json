@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 1,
+    "title": "Best Plumber",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a6a962b2-96af-4696-9a44-fdb596d1eeb4/prodmain/1760792376.png",
+    "url": "https://freebies.indiegala.com/best-plumber",
+    "store": "IndieGala",
+    "price": 30,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "Amnesia: The Bunker",
     "image": "https://cdn1.epicgames.com/spt-assets/671aee4c8fb64a1c967d97f31f093e7a/amnesia-the-bunker-1x2n7.png?w=600&quality=high&resize=1",
