@@ -1,6 +1,20 @@
 [
   {
     "adImp": 11,
+    "title": "Distant Space",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/569610/header.jpg?t=1761081429",
+    "url": "https://store.steampowered.com/app/569610/Distant_Space/",
+    "store": "Steam",
+    "price": 1,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-10-31T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": "Immersive Storylines Game Festival — Claim your free point shop",
     "image": "https://clan.fastly.steamstatic.com/images/39769908/5e7ce1ad771a083fa65ecab7e64d12c3b14b4db2.jpg",
     "url": "https://store.steampowered.com/points/shop/app/4101120",
