@@ -2,15 +2,15 @@
   {
     "id": "",
     "adImp": 11,
-    "title": "Samorost 3",
-    "image": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-rla7k.jpg?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/samorost-3-android-0408e5",
+    "title": "Doodle Farm: Breeds and Beasts",
+    "image": "https://cdn1.epicgames.com/spt-assets/d228aef813e34ed080a86cc49ae640e2/doodle-farm-breeds-and-beasts-1gfzk.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/doodle-farm-breeds-and-beasts-android-9c6b12",
     "price": 5,
     "store": "Epic Games",
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2025-10-16T15:00:00.000Z",
-    "endDate": "2025-10-23T15:00:00.000Z",
+    "startDate": "2025-10-23T15:00:00.000Z",
+    "endDate": "2025-10-30T15:00:00.000Z",
     "date": ""
   },
   {
@@ -472,6 +472,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 11,
+    "title": "Samorost 3",
+    "image": "https://cdn1.epicgames.com/spt-assets/b2c854d46f0f46de8b14e1178b7e85fc/samorost-3-rla7k.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/samorost-3-android-0408e5",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-10-16T15:00:00.000Z",
+    "endDate": "2025-10-23T15:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
