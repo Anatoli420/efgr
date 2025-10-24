@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "Last Room",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/f48e776f-acb0-4e07-b6f7-a3a43cc6c8a8/prodmain/1761152904.png",
+    "url": "https://freebies.indiegala.com/last-room",
+    "store": "IndieGala",
+    "price": 30,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "The Lost Prince",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2525830/header.jpg?t=1736510032",
     "url": "https://store.onstove.com/en/games/1835",
