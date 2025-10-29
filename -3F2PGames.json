@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "Battlefield™ REDSEC",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3028330/3884b43a3d53eeef190d9ba552a099a761800012/header.jpg?t=1761698108",
+    "url": "https://store.steampowered.com/app/3028330/Battlefield_REDSEC/",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2025-10-28T17:00:00.000Z",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Habbo Hotel: Origins",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3809900/783219610fbf8a7736e204f8623336da760e5818/header.jpg?t=1760545611",
     "url": "https://store.steampowered.com/app/3809900/Habbo_Hotel_Origins/",
