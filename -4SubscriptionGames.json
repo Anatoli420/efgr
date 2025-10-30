@@ -1,57 +1,43 @@
 [
   {
-    "adImp": 2,
-    "title": " Fallout 3: Game of the Year Edition",
-    "image": "https://m.media-amazon.com/images/I/61+Mfz9OcVL._FMwebp_.jpg",
-    "url": "https://luna.amazon.com/claims/fallout-3-game-of-the-year-edition-gog/dp/amzn1.pg.item.91c2b55b-e883-4bf7-8815-08f486d7ca35?ingress=amzn&ref_=SM_Fallout3GameoftheYearEdition_S02_FGWP_CRWN",
+    "adImp": 1,
+    "title": " Werewolf: The Apocalypse - Heart of the Forest",
+    "image": "https://m.media-amazon.com/images/I/71azL0nKktL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/werewolf-the-apocalypse-heart-of-the-forest-aga/dp/amzn1.pg.item.f1278372-9b51-424f-bcb2-d1d113c184eb?ingress=amzn&ref_=SM_WerewolfTheApocalypseHeartoftheForest_S01_FGWP_CRWN",
     "store": "Amazon Gaming",
     "price": 5,
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2025-01-01T21:00:00.000Z",
-    "endDate": "2025-11-26T21:00:00.000Z",
+    "endDate": "2025-12-03T21:00:00.000Z",
     "date": "",
     "id": ""
   },
   {
     "adImp": 2,
-    "title": "True Fear: Forsaken Souls Part 2",
-    "image": "https://m.media-amazon.com/images/I/71mPB80BLPL._FMwebp_.jpg",
-    "url": "http://luna.amazon.com/claims/true-fear-forsaken-souls-part-2-gog/dp/amzn1.pg.item.36a308e9-6a4d-42a0-8f56-120492381506?ingress=amzn&ref_=SM_TrueFearForsakenSoulsPart2_S01_FGWP_CRWN",
-    "store": "Amazon Gaming",
-    "price": 3,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-01-01T21:00:00.000Z",
-    "endDate": "2025-11-26T21:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 2,
-    "title": "Hellslave",
-    "image": "https://m.media-amazon.com/images/I/61W5rMFeslL._FMwebp_.jpg",
-    "url": "https://luna.amazon.com/claims/hellslave-gog/dp/amzn1.pg.item.a7fa52c8-634e-4e62-8c47-426c4a50e657?ingress=amzn&ref_=SM_Hellslave_S01_FGWP_CRWN",
-    "store": "Amazon Gaming",
-    "price": 3,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-01-01T21:00:00.000Z",
-    "endDate": "2025-11-26T21:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 2,
-    "title": "Lost & Found Agency - CE",
-    "image": "https://m.media-amazon.com/images/I/61XKBJwqOaL._FMwebp_.jpg",
-    "url": "https://luna.amazon.com/claims/lost-and-found-agency-ce-legacy/dp/amzn1.pg.item.c42c9729-d0b8-4462-97bd-f5acd3993964?ingress=amzn&ref_=SM_LostFoundAgencyCE_S01_FGWP_CRWN",
+    "title": "You Will Die Here Tonight",
+    "image": "https://m.media-amazon.com/images/I/610xJejpbJL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/you-will-die-here-tonight-gog/dp/amzn1.pg.item.b2b4fb56-094b-4248-b5df-96078446160b?ingress=amzn&ref_=SM_YouWillDieHereTonight_S01_FGWP_CRWN",
     "store": "Amazon Gaming",
     "price": 5,
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2025-01-01T21:00:00.000Z",
-    "endDate": "2025-11-26T21:00:00.000Z",
+    "endDate": "2025-12-03T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Halloween Stories: Horror Movie - CE",
+    "image": "https://m.media-amazon.com/images/I/618Yfvc-DEL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/halloween-stories-horror-movie-ce-aga/dp/amzn1.pg.item.d78f16f2-76aa-486f-85b3-686e4253b8fb?ingress=amzn&ref_=SM_HalloweenStoriesHorrorMovieCE_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 4,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2025-12-31T21:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -70,7 +56,63 @@
     "endDate": ""
   },
   {
-    "adImp": 2,
+    "adImp": 4,
+    "title": " Fallout 3: Game of the Year Edition",
+    "image": "https://m.media-amazon.com/images/I/61+Mfz9OcVL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/fallout-3-game-of-the-year-edition-gog/dp/amzn1.pg.item.91c2b55b-e883-4bf7-8815-08f486d7ca35?ingress=amzn&ref_=SM_Fallout3GameoftheYearEdition_S02_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 5,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2025-11-26T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 5,
+    "title": "True Fear: Forsaken Souls Part 2",
+    "image": "https://m.media-amazon.com/images/I/71mPB80BLPL._FMwebp_.jpg",
+    "url": "http://luna.amazon.com/claims/true-fear-forsaken-souls-part-2-gog/dp/amzn1.pg.item.36a308e9-6a4d-42a0-8f56-120492381506?ingress=amzn&ref_=SM_TrueFearForsakenSoulsPart2_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 3,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2025-11-26T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 6,
+    "title": "Hellslave",
+    "image": "https://m.media-amazon.com/images/I/61W5rMFeslL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/hellslave-gog/dp/amzn1.pg.item.a7fa52c8-634e-4e62-8c47-426c4a50e657?ingress=amzn&ref_=SM_Hellslave_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 3,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2025-11-26T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Lost & Found Agency - CE",
+    "image": "https://m.media-amazon.com/images/I/61XKBJwqOaL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/lost-and-found-agency-ce-legacy/dp/amzn1.pg.item.c42c9729-d0b8-4462-97bd-f5acd3993964?ingress=amzn&ref_=SM_LostFoundAgencyCE_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 5,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2025-11-26T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": "Fallout: New Vegas Ultimate Edition",
     "image": "https://m.media-amazon.com/images/I/71fbtHV65iL._FMwebp_.jpg",
     "url": "https://gaming.amazon.com/fallout-new-vegas-ultimate-edition-gog/dp/amzn1.pg.item.8b24f09c-6cef-41d7-9a68-21f275c1c110?ingress=amzn&ref_=SM_FalloutNewVegasUltimateEdition_S02_FGWP_CRWN",
@@ -84,7 +126,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 1,
     "title": "True Fear: Forsaken Souls Part 1",
     "image": "https://m.media-amazon.com/images/I/71-B3BYkiaL._FMwebp_.jpg",
     "url": "https://gaming.amazon.com/true-fear-forsaken-souls-part-1-gog/dp/amzn1.pg.item.be9cd055-7bed-472e-a209-2c3eea9c5115?ingress=amzn&ref_=SM_TrueFearForsakenSoulsPart1_S01_FGWP_CRWN",
@@ -112,7 +154,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 3,
     "title": "XCOM 2",
     "image": "https://m.media-amazon.com/images/I/611zGKzMA1L._FMwebp_.jpg",
     "url": "https://gaming.amazon.com/xcom-2-gog/dp/amzn1.pg.item.13e05c49-cb97-43b3-82c2-0fab0271a873?ingress=amzn&ref_=SM_XCOM2_S01_FGWP_CRWN",
@@ -126,7 +168,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 4,
     "title": "Vampire: The Masquerade - Reckoning of New York",
     "image": "https://m.media-amazon.com/images/I/61xa-E1IRhL._FMwebp_.jpg",
     "url": "https://gaming.amazon.com/vampire-the-masquerade-reckoning-of-new-york-epic/dp/amzn1.pg.item.2dd336c0-5141-4740-91d5-40990b19ebcc?ingress=amzn&ref_=SM_VampireTheMasqueradeReckoningofNewYork_S01_FGWP_CRWN",
@@ -140,7 +182,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 5,
     "title": "Tormented Souls",
     "image": "https://m.media-amazon.com/images/I/71Zu90yxN4L._FMwebp_.jpg",
     "url": "https://gaming.amazon.com/tormented-souls-aga/dp/amzn1.pg.item.11649f66-25ae-443a-a472-15f4a6d7180b?ingress=amzn&ref_=SM_TormentedSouls_S01_FGWP_CRWN",
@@ -154,7 +196,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 6,
     "title": "DragonStrike",
     "image": "https://m.media-amazon.com/images/I/71U10hmyC7L._FMwebp_.jpg",
     "url": "https://gaming.amazon.com/dragonstrike-gog/dp/amzn1.pg.item.0aa4e118-1a0f-435f-a1e6-5cb1370161e4?ingress=amzn&ref_=SM_DragonStrike_S01_FGWP_CRWN",
@@ -168,7 +210,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 11,
     "title": "Pixel Cafe",
     "image": "https://m.media-amazon.com/images/I/71XvjlB+tWL._FMwebp_.jpg",
     "url": "https://gaming.amazon.com/pixel-cafe-aga/dp/amzn1.pg.item.22e8a5b7-6e9c-4809-9c6a-1d7d711fdb9e?ingress=amzn&ref_=SM_PixelCafe_S01_FGWP_CRWN",
@@ -182,7 +224,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 1,
     "title": "Mystical Riddles: Ghostly Park - CE",
     "image": "https://m.media-amazon.com/images/I/61HOdxhoH3L._FMwebp_.jpg",
     "url": "https://gaming.amazon.com/mystical-riddles-ghostly-park-ce-legacy/dp/amzn1.pg.item.cc1e7972-dccc-4778-b2e2-96e91126da35?ingress=amzn&ref_=SM_MysticalRiddlesGhostlyParkCE_S01_FGWP_CRWN",
@@ -210,7 +252,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 3,
     "title": "FATE: The Cursed King",
     "image": "https://m.media-amazon.com/images/I/61GfvG315yL._FMwebp_.jpg",
     "url": "https://gaming.amazon.com/fate-the-cursed-king-gog/dp/amzn1.pg.item.d2b5ccef-a10d-4db3-abd9-de6620c11970?ingress=amzn&ref_=SM_FATETheCursedKing_S01_FGWP_CRWN",
@@ -224,7 +266,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 4,
     "title": "Afterimage",
     "image": "https://m.media-amazon.com/images/I/71Osjcb4v5L._FMwebp_.jpg",
     "url": "https://gaming.amazon.com/afterimage-aga/dp/amzn1.pg.item.f18930ba-9433-4248-b54a-83086669219e?ingress=amzn&ref_=SM_Afterimage_S01_FGWP_CRWN",
@@ -238,7 +280,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 5,
     "title": " Subterrain: Mines of Titan",
     "image": "https://m.media-amazon.com/images/I/61PXjfBR6rL._FMwebp_.jpg",
     "url": "https://gaming.amazon.com/subterrain-mines-of-titan-aga/dp/amzn1.pg.item.b1a16e26-3fac-422c-a625-6be6b7fbcdf6?ingress=amzn&ref_=SM_SubterrainMinesofTitan_S01_FGWP_CRWN",
@@ -252,7 +294,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 6,
     "title": "Tower of Time",
     "image": "https://m.media-amazon.com/images/I/61JDJJ-v4fL._FMwebp_.jpg",
     "url": "https://gaming.amazon.com/tower-of-time-gog/dp/amzn1.pg.item.6b0bdd09-4364-43e9-a4db-01d798eed2f8?ingress=amzn&ref_=SM_TowerofTime_S01_FGWP_CRWN",
