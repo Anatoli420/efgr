@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 11,
+    "title": "Stasis",
+    "image": "https://images.gog-statics.com/2470f1b7f6a94b35303ee395e859a00954790bea38049423c06f201979166852_giveaway_465w_2x.webp",
+    "url": "https://www.gog.com/en/game/stasis",
+    "price": 15,
+    "store": "GoG",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-12-19T17:00:00.000Z",
+    "endDate": "2025-05-29T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Jump",
     "image": "https://d2x8kymwjom7h7.cloudfront.net/live/application_no/119001/images/indie-studio-v3/1_1746901200575.webp",
@@ -42,7 +56,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 2,
     "title": "Space Pilgrim Episode III: Delta Pavonis",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/439250/header.jpg?t=1761688907",
     "url": "https://store.steampowered.com/app/439250/Space_Pilgrim_Episode_III_Delta_Pavonis/",
@@ -56,7 +70,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 2,
     "title": "The Texas Chain Saw Massacre - Rush Week - Halloween Outfit Pack",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3266380/header.jpg?t=1760475734",
     "url": "https://store.steampowered.com/app/3266380/The_Texas_Chain_Saw_Massacre__Rush_Week__Halloween_Outfit_Pack/",
@@ -70,7 +84,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 3,
     "title": "The Texas Chain Saw Massacre - Slaughter Family Bloody Skins Pack",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2627220/header.jpg?t=1761585868",
     "url": "https://store.steampowered.com/app/2627220/The_Texas_Chain_Saw_Massacre__Slaughter_Family_Bloody_Skins_Pack/",
@@ -84,7 +98,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 3,
     "title": "Simon the Sorcerer Origins - \"PONY\" DLC",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2677810/0d3803ec81719f6ea659b8fb70a16391cec2af09/header.jpg?t=1761606061",
     "url": "https://store.steampowered.com/app/2677810/Simon_the_Sorcerer_Origins__PONY_DLC/",
@@ -98,7 +112,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 4,
     "title": "Mysterious House",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/62c65ee3-66a0-4d23-92dd-1a5162208eb7/prodmain/1761410316.png",
     "url": "https://freebies.indiegala.com/mysterious-house",
@@ -112,7 +126,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 4,
     "title": "Last Room",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/f48e776f-acb0-4e07-b6f7-a3a43cc6c8a8/prodmain/1761152904.png",
     "url": "https://freebies.indiegala.com/last-room",
@@ -126,7 +140,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 5,
     "title": "Immersive Storylines Game Festival — Claim your free point shop",
     "image": "https://clan.fastly.steamstatic.com/images/39769908/5e7ce1ad771a083fa65ecab7e64d12c3b14b4db2.jpg",
     "url": "https://store.steampowered.com/points/shop/app/4101120",
@@ -181,7 +195,21 @@
     "endDate": "2050-01-01T15:00:00.000Z"
   },
   {
-    "adImp": 1,
+    "id": "//?SUB SCREEN////",
+    "adImp": null,
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "title": "RATEUS",
+    "store": "",
+    "price": 0,
+    "date": "??-08-2022",
+    "status": 1,
+    "startDate": "",
+    "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 5,
     "title": "Best Plumber",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a6a962b2-96af-4696-9a44-fdb596d1eeb4/prodmain/1760792376.png",
     "url": "https://freebies.indiegala.com/best-plumber",
@@ -195,7 +223,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 6,
     "title": "Battle Ram",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/25bb9ba0-56e4-4c68-92b1-55bf43db7a52/prodmain/1760533443.png",
     "url": "https://freebies.indiegala.com/battle-ram",
@@ -209,7 +237,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 6,
     "title": "Sausage Hunter",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/e2e061d5-7344-4c7d-b5d4-1f0261a70619/prodmain/1760155959.png",
     "url": "https://freebies.indiegala.com/sausage-hunter",
@@ -223,7 +251,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 6,
     "title": "Leaper",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a1db8f5b-f9c3-4004-84fc-ce90d0bb5872/prodmain/1759920499.png",
     "url": "https://freebies.indiegala.com/leaper",
@@ -277,20 +305,6 @@
     "endDate": "2025-12-30T15:00:00.001Z",
     "date": "",
     "id": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "adImp": null,
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "title": "RATEUS",
-    "store": "",
-    "price": 0,
-    "date": "??-08-2022",
-    "status": 1,
-    "startDate": "",
-    "endDate": "2050-01-01T15:00:00.000Z"
   },
   {
     "adImp": 1,
