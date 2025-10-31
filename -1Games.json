@@ -6,10 +6,10 @@
     "url": "https://www.gog.com/en/game/stasis",
     "price": 8,
     "store": "GoG",
-    "status": 2,
-    "horizontal": true,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
     "startDate": "2024-12-19T17:00:00.000Z",
-    "endDate": "2025-05-29T16:00:00.000Z",
+    "endDate": "2025-11-03T13:00:00.000Z",
     "date": "",
     "id": ""
   },
