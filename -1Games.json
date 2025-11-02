@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 4,
+    "title": "My Darkest Witch",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/9303ce41-bad2-40e2-8b3f-728d85fcb2dc/prodmain/1761983673.png",
+    "url": "https://freebies.indiegala.com/my-darkest-witch",
+    "store": "IndieGala",
+    "price": 5,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "RETURN",
     "image": "https://d2x8kymwjom7h7.cloudfront.net/live/application_no/119001/images/indie-studio-v3/Return.webp",
