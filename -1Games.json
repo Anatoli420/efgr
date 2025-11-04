@@ -237,20 +237,6 @@
     "id": ""
   },
   {
-    "adImp": 1,
-    "title": "Ward Zero",
-    "image": "https://dbimg.ariochpds.cc/wardzero.webp",
-    "url": "https://zachariah69.itch.io/ward-zero",
-    "store": "itch.io",
-    "price": 2,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "endDate": "2025-07-24T10:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 5,
     "title": "Arena Breakout: Infinite 300k Koen In-Game Currency Key Giveaway",
     "image": "https://media.alienwarearena.com/media/f21a986c932c27ef3cbbb82d64967137.jpg?fit=crop&width=720&height=405&quality=75",
@@ -610,6 +596,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 1,
+    "title": "Ward Zero",
+    "image": "https://dbimg.ariochpds.cc/wardzero.webp",
+    "url": "https://zachariah69.itch.io/ward-zero",
+    "store": "itch.io",
+    "price": 2,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2025-07-24T10:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 1,
