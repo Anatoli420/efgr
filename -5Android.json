@@ -741,20 +741,6 @@
   },
   {
     "id": "",
-    "adImp": 3,
-    "title": "",
-    "image": "",
-    "url": "",
-    "store": "Google Play",
-    "price": 5,
-    "horizontal": true,
-    "status": 2,
-    "startDate": "2024-01-01T06:00:00.000Z",
-    "endDate": "2025-12-12T06:00:00.001Z",
-    "date": ""
-  },
-  {
-    "id": "",
     "adImp": 1,
     "title": "Strange Horticulture",
     "image": "https://cdn1.epicgames.com/spt-assets/d182b6573834457497e411f3bd22c1a3/strange-horticulture-1pfex.png?resize=1&w=480&h=270&quality=medium",
