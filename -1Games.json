@@ -111,6 +111,20 @@
     "id": ""
   },
   {
+    "adImp": 3,
+    "title": "Songs of Silence",
+    "image": "https://cdn1.epicgames.com/spt-assets/717e784a701e49bba02e27f7774e966a/songs-of-silence-1g5aw.jpg?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/songs-of-silence-778d86",
+    "price": 30,
+    "store": "Epic Games",
+    "status": 3,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-11-13T15:00:00.000Z",
+    "endDate": "2025-11-20T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "id": "//?SUB SCREEN////",
     "adImp": null,
     "horizontal": false,
