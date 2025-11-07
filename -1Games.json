@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 3,
+    "title": "OneShift",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/862740/header.jpg?t=1762433498",
+    "url": "https://store.steampowered.com/app/862740/OneShift/",
+    "store": "Steam",
+    "price": 5,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-11-10T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "Felix The Reaper",
     "image": "https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-w5lqq.jpg?w=600&quality=high&resize=1",
