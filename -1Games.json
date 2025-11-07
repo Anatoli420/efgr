@@ -84,34 +84,6 @@
     "id": ""
   },
   {
-    "adImp": 11,
-    "title": "FIve Nights at Freddy's: Into the Pit",
-    "image": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-1ng0s.png?resize=1&w=854&h=480&quality=medium",
-    "url": "https://store.epicgames.com/p/five-nights-at-freddys-into-the-pit-99c563",
-    "price": 20,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-10-30T15:00:00.000Z",
-    "endDate": "2025-11-06T15:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 11,
-    "title": "Bendy and the Ink Machine",
-    "image": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1e8cj.png?resize=1&w=854&h=480&quality=medium",
-    "url": "https://store.epicgames.com/p/bendy-and-the-ink-machine-60cf5a",
-    "price": 20,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-10-30T15:00:00.000Z",
-    "endDate": "2025-11-06T15:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "horizontal": "slider",
     "adImp": null,
     "title": "SLIDER",
@@ -624,6 +596,34 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 11,
+    "title": "FIve Nights at Freddy's: Into the Pit",
+    "image": "https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-1ng0s.png?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/five-nights-at-freddys-into-the-pit-99c563",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-10-30T15:00:00.000Z",
+    "endDate": "2025-11-06T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Bendy and the Ink Machine",
+    "image": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1e8cj.png?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/bendy-and-the-ink-machine-60cf5a",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-10-30T15:00:00.000Z",
+    "endDate": "2025-11-06T15:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 2,
