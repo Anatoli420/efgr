@@ -57,20 +57,6 @@
   },
   {
     "adImp": 1,
-    "title": "Super Panda Adventures — [Steam Key]",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/311190/header.jpg?t=1667029684",
-    "url": "https://www.fanatical.com/en/game/super-panda-adventures",
-    "store": "Fanatical",
-    "price": 5,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-02-01T16:00:00.000Z",
-    "endDate": "2025-08-13T23:59:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 1,
     "title": "BFF or Die",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/652360/header.jpg?t=1758125357",
     "url": "https://asa-studio.itch.io/bff-or-die",
@@ -638,6 +624,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 1,
+    "title": "Super Panda Adventures — [Steam Key]",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/311190/header.jpg?t=1667029684",
+    "url": "https://www.fanatical.com/en/game/super-panda-adventures",
+    "store": "Fanatical",
+    "price": 5,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-02-01T16:00:00.000Z",
+    "endDate": "2025-08-13T23:59:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
