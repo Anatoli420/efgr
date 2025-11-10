@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 1,
+    "title": "Undercroft warriors",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2547140/header.jpg?t=1739118061",
+    "url": "https://fuzzystudios.itch.io/undercroft-warriors",
+    "store": "itch.io",
+    "price": 3,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2025-07-24T10:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 4,
     "title": "Halt",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a101896c-c874-46f5-8cec-908dadf93e57/prodmain/1762584791.png",
@@ -38,20 +52,6 @@
     "horizontal": true,
     "startDate": "2024-12-22T17:30:00.000Z",
     "endDate": "2025-12-30T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 2,
-    "title": "Bulb Boy",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390290/header.jpg?t=1762291079",
-    "url": "https://store.steampowered.com/app/390290/Bulb_Boy/",
-    "store": "Steam",
-    "price": 9,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-12-19T20:30:00.000Z",
-    "endDate": "2025-11-09T17:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -108,20 +108,6 @@
     "horizontal": true,
     "startDate": "2024-12-22T17:30:00.000Z",
     "endDate": "2025-12-30T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 1,
-    "title": "RETURN",
-    "image": "https://d2x8kymwjom7h7.cloudfront.net/live/application_no/119001/images/indie-studio-v3/Return.webp",
-    "url": "https://store.onstove.com/games/100605",
-    "price": 3,
-    "store": "Stove",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-08-14T15:00:00.000Z",
-    "endDate": "2025-11-09T14:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -193,20 +179,6 @@
     "status": 1,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
-  },
-  {
-    "adImp": 1,
-    "title": "Jump",
-    "image": "https://d2x8kymwjom7h7.cloudfront.net/live/application_no/119001/images/indie-studio-v3/1_1746901200575.webp",
-    "url": "https://store.onstove.com/en/games/101151",
-    "price": 1,
-    "store": "Stove",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-08-14T15:00:00.000Z",
-    "endDate": "2025-11-09T14:00:00.000Z",
-    "date": "",
-    "id": ""
   },
   {
     "adImp": 3,
@@ -652,6 +624,48 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 2,
+    "title": "Bulb Boy",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390290/header.jpg?t=1762291079",
+    "url": "https://store.steampowered.com/app/390290/Bulb_Boy/",
+    "store": "Steam",
+    "price": 9,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-12-19T20:30:00.000Z",
+    "endDate": "2025-11-09T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "RETURN",
+    "image": "https://d2x8kymwjom7h7.cloudfront.net/live/application_no/119001/images/indie-studio-v3/Return.webp",
+    "url": "https://store.onstove.com/games/100605",
+    "price": 3,
+    "store": "Stove",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-08-14T15:00:00.000Z",
+    "endDate": "2025-11-09T14:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Jump",
+    "image": "https://d2x8kymwjom7h7.cloudfront.net/live/application_no/119001/images/indie-studio-v3/1_1746901200575.webp",
+    "url": "https://store.onstove.com/en/games/101151",
+    "price": 1,
+    "store": "Stove",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-08-14T15:00:00.000Z",
+    "endDate": "2025-11-09T14:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 1,
