@@ -1,20 +1,6 @@
 [
   {
     "id": "",
-    "title": "Dead God Land - Light Survival",
-    "image": "https://play-lh.googleusercontent.com/JTkxeQiipUGuuGvhCTGqcoLIJbWZ_bMRWEgfiSjM5oc1PSGir6oDm-WCmC3lIhUA27P6=s960-rw",
-    "url": "http://play.google.com/store/apps/details?id=com.devvisiongames.dglandlight.survival",
-    "store": "Google Play",
-    "price": 8,
-    "date": "",
-    "adImp": 4,
-    "horizontal": "fechasProgramadas",
-    "status": 1,
-    "startDate": "2024-01-01T06:00:00.000Z",
-    "endDate": "2099-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "",
     "adImp": 11,
     "title": "Bendy and the Ink Machine",
     "image": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1yjc1.png?resize=1&w=480&h=270&quality=medium",
@@ -486,6 +472,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "title": "Dead God Land - Light Survival",
+    "image": "https://play-lh.googleusercontent.com/JTkxeQiipUGuuGvhCTGqcoLIJbWZ_bMRWEgfiSjM5oc1PSGir6oDm-WCmC3lIhUA27P6=s960-rw",
+    "url": "http://play.google.com/store/apps/details?id=com.devvisiongames.dglandlight.survival",
+    "store": "Google Play",
+    "price": 8,
+    "date": "",
+    "adImp": 4,
+    "horizontal": true,
+    "status": 2,
+    "startDate": "2024-01-01T06:00:00.000Z",
+    "endDate": "2099-01-01T06:00:00.001Z"
   },
   {
     "id": "",
