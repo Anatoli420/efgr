@@ -181,6 +181,20 @@
     "id": ""
   },
   {
+    "adImp": 3,
+    "title": "Zero Hour",
+    "image": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-16cus.png?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/zero-hour-8449a0",
+    "price": 10,
+    "store": "Epic Games",
+    "status": 3,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-11-13T15:00:00.000Z",
+    "endDate": "2025-11-20T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "id": "//?SUB SCREEN////",
     "adImp": null,
     "horizontal": false,
