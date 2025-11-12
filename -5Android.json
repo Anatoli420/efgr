@@ -1,34 +1,6 @@
 [
   {
     "id": "",
-    "title": "Dungeon Princess : RPG",
-    "image": "https://play-lh.googleusercontent.com/q5N3XqzGJBfxIGe4e5sc9sbsgXfIUekYy7jro8l6VmEmIG3A7egS_oS-izVE7ta-S5Y=s960-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.ssicosm.dungeon_princess",
-    "store": "Google Play",
-    "price": 5,
-    "date": "",
-    "adImp": 4,
-    "horizontal": "fechasProgramadas",
-    "status": 1,
-    "startDate": "2024-01-01T06:00:00.000Z",
-    "endDate": "2099-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "",
-    "title": "Dungeon Princess 2 : RPG",
-    "image": "https://play-lh.googleusercontent.com/we6-Kg4rfcu_JAi4tI1ps1-jaRogznKzq3cLzR_Pl1zC3Z9W95WWcfVbhbM-E-qX593E=s960-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.ssicosm.dungeon_princess_2",
-    "store": "Google Play",
-    "price": 5,
-    "date": "",
-    "adImp": 1,
-    "horizontal": "fechasProgramadas",
-    "status": 1,
-    "startDate": "2024-01-01T06:00:00.000Z",
-    "endDate": "2099-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "",
     "adImp": 11,
     "title": "Bendy and the Ink Machine",
     "image": "https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1yjc1.png?resize=1&w=480&h=270&quality=medium",
@@ -500,6 +472,34 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "title": "Dungeon Princess : RPG",
+    "image": "https://play-lh.googleusercontent.com/q5N3XqzGJBfxIGe4e5sc9sbsgXfIUekYy7jro8l6VmEmIG3A7egS_oS-izVE7ta-S5Y=s960-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.ssicosm.dungeon_princess",
+    "store": "Google Play",
+    "price": 5,
+    "date": "",
+    "adImp": 4,
+    "horizontal": true,
+    "status": 2,
+    "startDate": "2024-01-01T06:00:00.000Z",
+    "endDate": "2099-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "title": "Dungeon Princess 2 : RPG",
+    "image": "https://play-lh.googleusercontent.com/we6-Kg4rfcu_JAi4tI1ps1-jaRogznKzq3cLzR_Pl1zC3Z9W95WWcfVbhbM-E-qX593E=s960-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.ssicosm.dungeon_princess_2",
+    "store": "Google Play",
+    "price": 5,
+    "date": "",
+    "adImp": 1,
+    "horizontal": true,
+    "status": 2,
+    "startDate": "2024-01-01T06:00:00.000Z",
+    "endDate": "2099-01-01T06:00:00.001Z"
   },
   {
     "id": "",
