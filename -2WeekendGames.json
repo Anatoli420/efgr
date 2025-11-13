@@ -1,76 +1,34 @@
 [
   {
-    "adImp": 2,
-    "title": "Kingdom Come: Deliverance II",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1771300/0101ee56ada8a294071a8dbb36db44070cd6b50b/header_alt_assets_4.jpg?t=1761570094",
-    "url": "https://store.steampowered.com/app/1771300/Kingdom_Come_Deliverance_II/",
+    "adImp": 1,
+    "title": "King of Meat",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926980/c8b8a03db8605f0c12726509987dd1210c73a3fd/header.jpg?t=1761976858",
+    "url": "https://store.steampowered.com/app/1926980/King_of_Meat/",
     "store": "Steam",
-    "price": 60,
+    "price": 8,
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2025-01-01T16:00:00.000Z",
-    "endDate": "2025-11-10T16:00:00.000Z",
+    "endDate": "2025-11-17T16:00:00.000Z",
     "date": "",
     "id": ""
   },
   {
     "adImp": 2,
-    "title": "Cities: Skylines II",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg?t=1762452015",
-    "url": "https://store.steampowered.com/app/949230/Cities_Skylines_II/",
-    "store": "Steam",
-    "price": 40,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-01-01T16:00:00.000Z",
-    "endDate": "2025-11-10T16:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 2,
-    "title": "Legion TD 2 - Multiplayer Tower Defense",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/469600/header.jpg?t=1755808916",
-    "url": "https://store.steampowered.com/app/469600/Legion_TD_2__Multiplayer_Tower_Defense/",
+    "title": "Age of Wonders 4",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/6661411cd54de884066d2d578597f24dae40d5d0/header_alt_assets_9.jpg?t=1763056901",
+    "url": "https://store.steampowered.com/app/1669000/Age_of_Wonders_4/",
     "store": "Steam",
     "price": 25,
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2025-01-01T16:00:00.000Z",
-    "endDate": "2025-11-10T16:00:00.000Z",
+    "endDate": "2025-11-17T16:00:00.000Z",
     "date": "",
     "id": ""
   },
   {
-    "adImp": 2,
-    "title": "Wartales",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1527950/header.jpg?t=1762261437",
-    "url": "https://store.steampowered.com/app/1527950/Wartales/",
-    "store": "Steam",
-    "price": 35,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-01-01T16:00:00.000Z",
-    "endDate": "2025-11-10T16:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 2,
-    "title": "The Falconeer",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1135260/bb2be61f494965384b905307cc4803f56a1528df/header.jpg?t=1762424064",
-    "url": "https://store.steampowered.com/app/1135260/The_Falconeer/",
-    "store": "Steam",
-    "price": 20,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-01-01T16:00:00.000Z",
-    "endDate": "2025-11-10T16:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 2,
+    "adImp": 3,
     "title": "Heart Electric Playtest Key Giveaway",
     "image": "https://media.alienwarearena.com/media/583525acbd916e5f59720158b4aa9fc8.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://www.alienwarearena.com/ucf/show/2173080/boards/contest-and-giveaways-global/Giveaway/heart-electric-playtest-key-giveaway",
@@ -84,7 +42,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 4,
     "title": "Fractured Worlds Steam Playtest Key Giveaway",
     "image": "https://media.alienwarearena.com/media/26890826b6eb29495c5712ef1605abdd.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://www.alienwarearena.com/ucf/show/2172918/boards/contest-and-giveaways-global/Giveaway/fractured-worlds-steam-playtest-key-giveaway",
@@ -139,7 +97,77 @@
     "endDate": ""
   },
   {
+    "adImp": 1,
+    "title": "Kingdom Come: Deliverance II",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1771300/0101ee56ada8a294071a8dbb36db44070cd6b50b/header_alt_assets_4.jpg?t=1761570094",
+    "url": "https://store.steampowered.com/app/1771300/Kingdom_Come_Deliverance_II/",
+    "store": "Steam",
+    "price": 60,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2025-11-10T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 2,
+    "title": "Cities: Skylines II",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg?t=1762452015",
+    "url": "https://store.steampowered.com/app/949230/Cities_Skylines_II/",
+    "store": "Steam",
+    "price": 40,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2025-11-10T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Legion TD 2 - Multiplayer Tower Defense",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/469600/header.jpg?t=1755808916",
+    "url": "https://store.steampowered.com/app/469600/Legion_TD_2__Multiplayer_Tower_Defense/",
+    "store": "Steam",
+    "price": 25,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2025-11-10T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Wartales",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1527950/header.jpg?t=1762261437",
+    "url": "https://store.steampowered.com/app/1527950/Wartales/",
+    "store": "Steam",
+    "price": 35,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2025-11-10T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "The Falconeer",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1135260/bb2be61f494965384b905307cc4803f56a1528df/header.jpg?t=1762424064",
+    "url": "https://store.steampowered.com/app/1135260/The_Falconeer/",
+    "store": "Steam",
+    "price": 20,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2025-11-10T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
     "title": "R.E.P.O.",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3241660/7706f51d3de55364a99edfe0bcf7cbf458c79546/header_alt_assets_1.jpg?t=1761830781",
     "url": "https://store.steampowered.com/app/3241660/REPO/",
@@ -153,7 +181,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 1,
     "title": "Crusader Kings III",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158310/header.jpg?t=1761742926",
     "url": "https://store.steampowered.com/app/1158310/Crusader_Kings_III/",
@@ -167,7 +195,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 1,
     "title": "Gunfire Reborn",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1217060/e0f4fcf46752b6f4819b0d9b2db54d193a313d7c/header.jpg?t=1761208488",
     "url": "https://store.steampowered.com/app/1217060/Gunfire_Reborn/",
@@ -181,7 +209,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 1,
     "title": "Legacy: Steel & Sorcery",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344320/header.jpg?t=1759784871",
     "url": "https://store.steampowered.com/app/2344320/Legacy_Steel__Sorcery/",
@@ -195,7 +223,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 4,
     "title": "F1® 25",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3059520/37f833ca5bd3d5c3eec2b411131f3e00f580bbe7/header.jpg?t=1760633810",
     "url": "https://store.steampowered.com/app/3059520/F1_25/",
@@ -209,7 +237,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 4,
     "title": "MORDHAU",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/629760/header.jpg?t=1760646918",
     "url": "https://store.steampowered.com/app/629760/MORDHAU/",
@@ -223,7 +251,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 4,
     "title": "Call of Duty®: Black Ops 6",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933620/header.jpg?t=1760027717",
     "url": "https://store.steampowered.com/app/2933620/Call_of_Duty_Black_Ops_6/",
@@ -237,7 +265,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 4,
     "title": "Grounded 2",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/c324feb96157bbab35db1b760d5f085775657526/header.jpg?t=1758098480",
     "url": "https://store.steampowered.com/app/2661300/Grounded_2/",
@@ -251,7 +279,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 3,
     "title": "CarX Drift Racing Online",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/635260/a4b162ac248f69e5a3bf69670f63590587b9422e/header_alt_assets_7.jpg?t=1760027149",
     "url": "https://store.steampowered.com/app/635260/CarX_Drift_Racing_Online/",
@@ -265,7 +293,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 3,
     "title": "PowerWash Simulator",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/header.jpg?t=1756929451",
     "url": "https://store.steampowered.com/app/1290000/PowerWash_Simulator/",
@@ -307,7 +335,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 1,
     "title": "Call of Duty®: Black Ops 7 - Open Beta",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606480/bd2cf51bd6c31730f7758817cbbd03382729481c/header_alt_assets_2.jpg?t=1759683866",
     "url": "https://store.steampowered.com/app/3606480/Call_of_Duty_Black_Ops_7/",
@@ -321,7 +349,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 1,
     "title": "PGA TOUR 2K25",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/header.jpg?t=1758820618",
     "url": "https://store.steampowered.com/app/2385530/PGA_TOUR_2K25/",
@@ -335,7 +363,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 1,
     "title": "REMATCH",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/header.jpg?t=1758718518",
     "url": "https://store.steampowered.com/app/2138720/REMATCH/",
@@ -349,7 +377,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 1,
     "title": "Diablo® IV",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/80f21a42e378b93e8fbb68ee43103be8ab84891b/header.jpg?t=1758649357",
     "url": "http://store.steampowered.com/app/2344520/Diablo_IV/",
@@ -433,7 +461,7 @@
     "id": ""
   },
   {
-    "adImp": 2,
+    "adImp": 4,
     "title": "Void Crew",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1063420/bd1fb47077ae4b60e9e37f2ee3affef93d07817b/header_alt_assets_5.jpg?t=1756983299",
     "url": "https://store.steampowered.com/app/1063420/Void_Crew/",
