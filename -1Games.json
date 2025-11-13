@@ -1,6 +1,20 @@
 [
   {
     "adImp": 11,
+    "title": "Immortals Fenyx Rising - Standard Edition",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221920/header.jpg?t=1751969539",
+    "url": "https://store.ubisoft.com/en/immortals-fenyx-rising/5cec210a39798c0870c07684.html",
+    "price": 40,
+    "store": "Ubisoft Connect",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-11-13T15:00:00.000Z",
+    "endDate": "2025-12-02T10:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": "Zero Hour",
     "image": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-16cus.png?w=600&quality=high&resize=1",
     "url": "https://store.epicgames.com/p/zero-hour-8449a0",
