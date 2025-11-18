@@ -1,29 +1,15 @@
 [
   {
     "adImp": 1,
-    "title": "King of Meat",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926980/c8b8a03db8605f0c12726509987dd1210c73a3fd/header.jpg?t=1761976858",
-    "url": "https://store.steampowered.com/app/1926980/King_of_Meat/",
+    "title": "For The King II",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676840/874fa3ac1ef6d93c36ad9d4d9e9ce4254dd3cf49/header_alt_assets_8_spanish.jpg?t=1763404232",
+    "url": "https://store.steampowered.com/app/1676840/For_The_King_II/",
     "store": "Steam",
     "price": 8,
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2025-01-01T16:00:00.000Z",
-    "endDate": "2025-11-17T16:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 2,
-    "title": "Age of Wonders 4",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/6661411cd54de884066d2d578597f24dae40d5d0/header_alt_assets_9.jpg?t=1763056901",
-    "url": "https://store.steampowered.com/app/1669000/Age_of_Wonders_4/",
-    "store": "Steam",
-    "price": 25,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-01-01T16:00:00.000Z",
-    "endDate": "2025-11-17T16:00:00.000Z",
+    "endDate": "2025-11-24T16:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -81,6 +67,34 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": 1,
+    "title": "King of Meat",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926980/c8b8a03db8605f0c12726509987dd1210c73a3fd/header.jpg?t=1761976858",
+    "url": "https://store.steampowered.com/app/1926980/King_of_Meat/",
+    "store": "Steam",
+    "price": 8,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2025-11-17T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Age of Wonders 4",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/6661411cd54de884066d2d578597f24dae40d5d0/header_alt_assets_9.jpg?t=1763056901",
+    "url": "https://store.steampowered.com/app/1669000/Age_of_Wonders_4/",
+    "store": "Steam",
+    "price": 25,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2025-11-17T16:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 3,
