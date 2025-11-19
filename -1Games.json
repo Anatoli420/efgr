@@ -1,6 +1,20 @@
 [
   {
     "adImp": 5,
+    "title": "Wednesdays",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2747770/header.jpg?t=1761776859",
+    "url": "https://store.steampowered.com/app/2747770/Wednesdays/",
+    "store": "Steam",
+    "price": 10,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2025-11-21T20:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 5,
     "title": "NARAKA: BLADEPOINT Spectral Silk Game Pack Key Giveaway",
     "image": "https://media.alienwarearena.com/media/ff397f1e1a1a1d1a9811a60c59c2818f.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://www.alienwarearena.com/ucf/show/2173383/boards/contest-and-giveaways-global/Giveaway/naraka-bladepoint-spectral-silk-game-pack-key-giveaway",
