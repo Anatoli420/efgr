@@ -1,6 +1,48 @@
 [
   {
     "adImp": 1,
+    "title": "Goat Simulator 3",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850190/9c10bb6a9cbcc010cfe86b8ef1f60359a1d9bc59/header_alt_assets_5.jpg?t=1763562716",
+    "url": "https://store.steampowered.com/app/850190/Goat_Simulator_3/",
+    "store": "Steam",
+    "price": 12,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2025-11-24T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Wildgate",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3504780/a89d9562207098518d9e797eb2a3df9a46652559/header_alt_assets_7.jpg?t=1763575298",
+    "url": "https://store.steampowered.com/app/3504780/Wildgate/",
+    "store": "Steam",
+    "price": 30,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2025-11-24T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Hearts of Iron IV",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg?t=1763658927",
+    "url": "https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/",
+    "store": "Steam",
+    "price": 40,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2025-11-24T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "For The King II",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1676840/header.jpg?t=1763404232",
     "url": "https://store.steampowered.com/app/1676840/For_The_King_II/",
