@@ -1,6 +1,62 @@
 [
   {
     "adImp": 1,
+    "title": "PlateUp!",
+    "image": "https://m.media-amazon.com/images/I/61FZfviKgLL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/plateup-epic/dp/amzn1.pg.item.bc7135d4-6239-4a0f-bd01-6b97eae7d9ea?ingress=amzn&ref_=SM_PlateUp_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 10,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2025-12-24T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Dream Tactics",
+    "image": "https://m.media-amazon.com/images/I/71ZUg+3r17L._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/dream-tactics-gog/dp/amzn1.pg.item.f4ecdb00-436e-4380-b646-ac1cb04a2d17?ingress=amzn&ref_=SM_DreamTactics_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 10,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2025-12-24T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Dungeons & Dragons: Krynn Series",
+    "image": "https://m.media-amazon.com/images/I/71CS25dmbVL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/dungeons-dragons-krynn-series-gog/dp/amzn1.pg.item.3aefcf19-f3d9-44f6-b5a8-bc92b661726c?ingress=amzn&ref_=SM_DungeonsDragonsKrynnSeries_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 15,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2025-12-24T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "adImp": null,
+    "title": "RATEUS",
+    "store": "separador",
+    "price": 0,
+    "date": "??-08-2022",
+    "status": 1,
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "adImp": 1,
     "title": "Fallout 76 (PC)",
     "image": "https://m.media-amazon.com/images/I/6191GD9E0TL._FMwebp_.jpg",
     "url": "https://luna.amazon.com/claims/fallout-76-pc-microsoft/dp/amzn1.pg.item.c49f06ee-41f3-41cf-b719-0a4a6940b5d0?ingress=amzn&ref_=SM_Fallout76PC_S03_FGWP_CRWN",
@@ -54,20 +110,6 @@
     "endDate": "2026-01-14T21:00:00.000Z",
     "date": "",
     "id": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "adImp": null,
-    "title": "RATEUS",
-    "store": "separador",
-    "price": 0,
-    "date": "??-08-2022",
-    "status": 1,
-    "startDate": "",
-    "endDate": ""
   },
   {
     "adImp": 1,
