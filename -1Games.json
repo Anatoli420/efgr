@@ -14,20 +14,6 @@
     "id": ""
   },
   {
-    "adImp": 5,
-    "title": "Warhammer: Vermintide 2",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/5aa5889a95f982c0f7730d3936dc56f7c1a7d93c/header_alt_assets_25.jpg?t=1763748127",
-    "url": "https://store.steampowered.com/app/552500/Warhammer_Vermintide_2/",
-    "store": "Steam",
-    "price": 30,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-04-15T01:00:00.000Z",
-    "endDate": "2025-11-23T20:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 11,
     "title": "Zoeti",
     "image": "https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-1vjnz.jpg?w=600&quality=high&resize=1",
@@ -66,20 +52,6 @@
     "horizontal": true,
     "startDate": "2024-12-22T17:30:00.000Z",
     "endDate": "2025-12-30T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 5,
-    "title": "Wednesdays",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2747770/header.jpg?t=1761776859",
-    "url": "https://store.steampowered.com/app/2747770/Wednesdays/",
-    "store": "Steam",
-    "price": 10,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-04-15T01:00:00.000Z",
-    "endDate": "2025-11-21T20:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -624,6 +596,34 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 5,
+    "title": "Warhammer: Vermintide 2",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/5aa5889a95f982c0f7730d3936dc56f7c1a7d93c/header_alt_assets_25.jpg?t=1763748127",
+    "url": "https://store.steampowered.com/app/552500/Warhammer_Vermintide_2/",
+    "store": "Steam",
+    "price": 30,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2025-11-23T20:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 5,
+    "title": "Wednesdays",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2747770/header.jpg?t=1761776859",
+    "url": "https://store.steampowered.com/app/2747770/Wednesdays/",
+    "store": "Steam",
+    "price": 10,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2025-11-21T20:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 5,
