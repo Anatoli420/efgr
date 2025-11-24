@@ -85,20 +85,6 @@
   },
   {
     "adImp": 2,
-    "title": "Beneath Demo Key Giveaway",
-    "image": "https://media.alienwarearena.com/media/274a740557d0c5df6a6d489b758784c2.jpg?fit=crop&width=720&height=405&quality=75",
-    "url": "https://www.alienwarearena.com/ucf/show/2172818/boards/contest-and-giveaways-global/Giveaway/beneath-demo-key-giveaway",
-    "store": "Alienware Arena",
-    "price": 45,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2024-01-01T16:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 2,
     "title": "An Amazing Wizard: Prologue Early Access Key Giveaway",
     "image": "https://media.alienwarearena.com/media/49d26db95d77d933288eb4098117aeee.jpg?quality=75",
     "url": "https://www.alienwarearena.com/ucf/show/2171677/boards/contest-and-giveaways-global/Giveaway/an-amazing-wizard-prologue-early-access-key-giveaway",
@@ -123,6 +109,20 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Beneath Demo Key Giveaway",
+    "image": "https://media.alienwarearena.com/media/274a740557d0c5df6a6d489b758784c2.jpg?fit=crop&width=720&height=405&quality=75",
+    "url": "https://www.alienwarearena.com/ucf/show/2172818/boards/contest-and-giveaways-global/Giveaway/beneath-demo-key-giveaway",
+    "store": "Alienware Arena",
+    "price": 45,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2023-08-31T01:00:00.000Z",
+    "endDate": "2024-01-01T16:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 1,
