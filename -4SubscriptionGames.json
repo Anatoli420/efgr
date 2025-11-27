@@ -1,6 +1,48 @@
 [
   {
     "adImp": 1,
+    "title": "Gunslugs",
+    "image": "https://m.media-amazon.com/images/I/61lzlLo9JgL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/gunslugs-gog/dp/amzn1.pg.item.f7fe7089-eca7-4ebf-9ab2-45fd60f026ac?ingress=amzn&ref_=SM_Gunslugs_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 4,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-02-24T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Big Adventure: Trip to Europe 6 - CE",
+    "image": "https://m.media-amazon.com/images/I/71YxjzKzydL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/big-adventure-trip-to-europe-6-ce-legacy/dp/amzn1.pg.item.5823fdb8-2192-45f8-90af-ef446602b3b6?ingress=amzn&ref_=SM_BigAdventureTriptoEurope6CE_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 7,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2025-12-30T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "adImp": null,
+    "title": "RATEUS",
+    "store": "separador",
+    "price": 0,
+    "date": "??-08-2022",
+    "status": 1,
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "adImp": 1,
     "title": "PlateUp!",
     "image": "https://m.media-amazon.com/images/I/61FZfviKgLL._FMwebp_.jpg",
     "url": "https://luna.amazon.com/claims/plateup-epic/dp/amzn1.pg.item.bc7135d4-6239-4a0f-bd01-6b97eae7d9ea?ingress=amzn&ref_=SM_PlateUp_S01_FGWP_CRWN",
@@ -40,20 +82,6 @@
     "endDate": "2025-12-24T21:00:00.000Z",
     "date": "",
     "id": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "adImp": null,
-    "title": "RATEUS",
-    "store": "separador",
-    "price": 0,
-    "date": "??-08-2022",
-    "status": 1,
-    "startDate": "",
-    "endDate": ""
   },
   {
     "adImp": 1,
