@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 11,
+    "title": "The Darkside Detective",
+    "image": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-offer-1uv10.jpg?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/the-darkside-detective-02fd5a",
+    "price": 15,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-12-04T16:00:00.000Z",
+    "endDate": "2025-12-11T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Jackbox Party Pack 4",
+    "image": "https://cdn1.epicgames.com/offer/snowdrop/PP4_WideImage_2560x1440-af8d584f847d181c0831ad238cfc4076?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/jackbox-party-pack-4",
+    "price": 11,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-12-04T16:00:00.000Z",
+    "endDate": "2025-12-11T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Rose and Cross",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2975160/header.jpg?t=1738043226",
