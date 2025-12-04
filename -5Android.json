@@ -2,6 +2,20 @@
   {
     "id": "",
     "adImp": 11,
+    "title": "The Darkside Detective",
+    "image": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-130gy.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/the-darkside-detective-android-f088bb",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-12-04T15:00:00.000Z",
+    "endDate": "2025-12-11T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
+    "adImp": 11,
     "title": "Universe for Sale",
     "image": "https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-1eih3.jpg?resize=1&w=480&h=270&quality=medium",
     "url": "https://store.epicgames.com/p/universe-for-sale-android-43d88e",
