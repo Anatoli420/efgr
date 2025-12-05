@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 1,
+    "title": "World of Warships: Holiday Pack Giveaway",
+    "image": "https://www.mmobomb.com/file/2025/12/wow-giveaway.png",
+    "url": "https://www.mmobomb.com/giveaway/wow-holiday",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2025-12-04T16:00:00.000Z",
+    "endDate": "2099-12-11T16:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "The Darkside Detective",
     "image": "https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-offer-1uv10.jpg?resize=1&w=854&h=480&quality=medium",
