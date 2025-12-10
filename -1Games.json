@@ -1,6 +1,20 @@
 [
   {
     "adImp": 2,
+    "title": "Star Citizen - 13 Days of Luminalia Surprises",
+    "image": "https://dbimg.ariochpds.cc/image-2025-12-10T17-45-48-087Z.webp",
+    "url": "https://robertsspaceindustries.com/en/comm-link/transmission/20916-Luminalia-2955",
+    "store": "RSI",
+    "price": 5,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-22T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
     "title": "Die Young",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/4e318d89-4845-41bb-9481-8a81f062ad0a/prodmain/1638544486.png",
     "url": "https://freebies.indiegala.com/die-young",
