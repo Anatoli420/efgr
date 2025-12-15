@@ -1,15 +1,15 @@
 [
   {
-    "adImp": 3,
-    "title": "Just Ignore Them",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/561770/header.jpg?t=1765569531",
-    "url": "https://store.steampowered.com/app/561770/Just_Ignore_Them/",
+    "adImp": 2,
+    "title": "One Gun Guy",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200580/header.jpg?t=1765221829",
+    "url": "https://store.steampowered.com/app/1200580/One_Gun_Guy/",
     "store": "Steam",
-    "price": 4,
+    "price": 5,
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2024-04-15T01:00:00.000Z",
-    "endDate": "2025-12-15T18:00:00.000Z",
+    "endDate": "2025-12-18T18:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -764,6 +764,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 3,
+    "title": "Just Ignore Them",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/561770/header.jpg?t=1765569531",
+    "url": "https://store.steampowered.com/app/561770/Just_Ignore_Them/",
+    "store": "Steam",
+    "price": 4,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2025-12-15T18:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
