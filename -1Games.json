@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 2,
+    "title": "Wild Terra 2: New Lands",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1134700/07763518d7a4ca5cd3ca53a670f955b90efeb333/header_alt_assets_5.jpg?t=1765908364",
+    "url": "https://store.steampowered.com/app/1134700/Wild_Terra_2_New_Lands/",
+    "store": "Steam",
+    "price": 40,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2025-12-18T18:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "ART OF FIGHTING 2",
     "image": "https://dbimg.ariochpds.cc/ART%20OF%20FIGHTING%202.webp",
