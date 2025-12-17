@@ -1,15 +1,15 @@
 [
   {
     "adImp": 1,
-    "title": "Path of Exile 2 - The Last Of Druids ",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/c7b0f1d2bb3df3808b65eb3f697ef42f475e547e/header_alt_assets_5.jpg?t=1765515540",
-    "url": "https://store.steampowered.com/app/2694490/Path_of_Exile_2/",
+    "title": "Call of Duty®: Black Ops 7 - Multiplayer and Zombies",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3606480/d7041a15f572f7702d5f4bc97e498cd3e1cc62e2/header.jpg?t=1765921873",
+    "url": "https://store.steampowered.com/app/3606480/Call_of_Duty_Black_Ops_7/",
     "store": "Steam",
-    "price": 10,
+    "price": 49,
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2025-01-01T16:00:00.000Z",
-    "endDate": "2025-12-15T18:00:00.000Z",
+    "endDate": "2025-12-22T18:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -67,6 +67,20 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Path of Exile 2 - The Last Of Druids ",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/c7b0f1d2bb3df3808b65eb3f697ef42f475e547e/header_alt_assets_5.jpg?t=1765515540",
+    "url": "https://store.steampowered.com/app/2694490/Path_of_Exile_2/",
+    "store": "Steam",
+    "price": 10,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2025-12-15T18:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 2,
