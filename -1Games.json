@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 11,
+    "title": "Jotunnslayer: Hordes of Hel",
+    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec18_giveaway_2560x1440_2560x1440-f1850c822d1f4eec98d5664debd8f0e3?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/jotunnslayer-hordes-of-hel-3579b3",
+    "price": 60,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-12-18T16:00:00.000Z",
+    "endDate": "2025-12-19T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 5,
     "title": "Warframe Exclusive Game Pack Key Giveaway",
     "image": "https://media.alienwarearena.com/media/1ef665f5b1d80d439d248a7588c9d075.jpg?fit=crop&width=720&height=405&quality=75",
@@ -66,20 +80,6 @@
     "horizontal": "fechasProgramadas",
     "startDate": "2024-04-15T01:00:00.000Z",
     "endDate": "2025-12-18T18:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 11,
-    "title": "Hogwarts Legacy",
-    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec11_giveaway_2560x1440_2560x1440-ece5c5fb3e724cbdabf2d163ef4f34f9?resize=1&w=854&h=480&quality=medium",
-    "url": "https://store.epicgames.com/p/hogwarts-legacy",
-    "price": 60,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-12-04T16:00:00.000Z",
-    "endDate": "2025-12-18T16:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -764,6 +764,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 11,
+    "title": "Hogwarts Legacy",
+    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec11_giveaway_2560x1440_2560x1440-ece5c5fb3e724cbdabf2d163ef4f34f9?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/hogwarts-legacy",
+    "price": 60,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-12-04T16:00:00.000Z",
+    "endDate": "2025-12-18T16:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
