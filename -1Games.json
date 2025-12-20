@@ -28,20 +28,6 @@
     "id": ""
   },
   {
-    "adImp": 11,
-    "title": "Eternights",
-    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec19_giveaway_2560x1440_2560x1440-35f0694dabc74e52b717607909332c27?resize=1&w=854&h=480&quality=medium",
-    "url": "https://store.epicgames.com/p/eternights-c2fbca",
-    "price": 30,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-12-19T16:00:00.000Z",
-    "endDate": "2025-12-20T16:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 5,
     "title": "NARAKA: BLADEPOINT FEST Key Giveaway",
     "image": "https://media.alienwarearena.com/media/6f12e725197db6c56364693fa43ba41d.jpg?fit=crop&width=720&height=405&quality=75",
@@ -806,6 +792,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 11,
+    "title": "Eternights",
+    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec19_giveaway_2560x1440_2560x1440-35f0694dabc74e52b717607909332c27?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/eternights-c2fbca",
+    "price": 30,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-12-19T16:00:00.000Z",
+    "endDate": "2025-12-20T16:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 5,
