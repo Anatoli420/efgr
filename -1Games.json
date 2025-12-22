@@ -237,20 +237,6 @@
     "id": ""
   },
   {
-    "adImp": 3,
-    "title": "Star Citizen - 13 Days of Luminalia Surprises",
-    "image": "https://dbimg.ariochpds.cc/image-2025-12-10T17-45-48-087Z.webp",
-    "url": "https://robertsspaceindustries.com/en/comm-link/transmission/20916-Luminalia-2955",
-    "store": "RSI",
-    "price": 5,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-12-22T17:30:00.000Z",
-    "endDate": "2025-12-22T15:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 2,
     "title": "Infinity Nikki - Epic Extras Bundle",
     "image": "https://cdn2.unrealengine.com/infinitynikki-1920x1080-greenbg-1920x1080-b241e05dd82a.png?resize=1&w=854&h=480&quality=medium",
@@ -792,6 +778,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 3,
+    "title": "Star Citizen - 13 Days of Luminalia Surprises",
+    "image": "https://dbimg.ariochpds.cc/image-2025-12-10T17-45-48-087Z.webp",
+    "url": "https://robertsspaceindustries.com/en/comm-link/transmission/20916-Luminalia-2955",
+    "store": "RSI",
+    "price": 5,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-22T15:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
