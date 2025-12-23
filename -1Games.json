@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 11,
+    "title": "Bloodstained: Ritual of the Night",
+    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec23_giveaway_2560x14401_2560x1440-6261ed2e3fa04304b55b2fc13643e3b2?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/bloodstained-f3f575",
+    "price": 40,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-12-23T16:00:00.000Z",
+    "endDate": "2025-12-24T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Train Sim World® 6: Spirit of Steam: Liverpool Lime Street - Crewe Route Add-On",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662830/0b96c668a9ed285f233a68297b1b86aaf96eefe0/header.jpg?t=1764616402",
@@ -10,20 +24,6 @@
     "horizontal": "fechasProgramadas",
     "startDate": "2024-04-15T01:00:00.000Z",
     "endDate": "2026-01-05T18:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 11,
-    "title": "Paradise Killer",
-    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec22_giveaway_2560x1440_2560x1440-437658951add4defb6ea05b79968795f?resize=1&w=854&h=480&quality=medium",
-    "url": "https://store.epicgames.com/p/paradise-killer-c3ea1c",
-    "price": 20,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-12-22T16:00:00.000Z",
-    "endDate": "2025-12-23T16:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -119,8 +119,8 @@
     "store": "Epic Games",
     "status": 3,
     "horizontal": "fechasProgramadas",
-    "startDate": "2025-12-23T16:00:00.000Z",
-    "endDate": "2025-12-24T16:00:00.000Z",
+    "startDate": "2025-12-24T16:00:00.000Z",
+    "endDate": "2025-12-25T16:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -151,20 +151,6 @@
     "status": 1,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
-  },
-  {
-    "adImp": 1,
-    "title": "ART OF FIGHTING 2",
-    "image": "https://dbimg.ariochpds.cc/ART%20OF%20FIGHTING%202.webp",
-    "url": "https://store.onstove.com/en/games/4337",
-    "price": 6.5,
-    "store": "Stove",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-08-14T15:00:00.000Z",
-    "endDate": "2025-12-23T14:00:00.000Z",
-    "date": "",
-    "id": ""
   },
   {
     "adImp": 4,
@@ -778,6 +764,34 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 11,
+    "title": "Paradise Killer",
+    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec22_giveaway_2560x1440_2560x1440-437658951add4defb6ea05b79968795f?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/paradise-killer-c3ea1c",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-12-22T16:00:00.000Z",
+    "endDate": "2025-12-23T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "ART OF FIGHTING 2",
+    "image": "https://dbimg.ariochpds.cc/ART%20OF%20FIGHTING%202.webp",
+    "url": "https://store.onstove.com/en/games/4337",
+    "price": 6.5,
+    "store": "Stove",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-08-14T15:00:00.000Z",
+    "endDate": "2025-12-23T14:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 3,
