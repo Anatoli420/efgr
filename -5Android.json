@@ -1,20 +1,6 @@
 [
   {
     "id": "",
-    "title": "Railways - Train Simulator",
-    "image": "https://play-lh.googleusercontent.com/Nruxo6BIm9uDcYs0zPB_SUPpsZl9OfSDC3aLEGMQ2zSoTW1jvyn_XhI6Vjr8gUSzleU=s960-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.infinity.railways",
-    "store": "Google Play",
-    "price": 5,
-    "date": "",
-    "adImp": 1,
-    "horizontal": "fechasProgramadas",
-    "status": 1,
-    "startDate": "2023-10-31T06:00:00.000Z",
-    "endDate": "2050-12-12T06:00:00.001Z"
-  },
-  {
-    "id": "",
     "adImp": 11,
     "title": "Monument Valley",
     "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-8cblo.jpg?resize=1&w=480&h=270&quality=medium",
@@ -500,6 +486,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "title": "Railways - Train Simulator",
+    "image": "https://play-lh.googleusercontent.com/Nruxo6BIm9uDcYs0zPB_SUPpsZl9OfSDC3aLEGMQ2zSoTW1jvyn_XhI6Vjr8gUSzleU=s960-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.infinity.railways",
+    "store": "Google Play",
+    "price": 5,
+    "date": "",
+    "adImp": 1,
+    "horizontal": true,
+    "status": 2,
+    "startDate": "2023-10-31T06:00:00.000Z",
+    "endDate": "2050-12-12T06:00:00.001Z"
   },
   {
     "id": "",
