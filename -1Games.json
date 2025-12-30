@@ -167,20 +167,6 @@
     "id": ""
   },
   {
-    "adImp": 5,
-    "title": "NARAKA: BLADEPOINT FEST Key Giveaway",
-    "image": "https://media.alienwarearena.com/media/6f12e725197db6c56364693fa43ba41d.jpg?fit=crop&width=720&height=405&quality=75",
-    "url": "https://www.alienwarearena.com/ucf/show/2173384/boards/contest-and-giveaways-global/Giveaway/naraka-bladepoint-fest-key-giveaway",
-    "store": "Alienware Arena",
-    "price": 5,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-01-01T15:00:00.000Z",
-    "endDate": "2024-01-01T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 4,
     "title": "FREE IN-GAME BUNDLE",
     "image": "https://dbimg.ariochpds.cc/free%20in%20game%20bundle%20bethesda.webp",
@@ -778,6 +764,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 5,
+    "title": "NARAKA: BLADEPOINT FEST Key Giveaway",
+    "image": "https://media.alienwarearena.com/media/6f12e725197db6c56364693fa43ba41d.jpg?fit=crop&width=720&height=405&quality=75",
+    "url": "https://www.alienwarearena.com/ucf/show/2173384/boards/contest-and-giveaways-global/Giveaway/naraka-bladepoint-fest-key-giveaway",
+    "store": "Alienware Arena",
+    "price": 5,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-01-01T15:00:00.000Z",
+    "endDate": "2024-01-01T15:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
