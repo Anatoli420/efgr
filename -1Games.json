@@ -1,6 +1,20 @@
 [
   {
     "adImp": 11,
+    "title": "Chivalry 2",
+    "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec31_giveaway_2560x14401_2560x1440-b82fe12ee0ee430086c6ccdb150d9a6d?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/chivalry-2",
+    "price": 40,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-12-31T16:00:00.000Z",
+    "endDate": "2025-01-01T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": " Trine Classic Collection",
     "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec30_giveaway_2560x1440_2560x1440-f1062bfbf0844a2fa8e56afc6f29e4d3?resize=1&w=854&h=480&quality=medium",
     "url": "https://store.epicgames.com/bundles/trine-classic-collection",
