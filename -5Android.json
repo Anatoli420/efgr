@@ -1,20 +1,6 @@
 [
   {
     "id": "",
-    "title": "Over The Bridge PRO",
-    "image": "https://play-lh.googleusercontent.com/hkVlCQqvR-7XlxuOtlXo6hvV597fHxWoiegYAb3xia2vimK9zGyRm2Twx16WlLCtafLtudMEDXnqy8DjG0h5=w480-h960-rw",
-    "url": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.overthebridge",
-    "store": "Google Play",
-    "price": 5,
-    "date": "",
-    "adImp": 1,
-    "horizontal": "fechasProgramadas",
-    "status": 1,
-    "startDate": "2023-10-31T06:00:00.000Z",
-    "endDate": "2050-12-12T06:00:00.001Z"
-  },
-  {
-    "id": "",
     "adImp": 11,
     "title": "Monument Valley",
     "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-8cblo.jpg?resize=1&w=480&h=270&quality=medium",
@@ -500,6 +486,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "title": "Over The Bridge PRO",
+    "image": "https://play-lh.googleusercontent.com/hkVlCQqvR-7XlxuOtlXo6hvV597fHxWoiegYAb3xia2vimK9zGyRm2Twx16WlLCtafLtudMEDXnqy8DjG0h5=w480-h960-rw",
+    "url": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.overthebridge",
+    "store": "Google Play",
+    "price": 5,
+    "date": "",
+    "adImp": 1,
+    "horizontal": true,
+    "status": 2,
+    "startDate": "2023-10-31T06:00:00.000Z",
+    "endDate": "2050-12-12T06:00:00.001Z"
   },
   {
     "id": "",
