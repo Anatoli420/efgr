@@ -2,29 +2,15 @@
   {
     "id": "",
     "adImp": 11,
-    "title": "Monument Valley",
-    "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-8cblo.jpg?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/monument-valley-android-1046b9",
+    "title": "Skul: The Hero Slayer",
+    "image": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-emsg3.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/skul-the-hero-slayer-android-0d2aed",
     "price": 5,
     "store": "Epic Games",
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2025-12-18T16:00:00.000Z",
-    "endDate": "2026-01-01T16:00:00.000Z",
-    "date": ""
-  },
-  {
-    "id": "",
-    "adImp": 11,
-    "title": "Monument Valley II",
-    "image": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-9jm2m.jpg?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/monument-valley-2-android-b21888",
-    "price": 5,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-12-18T16:00:00.000Z",
-    "endDate": "2026-01-01T16:00:00.000Z",
+    "endDate": "2026-01-08T16:00:00.000Z",
     "date": ""
   },
   {
@@ -486,6 +472,34 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 11,
+    "title": "Monument Valley",
+    "image": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-8cblo.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/monument-valley-android-1046b9",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-12-18T16:00:00.000Z",
+    "endDate": "2026-01-01T16:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
+    "adImp": 11,
+    "title": "Monument Valley II",
+    "image": "https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-9jm2m.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/monument-valley-2-android-b21888",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-12-18T16:00:00.000Z",
+    "endDate": "2026-01-01T16:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
