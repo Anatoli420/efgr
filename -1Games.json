@@ -42,20 +42,6 @@
     "id": ""
   },
   {
-    "adImp": 2,
-    "title": "Laser Tanks",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309830/header.jpg?t=1764889249",
-    "url": "https://abhitechgames.itch.io/lasertanks",
-    "store": "itch.io",
-    "price": 6,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "endDate": "2026-01-05T18:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "horizontal": "slider",
     "adImp": null,
     "title": "SLIDER",
@@ -709,6 +695,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 2,
+    "title": "Laser Tanks",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309830/header.jpg?t=1764889249",
+    "url": "https://abhitechgames.itch.io/lasertanks",
+    "store": "itch.io",
+    "price": 6,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2026-01-05T18:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 2,
