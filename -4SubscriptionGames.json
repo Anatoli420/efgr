@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 4,
+    "title": "Sid Meier's Civilization VI",
+    "image": "https://m.media-amazon.com/images/I/61iRN+oJ7fL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/sid-meiers-civilization-vi-epic/dp/amzn1.pg.item.6b4d0ed8-afb2-4473-b9ef-275e6267eb38?ingress=amzn&ref_=SM_SidMeiersCivilizationVI_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 60,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-04-06T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 5,
+    "title": "Reflections of Life: Dark Architect - CE",
+    "image": "https://m.media-amazon.com/images/I/710b97g1kUL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/reflections-of-life-dark-architect-ce-aga/dp/amzn1.pg.item.31f8beb1-a474-4be5-884f-76b8de8777fe?ingress=amzn&ref_=SM_ReflectionsofLifeDarkArchitectCE_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 14,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-03-09T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Dreamscaper",
     "image": "https://m.media-amazon.com/images/I/615rXKlkhmL._FMwebp_.jpg",
