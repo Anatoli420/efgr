@@ -2,15 +2,15 @@
   {
     "id": "",
     "adImp": 11,
-    "title": "Skul: The Hero Slayer",
-    "image": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-emsg3.jpg?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/skul-the-hero-slayer-android-0d2aed",
-    "price": 5,
+    "title": "Bouncemasters",
+    "image": "https://cdn1.epicgames.com/spt-assets/c0ee39442aff4a9198e0b1df04087e8d/bouncemasters-1yx25.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/bouncemasters-android-ebc0b1",
+    "price": 3,
     "store": "Epic Games",
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2025-12-18T16:00:00.000Z",
-    "endDate": "2026-01-08T16:00:00.000Z",
+    "startDate": "2026-01-08T16:00:00.000Z",
+    "endDate": "2026-01-15T16:00:00.000Z",
     "date": ""
   },
   {
@@ -472,6 +472,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 11,
+    "title": "Skul: The Hero Slayer",
+    "image": "https://cdn1.epicgames.com/spt-assets/cf279cf29eba4e14b93c898ef502239c/skul-the-hero-slayer-emsg3.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/skul-the-hero-slayer-android-0d2aed",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-12-18T16:00:00.000Z",
+    "endDate": "2026-01-08T16:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
