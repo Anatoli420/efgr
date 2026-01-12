@@ -251,20 +251,6 @@
     "id": ""
   },
   {
-    "adImp": 5,
-    "title": "League of Angels: Pact Gift Pack Key Giveaway",
-    "image": "https://www.mmobomb.com/file/2023/11/league-of-angels-pact-gift-pack-key-giveaway.png",
-    "url": "https://www.mmobomb.com/giveaway/league-of-angels-pact-keys",
-    "store": "MMOBomb",
-    "price": 5,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-01-01T15:00:00.000Z",
-    "endDate": "2024-01-01T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 1,
     "title": "ODIN:VALHALLA RISING Exclusive Game Pack Key Giveaway",
     "image": "https://media.alienwarearena.com/media/18de42f1a5d3f983daee8124eb501095.jpg?fit=crop&width=720&height=405&quality=75",
@@ -541,6 +527,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 5,
+    "title": "League of Angels: Pact Gift Pack Key Giveaway",
+    "image": "https://www.mmobomb.com/file/2023/11/league-of-angels-pact-gift-pack-key-giveaway.png",
+    "url": "https://www.mmobomb.com/giveaway/league-of-angels-pact-keys",
+    "store": "MMOBomb",
+    "price": 5,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-01-01T15:00:00.000Z",
+    "endDate": "2024-01-01T15:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 3,
