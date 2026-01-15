@@ -1,5 +1,61 @@
 [
   {
+    "adImp": 5,
+    "title": "Gunslugs: Rogue Tactics",
+    "image": "https://m.media-amazon.com/images/I/61l34K0ZaOL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/gunslugs-rogue-tactics-gog/dp/amzn1.pg.item.2673dc48-c033-48f9-9deb-7f305fe02aa7?ingress=amzn&ref_=SM_GunslugsRogueTactics_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 15,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-04-15T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Brigador: Up-Armored Deluxe",
+    "image": "https://m.media-amazon.com/images/I/61iPb1o3naL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/brigador-up-armored-deluxe-gog/dp/amzn1.pg.item.c32506fc-7028-4194-8cd6-624a77ac20aa?ingress=amzn&ref_=SM_BrigadorUpArmoredDeluxe_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 25,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-02-18T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "DeathKeep",
+    "image": "https://m.media-amazon.com/images/I/618rYgdwVML._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/deathkeep-gog/dp/amzn1.pg.item.11c6b282-d63a-43da-957b-4d329c15f9aa?ingress=amzn&ref_=SM_DeathKeep_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 6,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-02-18T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "adImp": null,
+    "title": "RATEUS",
+    "store": "separador",
+    "price": 0,
+    "date": "??-08-2022",
+    "status": 1,
+    "startDate": "",
+    "endDate": ""
+  },
+  {
     "adImp": 4,
     "title": "Sid Meier's Civilization VI",
     "image": "https://m.media-amazon.com/images/I/61iRN+oJ7fL._FMwebp_.jpg",
@@ -124,20 +180,6 @@
     "endDate": "2026-01-21T21:00:00.000Z",
     "date": "",
     "id": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "adImp": null,
-    "title": "RATEUS",
-    "store": "separador",
-    "price": 0,
-    "date": "??-08-2022",
-    "status": 1,
-    "startDate": "",
-    "endDate": ""
   },
   {
     "adImp": 2,
