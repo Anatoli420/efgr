@@ -1,6 +1,20 @@
 [
   {
     "id": "",
+    "adImp": 11,
+    "title": "Dumb Ways to Die",
+    "image": "https://cdn1.epicgames.com/spt-assets/63dd97c2c58d47e195b51b2663337c9a/dumb-ways-to-die-zvhqg.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/dumb-ways-to-die-android-625b0c",
+    "price": 3,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-01-15T16:00:00.000Z",
+    "endDate": "2026-01-22T16:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
     "title": "King of Defense 2: TD Premium",
     "image": "https://play-lh.googleusercontent.com/B2V_9yfwlLuv8b40NaLeVHdXO214ZbVJxYqHN7UcbgfK0I5ilZSPBaw6BPZNpaTL19Gj=s960-rw",
     "url": "https://play.google.com/store/apps/details?id=com.Gcenter.KingofDefense2.towerdefense.TD.premium",
@@ -26,20 +40,6 @@
     "status": 1,
     "startDate": "2023-10-31T06:00:00.000Z",
     "endDate": "2050-12-12T06:00:00.001Z"
-  },
-  {
-    "id": "",
-    "adImp": 11,
-    "title": "Bouncemasters",
-    "image": "https://cdn1.epicgames.com/spt-assets/c0ee39442aff4a9198e0b1df04087e8d/bouncemasters-1yx25.png?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/bouncemasters-android-ebc0b1",
-    "price": 3,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-01-08T16:00:00.000Z",
-    "endDate": "2026-01-15T16:00:00.000Z",
-    "date": ""
   },
   {
     "id": "//?SUB SCREEN////",
@@ -500,6 +500,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 11,
+    "title": "Bouncemasters",
+    "image": "https://cdn1.epicgames.com/spt-assets/c0ee39442aff4a9198e0b1df04087e8d/bouncemasters-1yx25.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/bouncemasters-android-ebc0b1",
+    "price": 3,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-01-08T16:00:00.000Z",
+    "endDate": "2026-01-15T16:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
