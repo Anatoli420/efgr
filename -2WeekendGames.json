@@ -1,15 +1,15 @@
 [
   {
     "adImp": 1,
-    "title": "Test Drive Unlimited Solar Crown",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1249970/header.jpg?t=1768498826",
-    "url": "https://store.steampowered.com/app/1249970/Test_Drive_Unlimited_Solar_Crown/",
+    "title": "Pax Dei",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1995520/de17115127459af00a30c24bdd516af4d5f40fd9/header.jpg?t=1768827146",
+    "url": "https://store.steampowered.com/app/1995520/",
     "store": "Steam",
-    "price": 50,
+    "price": 18,
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2025-01-01T16:00:00.000Z",
-    "endDate": "2026-01-19T18:00:00.000Z",
+    "endDate": "2026-01-26T18:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -40,6 +40,20 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Test Drive Unlimited Solar Crown",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1249970/header.jpg?t=1768498826",
+    "url": "https://store.steampowered.com/app/1249970/Test_Drive_Unlimited_Solar_Crown/",
+    "store": "Steam",
+    "price": 50,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2026-01-19T18:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 1,
