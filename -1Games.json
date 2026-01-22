@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 11,
+    "title": "Rustler (Grand Theft Horse)",
+    "image": "https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-1ukey.jpg?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/rustler-grand-theft-horse-21a7ca",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-01-22T16:00:00.000Z",
+    "endDate": "2026-01-29T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 5,
     "title": "World of Warships Naval Supplies Giveaway",
     "image": "https://media.alienwarearena.com/media/7b305ec286d576cd75369ecef48b55fd.jpg?fit=crop&width=720&height=405&quality=75",
