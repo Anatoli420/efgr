@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 1,
+    "title": "Cursedland",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3447170/header.jpg?t=1769159562",
+    "url": "https://store.steampowered.com/app/3447170/Cursedland/",
+    "store": "Steam",
+    "price": 5,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2026-02-01T18:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "Kiki",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2142680/header.jpg?t=1768952318",
