@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 1,
+    "title": "Untrusted",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1502660/header.jpg?t=1766521500",
+    "url": "https://store.steampowered.com/app/1502660/Untrusted/",
+    "store": "Steam",
+    "price": 5,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2026-02-01T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "Definitely Not Fried Chicken",
     "image": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-thf6o.png?resize=1&w=854&h=480&quality=medium",
@@ -42,20 +56,6 @@
     "id": ""
   },
   {
-    "adImp": 11,
-    "title": "Rustler (Grand Theft Horse)",
-    "image": "https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-1ukey.jpg?w=600&quality=high&resize=1",
-    "url": "https://store.epicgames.com/p/rustler-grand-theft-horse-21a7ca",
-    "price": 20,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-01-22T16:00:00.000Z",
-    "endDate": "2026-01-29T16:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 5,
     "title": "World of Warships Naval Supplies Giveaway",
     "image": "https://media.alienwarearena.com/media/7b305ec286d576cd75369ecef48b55fd.jpg?fit=crop&width=720&height=405&quality=75",
@@ -84,15 +84,29 @@
   },
   {
     "adImp": 3,
-    "title": "Definitely Not Fried Chicken",
-    "image": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-thf6o.png?resize=1&w=854&h=480&quality=medium",
-    "url": "https://store.epicgames.com/p/definitely-not-fried-chicken-a30160",
-    "price": 20,
+    "title": "Botany Manor",
+    "image": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1f7uq.jpg?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/botany-manor-e7c456",
+    "price": 25,
     "store": "Epic Games",
     "status": 3,
     "horizontal": "fechasProgramadas",
-    "startDate": "2026-01-29T16:00:00.000Z",
-    "endDate": "2026-02-05T16:00:00.000Z",
+    "startDate": "2026-02-05T16:00:00.000Z",
+    "endDate": "2026-02-12T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Poison Retro Set",
+    "image": "https://cdn1.epicgames.com/spt-assets/65338dc60d204dcb98752745bab52374/pixel-gun-3d-1pp3a.jpg?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/pixel-gun-3d-poison-retro-set-55a7dd",
+    "price": 25,
+    "store": "Epic Games",
+    "status": 3,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-02-05T16:00:00.000Z",
+    "endDate": "2026-02-12T16:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -638,6 +652,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 11,
+    "title": "Rustler (Grand Theft Horse)",
+    "image": "https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-1ukey.jpg?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/rustler-grand-theft-horse-21a7ca",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-01-22T16:00:00.000Z",
+    "endDate": "2026-01-29T16:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
