@@ -1,5 +1,47 @@
 [
   {
+    "adImp": 3,
+    "title": "Technotopia",
+    "image": "https://m.media-amazon.com/images/I/61gVOmIg2kL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/technotopia-aga/dp/amzn1.pg.item.a8c36799-e290-4bf6-a594-e21e5ced3a02?ingress=amzn&ref_=SM_Technotopia_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 5,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-03-04T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "ELDERBORN",
+    "image": "https://m.media-amazon.com/images/I/71ue9etEsqL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/elderborn-gog/dp/amzn1.pg.item.ae624aa2-2ebc-474f-9931-e5137e374b17?ingress=amzn&ref_=SM_ELDERBORN_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 15,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-03-04T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Al-Qadim: The Genie's Curse",
+    "image": "https://m.media-amazon.com/images/I/61p8SBQUdnL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/al-qadim-the-genies-curse-gog/dp/amzn1.pg.item.fd99ecb2-9e65-4ed3-b8b7-66b622b2514f?ingress=amzn&ref_=SM_AlQadimTheGeniesCurse_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 6,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-03-04T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 5,
     "title": "Harold Halibut",
     "image": "https://m.media-amazon.com/images/I/61uVnbV3JuL._FMwebp_.jpg",
