@@ -1,15 +1,15 @@
 [
   {
     "adImp": 11,
-    "title": "Along the Edge",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/504390/header.jpg?t=1768301256",
-    "url": "https://store.steampowered.com/app/504390/Along_the_Edge/",
-    "store": "Steam",
-    "price": 14,
+    "title": "Definitely Not Fried Chicken",
+    "image": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-thf6o.png?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/definitely-not-fried-chicken-a30160",
+    "price": 20,
+    "store": "Epic Games",
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2024-04-15T01:00:00.000Z",
-    "endDate": "2026-01-29T18:00:00.000Z",
+    "startDate": "2026-01-29T16:00:00.000Z",
+    "endDate": "2026-02-05T16:00:00.000Z",
     "date": "",
     "id": ""
   },
