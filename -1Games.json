@@ -1,6 +1,20 @@
 [
   {
-    "adImp": 11,
+    "adImp": 1,
+    "title": "Alone in the Dark: The Trilogy 1+2+3",
+    "image": "https://images.gog-statics.com/7e5cc0b8aa522dc57c3aa87dc7bd61f7a11f095df2e2eeb4baf3fcb1f386d941_giveaway_465w_2x.webp",
+    "url": "https://www.gog.com/game/alone_in_the_dark_the_trilogy_123",
+    "price": 10,
+    "store": "GoG",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-12-19T17:00:00.000Z",
+    "endDate": "2026-02-05T14:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
     "title": "nightreaper2",
     "image": "https://cdn1.epicgames.com/spt-assets/f6e629cb8f1d44668504a77ce92bd771/nightreaper2-logo-1oev4.png?resize=1&w=480&h=270&quality=medium",
     "url": "https://store.epicgames.com/p/nightreaper2-bc3b86",
@@ -14,7 +28,7 @@
     "id": ""
   },
   {
-    "adImp": 11,
+    "adImp": 3,
     "title": "SunBlockers",
     "image": "https://cdn1.epicgames.com/spt-assets/9475db157a94476199b44f044a5dfe30/sunblockers-6kz2f.png?resize=1&w=480&h=270&quality=medium",
     "url": "https://store.epicgames.com/p/sunblockers-83e34a",
