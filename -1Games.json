@@ -111,20 +111,6 @@
     "id": ""
   },
   {
-    "adImp": 5,
-    "title": "World of Warships Naval Supplies Giveaway",
-    "image": "https://media.alienwarearena.com/media/7b305ec286d576cd75369ecef48b55fd.jpg?fit=crop&width=720&height=405&quality=75",
-    "url": "https://www.amdgaming.com/promotions/world-of-warships-naval-supplies-giveaway",
-    "store": "AMD",
-    "price": 5,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-04-15T01:00:00.000Z",
-    "endDate": "2026-01-22T18:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "horizontal": "slider",
     "adImp": null,
     "title": "SLIDER",
@@ -206,6 +192,20 @@
     "status": 1,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 5,
+    "title": "World of Warships Naval Supplies Giveaway",
+    "image": "https://media.alienwarearena.com/media/7b305ec286d576cd75369ecef48b55fd.jpg?fit=crop&width=720&height=405&quality=75",
+    "url": "https://www.amdgaming.com/promotions/world-of-warships-naval-supplies-giveaway",
+    "store": "AMD",
+    "price": 5,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2026-01-22T18:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 2,
