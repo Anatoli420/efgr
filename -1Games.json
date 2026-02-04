@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 11,
+    "title": "Botany Manor",
+    "image": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1f7uq.jpg?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/botany-manor-e7c456",
+    "price": 25,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-02-05T16:00:00.000Z",
+    "endDate": "2026-02-12T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Poison Retro Set",
+    "image": "https://cdn1.epicgames.com/spt-assets/65338dc60d204dcb98752745bab52374/pixel-gun-3d-1pp3a.jpg?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/pixel-gun-3d-poison-retro-set-55a7dd",
+    "price": 25,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-02-05T16:00:00.000Z",
+    "endDate": "2026-02-12T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 2,
     "title": "Find the Oil Racing Edition",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1039570/header.jpg?t=1677926346",
