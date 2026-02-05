@@ -55,20 +55,6 @@
     "date": ""
   },
   {
-    "adImp": 1,
-    "title": "Alone in the Dark: The Trilogy 1+2+3",
-    "image": "https://images.gog-statics.com/7e5cc0b8aa522dc57c3aa87dc7bd61f7a11f095df2e2eeb4baf3fcb1f386d941_giveaway_465w_2x.webp",
-    "url": "https://www.gog.com/game/alone_in_the_dark_the_trilogy_123",
-    "price": 10,
-    "store": "GoG",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-12-19T17:00:00.000Z",
-    "endDate": "2026-02-05T14:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 2,
     "title": "nightreaper2",
     "image": "https://cdn1.epicgames.com/spt-assets/f6e629cb8f1d44668504a77ce92bd771/nightreaper2-logo-1oev4.png?resize=1&w=480&h=270&quality=medium",
@@ -93,20 +79,6 @@
     "horizontal": "fechasProgramadas",
     "startDate": "2026-01-29T16:00:00.000Z",
     "endDate": "2026-02-27T21:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 11,
-    "title": "Definitely Not Fried Chicken",
-    "image": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-thf6o.png?resize=1&w=854&h=480&quality=medium",
-    "url": "https://store.epicgames.com/p/definitely-not-fried-chicken-a30160",
-    "price": 20,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-01-29T16:00:00.000Z",
-    "endDate": "2026-02-05T16:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -694,6 +666,34 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 1,
+    "title": "Alone in the Dark: The Trilogy 1+2+3",
+    "image": "https://images.gog-statics.com/7e5cc0b8aa522dc57c3aa87dc7bd61f7a11f095df2e2eeb4baf3fcb1f386d941_giveaway_465w_2x.webp",
+    "url": "https://www.gog.com/game/alone_in_the_dark_the_trilogy_123",
+    "price": 10,
+    "store": "GoG",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-12-19T17:00:00.000Z",
+    "endDate": "2026-02-05T14:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Definitely Not Fried Chicken",
+    "image": "https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-thf6o.png?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/definitely-not-fried-chicken-a30160",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-01-29T16:00:00.000Z",
+    "endDate": "2026-02-05T16:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 2,
