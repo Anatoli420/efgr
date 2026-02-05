@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 4,
+    "title": "Tiny Tina's Wonderlands",
+    "image": "https://m.media-amazon.com/images/I/61P6xhdJ8HL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/tiny-tinas-wonderlands-epic/dp/amzn1.pg.item.bbfc2103-4d24-4c07-9467-c33b858b0346?ingress=amzn&ref_=SM_TinyTinasWonderlands_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 60,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-05-06T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 5,
+    "title": "Dread Templar",
+    "image": "https://m.media-amazon.com/images/I/71ftU5yLkJL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/dread-templar-aga/dp/amzn1.pg.item.177b6043-fc6c-4d88-8062-9cf5fe29491d?ingress=amzn&ref_=SM_DreadTemplar_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 20,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-03-11T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 3,
     "title": "Technotopia",
     "image": "https://m.media-amazon.com/images/I/61gVOmIg2kL._FMwebp_.jpg",
