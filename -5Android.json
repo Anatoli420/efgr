@@ -1,6 +1,20 @@
 [
   {
     "id": "",
+    "adImp": 11,
+    "title": "Botany Manor",
+    "image": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-8hsrj.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/botany-manor-android-911d85",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-02-05T16:00:00.000Z",
+    "endDate": "2026-02-12T16:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
     "adImp": 3,
     "title": "Dead God Land - Light Survival",
     "image": "https://play-lh.googleusercontent.com/JTkxeQiipUGuuGvhCTGqcoLIJbWZ_bMRWEgfiSjM5oc1PSGir6oDm-WCmC3lIhUA27P6=s960-rw",
