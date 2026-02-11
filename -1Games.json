@@ -1,33 +1,5 @@
 [
   {
-    "adImp": 2,
-    "title": "Magellania",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1511950/header.jpg?t=1770000417",
-    "url": "https://store.steampowered.com/app/1511950/Magellania/",
-    "store": "Steam",
-    "price": 10,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-04-15T01:00:00.000Z",
-    "endDate": "2026-02-09T18:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 1,
-    "title": "Arabian Gulf",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3744480/efb96c296ba8c4832eb4a39b26f108527e92fae5/header.jpg?t=1770243842",
-    "url": "https://store.steampowered.com/app/3744480/Arabian_Gulf/",
-    "store": "Steam",
-    "price": 2,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-04-15T01:00:00.000Z",
-    "endDate": "2026-02-08T18:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 11,
     "title": "Botany Manor",
     "image": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1f7uq.jpg?resize=1&w=854&h=480&quality=medium",
@@ -694,6 +666,34 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 2,
+    "title": "Magellania",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1511950/header.jpg?t=1770000417",
+    "url": "https://store.steampowered.com/app/1511950/Magellania/",
+    "store": "Steam",
+    "price": 10,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2026-02-09T18:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Arabian Gulf",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3744480/efb96c296ba8c4832eb4a39b26f108527e92fae5/header.jpg?t=1770243842",
+    "url": "https://store.steampowered.com/app/3744480/Arabian_Gulf/",
+    "store": "Steam",
+    "price": 2,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2026-02-08T18:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 1,
