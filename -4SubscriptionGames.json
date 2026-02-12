@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 5,
+    "title": "Hexguardian",
+    "image": "https://m.media-amazon.com/images/I/614h6aCX5hL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/hexguardian-epic/dp/amzn1.pg.item.c1fbdc33-68e3-4dca-b6ac-3d1ab2c70c13?ingress=amzn&ref_=SM_Hexguardian_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 12,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-03-18T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 5,
+    "title": "Around The World: Travel To Brazil - CE",
+    "image": "https://m.media-amazon.com/images/I/614h6aCX5hL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/around-the-world-travel-to-brazil-ce-legacy/dp/amzn1.pg.item.dcd8fad0-8d47-400f-878b-2dfc6df9c3e7?ingress=amzn&ref_=SM_AroundTheWorldTravelToBrazilCE_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 3,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-03-18T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 4,
     "title": "Tiny Tina's Wonderlands",
     "image": "https://m.media-amazon.com/images/I/61P6xhdJ8HL._FMwebp_.jpg",
