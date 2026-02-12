@@ -2,15 +2,15 @@
   {
     "id": "",
     "adImp": 11,
-    "title": "Botany Manor",
-    "image": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-8hsrj.jpg?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/botany-manor-android-911d85",
-    "price": 5,
+    "title": "The Darkside Detective A Fumble in the Dark",
+    "image": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-16c34.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/the-darkside-detective-a-fumble-in-the-dark-android-125a49",
+    "price": 15,
     "store": "Epic Games",
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2026-02-05T16:00:00.000Z",
-    "endDate": "2026-02-12T16:00:00.000Z",
+    "startDate": "2026-02-12T16:00:00.000Z",
+    "endDate": "2026-02-20T16:00:00.000Z",
     "date": ""
   },
   {
@@ -472,6 +472,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 11,
+    "title": "Botany Manor",
+    "image": "https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-8hsrj.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/botany-manor-android-911d85",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-02-05T16:00:00.000Z",
+    "endDate": "2026-02-12T16:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
