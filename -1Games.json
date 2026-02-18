@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 3,
+    "title": "Madness Inside",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3102000/header.jpg?t=1738043320",
+    "url": "https://zv-games.itch.io/madness-inside",
+    "store": "itch.io",
+    "price": 7,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2024-04-07T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Rose and Cross",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2975160/header.jpg?t=1738043226",
+    "url": "https://zv-games.itch.io/roseandcross",
+    "store": "itch.io",
+    "price": 7,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2024-04-07T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Tempest: Pirate Action RPG — [Steam Key]",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418180/header.jpg?t=1768395368",
