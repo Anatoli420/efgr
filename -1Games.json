@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 3,
+    "title": "BROTHER!!! Save him! - Hardcore Platformer",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1286560/header.jpg?t=1771456167",
+    "url": "https://store.steampowered.com/app/1286560/BROTHER_Save_him__Hardcore_Platformer/",
+    "store": "Steam",
+    "price": 3,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2026-02-24T18:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Paragnosia",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3017580/header.jpg?t=1768573764",
+    "url": "https://store.steampowered.com/app/3017580/Paragnosia/",
+    "store": "Steam",
+    "price": 4,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2026-02-22T20:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "STALCRAFT: X Starter Edition",
     "image": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-1gxje.jpg?resize=1&w=480&h=270&quality=medium",
