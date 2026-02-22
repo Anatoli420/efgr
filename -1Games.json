@@ -265,20 +265,6 @@
     "id": ""
   },
   {
-    "adImp": 2,
-    "title": "Witchy and the Puzzle Adventures",
-    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/f7f612e6-266d-41d2-aceb-bb71162cd32d/prodmain/1768452228.png",
-    "url": "https://freebies.indiegala.com/witchy-and-the-puzzle-adventures",
-    "store": "IndieGala",
-    "price": 3,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-12-22T17:30:00.000Z",
-    "endDate": "2025-12-30T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 5,
     "title": "Clash of Lords 2 Gift Pack Key Giveaway",
     "image": "https://www.mmobomb.com/file/2024/3/clash-of-lords-2.png",
@@ -390,20 +376,6 @@
     "id": ""
   },
   {
-    "adImp": 2,
-    "title": "Pixel Puzzles 2: Christmas",
-    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a30d706a-7a6a-4a80-832a-cd5ca3f20894/prodmain/1640084872.png",
-    "url": "https://freebies.indiegala.com/pixel-puzzles-2-christmas",
-    "store": "IndieGala",
-    "price": 5,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-12-22T17:30:00.000Z",
-    "endDate": "2025-12-30T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 4,
     "title": "FREE IN-GAME BUNDLE",
     "image": "https://dbimg.ariochpds.cc/free%20in%20game%20bundle%20bethesda.webp",
@@ -428,20 +400,6 @@
     "horizontal": true,
     "startDate": "2025-12-04T16:00:00.000Z",
     "endDate": "2099-12-11T16:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 2,
-    "title": "Era of Miracles",
-    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/520e486d-a2dc-4e0c-8418-23285d906fcd/prodmain/1764521290.png",
-    "url": "https://freebies.indiegala.com/era-of-miracles",
-    "store": "IndieGala",
-    "price": 2,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-12-22T17:30:00.000Z",
-    "endDate": "2025-12-30T15:00:00.001Z",
     "date": "",
     "id": ""
   },
@@ -751,6 +709,48 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 2,
+    "title": "Era of Miracles",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/520e486d-a2dc-4e0c-8418-23285d906fcd/prodmain/1764521290.png",
+    "url": "https://freebies.indiegala.com/era-of-miracles",
+    "store": "IndieGala",
+    "price": 2,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Pixel Puzzles 2: Christmas",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a30d706a-7a6a-4a80-832a-cd5ca3f20894/prodmain/1640084872.png",
+    "url": "https://freebies.indiegala.com/pixel-puzzles-2-christmas",
+    "store": "IndieGala",
+    "price": 5,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Witchy and the Puzzle Adventures",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/f7f612e6-266d-41d2-aceb-bb71162cd32d/prodmain/1768452228.png",
+    "url": "https://freebies.indiegala.com/witchy-and-the-puzzle-adventures",
+    "store": "IndieGala",
+    "price": 3,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 3,
