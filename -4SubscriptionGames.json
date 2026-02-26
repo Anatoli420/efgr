@@ -1,5 +1,47 @@
 [
   {
+    "adImp": 2,
+    "title": "Tavern Talk",
+    "image": "https://m.media-amazon.com/images/I/71yJeTL8xlL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/tavern-talk-aga/dp/amzn1.pg.item.7a5cc817-9506-45a0-b9c9-7064d4bd1499?ingress=amzn&ref_=SM_TavernTalk_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 10,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-04-01T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Total War: ATTILA",
+    "image": "https://m.media-amazon.com/images/I/61kyFTQui1L._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/total-war-attila-epic/dp/amzn1.pg.item.379e9280-72f8-41b5-bc81-ec3a02e4603c?ingress=amzn&ref_=SM_TotalWarATTILA_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 10,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-04-01T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 5,
+    "title": "Rebel Galaxy Outlaw",
+    "image": "https://m.media-amazon.com/images/I/614Dxs1rKtL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/rebel-galaxy-outlaw-gog/dp/amzn1.pg.item.adb93773-6c48-4660-b1ee-006818c6902b?ingress=amzn&ref_=SM_RebelGalaxyOutlaw_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 30,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-05-26T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 4,
     "title": "Meganoid",
     "image": "https://m.media-amazon.com/images/I/71DVqQyRW1L._FMwebp_.jpg",
