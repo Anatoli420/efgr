@@ -2,6 +2,20 @@
   {
     "id": "",
     "adImp": 11,
+    "title": "Boxes: Lost Fragments",
+    "image": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-1jpva.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/boxes-lost-fragments-android-356638",
+    "price": 10,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-02-26T16:00:00.000Z",
+    "endDate": "2026-03-05T16:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
+    "adImp": 11,
     "title": "Residual",
     "image": "https://cdn1.epicgames.com/spt-assets/e5b1bbcf43f34c7c9c2c8a87bb637cf9/residual-1xe31.jpg?resize=1&w=480&h=270&quality=medium",
     "url": "https://store.epicgames.com/p/residual-android-eef593",
