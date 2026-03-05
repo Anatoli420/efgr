@@ -15,20 +15,6 @@
   },
   {
     "id": "",
-    "adImp": 3,
-    "title": "Empire Defender: Offline Games",
-    "image": "https://play-lh.googleusercontent.com/mBk-tv2a4eqmsA9uPT_nsmL89CzNeKXk_vgb8__xxKNyC9Unb6dH2awR10NyL20hD_0=w480-h960-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.empire.warriors2.premium.epic.tower.td.defender.rush",
-    "store": "Google Play",
-    "price": 1,
-    "date": "",
-    "horizontal": true,
-    "status": 1,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "",
     "adImp": 11,
     "title": "Boxes: Lost Fragments",
     "image": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-1jpva.png?resize=1&w=480&h=270&quality=medium",
@@ -499,6 +485,20 @@
     "date": "",
     "status": 4,
     "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 3,
+    "title": "Empire Defender: Offline Games",
+    "image": "https://play-lh.googleusercontent.com/mBk-tv2a4eqmsA9uPT_nsmL89CzNeKXk_vgb8__xxKNyC9Unb6dH2awR10NyL20hD_0=w480-h960-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.empire.warriors2.premium.epic.tower.td.defender.rush",
+    "store": "Google Play",
+    "price": 1,
+    "date": "",
+    "horizontal": true,
+    "status": 2,
+    "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
