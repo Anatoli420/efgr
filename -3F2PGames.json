@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 5,
+    "title": "Taimanin Squad",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195470/7f318962fdb24f7213ac97c32e82f4ef213aeda8/header.jpg?t=1772673617",
+    "url": "https://store.steampowered.com/app/4195470/Taimanin_Squad/",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2026-03-04T17:00:00.000Z",
+    "id": ""
+  },
+  {
+    "adImp": 4,
+    "title": "Counter-Strike:Global Offensive",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4465480/e264be8e65c7902fa206eca244739c52cffb72f5/header.jpg?t=1772671666",
+    "url": "https://store.steampowered.com/app/4465480/CounterStrikeGlobal_Offensive/",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2012-08-21T17:00:00.000Z",
+    "id": ""
+  },
+  {
     "adImp": 3,
     "title": "Might & Magic Fates - Heroes TCG",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3918850/387f2f138683f44bdcd9bc95726ed975301f648a/header.jpg?t=1771246851",
