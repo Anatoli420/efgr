@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 2,
+    "title": "Crowalt: Traces of the Lost Colony",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1269500/header.jpg?t=1772130475",
+    "url": "https://store.steampowered.com/app/1269500/Crowalt_Traces_of_the_Lost_Colony/",
+    "store": "Steam",
+    "price": 10,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2026-03-09T18:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Parkitect - Booms & Blooms",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1353170/header.jpg?t=1772734119",
