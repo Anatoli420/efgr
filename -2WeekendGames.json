@@ -1,6 +1,20 @@
 [
   {
     "adImp": 3,
+    "title": "Animal Shelter",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239320/header.jpg?t=1772820299",
+    "url": "https://store.steampowered.com/app/1239320/Animal_Shelter/",
+    "store": "Steam",
+    "price": 20,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2026-03-19T18:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
     "title": "Parkitect",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/98820775be1752dd32325b295ba7954b5befcb9a/header_alt_assets_6.jpg?t=1772741430",
     "url": "https://store.steampowered.com/app/453090/Parkitect/",
