@@ -1,20 +1,6 @@
 [
   {
     "id": "",
-    "adImp": 5,
-    "title": "Backrooms",
-    "image": "https://play-lh.googleusercontent.com/CNhZTQQKXrKK3g-UEFoOXku1N5SqsMq2Qjf6O9bCAL8liIk9K5JKUSlG_FQzGTsfzEYt=w480-h960-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.sarangkoding.backrooms",
-    "store": "Google Play",
-    "price": 1,
-    "date": "",
-    "horizontal": true,
-    "status": 1,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "",
     "adImp": 4,
     "title": "Defense legend 4 HD: Sci-fi TD",
     "image": "https://play-lh.googleusercontent.com/-aJmIpbnL8hWJzUM0MC4ip6_Ia0FDW-sTCjOIkSTvhLdXHrK0j68TQyjWovh0yrEIWY=s480-rw",
@@ -39,6 +25,20 @@
     "horizontal": true,
     "status": 1,
     "startDate": "2024-01-01T06:00:00.001Z",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "adImp": null,
+    "horizontal": false,
+    "image": "https://notifimg.ariochpds.cc/fortnite.jpg",
+    "url": "",
+    "title": "Fortnite",
+    "store": "",
+    "price": 0,
+    "date": "",
+    "status": 1,
+    "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
@@ -95,20 +95,6 @@
     "horizontal": true,
     "status": 1,
     "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "adImp": null,
-    "horizontal": false,
-    "image": "https://notifimg.ariochpds.cc/fortnite.jpg",
-    "url": "",
-    "title": "Fortnite",
-    "store": "",
-    "price": 0,
-    "date": "",
-    "status": 1,
-    "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
@@ -555,6 +541,20 @@
     "date": "",
     "status": 4,
     "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 5,
+    "title": "Backrooms",
+    "image": "https://play-lh.googleusercontent.com/CNhZTQQKXrKK3g-UEFoOXku1N5SqsMq2Qjf6O9bCAL8liIk9K5JKUSlG_FQzGTsfzEYt=w480-h960-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.sarangkoding.backrooms",
+    "store": "Google Play",
+    "price": 1,
+    "date": "",
+    "horizontal": true,
+    "status": 2,
+    "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
