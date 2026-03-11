@@ -85,20 +85,6 @@
   },
   {
     "id": "",
-    "adImp": 4,
-    "title": "Colorzzle",
-    "image": "https://play-lh.googleusercontent.com/MCmI0oE3C5kHtT2TCornFRXMEeJCGzTbDz6-BWBQ0KjVXu4a-In97yUZcZv7Lxk46g=s480-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.DarongStudio.Colorzzle",
-    "store": "Google Play",
-    "price": 1,
-    "date": "",
-    "horizontal": true,
-    "status": 1,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "",
     "adImp": 11,
     "title": "EA SPORTS FC™ Mobile Soccer",
     "image": "https://play-lh.googleusercontent.com/wD3nE-orQx4ZEYFzzyhanH6yHLjCDO7w3aE5DTvDbWKBeHKY3UGrt5P-w4YyhOIcRiM=s960-rw",
@@ -541,6 +527,20 @@
     "date": "",
     "status": 4,
     "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 4,
+    "title": "Colorzzle",
+    "image": "https://play-lh.googleusercontent.com/MCmI0oE3C5kHtT2TCornFRXMEeJCGzTbDz6-BWBQ0KjVXu4a-In97yUZcZv7Lxk46g=s480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.DarongStudio.Colorzzle",
+    "store": "Google Play",
+    "price": 1,
+    "date": "",
+    "horizontal": true,
+    "status": 2,
+    "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
