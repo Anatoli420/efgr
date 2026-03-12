@@ -42,34 +42,6 @@
     "id": ""
   },
   {
-    "adImp": 3,
-    "title": "The Assault: Survivor",
-    "image": "https://cdn1.epicgames.com/spt-assets/197610a32213411a9cba2e0c5497392a/the-assault-survivor-a6eol.png?w=600&quality=high&resize=1",
-    "url": "https://store.epicgames.com/p/sleep-45d60e",
-    "price": 4,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-03-05T16:00:00.000Z",
-    "endDate": "2026-03-13T18:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 3,
-    "title": "BrightGunner",
-    "image": "https://cdn1.epicgames.com/spt-assets/2880548a77eb4b0d951a9d174df0e408/brightgunner-171mg.png?w=600&quality=high&resize=1",
-    "url": "https://store.epicgames.com/p/rockman2000-eb2f84",
-    "price": 10,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-02-26T16:00:00.000Z",
-    "endDate": "2026-03-31T04:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "horizontal": "slider",
     "adImp": null,
     "title": "SLIDER",
@@ -137,6 +109,34 @@
     "status": 1,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 3,
+    "title": "The Assault: Survivor",
+    "image": "https://cdn1.epicgames.com/spt-assets/197610a32213411a9cba2e0c5497392a/the-assault-survivor-a6eol.png?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/sleep-45d60e",
+    "price": 4,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-03-05T16:00:00.000Z",
+    "endDate": "2026-03-13T18:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "BrightGunner",
+    "image": "https://cdn1.epicgames.com/spt-assets/2880548a77eb4b0d951a9d174df0e408/brightgunner-171mg.png?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/rockman2000-eb2f84",
+    "price": 10,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-02-26T16:00:00.000Z",
+    "endDate": "2026-03-31T04:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 5,
