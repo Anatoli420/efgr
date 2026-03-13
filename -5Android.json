@@ -8,7 +8,7 @@
     "store": "Google Play",
     "price": 1,
     "date": "",
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "status": 1,
     "startDate": "2024-01-01T06:00:00.000Z",
     "endDate": "2024-01-01T06:00:00.001Z"
@@ -22,7 +22,7 @@
     "store": "Google Play",
     "price": 1,
     "date": "",
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "status": 1,
     "startDate": "2024-01-01T06:00:00.000Z",
     "endDate": "2024-01-01T06:00:00.001Z"
@@ -36,7 +36,7 @@
     "store": "Google Play",
     "price": 2,
     "status": 1,
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "startDate": "2024-02-01T18:00:00.001Z",
     "endDate": "2024-02-29T16:00:00.001Z",
     "date": ""
@@ -50,7 +50,7 @@
     "store": "Google Play",
     "price": 1,
     "date": "",
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "status": 1,
     "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2024-01-01T06:00:00.001Z"
@@ -65,7 +65,7 @@
     "price": 1,
     "date": "",
     "status": 1,
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
