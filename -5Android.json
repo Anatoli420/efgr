@@ -28,20 +28,6 @@
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
-    "id": "",
-    "adImp": 3,
-    "title": "SciFi Survivor Premium",
-    "image": "https://play-lh.googleusercontent.com/Vnd_ixxeTULiP-IY6l7nmfhllAs9J9XWXqjhyBY-50uIKruOA85puWdNgJjAy4gl_HA=w240-h480-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.Gcenter.SciFi.Survivor.io.Firenow.premium",
-    "store": "Google Play",
-    "price": 2,
-    "date": "",
-    "horizontal": true,
-    "status": 1,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
     "id": "//?SUB SCREEN////",
     "adImp": null,
     "horizontal": false,
@@ -53,34 +39,6 @@
     "date": "",
     "status": 1,
     "startDate": "",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "",
-    "adImp": 2,
-    "title": "King of Defense 2: TD Premium",
-    "image": "https://play-lh.googleusercontent.com/B2V_9yfwlLuv8b40NaLeVHdXO214ZbVJxYqHN7UcbgfK0I5ilZSPBaw6BPZNpaTL19Gj=s480-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.Gcenter.KingofDefense2.towerdefense.TD.premium",
-    "store": "Google Play",
-    "price": 2,
-    "date": "",
-    "horizontal": true,
-    "status": 1,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "",
-    "adImp": 1,
-    "title": "King of Defense Premium",
-    "image": "https://play-lh.googleusercontent.com/DJLPCxapiOb9fzd-mwRAPNsDVfM2LFyyhpFmK-FvNsohIKePquYTLZeLX3VLuyJSfQ=s480-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.gcenter.kingofdefense.merge.tower.td",
-    "store": "Google Play",
-    "price": 3,
-    "date": "",
-    "horizontal": true,
-    "status": 1,
-    "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
@@ -527,6 +485,48 @@
     "date": "",
     "status": 4,
     "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 1,
+    "title": "King of Defense Premium",
+    "image": "https://play-lh.googleusercontent.com/DJLPCxapiOb9fzd-mwRAPNsDVfM2LFyyhpFmK-FvNsohIKePquYTLZeLX3VLuyJSfQ=s480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.gcenter.kingofdefense.merge.tower.td",
+    "store": "Google Play",
+    "price": 3,
+    "date": "",
+    "horizontal": true,
+    "status": 2,
+    "startDate": "2024-01-01T06:00:00.001Z",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 2,
+    "title": "King of Defense 2: TD Premium",
+    "image": "https://play-lh.googleusercontent.com/B2V_9yfwlLuv8b40NaLeVHdXO214ZbVJxYqHN7UcbgfK0I5ilZSPBaw6BPZNpaTL19Gj=s480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.Gcenter.KingofDefense2.towerdefense.TD.premium",
+    "store": "Google Play",
+    "price": 2,
+    "date": "",
+    "horizontal": true,
+    "status": 2,
+    "startDate": "2024-01-01T06:00:00.001Z",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 3,
+    "title": "SciFi Survivor Premium",
+    "image": "https://play-lh.googleusercontent.com/Vnd_ixxeTULiP-IY6l7nmfhllAs9J9XWXqjhyBY-50uIKruOA85puWdNgJjAy4gl_HA=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.Gcenter.SciFi.Survivor.io.Firenow.premium",
+    "store": "Google Play",
+    "price": 2,
+    "date": "",
+    "horizontal": true,
+    "status": 2,
+    "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
