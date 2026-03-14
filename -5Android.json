@@ -7,7 +7,7 @@
     "store": "Google Play",
     "price": 1,
     "date": "",
-    "adImp": 1,
+    "adImp": 4,
     "horizontal": true,
     "status": 1,
     "startDate": "2023-12-30T06:00:00.001Z",
@@ -15,7 +15,7 @@
   },
   {
     "id": "",
-    "adImp": 2,
+    "adImp": 3,
     "title": "Survival Dungeon: Loot RPG Pro",
     "image": "https://play-lh.googleusercontent.com/mXWwMUQo2mi0VF6Ttf-D5r1GhMNlF9-VYsirC8RvnFgH1USDJPr8I-7QYAz3bVXtVDY=w240-h480-rw",
     "url": "https://play.google.com/store/apps/details?id=com.gemjem.rpg.games.roguelike.dungeon.crawler.dragons.adventure.dark.souls.survival.fantasy.action.pro",
