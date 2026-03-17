@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 2,
+    "title": "Battlefield 6",
+    "image": "https://drop-assets.ea.com/images/52FiSMqHg667c4HkaDF3GW/81d5167f27d892ddf1e3c3bddc7db476/BF6_S2_FreeTrial_Thumbnail_LOGO_YT_1920x1080.jpg?im=AspectCrop=(16,9),xPosition=0.4114583333333333,yPosition=0.5212962962962963;Resize=(1280)&q=85",
+    "url": "https://www.ea.com/games/battlefield/redsec/event/battlefield-6-free-trial",
+    "store": "EA",
+    "price": 70,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2026-03-24T18:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 3,
     "title": "Animal Shelter",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239320/header.jpg?t=1772820299",
