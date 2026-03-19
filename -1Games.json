@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 11,
+    "title": "Electrician Simulator",
+    "image": "https://cdn1.epicgames.com/spt-assets/d0be4faac92a49ebae039c0e0d386e42/electrician-simulator-1j17y.jpg?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/electrician-simulator-164e9f",
+    "price": 18,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-03-19T15:00:00.000Z",
+    "endDate": "2026-03-26T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "World of Warships — Epic Anniversary Tachibana Pack",
+    "image": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1ahdf.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/world-of-warships-world-of-warships-%E2%80%94-tachibana-lima-pack-5930e4",
+    "price": 25,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-03-19T15:00:00.000Z",
+    "endDate": "2026-03-26T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Umm Oyoun",
     "image": "https://cdn1.epicgames.com/spt-assets/615e7ed9fb8d49b395cf6b0524a42d39/ummoyoun-15u85.png?w=600&quality=high&resize=1",
