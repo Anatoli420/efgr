@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 2,
+    "title": "Steam Spring Sale 2026 — Earn free stickers by going through your discovery queue!",
+    "image": "https://clan.fastly.steamstatic.com/images/27766192/b7d44c4fe72ae384a03140334a8100f9eeccc2de.jpg",
+    "url": "https://store.steampowered.com/explore?dq=widget",
+    "store": "Steam",
+    "price": 1,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-01T16:00:00.000Z",
+    "endDate": "2026-03-26T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Police Stories — [Steam Key]",
     "image": "https://cdn-ext.fanatical.com/production/product/1280x720/a7cb09e8-74fe-466c-8419-80eb5a066392.jpeg",
