@@ -98,6 +98,20 @@
     "endDate": "2050-12-12T06:00:00.001Z"
   },
   {
+    "id": "//?SUB SCREEN////",
+    "adImp": null,
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "title": "RATEUS",
+    "store": "",
+    "price": 0,
+    "date": "",
+    "status": 1,
+    "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
     "id": "",
     "adImp": 3,
     "title": "Survival Dungeon: Loot RPG Pro",
@@ -178,7 +192,7 @@
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2026-03-12T16:00:00.000Z",
-    "endDate": "2026-03-19T16:00:00.000Z",
+    "endDate": "2026-03-19T15:00:00.000Z",
     "date": ""
   },
   {
@@ -236,20 +250,6 @@
     "startDate": "2025-04-29T15:00:00.000Z",
     "endDate": "2099-01-01T06:00:00.001Z",
     "date": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "adImp": null,
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "title": "RATEUS",
-    "store": "",
-    "price": 0,
-    "date": "",
-    "status": 1,
-    "startDate": "",
-    "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
     "id": "",
