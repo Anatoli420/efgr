@@ -28,20 +28,6 @@
     "id": ""
   },
   {
-    "adImp": 1,
-    "title": "Umm Oyoun",
-    "image": "https://cdn1.epicgames.com/spt-assets/615e7ed9fb8d49b395cf6b0524a42d39/ummoyoun-15u85.png?w=600&quality=high&resize=1",
-    "url": "https://store.epicgames.com/p/ummoyoun-a2aa02",
-    "price": 5,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-03-05T16:00:00.000Z",
-    "endDate": "2026-03-16T20:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 11,
     "title": "Cozy Grove",
     "image": "https://cdn1.epicgames.com/768ec2d3b5114ac4a800631b12ee3f31/offer/CG-2560x1440-570add3e55ecf729bd4f3a221ca7927a.jpg?w=600&quality=high&resize=1",
@@ -66,20 +52,6 @@
     "horizontal": "fechasProgramadas",
     "startDate": "2026-03-12T15:00:00.000Z",
     "endDate": "2026-03-19T15:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 2,
-    "title": "Deponia",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/header.jpg?t=1772651228",
-    "url": "https://store.steampowered.com/app/214340/Deponia/",
-    "store": "Steam",
-    "price": 10,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-04-15T01:00:00.000Z",
-    "endDate": "2026-03-16T17:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -654,6 +626,34 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 2,
+    "title": "Deponia",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/header.jpg?t=1772651228",
+    "url": "https://store.steampowered.com/app/214340/Deponia/",
+    "store": "Steam",
+    "price": 10,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2026-03-16T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Umm Oyoun",
+    "image": "https://cdn1.epicgames.com/spt-assets/615e7ed9fb8d49b395cf6b0524a42d39/ummoyoun-15u85.png?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/ummoyoun-a2aa02",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-03-05T16:00:00.000Z",
+    "endDate": "2026-03-16T20:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
