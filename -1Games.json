@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 1,
+    "title": "Police Stories",
+    "image": "https://cdn-ext.fanatical.com/production/product/1280x720/a7cb09e8-74fe-466c-8419-80eb5a066392.jpeg",
+    "url": "https://www.fanatical.com/es/game/police-stories",
+    "store": "Fanatical",
+    "price": 20,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-02-01T16:00:00.000Z",
+    "endDate": "2026-02-20T23:59:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "Electrician Simulator",
     "image": "https://cdn1.epicgames.com/spt-assets/d0be4faac92a49ebae039c0e0d386e42/electrician-simulator-1j17y.jpg?w=600&quality=high&resize=1",
