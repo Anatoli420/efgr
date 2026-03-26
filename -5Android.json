@@ -126,20 +126,6 @@
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
-    "id": "",
-    "adImp": 11,
-    "title": "Potion Permit",
-    "image": "https://cdn1.epicgames.com/spt-assets/df7d51745d2f4800938bf4f2f38cf63c/potion-permit-1s7t4.jpg?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/potion-permit-android-e270c3",
-    "price": 20,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-03-19T15:00:00.000Z",
-    "endDate": "2026-03-26T15:00:00.000Z",
-    "date": ""
-  },
-  {
     "id": "//?SUB SCREEN////",
     "adImp": null,
     "horizontal": "RateUs",
@@ -584,6 +570,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 11,
+    "title": "Potion Permit",
+    "image": "https://cdn1.epicgames.com/spt-assets/df7d51745d2f4800938bf4f2f38cf63c/potion-permit-1s7t4.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/potion-permit-android-e270c3",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-03-19T15:00:00.000Z",
+    "endDate": "2026-03-26T15:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
