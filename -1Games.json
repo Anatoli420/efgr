@@ -7,7 +7,7 @@
     "store": "itch.io",
     "price": 3,
     "status": 1,
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "startDate": "2024-04-04T15:00:00.000Z",
     "endDate": "2026-03-30T11:00:00.000Z",
     "date": "",
