@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 3,
+    "title": "Static Voice",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4207170/5b734a735246cf374806d41ec31076c84772566a/header.jpg?t=1768580713",
+    "url": "https://kadderagames.itch.io/static-voice",
+    "store": "itch.io",
+    "price": 2,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2024-04-07T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 2,
     "title": "Symmetry",
     "image": "https://cdn1.epicgames.com/spt-assets/12979c6c16ec4c6a8d7735b4a821c443/symmetry-offer-tdkl3.png?w=600&quality=high&resize=1",
