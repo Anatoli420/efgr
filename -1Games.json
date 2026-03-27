@@ -1,6 +1,20 @@
 [
   {
     "adImp": 11,
+    "title": "Symmetry",
+    "image": "https://cdn1.epicgames.com/spt-assets/12979c6c16ec4c6a8d7735b4a821c443/symmetry-offer-tdkl3.png?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/symmetry-44cf24",
+    "price": 12,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-03-26T15:00:00.000Z",
+    "endDate": "2026-04-01T13:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": "Havendock",
     "image": "https://cdn1.epicgames.com/spt-assets/180018125def4cbabef241f199a79f35/havendock-1pm8d.png?w=1920&quality=medium&resize=1",
     "url": "https://store.epicgames.com/p/havendock-64983e",
@@ -80,20 +94,6 @@
     "horizontal": "fechasProgramadas",
     "startDate": "2026-03-19T15:00:00.000Z",
     "endDate": "2026-04-02T22:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 2,
-    "title": "Steam Spring Sale 2026 — Earn free stickers by going through your discovery queue!",
-    "image": "https://clan.fastly.steamstatic.com/images/27766192/b7d44c4fe72ae384a03140334a8100f9eeccc2de.jpg",
-    "url": "https://store.steampowered.com/explore?dq=widget",
-    "store": "Steam",
-    "price": 1,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-02-01T16:00:00.000Z",
-    "endDate": "2026-03-26T17:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -640,6 +640,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 2,
+    "title": "Steam Spring Sale 2026 — Earn free stickers by going through your discovery queue!",
+    "image": "https://clan.fastly.steamstatic.com/images/27766192/b7d44c4fe72ae384a03140334a8100f9eeccc2de.jpg",
+    "url": "https://store.steampowered.com/explore?dq=widget",
+    "store": "Steam",
+    "price": 1,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-02-01T16:00:00.000Z",
+    "endDate": "2026-03-26T17:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
