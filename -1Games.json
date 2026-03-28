@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 3,
+    "title": "FrostLight Escape",
+    "image": "https://cdn1.epicgames.com/spt-assets/2d6276b0d4804e85bcd55e51c00f8496/frostlight-escape-ln8ow.png?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/frostlight-escape-94c9b1",
+    "price": 3,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-03-26T15:00:00.000Z",
+    "endDate": "2026-03-29T10:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 4,
     "title": "Do Not Disturb",
     "image": "https://img.itch.zone/aW1nLzI2MzQxMzUwLnBuZw==/original/6sx1ok.png",
@@ -23,7 +37,7 @@
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2026-03-26T15:00:00.000Z",
-    "endDate": "2026-03-29T11:00:00.000Z",
+    "endDate": "2026-03-29T10:00:00.000Z",
     "date": "",
     "id": ""
   },
