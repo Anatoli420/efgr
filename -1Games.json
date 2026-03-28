@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 5,
+    "title": "Blood And Zombies",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a9b511bf-1ed7-4b87-a75d-420420b802b4/prodmain/1774706142.png",
+    "url": "https://freebies.indiegala.com/blood-and-zombies",
+    "store": "IndieGala",
+    "price": 15,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 3,
     "title": "FrostLight Escape",
     "image": "https://cdn1.epicgames.com/spt-assets/2d6276b0d4804e85bcd55e51c00f8496/frostlight-escape-ln8ow.png?w=600&quality=high&resize=1",
