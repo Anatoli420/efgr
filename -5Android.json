@@ -156,20 +156,6 @@
   {
     "id": "",
     "adImp": 11,
-    "title": "The Wreck",
-    "image": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-1to0i.png?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/the-wreck-android-3754bc",
-    "price": 7,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-03-26T15:00:00.000Z",
-    "endDate": "2026-04-02T15:00:00.000Z",
-    "date": ""
-  },
-  {
-    "id": "",
-    "adImp": 11,
     "title": "EA SPORTS FC™ Mobile Soccer",
     "image": "https://play-lh.googleusercontent.com/wD3nE-orQx4ZEYFzzyhanH6yHLjCDO7w3aE5DTvDbWKBeHKY3UGrt5P-w4YyhOIcRiM=s960-rw",
     "url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile",
@@ -598,6 +584,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 11,
+    "title": "The Wreck",
+    "image": "https://cdn1.epicgames.com/spt-assets/15ba1dd802b046ee9bba08ffb9e922e0/the-wreck-1to0i.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/the-wreck-android-3754bc",
+    "price": 7,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-03-26T15:00:00.000Z",
+    "endDate": "2026-04-02T15:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
