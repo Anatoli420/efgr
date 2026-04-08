@@ -43,20 +43,6 @@
   },
   {
     "adImp": 2,
-    "title": "Evergreen Valley: The Parkour Game",
-    "image": "https://cdn1.epicgames.com/spt-assets/7ceb18d65aee4c36b5be5c745921b2f8/evergreen-valley-the-parkour-game-wlu99.png?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/evergreen-valley-the-parkour-game-761e7b",
-    "price": 3,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-04-02T15:00:00.000Z",
-    "endDate": "2026-04-08T10:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 2,
     "title": "World of Warships Alienware Flag Pack Key Giveaway",
     "image": "https://media.alienwarearena.com/media/7b305ec286d576cd75369ecef48b55fd.jpg?fit=crop&width=720&height=405&quality=75",
     "url": "https://www.alienwarearena.com/ucf/show/2174310/boards/contest-and-giveaways-global/Giveaway/world-of-warships-alienware-flag-pack-key-giveaway-1",
@@ -640,6 +626,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 2,
+    "title": "Evergreen Valley: The Parkour Game",
+    "image": "https://cdn1.epicgames.com/spt-assets/7ceb18d65aee4c36b5be5c745921b2f8/evergreen-valley-the-parkour-game-wlu99.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/evergreen-valley-the-parkour-game-761e7b",
+    "price": 3,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-04-02T15:00:00.000Z",
+    "endDate": "2026-04-08T10:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 1,
