@@ -14,34 +14,6 @@
     "id": ""
   },
   {
-    "adImp": 3,
-    "title": "Idols of Ash",
-    "image": "https://img.itch.zone/aW1nLzI2NDczMzYzLnBuZw==/original/Z7V5dY.png",
-    "url": "https://leafygames.itch.io/idols-of-ash",
-    "store": "itch.io",
-    "price": 3,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "endDate": "2024-04-07T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 3,
-    "title": "Chamber Survival",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2943780/header.jpg?t=1775248437",
-    "url": "https://store.steampowered.com/app/2943780/Chamber_Survival/",
-    "store": "Steam",
-    "price": 16,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-02-01T16:00:00.000Z",
-    "endDate": "2026-04-09T17:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 2,
     "title": "World of Warships Alienware Flag Pack Key Giveaway",
     "image": "https://media.alienwarearena.com/media/7b305ec286d576cd75369ecef48b55fd.jpg?fit=crop&width=720&height=405&quality=75",
@@ -66,20 +38,6 @@
     "horizontal": "fechasProgramadas",
     "startDate": "2026-04-02T15:00:00.000Z",
     "endDate": "2026-04-12T06:29:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 11,
-    "title": "Clone Drone in the Danger Zone",
-    "image": "https://cdn1.epicgames.com/spt-assets/2300be8843b24d9a8abaa663a2b544f8/clone-drone-in-the-danger-zone-1cmlu.png?resize=1&w=854&h=480&quality=medium",
-    "url": "https://store.epicgames.com/p/clone-drone-in-the-danger-zone-4daf6e",
-    "price": 20,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-04-02T15:00:00.000Z",
-    "endDate": "2026-04-09T15:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -628,6 +586,34 @@
     "endDate": "2050-01-01T15:00:00.000Z"
   },
   {
+    "adImp": 11,
+    "title": "Clone Drone in the Danger Zone",
+    "image": "https://cdn1.epicgames.com/spt-assets/2300be8843b24d9a8abaa663a2b544f8/clone-drone-in-the-danger-zone-1cmlu.png?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/clone-drone-in-the-danger-zone-4daf6e",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-04-02T15:00:00.000Z",
+    "endDate": "2026-04-09T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Chamber Survival",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2943780/header.jpg?t=1775248437",
+    "url": "https://store.steampowered.com/app/2943780/Chamber_Survival/",
+    "store": "Steam",
+    "price": 16,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-02-01T16:00:00.000Z",
+    "endDate": "2026-04-09T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 2,
     "title": "Evergreen Valley: The Parkour Game",
     "image": "https://cdn1.epicgames.com/spt-assets/7ceb18d65aee4c36b5be5c745921b2f8/evergreen-valley-the-parkour-game-wlu99.png?resize=1&w=480&h=270&quality=medium",
@@ -638,6 +624,20 @@
     "horizontal": true,
     "startDate": "2026-04-02T15:00:00.000Z",
     "endDate": "2026-04-08T10:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Idols of Ash",
+    "image": "https://img.itch.zone/aW1nLzI2NDczMzYzLnBuZw==/original/Z7V5dY.png",
+    "url": "https://leafygames.itch.io/idols-of-ash",
+    "store": "itch.io",
+    "price": 3,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2024-04-07T15:00:00.001Z",
     "date": "",
     "id": ""
   },
