@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 3,
+    "title": "Graveyard Keeper",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/599140/0671e75eab8e44cd3f22e0d9f5371304b5556f96/header_alt_assets_2.jpg?t=1775755421",
+    "url": "https://store.steampowered.com/app/599140/Graveyard_Keeper/",
+    "store": "Steam",
+    "price": 20,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-01T16:00:00.000Z",
+    "endDate": "2026-04-13T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "Prop Sumo",
     "image": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1inog.jpg?resize=1&w=854&h=480&quality=medium",
