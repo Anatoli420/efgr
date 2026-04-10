@@ -98,20 +98,6 @@
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
-    "id": "",
-    "adImp": 1,
-    "title": "Monster Killer Pro - Shooter",
-    "image": "https://play-lh.googleusercontent.com/4FbKue3zyyemSuDfwhhkgT48o11wmAILJLJd9_A_oIe-rougssJlWewN69kN1BhL6sI=s480-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.pgstudio.bowmasters.rpg.shooting.monster",
-    "store": "Google Play",
-    "price": 1,
-    "date": "",
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-01-01T06:00:00.000Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
     "id": "//?SUB SCREEN////",
     "adImp": null,
     "horizontal": false,
@@ -126,20 +112,6 @@
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
-    "id": "",
-    "adImp": 11,
-    "title": "Dumb Ways to Die 2: The Games",
-    "image": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-1hxvx.png?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/dumb-ways-to-die-2-android-2e8cb3",
-    "price": 5,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-04-02T15:00:00.000Z",
-    "endDate": "2026-04-09T15:00:00.000Z",
-    "date": ""
-  },
-  {
     "id": "//?SUB SCREEN////",
     "adImp": null,
     "horizontal": "RateUs",
@@ -151,20 +123,6 @@
     "date": "",
     "status": 1,
     "startDate": "",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "",
-    "adImp": 2,
-    "title": "Space Shooter: Galaxy Attack",
-    "image": "https://play-lh.googleusercontent.com/FEu9oAskY0DimLjJKnSMVddtlzcEitVMfGe2T_Gavg5Vv9V474w1Pqbkw1YTEwd1PAHO=s480-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.space.shooter.alien.galaxyattack",
-    "store": "Google Play",
-    "price": 1,
-    "date": "",
-    "horizontal": true,
-    "status": 1,
-    "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
@@ -597,6 +555,48 @@
     "date": "",
     "status": 4,
     "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 2,
+    "title": "Space Shooter: Galaxy Attack",
+    "image": "https://play-lh.googleusercontent.com/FEu9oAskY0DimLjJKnSMVddtlzcEitVMfGe2T_Gavg5Vv9V474w1Pqbkw1YTEwd1PAHO=s480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.space.shooter.alien.galaxyattack",
+    "store": "Google Play",
+    "price": 1,
+    "date": "",
+    "horizontal": true,
+    "status": 2,
+    "startDate": "2024-01-01T06:00:00.001Z",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 11,
+    "title": "Dumb Ways to Die 2: The Games",
+    "image": "https://cdn1.epicgames.com/spt-assets/9a77263c339546f7b6ae675fddfdeb37/dumb-ways-to-die-2-1hxvx.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/dumb-ways-to-die-2-android-2e8cb3",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-04-02T15:00:00.000Z",
+    "endDate": "2026-04-09T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
+    "adImp": 1,
+    "title": "Monster Killer Pro - Shooter",
+    "image": "https://play-lh.googleusercontent.com/4FbKue3zyyemSuDfwhhkgT48o11wmAILJLJd9_A_oIe-rougssJlWewN69kN1BhL6sI=s480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.pgstudio.bowmasters.rpg.shooting.monster",
+    "store": "Google Play",
+    "price": 1,
+    "date": "",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-01-01T06:00:00.000Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
