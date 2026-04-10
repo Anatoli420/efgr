@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 3,
+    "title": "KILLER INN",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1598230/fff3ecc7f07081908c7fc9c6ee8ea74cdb226092/header_alt_assets_1.jpg?t=1775730901",
+    "url": "https://store.steampowered.com/app/1598230/KILLER_INN/",
+    "store": "Steam",
+    "price": 8,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T16:00:00.000Z",
+    "endDate": "2026-04-06T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Subnautica Free Weekend",
     "image": "https://cdn1.epicgames.com/spt-assets/prod-jaguar/subnautica-9ozu6.jpg?resize=1&w=480&h=270&quality=medium",
