@@ -16,20 +16,6 @@
   {
     "id": "",
     "adImp": 1,
-    "title": "Stickman Legends Offline Games",
-    "image": "https://play-lh.googleusercontent.com/yVGnmFzkYH5kmI5vYsrm0SzDMQVSWEihsPkuOViCueubwlFcldj3AwR2ZpeEz-WnGV4=s480-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends.shadow.wars",
-    "store": "Google Play",
-    "price": 2,
-    "horizontal": true,
-    "status": 1,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2025-12-12T06:00:00.001Z",
-    "date": ""
-  },
-  {
-    "id": "",
-    "adImp": 1,
     "title": "EHW Premium & stick fight",
     "image": "https://play-lh.googleusercontent.com/otEAVXa2NNyIhEB46xN8oZNX4MoJgyqfBY6oOSgFcTBwYqW4A_eSB0aTBbKv0Xgwq0A=s480-rw",
     "url": "https://play.google.com/store/apps/details?id=com.divmob.epicheroeswar.en.freemium",
@@ -556,6 +542,20 @@
     "status": 2,
     "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 1,
+    "title": "Stickman Legends Offline Games",
+    "image": "https://play-lh.googleusercontent.com/yVGnmFzkYH5kmI5vYsrm0SzDMQVSWEihsPkuOViCueubwlFcldj3AwR2ZpeEz-WnGV4=s480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends.shadow.wars",
+    "store": "Google Play",
+    "price": 2,
+    "horizontal": true,
+    "status": 2,
+    "startDate": "2024-01-01T06:00:00.001Z",
+    "endDate": "2025-12-12T06:00:00.001Z",
+    "date": ""
   },
   {
     "id": "",
