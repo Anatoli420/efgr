@@ -14,20 +14,6 @@
     "id": ""
   },
   {
-    "adImp": 1,
-    "title": "lihiman",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4504460/3df24791c0c0ebefc2591dd2f6444b0f12ecc1bc/capsule_616x353.jpg?t=1774875644",
-    "url": "https://kiwidreams-01.itch.io/lihiman-full",
-    "store": "itch.io",
-    "price": 5,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "endDate": "2026-04-30T18:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 2,
     "title": "World of Tanks Starter Pack Giveaway",
     "image": "https://www.mmobomb.com/file/2026/4/wot-giveaway.png",
@@ -598,6 +584,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 1,
+    "title": "lihiman",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4504460/3df24791c0c0ebefc2591dd2f6444b0f12ecc1bc/capsule_616x353.jpg?t=1774875644",
+    "url": "https://kiwidreams-01.itch.io/lihiman-full",
+    "store": "itch.io",
+    "price": 5,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2026-04-30T18:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
