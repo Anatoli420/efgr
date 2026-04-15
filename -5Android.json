@@ -14,20 +14,6 @@
     "date": ""
   },
   {
-    "id": "",
-    "adImp": 1,
-    "title": "FASTAR VIP - Rhythm Game",
-    "image": "https://play-lh.googleusercontent.com/xjMHxJtOXXgYvBXRVb9PDrh6zoNsvkHS_sqWwLO5A6hLQMHGGU4cTBpu5JqOPoNSpuk",
-    "url": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip",
-    "store": "Google Play",
-    "price": 1,
-    "date": "",
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-01-01T06:00:00.000Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
     "id": "//?SUB SCREEN////",
     "adImp": null,
     "horizontal": false,
@@ -485,6 +471,20 @@
     "date": "",
     "status": 4,
     "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 1,
+    "title": "FASTAR VIP - Rhythm Game",
+    "image": "https://play-lh.googleusercontent.com/xjMHxJtOXXgYvBXRVb9PDrh6zoNsvkHS_sqWwLO5A6hLQMHGGU4cTBpu5JqOPoNSpuk",
+    "url": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip",
+    "store": "Google Play",
+    "price": 1,
+    "date": "",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-01-01T06:00:00.000Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
