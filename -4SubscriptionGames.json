@@ -1,6 +1,62 @@
 [
   {
     "adImp": 3,
+    "title": "Monster Harvest",
+    "image": "https://m.media-amazon.com/images/I/6154u0kYGnL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/monster-harvest-epic/dp/amzn1.pg.item.299d6ca2-9dfa-4e26-b865-cca0d7117a3a?g=s&ingress=amzn&ref_=SM_MonsterHarvest_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 17,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-05-20T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Snake Core",
+    "image": "https://m.media-amazon.com/images/I/61-CMUe+MeL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/snake-core-gog/dp/amzn1.pg.item.8dae30db-2cb3-4de1-99c4-9a1ce8700286?g=s&ingress=amzn&ref_=SM_SnakeCore_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 5,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-07-15T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Detective Agency: Gray Tie - CE",
+    "image": "https://m.media-amazon.com/images/I/71IafwQWlNL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/detective-agency-gray-tie-ce-legacy/dp/amzn1.pg.item.190edc63-f7f7-4a70-addc-7d56a0ca7efd?g=s&ingress=amzn&ref_=SM_DetectiveAgencyGrayTieCE_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 3,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-05-20T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "adImp": null,
+    "title": "RATEUS",
+    "store": "separador",
+    "price": 0,
+    "date": "??-08-2022",
+    "status": 1,
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "adImp": 3,
     "title": "King of Retail",
     "image": "https://m.media-amazon.com/images/I/615HAs2-fxL._FMwebp_.jpg",
     "url": "https://luna.amazon.com/claims/king-of-retail-gog/dp/amzn1.pg.item.36296c26-8f00-4a21-987a-8dc131220c5a?ingress=amzn&ref_=SM_KingofRetail_S01_FGWP_CRWN",
@@ -26,20 +82,6 @@
     "endDate": "2026-07-08T21:00:00.000Z",
     "date": "",
     "id": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "adImp": null,
-    "title": "RATEUS",
-    "store": "separador",
-    "price": 0,
-    "date": "??-08-2022",
-    "status": 1,
-    "startDate": "",
-    "endDate": ""
   },
   {
     "adImp": 2,
