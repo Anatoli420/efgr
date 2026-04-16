@@ -2,15 +2,15 @@
   {
     "id": "",
     "adImp": 11,
-    "title": "Dumb Ways to Draw",
-    "image": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-11deh.png?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/dumb-ways-to-draw-android-3bce1a",
+    "title": "Broken Sword : Reforged",
+    "image": "https://cdn1.epicgames.com/spt-assets/5c57a17028644a7e9974bc7f54d2728a/broken-sword--reforged-15ck4.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/broken-sword-reforged-android-6a7c91",
     "price": 5,
     "store": "Epic Games",
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2026-04-09T15:00:00.000Z",
-    "endDate": "2026-04-16T15:00:00.000Z",
+    "startDate": "2026-04-16T15:00:00.000Z",
+    "endDate": "2026-04-23T15:00:00.000Z",
     "date": ""
   },
   {
@@ -472,6 +472,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 11,
+    "title": "Dumb Ways to Draw",
+    "image": "https://cdn1.epicgames.com/spt-assets/67f9b7f8cd35411685bfa78500185af2/dumb-ways-to-draw-11deh.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/dumb-ways-to-draw-android-3bce1a",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-04-09T15:00:00.000Z",
+    "endDate": "2026-04-16T15:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
