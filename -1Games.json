@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 11,
+    "title": "The Stone of Madness",
+    "image": "https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-hvdla.jpg?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/the-stone-of-madness-7b22f3",
+    "price": 30,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-04-16T15:00:00.000Z",
+    "endDate": "2026-04-23T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 3,
     "title": "NineHells",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2860410/header.jpg?t=1776202563",
