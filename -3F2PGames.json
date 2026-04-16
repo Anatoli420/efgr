@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "Myth of Empires: Throne",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4510830/bf8057dc4cb5dceb11bd8e5934a12a1f879b11a4/header.jpg?t=1776345556",
+    "url": "https://store.steampowered.com/app/4510830/Myth_of_Empires_Throne/",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2026-04-16T17:00:00.000Z",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Chop Chains",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4139720/0d62a255428fea1309eeebdfabedbed724b46b19/header.jpg?t=1775813395",
     "url": "https://store.steampowered.com/app/4139720/Chop_Chains/",
