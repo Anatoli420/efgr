@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "The Whispering Valley",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1512390/header.jpg?t=1740158519",
+    "url": "https://www.gog.com/game/the_whispering_valley",
+    "price": 12,
+    "store": "GoG",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-12-19T17:00:00.000Z",
+    "endDate": "2026-04-28T13:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
     "title": "Sentience: The Android's Tale",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/635850/header.jpg?t=1775829391",
     "url": "https://store.steampowered.com/app/635850/Sentience_The_Androids_Tale/",
@@ -14,7 +28,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 3,
     "title": "Legend of Keepers: Career of a Dungeon Manager",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/978520/header.jpg?t=1765920747",
     "url": "https://store.steampowered.com/app/978520/Legend_of_Keepers_Career_of_a_Dungeon_Manager/",
