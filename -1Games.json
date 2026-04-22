@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 1,
+    "title": "Shipped - Steam Game",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1037190/header.jpg?t=1775568887",
+    "url": "https://www.fanatical.com/game/shipped",
+    "store": "Fanatical",
+    "price": 10,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-01T16:00:00.000Z",
+    "endDate": "2026-02-24T23:59:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 3,
     "title": "The Saint",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3005210/7281fc4c93aefa47aa0bea7d5d468abc3dce9a9b/header_alt_assets_0.jpg?t=1776341001",
