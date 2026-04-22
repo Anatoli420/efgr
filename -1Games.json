@@ -1,6 +1,6 @@
 [
   {
-    "adImp": 2,
+    "adImp": 3,
     "title": "SurrounDead Poly Construction",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4148570/e9d382915c9291934640aa856aa5d65af3abe5d9/header.jpg?t=1776780862",
     "url": "https://store.steampowered.com/app/4148570/SurrounDead_Poly_Construction/",
@@ -10,6 +10,20 @@
     "horizontal": "fechasProgramadas",
     "startDate": "2024-02-01T16:00:00.000Z",
     "endDate": "2026-04-25T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Aeonic",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3277530/a0c3f617c7e8f3b50958babae1cf4ebccccf7d18/header.jpg?t=1776893461",
+    "url": "https://store.steampowered.com/app/3277530/Aeonic/",
+    "store": "Steam",
+    "price": 4,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-01T16:00:00.000Z",
+    "endDate": "2026-04-29T17:00:00.000Z",
     "date": "",
     "id": ""
   },
