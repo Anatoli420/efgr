@@ -56,6 +56,20 @@
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
+    "id": "//?SUB SCREEN////",
+    "adImp": null,
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "title": "RATEUS",
+    "store": "",
+    "price": 0,
+    "date": "",
+    "status": 1,
+    "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
     "id": "",
     "adImp": 2,
     "title": "Summoners Era: Idle Strategy",
@@ -110,20 +124,6 @@
     "startDate": "2026-04-16T15:00:00.000Z",
     "endDate": "2026-04-23T15:00:00.000Z",
     "date": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "adImp": null,
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "title": "RATEUS",
-    "store": "",
-    "price": 0,
-    "date": "",
-    "status": 1,
-    "startDate": "",
-    "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
     "id": "",
