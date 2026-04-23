@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 11,
+    "title": "DOOMBLADE",
+    "image": "https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-120wd.jpg?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/doomblade-afdf9a",
+    "price": 15,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-04-23T15:00:00.000Z",
+    "endDate": "2026-04-30T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 4,
     "title": "Typers Combat",
     "image": "https://cdn1.epicgames.com/spt-assets/d07bf5ae6bdd495caf755fb5f56844e7/typers-combat-logo-1s1pa.png?resize=1&w=480&h=270&quality=medium",
