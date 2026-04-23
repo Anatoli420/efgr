@@ -42,20 +42,6 @@
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
-    "id": "",
-    "adImp": 3,
-    "title": "Survival Dungeon: Loot RPG Pro",
-    "image": "https://play-lh.googleusercontent.com/mXWwMUQo2mi0VF6Ttf-D5r1GhMNlF9-VYsirC8RvnFgH1USDJPr8I-7QYAz3bVXtVDY=w240-h480-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.gemjem.rpg.games.roguelike.dungeon.crawler.dragons.adventure.dark.souls.survival.fantasy.action.pro",
-    "store": "Google Play",
-    "price": 1,
-    "date": "",
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
     "id": "//?SUB SCREEN////",
     "adImp": null,
     "horizontal": "RateUs",
@@ -555,6 +541,20 @@
     "date": "",
     "status": 4,
     "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 3,
+    "title": "Survival Dungeon: Loot RPG Pro",
+    "image": "https://play-lh.googleusercontent.com/mXWwMUQo2mi0VF6Ttf-D5r1GhMNlF9-VYsirC8RvnFgH1USDJPr8I-7QYAz3bVXtVDY=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.gemjem.rpg.games.roguelike.dungeon.crawler.dragons.adventure.dark.souls.survival.fantasy.action.pro",
+    "store": "Google Play",
+    "price": 1,
+    "date": "",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
