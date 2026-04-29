@@ -22,10 +22,10 @@
     "store": "Google Play",
     "price": 1,
     "date": "",
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "status": 1,
     "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
+    "endDate": "2026-05-05T23:59:59.000Z"
   },
   {
     "id": "//?SUB SCREEN////",
@@ -50,10 +50,10 @@
     "store": "Google Play",
     "price": 1,
     "date": "",
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "status": 1,
     "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
+    "endDate": "2026-05-02T23:59:59.000Z"
   },
   {
     "id": "",
@@ -64,10 +64,10 @@
     "store": "Google Play",
     "price": 1,
     "date": "",
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "status": 1,
     "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
+    "endDate": "2026-05-02T23:59:59.000Z"
   },
   {
     "id": "",
@@ -78,10 +78,10 @@
     "store": "Google Play",
     "price": 2,
     "date": "",
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "status": 1,
     "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
+    "endDate": "2026-05-02T23:59:59.000Z"
   },
   {
     "id": "",
@@ -307,20 +307,6 @@
   },
   {
     "id": "",
-    "title": "Hero Z",
-    "image": "https://play-lh.googleusercontent.com/rNV1qM45luccWl6Phw7MJW2pyGlhjf0GhZLQPCJUaVuc1nxgW_K8w1dMTu0AB5RwRdg",
-    "url": "https://play.google.com/store/apps/details?id=com.imcrazy.hs",
-    "store": "Google Play",
-    "price": 1,
-    "date": "",
-    "status": 1,
-    "adImp": 3,
-    "horizontal": true,
-    "startDate": "2020-10-10T06:00:00.000Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "",
     "adImp": 2,
     "title": "Age of Empires Mobile",
     "image": "https://play-lh.googleusercontent.com/zp1t6IbS08x3V-NwrV2Wy4JjMDiqnxgOFoYRVtfLDJzGmy_JH1G1csjmg69geUAXnA=w240-h480-rw",
@@ -541,6 +527,20 @@
     "date": "",
     "status": 4,
     "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "title": "Hero Z",
+    "image": "https://play-lh.googleusercontent.com/rNV1qM45luccWl6Phw7MJW2pyGlhjf0GhZLQPCJUaVuc1nxgW_K8w1dMTu0AB5RwRdg",
+    "url": "https://play.google.com/store/apps/details?id=com.imcrazy.hs",
+    "store": "Google Play",
+    "price": 1,
+    "date": "",
+    "status": 2,
+    "adImp": 3,
+    "horizontal": true,
+    "startDate": "2020-10-10T06:00:00.000Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
