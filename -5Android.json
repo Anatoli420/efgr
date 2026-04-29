@@ -71,20 +71,6 @@
   },
   {
     "id": "",
-    "adImp": 2,
-    "title": "Warrior In Dungeon",
-    "image": "https://play-lh.googleusercontent.com/bvKSuejM1UeqKqX68UFeu600oeccv0L6O050pO_eq4__dqo6_OtMQD0rbSdL_nfKGoU=s480-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.NextEntry.WS",
-    "store": "Google Play",
-    "price": 1,
-    "date": "",
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "",
     "title": "Slime Legends - Survivor",
     "image": "https://play-lh.googleusercontent.com/yH-fMtkj_NGH_ChvyPpS9JhIGc1eN9eWVVhfCg-gWnZUVjod0CU50UZJtItLFomqNJ1o=s960-rw",
     "url": "https://play.google.com/store/apps/details?id=com.fori.slimelegends",
@@ -541,6 +527,20 @@
     "date": "",
     "status": 4,
     "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 2,
+    "title": "Warrior In Dungeon",
+    "image": "https://play-lh.googleusercontent.com/bvKSuejM1UeqKqX68UFeu600oeccv0L6O050pO_eq4__dqo6_OtMQD0rbSdL_nfKGoU=s480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.NextEntry.WS",
+    "store": "Google Play",
+    "price": 1,
+    "date": "",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
