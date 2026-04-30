@@ -1,15 +1,43 @@
 [
   {
     "adImp": 1,
-    "title": "Age of Mythology: Retold",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1934680/header.jpg?t=1776981620",
-    "url": "https://store.steampowered.com/app/1934680/Age_of_Mythology_Retold/",
+    "title": "Sonic Racing: CrossWorlds",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2486820/5b1641e57351000495e49c9bbd42ecbeb6d17c9d/header_alt_assets_6.jpg?t=1777437605",
+    "url": "https://store.steampowered.com/app/2486820/Sonic_Racing_CrossWorlds/",
+    "store": "Steam",
+    "price": 15,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-05-04T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Victoria 3",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/529340/c70e15b48d424bca275f39061ecd164da362c1a7/header_alt_assets_4.jpg?t=1777568457",
+    "url": "https://store.steampowered.com/app/529340/Victoria_3/",
     "store": "Steam",
     "price": 30,
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2024-05-17T17:00:00.000Z",
-    "endDate": "2026-04-27T17:00:00.000Z",
+    "endDate": "2026-05-04T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "No More Room in Hell 2",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292000/d59cef96c8e166d0a20dc8465af8060638cd04d8/header_alt_assets_7.jpg?t=1777569047",
+    "url": "https://store.steampowered.com/app/292000/No_More_Room_in_Hell_2/",
+    "store": "Steam",
+    "price": 30,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-05-04T17:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -54,6 +82,20 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Age of Mythology: Retold",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1934680/header.jpg?t=1776981620",
+    "url": "https://store.steampowered.com/app/1934680/Age_of_Mythology_Retold/",
+    "store": "Steam",
+    "price": 30,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-04-27T17:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 3,
