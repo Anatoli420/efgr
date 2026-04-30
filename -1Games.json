@@ -111,6 +111,20 @@
     "id": ""
   },
   {
+    "adImp": 3,
+    "title": "Trash Goblin",
+    "image": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-9bxry.png?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/trash-goblin-cd5fd7",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 3,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-05-07T15:00:00.000Z",
+    "endDate": "2026-05-14T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "id": "//?SUB SCREEN////",
     "adImp": null,
     "horizontal": false,
