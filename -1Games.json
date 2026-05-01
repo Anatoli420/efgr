@@ -167,20 +167,6 @@
     "id": ""
   },
   {
-    "adImp": 2,
-    "title": "Static Voice",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4207170/5b734a735246cf374806d41ec31076c84772566a/header.jpg?t=1768580713",
-    "url": "https://kadderagames.itch.io/static-voice",
-    "store": "itch.io",
-    "price": 2,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "endDate": "2026-03-31T18:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 5,
     "title": "Blood And Zombies",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a9b511bf-1ed7-4b87-a75d-420420b802b4/prodmain/1774706142.png",
@@ -626,6 +612,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 2,
+    "title": "Static Voice",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4207170/5b734a735246cf374806d41ec31076c84772566a/header.jpg?t=1768580713",
+    "url": "https://kadderagames.itch.io/static-voice",
+    "store": "itch.io",
+    "price": 2,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2026-03-31T18:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 2,
