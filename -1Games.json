@@ -1,6 +1,6 @@
 [
   {
-    "adImp": 4,
+    "adImp": 3,
     "title": "False Title - RPG",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3787640/bc8d61e47cb5203caee0650f4b66dddc98e59f01/header.jpg?t=1754941222",
     "url": "https://s-xavier-uy.itch.io/false-title",
@@ -10,6 +10,34 @@
     "horizontal": true,
     "startDate": "2024-04-04T15:00:00.000Z",
     "endDate": "2024-04-07T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "LivingBattle",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3353830/header.jpg?t=1778365475",
+    "url": "https://store.steampowered.com/app/3353830/LivingBattle/",
+    "store": "Steam",
+    "price": 3,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-01T16:00:00.000Z",
+    "endDate": "2026-05-12T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Just Move Fall Dungeon Endless Abyss",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3856040/778e45bf1e3b83f356b7d305f40dae3fecfa98a9/header.jpg?t=1778365883",
+    "url": "https://store.steampowered.com/app/3856040/Just_Move_Fall_Dungeon_Endless_Abyss/",
+    "store": "Steam",
+    "price": 3,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-01T16:00:00.000Z",
+    "endDate": "2026-05-13T17:00:00.000Z",
     "date": "",
     "id": ""
   },
