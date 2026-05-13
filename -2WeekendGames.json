@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "GreedFall: The Dying World",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1997660/b7374d33668426f7884c335a6e7f6ce0f4013251/header_alt_assets_2.jpg?t=1778173541",
+    "url": "https://store.steampowered.com/app/1997660/GreedFall_The_Dying_World/",
+    "store": "Steam",
+    "price": 50,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-05-17T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "The Midnight Walkers",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2795540/b82ada86aa861bf414905063e682eebb32969fbc/header_alt_assets_2.jpg?t=1778173074",
     "url": "https://store.steampowered.com/app/2795540/The_Midnight_Walkers/",
