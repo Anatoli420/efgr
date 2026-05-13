@@ -14,34 +14,6 @@
     "id": ""
   },
   {
-    "adImp": 1,
-    "title": "The Midnight Walkers",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2795540/b82ada86aa861bf414905063e682eebb32969fbc/header_alt_assets_2.jpg?t=1778173074",
-    "url": "https://store.steampowered.com/app/2795540/The_Midnight_Walkers/",
-    "store": "Steam",
-    "price": 20,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-05-17T17:00:00.000Z",
-    "endDate": "2026-05-11T17:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 2,
-    "title": "FOUNDRY",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/983870/21b37758c8cc70e5e19999bb4119535740b634fb/header_alt_assets_5.jpg?t=1777381483",
-    "url": "https://store.steampowered.com/app/983870/FOUNDRY/",
-    "store": "Steam",
-    "price": 21,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-05-17T17:00:00.000Z",
-    "endDate": "2026-05-11T17:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 4,
     "title": "WITHOUT A HITCH Closed Playtest Steam Key Giveaway",
     "image": "https://media.alienwarearena.com/media/8b0291be667a362b6dc908ede9f9cb88.jpg?fit=crop&width=720&height=405&quality=75",
@@ -82,6 +54,34 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": 2,
+    "title": "FOUNDRY",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/983870/21b37758c8cc70e5e19999bb4119535740b634fb/header_alt_assets_5.jpg?t=1777381483",
+    "url": "https://store.steampowered.com/app/983870/FOUNDRY/",
+    "store": "Steam",
+    "price": 21,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-05-11T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "The Midnight Walkers",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2795540/b82ada86aa861bf414905063e682eebb32969fbc/header_alt_assets_2.jpg?t=1778173074",
+    "url": "https://store.steampowered.com/app/2795540/The_Midnight_Walkers/",
+    "store": "Steam",
+    "price": 20,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-05-11T17:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 1,
