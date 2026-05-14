@@ -1,6 +1,34 @@
 [
   {
     "adImp": 11,
+    "title": "The Telltale Batman Shadows Edition",
+    "image": "https://cdn1.epicgames.com/undefined/offer/TheTelltaleBatmanShadowsEdition-2560x1440-1ababb36a948b5c732ab85a330787e85.jpg?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/the-telltale-batman",
+    "price": 30,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-05-14T15:00:00.000Z",
+    "endDate": "2026-05-21T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Sunderfolk - Standard Edition",
+    "image": "https://cdn1.epicgames.com/spt-assets/71c943751e9642c3918ba6b20ebe4b13/sunderfolk-1nc9h.png?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/sunderfolk-standard-edition-83c05e",
+    "price": 50,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-05-14T15:00:00.000Z",
+    "endDate": "2026-05-21T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": "Lost in the Hole",
     "image": "https://cdn1.epicgames.com/spt-assets/3f1ac27957244190ad8775534f72bff0/lost-in-the-hole-1eh35.png?w=600&quality=high&resize=1",
     "url": "https://store.epicgames.com/p/lost-in-the-hole-3e0586",
