@@ -1,6 +1,20 @@
 [
   {
     "adImp": 11,
+    "title": "Devil's Island",
+    "image": "https://cdn1.epicgames.com/spt-assets/8765e0a84b9f42948abfca013c50c1a3/devils-island-1ayz8.jpg?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/devils-island-03e902",
+    "price": 13,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-05-14T15:00:00.000Z",
+    "endDate": "2026-05-16T10:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": "The Telltale Batman Shadows Edition",
     "image": "https://cdn1.epicgames.com/undefined/offer/TheTelltaleBatmanShadowsEdition-2560x1440-1ababb36a948b5c732ab85a330787e85.jpg?w=600&quality=high&resize=1",
     "url": "https://store.epicgames.com/p/the-telltale-batman",
