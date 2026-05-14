@@ -1,6 +1,48 @@
 [
   {
     "adImp": 1,
+    "title": "Astral Ascent",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280930/2a20a924f7d4e5aecf883f145532b4422848058a/header_alt_assets_0.jpg?t=1778759861",
+    "url": "https://store.steampowered.com/app/1280930/Astral_Ascent/",
+    "store": "Steam",
+    "price": 25,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-05-18T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "MISERY",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/f4aa2f3b4b352f7f373026fe592d32eef2c72fce/header.jpg?t=1778733532",
+    "url": "https://store.steampowered.com/app/2119830/MISERY/",
+    "store": "Steam",
+    "price": 13,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-05-18T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Make Way",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/9f71153a7e8078a163dd944ed4439069a4f842e8/header_alt_assets_0.jpg?t=1778781705",
+    "url": "https://store.steampowered.com/app/1445790/Make_Way/",
+    "store": "Steam",
+    "price": 15,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-05-18T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "GreedFall: The Dying World",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1997660/b7374d33668426f7884c335a6e7f6ce0f4013251/header_alt_assets_2.jpg?t=1778173541",
     "url": "https://store.steampowered.com/app/1997660/GreedFall_The_Dying_World/",
