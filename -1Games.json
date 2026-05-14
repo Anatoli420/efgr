@@ -98,34 +98,6 @@
     "id": ""
   },
   {
-    "adImp": 11,
-    "title": "Trash Goblin",
-    "image": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-9bxry.png?w=600&quality=high&resize=1",
-    "url": "https://store.epicgames.com/p/trash-goblin-cd5fd7",
-    "price": 20,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-05-07T15:00:00.000Z",
-    "endDate": "2026-05-14T15:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 11,
-    "title": "Arranger: A Role-Puzzling Adventure",
-    "image": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-17mu3.jpg?resize=1&w=854&h=480&quality=medium",
-    "url": "https://store.epicgames.com/p/arranger-a-rolepuzzling-adventure-dbfde7",
-    "price": 20,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-05-07T15:00:00.000Z",
-    "endDate": "2026-05-14T15:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 3,
     "title": "Forget-me-not",
     "image": "https://img.itch.zone/aW1nLzg1MTg2MTAuanBn/original/UzA%2Fvr.jpg",
@@ -175,8 +147,8 @@
     "store": "Epic Games",
     "status": 3,
     "horizontal": "fechasProgramadas",
-    "startDate": "2026-05-14T15:00:00.000Z",
-    "endDate": "2026-05-21T15:00:00.000Z",
+    "startDate": "2026-05-21T15:00:00.000Z",
+    "endDate": "2026-05-28T15:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -189,8 +161,8 @@
     "store": "Epic Games",
     "status": 3,
     "horizontal": "fechasProgramadas",
-    "startDate": "2026-05-14T15:00:00.000Z",
-    "endDate": "2026-05-21T15:00:00.000Z",
+    "startDate": "2026-05-21T15:00:00.000Z",
+    "endDate": "2026-05-28T15:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -642,6 +614,34 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 11,
+    "title": "Arranger: A Role-Puzzling Adventure",
+    "image": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-17mu3.jpg?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/arranger-a-rolepuzzling-adventure-dbfde7",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-05-07T15:00:00.000Z",
+    "endDate": "2026-05-14T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Trash Goblin",
+    "image": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-9bxry.png?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/trash-goblin-cd5fd7",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-05-07T15:00:00.000Z",
+    "endDate": "2026-05-14T15:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 1,
