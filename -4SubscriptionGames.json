@@ -1,5 +1,61 @@
 [
   {
+    "adImp": 3,
+    "title": "60 Minutes to Extinction: Escape Room",
+    "image": "https://m.media-amazon.com/images/I/61JE5eenl+L._FMwebp_.jpg",
+    "url": "http://luna.amazon.com/claims/60-minutes-to-extinction-escape-room-gog/dp/amzn1.pg.item.15f8ec7c-efc1-4422-846a-627acfd66b46?g=s&ingress=amzn&ref_=SM_60MinutestoExtinctionEscapeRoom_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 8,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-06-17T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Survival: Fountain of Youth",
+    "image": "https://m.media-amazon.com/images/I/710cclFuC0L._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/survival-fountain-of-youth-aga/dp/amzn1.pg.item.35fc21f8-36dc-4f75-903b-795b97b13cc5?g=s&ingress=amzn&ref_=SM_SurvivalFountainofYouth_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 28,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-07-15T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Lethal Honor - Order of the Apocalypse",
+    "image": "https://m.media-amazon.com/images/I/71l1WrZXPKL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/lethal-honor-order-of-the-apocalypse-epic/dp/amzn1.pg.item.f610100a-1240-41f8-84dd-767c2df675b4?g=s&ingress=amzn&ref_=SM_LethalHonorOrderoftheApocalypse_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 25,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-08-12T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "adImp": null,
+    "title": "RATEUS",
+    "store": "separador",
+    "price": 0,
+    "date": "??-08-2022",
+    "status": 1,
+    "startDate": "",
+    "endDate": ""
+  },
+  {
     "adImp": 2,
     "title": "Fruitbus",
     "image": "https://m.media-amazon.com/images/I/61O7tCsTZVL._FMwebp_.jpg",
@@ -40,20 +96,6 @@
     "endDate": "2026-06-01T21:00:00.000Z",
     "date": "",
     "id": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "adImp": null,
-    "title": "RATEUS",
-    "store": "separador",
-    "price": 0,
-    "date": "??-08-2022",
-    "status": 1,
-    "startDate": "",
-    "endDate": ""
   },
   {
     "adImp": 4,
