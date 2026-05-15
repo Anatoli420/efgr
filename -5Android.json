@@ -16,6 +16,20 @@
   {
     "id": "",
     "adImp": 1,
+    "title": "EHW Premium & stick fight",
+    "image": "https://play-lh.googleusercontent.com/otEAVXa2NNyIhEB46xN8oZNX4MoJgyqfBY6oOSgFcTBwYqW4A_eSB0aTBbKv0Xgwq0A=s480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.divmob.epicheroeswar.en.freemium",
+    "store": "Google Play",
+    "price": 1,
+    "horizontal": "fechasProgramadas",
+    "status": 1,
+    "startDate": "2024-01-01T06:00:00.001Z",
+    "endDate": "2026-05-22T23:59:59.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
+    "adImp": 1,
     "title": "FASTAR VIP - Rhythm Game",
     "image": "https://play-lh.googleusercontent.com/xjMHxJtOXXgYvBXRVb9PDrh6zoNsvkHS_sqWwLO5A6hLQMHGGU4cTBpu5JqOPoNSpuk",
     "url": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip",
@@ -1045,20 +1059,6 @@
     "horizontal": true,
     "startDate": "2026-04-09T15:00:00.000Z",
     "endDate": "2026-04-16T15:00:00.000Z",
-    "date": ""
-  },
-  {
-    "id": "",
-    "adImp": 1,
-    "title": "EHW Premium & stick fight",
-    "image": "https://play-lh.googleusercontent.com/otEAVXa2NNyIhEB46xN8oZNX4MoJgyqfBY6oOSgFcTBwYqW4A_eSB0aTBbKv0Xgwq0A=s480-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.divmob.epicheroeswar.en.freemium",
-    "store": "Google Play",
-    "price": 1,
-    "horizontal": true,
-    "status": 2,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2025-12-12T06:00:00.001Z",
     "date": ""
   },
   {
