@@ -1,6 +1,20 @@
 [
   {
     "id": "",
+    "adImp": 1,
+    "title": "FASTAR VIP - Rhythm Game",
+    "image": "https://play-lh.googleusercontent.com/xjMHxJtOXXgYvBXRVb9PDrh6zoNsvkHS_sqWwLO5A6hLQMHGGU4cTBpu5JqOPoNSpuk",
+    "url": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip",
+    "store": "Google Play",
+    "price": 1,
+    "date": "",
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-01-01T06:00:00.000Z",
+    "endDate": "2026-05-22T23:59:59.000Z"
+  },
+  {
+    "id": "",
     "adImp": 2,
     "title": "Space Shooter: Galaxy Attack",
     "image": "https://play-lh.googleusercontent.com/FEu9oAskY0DimLjJKnSMVddtlzcEitVMfGe2T_Gavg5Vv9V474w1Pqbkw1YTEwd1PAHO=s480-rw",
@@ -1018,20 +1032,6 @@
     "startDate": "2026-04-09T15:00:00.000Z",
     "endDate": "2026-04-16T15:00:00.000Z",
     "date": ""
-  },
-  {
-    "id": "",
-    "adImp": 1,
-    "title": "FASTAR VIP - Rhythm Game",
-    "image": "https://play-lh.googleusercontent.com/xjMHxJtOXXgYvBXRVb9PDrh6zoNsvkHS_sqWwLO5A6hLQMHGGU4cTBpu5JqOPoNSpuk",
-    "url": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip",
-    "store": "Google Play",
-    "price": 1,
-    "date": "",
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-01-01T06:00:00.000Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
     "id": "",
