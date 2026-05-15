@@ -2,6 +2,20 @@
   {
     "id": "",
     "adImp": 1,
+    "title": "RFS - Real Flight Simulator",
+    "image": "https://play-lh.googleusercontent.com/kwlIDGuHPCwW6YVpmfEELagMBuwFYYdYczT_ueJxu-5YX6A5YlQclOnKsgV-ShlSBg=s480-rw",
+    "url": "https://play.google.com/store/apps/details?id=it.rortos.realflightsimulator",
+    "store": "Google Play",
+    "price": 1,
+    "date": "",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-01-01T06:00:00.000Z",
+    "endDate": "2026-05-21T23:59:59.000Z"
+  },
+  {
+    "id": "",
+    "adImp": 1,
     "title": "FASTAR VIP - Rhythm Game",
     "image": "https://play-lh.googleusercontent.com/xjMHxJtOXXgYvBXRVb9PDrh6zoNsvkHS_sqWwLO5A6hLQMHGGU4cTBpu5JqOPoNSpuk",
     "url": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip",
@@ -9,7 +23,7 @@
     "price": 1,
     "date": "",
     "status": 1,
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "startDate": "2024-01-01T06:00:00.000Z",
     "endDate": "2026-05-22T23:59:59.000Z"
   },
