@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 1,
+    "title": "Game of Thrones: Kingsroad",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3183280/60bc9d2e35ad225069e99e7b802aa9e183fe51e6/header.jpg?t=1749437691",
+    "url": "https://store.steampowered.com/app/3183280/Game_of_Thrones_Kingsroad/",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2025-05-21T17:00:00.000Z",
+    "id": ""
+  },
+  {
     "adImp": 2,
     "title": "AFK Journey",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195600/c539ad6daa4255255a35435d2fbbd216ca4a1e51/header.jpg?t=1777342014",
@@ -12,6 +26,20 @@
     "date": "",
     "startDate": "2026-04-27T17:00:00.000Z",
     "id": ""
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "adImp": null,
+    "title": "RATEUS",
+    "store": "separador",
+    "price": 0,
+    "date": "",
+    "status": 1,
+    "startDate": "",
+    "endDate": ""
   },
   {
     "adImp": 3,
@@ -28,7 +56,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 3,
     "title": "Idle Iktah",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3298520/92a83f8884fc4c9d6c7f3fb29d95ca7ea3f0e9ba/header.jpg?t=1776291517",
     "url": "https://store.steampowered.com/app/3298520/Idle_Iktah/",
@@ -42,7 +70,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 4,
     "title": "Myth of Empires: Throne",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4510830/bf8057dc4cb5dceb11bd8e5934a12a1f879b11a4/header.jpg?t=1776345556",
     "url": "https://store.steampowered.com/app/4510830/Myth_of_Empires_Throne/",
@@ -56,7 +84,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 5,
     "title": "Chop Chains",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4139720/0d62a255428fea1309eeebdfabedbed724b46b19/header.jpg?t=1775813395",
     "url": "https://store.steampowered.com/app/4139720/Chop_Chains/",
@@ -68,20 +96,6 @@
     "date": "",
     "startDate": "2026-04-10T17:00:00.000Z",
     "id": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "adImp": null,
-    "title": "RATEUS",
-    "store": "separador",
-    "price": 0,
-    "date": "",
-    "status": 1,
-    "startDate": "",
-    "endDate": ""
   },
   {
     "adImp": 2,
