@@ -56,20 +56,6 @@
     "id": ""
   },
   {
-    "adImp": 1,
-    "title": "Devil's Island",
-    "image": "https://cdn1.epicgames.com/spt-assets/8765e0a84b9f42948abfca013c50c1a3/devils-island-1ayz8.jpg?w=600&quality=high&resize=1",
-    "url": "https://store.epicgames.com/p/devils-island-03e902",
-    "price": 13,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-05-14T15:00:00.000Z",
-    "endDate": "2026-05-16T10:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 11,
     "title": "The Telltale Batman Shadows Edition",
     "image": "https://cdn1.epicgames.com/undefined/offer/TheTelltaleBatmanShadowsEdition-2560x1440-1ababb36a948b5c732ab85a330787e85.jpg?w=600&quality=high&resize=1",
@@ -94,20 +80,6 @@
     "horizontal": "fechasProgramadas",
     "startDate": "2026-05-14T15:00:00.000Z",
     "endDate": "2026-05-21T15:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 11,
-    "title": "Lost in the Hole",
-    "image": "https://cdn1.epicgames.com/spt-assets/3f1ac27957244190ad8775534f72bff0/lost-in-the-hole-1eh35.png?w=600&quality=high&resize=1",
-    "url": "https://store.epicgames.com/p/lost-in-the-hole-3e0586",
-    "price": 15,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-05-07T15:00:00.000Z",
-    "endDate": "2026-05-16T23:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -668,6 +640,34 @@
     "horizontal": true,
     "startDate": "2024-04-04T15:00:00.000Z",
     "endDate": "2024-04-07T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Lost in the Hole",
+    "image": "https://cdn1.epicgames.com/spt-assets/3f1ac27957244190ad8775534f72bff0/lost-in-the-hole-1eh35.png?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/lost-in-the-hole-3e0586",
+    "price": 15,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-05-07T15:00:00.000Z",
+    "endDate": "2026-05-16T23:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Devil's Island",
+    "image": "https://cdn1.epicgames.com/spt-assets/8765e0a84b9f42948abfca013c50c1a3/devils-island-1ayz8.jpg?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/devils-island-03e902",
+    "price": 13,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-05-14T15:00:00.000Z",
+    "endDate": "2026-05-16T10:00:00.000Z",
     "date": "",
     "id": ""
   },
