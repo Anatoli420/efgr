@@ -1,6 +1,20 @@
 [
   {
     "id": "",
+    "adImp": 3,
+    "title": "The Lost Treasure",
+    "image": "https://play-lh.googleusercontent.com/12hV5mKTrCNVXsOKR3ATvYTGXXivqHzPwYtoKk-eGS0B956O0KZB1hx-2wzsveFgEQyv=s480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.lonewolfgames.losttreasure",
+    "store": "Google Play",
+    "price": 4,
+    "date": "",
+    "horizontal": "fechasProgramadas",
+    "status": 1,
+    "startDate": "2024-01-01T06:00:00.001Z",
+    "endDate": "2026-05-22T23:59:59.000Z"
+  },
+  {
+    "id": "",
     "adImp": 5,
     "title": "Grow Spaceship VIP",
     "image": "https://play-lh.googleusercontent.com/DI-nCVHLnZotKTzEE3-wubP9ZV0dXLLoiiwDRo3ZXBgMTGUcMfsdNgSsZJ-lC7PmBGk",
@@ -9,7 +23,7 @@
     "price": 2,
     "date": "",
     "status": 1,
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2026-05-23T23:59:59.000Z"
   },
@@ -22,7 +36,7 @@
     "store": "Google Play",
     "price": 2,
     "date": "",
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "status": 1,
     "startDate": "2024-01-01T06:00:00.001Z",
     "endDate": "2026-05-30T23:59:59.000Z"
@@ -2721,20 +2735,6 @@
     "url": "https://bit.ly/3EgvZJg",
     "store": "Google Play",
     "price": 1,
-    "date": "",
-    "horizontal": true,
-    "status": 2,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "",
-    "adImp": 5,
-    "title": "The Lost Treasure",
-    "image": "https://play-lh.googleusercontent.com/12hV5mKTrCNVXsOKR3ATvYTGXXivqHzPwYtoKk-eGS0B956O0KZB1hx-2wzsveFgEQyv=s480-rw",
-    "url": "https://bit.ly/40N25ox",
-    "store": "Google Play",
-    "price": 5,
     "date": "",
     "horizontal": true,
     "status": 2,
