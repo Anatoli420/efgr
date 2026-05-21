@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 11,
+    "title": "Down in Bermuda",
+    "image": "https://cdn1.epicgames.com/0558e58003aa447a8ace48c3a0d53b54/offer/EGS_DowninBermuda_YakCo_S1-2560x1440-d97c45eccd46e98d4178d0d9881948eb.jpg?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/down-in-bermuda",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-05-21T15:00:00.000Z",
+    "endDate": "2026-05-28T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Tomb Raider I-III Remastered Starring Lara Croft",
+    "image": "https://cdn1.epicgames.com/spt-assets/20e7e7b1cd6b430cb062405676369c2a/tomb-raider-iiii-remastered-1s5k9.jpg?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/tomb-raider-iiii-remastered-538640",
+    "price": 30,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-05-21T15:00:00.000Z",
+    "endDate": "2026-05-28T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Tower of Time",
     "image": "https://fanatical.imgix.net/product/original/44462d2e-1470-45aa-81dd-31afdcf11a88.jpeg?auto=compress,format&w=614&fit=crop&h=346",
