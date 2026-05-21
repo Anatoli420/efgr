@@ -126,34 +126,6 @@
     "id": ""
   },
   {
-    "adImp": 11,
-    "title": "The Telltale Batman Shadows Edition",
-    "image": "https://cdn1.epicgames.com/undefined/offer/TheTelltaleBatmanShadowsEdition-2560x1440-1ababb36a948b5c732ab85a330787e85.jpg?w=600&quality=high&resize=1",
-    "url": "https://store.epicgames.com/p/the-telltale-batman",
-    "price": 30,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-05-14T15:00:00.000Z",
-    "endDate": "2026-05-21T15:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 11,
-    "title": "Sunderfolk - Standard Edition",
-    "image": "https://cdn1.epicgames.com/spt-assets/71c943751e9642c3918ba6b20ebe4b13/sunderfolk-1nc9h.png?w=600&quality=high&resize=1",
-    "url": "https://store.epicgames.com/p/sunderfolk-standard-edition-83c05e",
-    "price": 50,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-05-14T15:00:00.000Z",
-    "endDate": "2026-05-21T15:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "id": "//?SUB SCREEN////",
     "adImp": null,
     "horizontal": false,
@@ -189,8 +161,8 @@
     "store": "Epic Games",
     "status": 3,
     "horizontal": "fechasProgramadas",
-    "startDate": "2026-05-21T15:00:00.000Z",
-    "endDate": "2026-05-28T15:00:00.000Z",
+    "startDate": "2026-05-28T15:00:00.000Z",
+    "endDate": "2026-06-04T15:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -203,8 +175,8 @@
     "store": "Epic Games",
     "status": 3,
     "horizontal": "fechasProgramadas",
-    "startDate": "2026-05-21T15:00:00.000Z",
-    "endDate": "2026-05-28T15:00:00.000Z",
+    "startDate": "2026-05-28T15:00:00.000Z",
+    "endDate": "2026-06-04T15:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -656,6 +628,34 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 11,
+    "title": "Sunderfolk - Standard Edition",
+    "image": "https://cdn1.epicgames.com/spt-assets/71c943751e9642c3918ba6b20ebe4b13/sunderfolk-1nc9h.png?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/sunderfolk-standard-edition-83c05e",
+    "price": 50,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-05-14T15:00:00.000Z",
+    "endDate": "2026-05-21T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "The Telltale Batman Shadows Edition",
+    "image": "https://cdn1.epicgames.com/undefined/offer/TheTelltaleBatmanShadowsEdition-2560x1440-1ababb36a948b5c732ab85a330787e85.jpg?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/the-telltale-batman",
+    "price": 30,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-05-14T15:00:00.000Z",
+    "endDate": "2026-05-21T15:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 3,
