@@ -1,6 +1,62 @@
 [
   {
+    "adImp": 1,
+    "title": "Palindrome Syndrome: Escape Room",
+    "image": "https://m.media-amazon.com/images/I/61KcXy0iTvL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/palindrome-syndrome-escape-room-gog/dp/amzn1.pg.item.2636d5ae-477e-4010-82f4-a3440c877f67?g=s&ingress=amzn&ref_=SM_PalindromeSyndromeEscapeRoom_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 10,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-06-20T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Hot Brass",
+    "image": "https://m.media-amazon.com/images/I/61mmezzpwmL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/hot-brass-gog/dp/amzn1.pg.item.cbedd50b-8e66-4f96-9d47-a9773837afe8?g=s&ingress=amzn&ref_=SM_HotBrass_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 15,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-06-24T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 3,
+    "title": "Space Grunts",
+    "image": "https://m.media-amazon.com/images/I/61DiyE4APYL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/space-grunts-gog/dp/amzn1.pg.item.d6b4b6c3-ad9d-4e5d-9914-48c500b7be97?g=s&ingress=amzn&ref_=SM_SpaceGrunts_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 10,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-08-19T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "adImp": null,
+    "title": "RATEUS",
+    "store": "separador",
+    "price": 0,
+    "date": "??-08-2022",
+    "status": 1,
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "adImp": 4,
     "title": "60 Minutes to Extinction: Escape Room",
     "image": "https://m.media-amazon.com/images/I/61JE5eenl+L._FMwebp_.jpg",
     "url": "http://luna.amazon.com/claims/60-minutes-to-extinction-escape-room-gog/dp/amzn1.pg.item.15f8ec7c-efc1-4422-846a-627acfd66b46?g=s&ingress=amzn&ref_=SM_60MinutestoExtinctionEscapeRoom_S01_FGWP_CRWN",
@@ -40,20 +96,6 @@
     "endDate": "2026-08-12T21:00:00.000Z",
     "date": "",
     "id": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "adImp": null,
-    "title": "RATEUS",
-    "store": "separador",
-    "price": 0,
-    "date": "??-08-2022",
-    "status": 1,
-    "startDate": "",
-    "endDate": ""
   },
   {
     "adImp": 2,
