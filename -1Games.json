@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 1,
+    "title": "Bunny Guys!",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218460/21bc1a04e1dc28a7a323f7dc4521836f56ad30e3/header.jpg?t=1778711514",
+    "url": "https://store.steampowered.com/app/2218460/Bunny_Guys/",
+    "price": 5,
+    "store": "Steam",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-12-04T16:00:00.000Z",
+    "endDate": "2026-05-29T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Bunny Hurling",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3515620/header.jpg?t=1777999536",
+    "url": "https://store.steampowered.com/app/3515620/Bunny_Hurling/",
+    "price": 3,
+    "store": "Steam",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-12-04T16:00:00.000Z",
+    "endDate": "2026-05-25T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "Car Mechanic Simulator 2018",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/645630/header.jpg?t=1779384126",
