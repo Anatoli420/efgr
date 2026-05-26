@@ -14,20 +14,6 @@
     "id": ""
   },
   {
-    "adImp": 1,
-    "title": "Svoboda 1945: Liberation",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1076620/header.jpg?t=1730723258",
-    "url": "https://charlesgames.itch.io/svoboda1945",
-    "price": 16,
-    "store": "itch.io",
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2026-05-14T15:00:00.000Z",
-    "endDate": "2024-04-07T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 2,
     "title": "Bunny Guys!",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218460/21bc1a04e1dc28a7a323f7dc4521836f56ad30e3/header.jpg?t=1778711514",
@@ -38,20 +24,6 @@
     "horizontal": "fechasProgramadas",
     "startDate": "2025-12-04T16:00:00.000Z",
     "endDate": "2026-05-29T17:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 3,
-    "title": "Bunny Hurling",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3515620/header.jpg?t=1777999536",
-    "url": "https://store.steampowered.com/app/3515620/Bunny_Hurling/",
-    "price": 3,
-    "store": "Steam",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-12-04T16:00:00.000Z",
-    "endDate": "2026-05-25T17:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -672,6 +644,20 @@
     "endDate": "2050-01-01T15:00:00.000Z"
   },
   {
+    "adImp": 3,
+    "title": "Bunny Hurling",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3515620/header.jpg?t=1777999536",
+    "url": "https://store.steampowered.com/app/3515620/Bunny_Hurling/",
+    "price": 3,
+    "store": "Steam",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-12-04T16:00:00.000Z",
+    "endDate": "2026-05-25T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Back to Modern World - Fantasy Hero",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3942990/12691c00f3f53b14c92b43f87ed6dfe291a90fc0/header.jpg?t=1766514676",
@@ -696,6 +682,20 @@
     "horizontal": true,
     "startDate": "2025-12-04T16:00:00.000Z",
     "endDate": "2026-05-25T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Svoboda 1945: Liberation",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1076620/header.jpg?t=1730723258",
+    "url": "https://charlesgames.itch.io/svoboda1945",
+    "price": 16,
+    "store": "itch.io",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-05-14T15:00:00.000Z",
+    "endDate": "2024-04-07T15:00:00.001Z",
     "date": "",
     "id": ""
   },
