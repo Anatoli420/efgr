@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 11,
+    "title": "LONESTAR",
+    "image": "https://cdn1.epicgames.com/spt-assets/142bbd5f45fb4cf7a61b301d8a3b9900/lonestar-31p94.jpg?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/lonestar-83f143",
+    "price": 13,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-05-28T15:00:00.000Z",
+    "endDate": "2026-06-04T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Calico",
+    "image": "https://cdn1.epicgames.com/92e8ff0ca9bb421c831dc0f6fc8ef54d/offer/EGS_Calico_PeachyKeenGames_S3-2560x1440-a0eb5f555609df2a241bd6f742477264.jpg?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/calico",
+    "price": 12,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-05-28T15:00:00.000Z",
+    "endDate": "2026-06-04T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Mr.Brocco & Co",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/23d2ad9f-ce20-4049-9544-87b781aac366/prodmain/1758361240.png",
