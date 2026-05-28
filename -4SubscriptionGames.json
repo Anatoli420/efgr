@@ -1,5 +1,61 @@
 [
   {
+    "adImp": 4,
+    "title": "Pro Basketball Manager 2026",
+    "image": "https://m.media-amazon.com/images/I/61ST4HmxQTL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/pro-basketball-manager-2026-aga/dp/amzn1.pg.item.eb7ccd3b-4efd-4b0a-9a45-722b53d76a16?g=s&ingress=amzn&ref_=SM_ProBasketballManager2026_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 30,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-07-01T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Moon Mystery",
+    "image": "https://m.media-amazon.com/images/I/51WhgRbtSiL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/moon-mystery-epic/dp/amzn1.pg.item.fa6ec78f-327e-4dcb-8afe-8eae11afea3b?g=s&ingress=amzn&ref_=SM_MoonMystery_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 20,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-07-01T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Nordic Storm Solitaire",
+    "image": "https://m.media-amazon.com/images/I/71cqE25j-qL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/nordic-storm-solitaire-legacy/dp/amzn1.pg.item.468f5c94-de63-4c8b-86c3-e22b5fc1510e?g=s&ingress=amzn&ref_=SM_NordicStormSolitaire_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 4,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-07-01T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "adImp": null,
+    "title": "RATEUS",
+    "store": "separador",
+    "price": 0,
+    "date": "??-08-2022",
+    "status": 1,
+    "startDate": "",
+    "endDate": ""
+  },
+  {
     "adImp": 1,
     "title": "Palindrome Syndrome: Escape Room",
     "image": "https://m.media-amazon.com/images/I/61KcXy0iTvL._FMwebp_.jpg",
@@ -40,20 +96,6 @@
     "endDate": "2026-08-19T21:00:00.000Z",
     "date": "",
     "id": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "adImp": null,
-    "title": "RATEUS",
-    "store": "separador",
-    "price": 0,
-    "date": "??-08-2022",
-    "status": 1,
-    "startDate": "",
-    "endDate": ""
   },
   {
     "adImp": 4,
