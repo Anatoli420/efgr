@@ -210,20 +210,6 @@
   },
   {
     "adImp": 3,
-    "title": "Dino running from a FURRY: GAMESFORFARM",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3343840/77c677158da20f9addb4fd615804cca7641cb6b6/header.jpg?t=1778873362",
-    "url": "https://store.steampowered.com/app/3343840/Dino_running_from_a_FURRY_GAMESFORFARM/",
-    "store": "Steam",
-    "price": 3,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-02-01T16:00:00.000Z",
-    "endDate": "2026-05-30T17:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 3,
     "title": "Larger Than Light",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1597650/header.jpg?t=1622297086",
     "url": "https://1010meha.itch.io/larger-than-light",
@@ -654,6 +640,20 @@
     "horizontal": true,
     "startDate": "2024-04-04T15:00:00.000Z",
     "endDate": "2024-04-07T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Dino running from a FURRY: GAMESFORFARM",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3343840/77c677158da20f9addb4fd615804cca7641cb6b6/header.jpg?t=1778873362",
+    "url": "https://store.steampowered.com/app/3343840/Dino_running_from_a_FURRY_GAMESFORFARM/",
+    "store": "Steam",
+    "price": 3,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-02-01T16:00:00.000Z",
+    "endDate": "2026-05-30T17:00:00.000Z",
     "date": "",
     "id": ""
   },
