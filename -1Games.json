@@ -1,6 +1,20 @@
 [
   {
     "adImp": 11,
+    "title": "Gravity Circuit",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858710/68ea7cdbcc45c99f3a15b20680c81af6d608501d/header_alt_assets_0.jpg?t=1780337507",
+    "url": "https://store.steampowered.com/app/858710/Gravity_Circuit/",
+    "price": 17,
+    "store": "Steam",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-12-04T16:00:00.000Z",
+    "endDate": "2026-06-14T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": "Moonrise Fall",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1035110/header.jpg?t=1780107953",
     "url": "https://store.steampowered.com/app/1035110/Moonrise_Fall/",
