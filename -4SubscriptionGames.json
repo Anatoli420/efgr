@@ -1,5 +1,61 @@
 [
   {
+    "adImp": 5,
+    "title": "XCOM: Chimera Squad",
+    "image": "https://m.media-amazon.com/images/I/71cWh9H+3GL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/xcom-chimera-squad-gog/dp/amzn1.pg.item.aa22d9f6-a898-4be7-a6df-50c3561b41b9?g=s&ingress=amzn&ref_=SM_XCOMChimeraSquad_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 20,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-08-31T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 4,
+    "title": "Mafia III: Definitive Edition",
+    "image": "https://m.media-amazon.com/images/I/61gMjsNc06L._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/mafia-iii-definitive-edition-gog/dp/amzn1.pg.item.2d0579a0-585e-4cc9-be76-a5bdb057c440?g=s&ingress=amzn&ref_=SM_MafiaIIIDefinitiveEdition_S02_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 30,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-07-06T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Tomb Raider IV-VI Remastered",
+    "image": "https://m.media-amazon.com/images/I/51+CuZc3mIL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/tomb-raider-iv-vi-remastered-epic/dp/amzn1.pg.item.cba06ec0-64d2-445b-a17b-c3dba13414fe?g=s&ingress=amzn&ref_=SM_TombRaiderIVVIRemastered_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 30,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-07-17T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "adImp": null,
+    "title": "RATEUS",
+    "store": "separador",
+    "price": 0,
+    "date": "??-08-2022",
+    "status": 1,
+    "startDate": "",
+    "endDate": ""
+  },
+  {
     "adImp": 4,
     "title": "Pro Basketball Manager 2026",
     "image": "https://m.media-amazon.com/images/I/61ST4HmxQTL._FMwebp_.jpg",
@@ -40,20 +96,6 @@
     "endDate": "2026-07-01T21:00:00.000Z",
     "date": "",
     "id": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "adImp": null,
-    "title": "RATEUS",
-    "store": "separador",
-    "price": 0,
-    "date": "??-08-2022",
-    "status": 1,
-    "startDate": "",
-    "endDate": ""
   },
   {
     "adImp": 1,
