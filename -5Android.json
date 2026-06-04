@@ -1,6 +1,20 @@
 [
   {
     "id": "",
+    "adImp": 11,
+    "title": "Wytchwood",
+    "image": "https://cdn1.epicgames.com/spt-assets/fe0a31132d6e4404bd145ce2e2ed5ed7/wytchwood-1rppy.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/wytchwood-android-cad0ea",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-05-28T15:00:00.000Z",
+    "endDate": "2026-06-11T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
     "adImp": 1,
     "title": "Rotaeno",
     "image": "https://play-lh.googleusercontent.com/vdURc8tMr-N_nyFOHFqpK4PfBGRH3gv46DO_Hb7jJ4hLdoOmPjUmnVR2Qyv0HVFe2FY=s960-rw",
