@@ -43,20 +43,6 @@
   },
   {
     "adImp": 11,
-    "title": "Winexy",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/577740/header.jpg?t=1778879396",
-    "url": "https://store.steampowered.com/app/577740/Winexy/",
-    "price": 5,
-    "store": "Steam",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-12-04T16:00:00.000Z",
-    "endDate": "2026-06-05T17:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 11,
     "title": "Gravity Circuit",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858710/68ea7cdbcc45c99f3a15b20680c81af6d608501d/header_alt_assets_0.jpg?t=1780337507",
     "url": "https://store.steampowered.com/app/858710/Gravity_Circuit/",
@@ -66,20 +52,6 @@
     "horizontal": "fechasProgramadas",
     "startDate": "2025-12-04T16:00:00.000Z",
     "endDate": "2026-06-14T17:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 1,
-    "title": "Bunny Guys!",
-    "image": "https://cdn1.epicgames.com/spt-assets/9022d4bbe9964858bfac21a499804b2d/bunny-guys-tihb3.jpg",
-    "url": "https://store.epicgames.com/p/bunny-guys-b325b1",
-    "price": 5,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-05-28T15:00:00.000Z",
-    "endDate": "2026-06-05T15:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -614,6 +586,34 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 1,
+    "title": "Bunny Guys!",
+    "image": "https://cdn1.epicgames.com/spt-assets/9022d4bbe9964858bfac21a499804b2d/bunny-guys-tihb3.jpg",
+    "url": "https://store.epicgames.com/p/bunny-guys-b325b1",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-05-28T15:00:00.000Z",
+    "endDate": "2026-06-05T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Winexy",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/577740/header.jpg?t=1778879396",
+    "url": "https://store.steampowered.com/app/577740/Winexy/",
+    "price": 5,
+    "store": "Steam",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-12-04T16:00:00.000Z",
+    "endDate": "2026-06-05T17:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
