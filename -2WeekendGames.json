@@ -14,20 +14,6 @@
     "id": ""
   },
   {
-    "adImp": 5,
-    "title": "Eldritch Escape Playtest Key Giveaway",
-    "image": "https://media.alienwarearena.com/media/eaabb1b0367c532bca8c89847dd81277.jpg?fit=crop&width=720&height=405&quality=75",
-    "url": "https://www.alienwarearena.com/ucf/show/2174643/boards/contest-and-giveaways-global/Giveaway/eldritch-escape-playtest-key-giveaway",
-    "store": "Alienware Arena",
-    "price": 15,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2023-08-31T01:00:00.000Z",
-    "endDate": "2024-01-01T16:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 4,
     "title": "WITHOUT A HITCH Closed Playtest Steam Key Giveaway",
     "image": "https://media.alienwarearena.com/media/8b0291be667a362b6dc908ede9f9cb88.jpg?fit=crop&width=720&height=405&quality=75",
@@ -68,6 +54,20 @@
     "status": 1,
     "startDate": "",
     "endDate": ""
+  },
+  {
+    "adImp": 5,
+    "title": "Eldritch Escape Playtest Key Giveaway",
+    "image": "https://media.alienwarearena.com/media/eaabb1b0367c532bca8c89847dd81277.jpg?fit=crop&width=720&height=405&quality=75",
+    "url": "https://www.alienwarearena.com/ucf/show/2174643/boards/contest-and-giveaways-global/Giveaway/eldritch-escape-playtest-key-giveaway",
+    "store": "Alienware Arena",
+    "price": 15,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2023-08-31T01:00:00.000Z",
+    "endDate": "2024-01-01T16:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 1,
