@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 11,
+    "title": "Warhammer 40,000 : Speed Freeks",
+    "image": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg?resize=1&w=854&h=480&quality=medium",
+    "url": "https://store.epicgames.com/p/warhammer-40k-speed-freeks-12879c",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-06-11T15:00:00.000Z",
+    "endDate": "2026-06-18T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "The Ouroboros King",
+    "image": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-jwabx.jpg?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/the-ouroboros-king-e1d547",
+    "price": 10,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-06-11T15:00:00.000Z",
+    "endDate": "2026-06-18T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 2,
     "title": "Neverwinter Cape of the Noble North Key Giveaway",
     "image": "https://media.alienwarearena.com/media/9eb7ea73185c836f386566b91c314472.jpg?fit=crop&width=720&height=405&quality=75",
