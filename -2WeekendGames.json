@@ -14,7 +14,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 2,
     "title": "Goblin Cleanup",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2748340/3129df3cf05a10bb0ad87cca4d30ea2bed4533e5/header_alt_assets_3.jpg?t=1781197088",
     "url": "https://store.steampowered.com/app/2748340/Goblin_Cleanup/",
@@ -28,7 +28,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 3,
     "title": "Hearts of Iron IV",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/37b86aab7ead460ed036811a3d5a6a47b711d73c/header_alt_assets_9.jpg?t=1781197164",
     "url": "https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/",
@@ -42,12 +42,40 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 4,
     "title": "Neon Abyss 2",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2235200/fb0ffb277856c5ab4a669c43dccc171a88fb9639/header.jpg?t=1778700138",
     "url": "https://store.steampowered.com/app/2235200/Neon_Abyss_2/",
     "store": "Steam",
     "price": 20,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-06-15T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 5,
+    "title": "Rogue Point",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1843840/3433de73a87b65c5d346dbc712dbe66ebae048ef/header_alt_assets_0.jpg?t=1781175212",
+    "url": "https://store.steampowered.com/app/1843840/Rogue_Point/",
+    "store": "Steam",
+    "price": 20,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-06-15T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "下一站江湖Ⅱ",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/53a27b71144e8c8207bcad69cf73a42f888c1acb/header_alt_assets_9.jpg?t=1781196436",
+    "url": "https://store.steampowered.com/app/1606180/II/",
+    "store": "Steam",
+    "price": 25,
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2024-05-17T17:00:00.000Z",
