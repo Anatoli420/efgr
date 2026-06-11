@@ -1,6 +1,48 @@
 [
   {
     "adImp": 11,
+    "title": "The Red Lantern",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1053710/header.jpg?t=1779363205",
+    "url": "https://store.steampowered.com/app/1053710/The_Red_Lantern/",
+    "price": 25,
+    "store": "Steam",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-12-04T16:00:00.000Z",
+    "endDate": "2026-06-18T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Happy's Humble Burger Farm",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1433340/db29e628b471c3a0dfe97f3d5446d569e4258386/header.jpg?t=1781202018",
+    "url": "https://store.steampowered.com/app/1433340/Happys_Humble_Burger_Farm/",
+    "price": 20,
+    "store": "Steam",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-12-04T16:00:00.000Z",
+    "endDate": "2026-06-15T13:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Eets",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6100/b97e6e9de18d08941c872fc73abae7c2dc91ccfe/header.jpg?t=1781207036",
+    "url": "https://store.steampowered.com/app/6100/Eets/",
+    "price": 10,
+    "store": "Steam",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-12-04T16:00:00.000Z",
+    "endDate": "2026-06-15T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": "Warhammer 40,000 : Speed Freeks",
     "image": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg?resize=1&w=854&h=480&quality=medium",
     "url": "https://store.epicgames.com/p/warhammer-40k-speed-freeks-12879c",
