@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 2,
+    "title": "Crystal Saga Nova Gift Pack Key Giveaway",
+    "image": "https://www.mmobomb.com/file/2026/6/crystal-saga-nova-giveaway.png",
+    "url": "https://www.mmobomb.com/giveaway/crystal-saga-nova-reward-keys",
+    "store": "MMOBomb",
+    "price": 5,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-01-01T15:00:00.000Z",
+    "endDate": "2024-01-01T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "Wild Terra 2: New Lands",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134700/be0d3d4dda692b44f0472da960ef1666f2ddc4e7/header_alt_assets_10.jpg?t=1781243229",
@@ -311,7 +325,7 @@
     "title": "World of Tanks Starter Pack Giveaway",
     "image": "https://www.mmobomb.com/file/2026/4/wot-giveaway.png",
     "url": "https://www.mmobomb.com/giveaway/world-of-tanks-starter-pack",
-    "store": "Alienware Arena",
+    "store": "MMOBomb",
     "price": 5,
     "status": 1,
     "horizontal": true,
