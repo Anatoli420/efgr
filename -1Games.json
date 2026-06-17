@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 11,
+    "title": "Citizen Sleeper",
+    "image": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-xudwg.jpg?w=1200&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/citizen-sleeper-944858",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-06-18T15:00:00.000Z",
+    "endDate": "2026-06-25T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "ROBOBEAT",
+    "image": "https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-1ojda.png?w=1200&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/robobeat-5f084b",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-06-18T15:00:00.000Z",
+    "endDate": "2026-06-25T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 2,
     "title": "Crystal Saga Nova Gift Pack Key Giveaway",
     "image": "https://www.mmobomb.com/file/2026/6/crystal-saga-nova-giveaway.png",
