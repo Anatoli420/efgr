@@ -1,6 +1,48 @@
 [
   {
     "adImp": 1,
+    "title": "Stellaris",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/660fc0d4ebfa0bbbfa4b0b6b649ad18db5d23f6b/header_alt_assets_13.jpg?t=1781784917",
+    "url": "https://store.steampowered.com/app/281990/Stellaris/",
+    "store": "Steam",
+    "price": 15,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-06-22T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "MechWarrior 5: Mercenaries",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/98faaf2978890edbbf10c4ced35bde3f398247fa/header_alt_assets_1.jpg?t=1781798730",
+    "url": "https://store.steampowered.com/app/784080/MechWarrior_5_Mercenaries/",
+    "store": "Steam",
+    "price": 30,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-06-22T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Two Point Museum",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2185060/e54bbc803eb26c11e05f00b68a2250a222717e60/header_alt_assets_2.jpg?t=1781798123",
+    "url": "https://store.steampowered.com/app/2185060/Two_Point_Museum/",
+    "store": "Steam",
+    "price": 20,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-06-22T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Speedball",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1795190/b5c33f5b22369eafb8e0dc5f643500e1eaf6f3b8/header.jpg?t=1781738256",
     "url": "https://store.steampowered.com/app/1795190/Speedball/",
