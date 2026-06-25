@@ -1,6 +1,20 @@
 [
   {
     "id": "",
+    "adImp": 11,
+    "title": "Teenage Mutant Ninja Turtles - Shredder's Revenge",
+    "image": "https://cdn1.epicgames.com/spt-assets/25153bd44d864f00b4dec4888ac74d76/teenage-mutant-ninja-turtles--shredders-revenge-1deqi.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/teenage-mutant-ninja-turtles-shredders-revenge-android-8937ca",
+    "price": 9,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-06-25T15:00:00.000Z",
+    "endDate": "2026-07-02T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
     "adImp": 1,
     "title": "EvoCreo2: Monster Trainer RPG",
     "image": "https://play-lh.googleusercontent.com/zTm_92IUDu1UkWCHrICgmigFoOy5ZeJNvz5ISCNOUaoCuO4EPC142Vg3AIF1rWHHZx_IrPc1tJOiNfTDjn7B=s480-rw",
