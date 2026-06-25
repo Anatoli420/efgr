@@ -1,6 +1,34 @@
 [
   {
     "adImp": 11,
+    "title": "RollerCoaster Tycoon 3 Complete Edition",
+    "image": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/rollercoaster-tycoon-3-complete-edition",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-06-25T15:00:00.000Z",
+    "endDate": "2026-07-02T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Voidwrought",
+    "image": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-bio8j.jpg?w=600&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/voidwrought-ce8f4b",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-06-25T15:00:00.000Z",
+    "endDate": "2026-07-02T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": "Citizen Sleeper",
     "image": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-xudwg.jpg?w=1200&quality=high&resize=1",
     "url": "https://store.epicgames.com/p/citizen-sleeper-944858",
