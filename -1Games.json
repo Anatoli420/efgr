@@ -15,20 +15,6 @@
   },
   {
     "adImp": 11,
-    "title": "POPGOES Arcade",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1986840/7e87fc84a2060c1a2783538ac0d95e6e6a0dc1bd/header.jpg?t=1782494624",
-    "url": "https://store.steampowered.com/app/1986840/POPGOES_Arcade/",
-    "price": 5,
-    "store": "Steam",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2025-12-04T16:00:00.000Z",
-    "endDate": "2026-06-28T17:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 11,
     "title": "RollerCoaster Tycoon 3 Complete Edition",
     "image": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg?w=600&quality=high&resize=1",
     "url": "https://store.epicgames.com/p/rollercoaster-tycoon-3-complete-edition",
@@ -572,6 +558,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 11,
+    "title": "POPGOES Arcade",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1986840/7e87fc84a2060c1a2783538ac0d95e6e6a0dc1bd/header.jpg?t=1782494624",
+    "url": "https://store.steampowered.com/app/1986840/POPGOES_Arcade/",
+    "price": 5,
+    "store": "Steam",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2025-12-04T16:00:00.000Z",
+    "endDate": "2026-06-28T17:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 1,
