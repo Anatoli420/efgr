@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 11,
+    "title": "River City Girls 2",
+    "image": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png?w=720&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/river-city-girls-2-77af3a",
+    "price": 40,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-07-02T15:00:00.000Z",
+    "endDate": "2026-07-09T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "I Have No Mouth, and I Must Scream",
+    "image": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png?w=720&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2",
+    "price": 10,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-07-02T15:00:00.000Z",
+    "endDate": "2026-07-09T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "A Simple Garbage Sorting Game",
     "image": "https://cdn1.epicgames.com/spt-assets/e7662f69d31a42f09809d8399dacd7a7/a-simple-garbage-sorting-game-6gxdj.png?w=1440&quality=high&resize=1",
