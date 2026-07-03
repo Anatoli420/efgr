@@ -1,6 +1,20 @@
 [
   {
     "adImp": 11,
+    "title": "Nexus: The Jupiter Incident",
+    "image": "https://images.gog-statics.com/4b6319ff49eebd71f908ff622a83f3c68f28bf80999a53e0224f0678865439f3_giveaway_465w.webp",
+    "url": "https://www.gog.com/en/game/nexus_the_jupiter_incident",
+    "price": 10,
+    "store": "GoG",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-06-04T15:00:00.000Z",
+    "endDate": "2026-07-06T18:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": "River City Girls 2",
     "image": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png?w=720&quality=high&resize=1",
     "url": "https://store.epicgames.com/p/river-city-girls-2-77af3a",
