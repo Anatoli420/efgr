@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "Game Of Mafia",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/8c50073c-940a-4cfc-ac97-d9a698683249/prodmain/1759309621.png",
+    "url": "https://freebies.indiegala.com/game-of-mafia",
+    "store": "IndieGala",
+    "price": 10,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Whiskey.Mafia. Leo's Family",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/8e580254-347d-426f-a5b9-2a2d6dcc9335/prodmain/1758707106.png",
     "url": "https://freebies.indiegala.com/whiskeymafia-leos-family",
@@ -4718,20 +4732,6 @@
     "url": "https://freebies.indiegala.com/wordle",
     "store": "IndieGala",
     "price": 30,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-12-22T17:30:00.000Z",
-    "endDate": "2025-12-30T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 1,
-    "title": "Game Of Mafia",
-    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/8c50073c-940a-4cfc-ac97-d9a698683249/prodmain/1759309621.png",
-    "url": "https://freebies.indiegala.com/game-of-mafia",
-    "store": "IndieGala",
-    "price": 10,
     "status": 2,
     "horizontal": true,
     "startDate": "2024-12-22T17:30:00.000Z",
