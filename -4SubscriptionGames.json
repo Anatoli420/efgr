@@ -1,6 +1,48 @@
 [
   {
     "adImp": 11,
+    "title": "Regular Factory: Escape Room",
+    "image": "https://m.media-amazon.com/images/I/61kVnQw6XPL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/regular-factory-escape-room-gog/dp/amzn1.pg.item.1b071387-e61c-48a3-bcdf-f3086b8d18ba?g=s&ingress=amzn&ref_=SM_RegularFactoryEscapeRoom_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 10,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-08-08T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Still There",
+    "image": "https://m.media-amazon.com/images/I/61ItZ16R3UL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/still-there-gog/dp/amzn1.pg.item.67c6d7c2-3050-431b-ae6d-91f34ad7d313?g=s&ingress=amzn&ref_=SM_StillThere_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 15,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-08-12T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "adImp": null,
+    "title": "RATEUS",
+    "store": "separador",
+    "price": 0,
+    "date": "??-08-2022",
+    "status": 1,
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "adImp": 11,
     "title": "Symphony of War: The Nephilim Saga",
     "image": "https://m.media-amazon.com/images/I/61rp36dtLdL._FMwebp_.jpg",
     "url": "https://luna.amazon.com/claims/symphony-of-war-the-nephilim-saga-epic/dp/amzn1.pg.item.db94348f-9423-423e-a707-aed5ebf07c0c?g=s&ingress=amzn&ref_=SM_SymphonyofWarTheNephilimSaga_S01_FGWP_CRWN",
@@ -40,20 +82,6 @@
     "endDate": "2026-08-01T21:00:00.000Z",
     "date": "",
     "id": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "adImp": null,
-    "title": "RATEUS",
-    "store": "separador",
-    "price": 0,
-    "date": "??-08-2022",
-    "status": 1,
-    "startDate": "",
-    "endDate": ""
   },
   {
     "adImp": 11,
