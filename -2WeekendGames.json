@@ -1,6 +1,48 @@
 [
   {
     "adImp": 1,
+    "title": "ARK: Survival Ascended",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2399830/d934813ca531af0fce69fe36bc972f1c90d1aa19/header.jpg?t=1779293241",
+    "url": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended/",
+    "store": "Steam",
+    "price": 12,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-07-13T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Against the Storm",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1336490/39b4ca138bc888adfc09b81883203ebb7ac01a9e/header_alt_assets_0.jpg?t=1783603754",
+    "url": "https://store.steampowered.com/app/1336490/Against_the_Storm/",
+    "store": "Steam",
+    "price": 9,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-07-13T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "gogh: Focus with Your Avatar",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3213850/4bd04516c2fc4a922ea9223376e288abd2bfcc3c/header_alt_assets_3.jpg?t=1782376859",
+    "url": "https://store.steampowered.com/app/3213850/gogh_Focus_with_Your_Avatar/",
+    "store": "Steam",
+    "price": 8,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-07-13T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Stellaris",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/660fc0d4ebfa0bbbfa4b0b6b649ad18db5d23f6b/header_alt_assets_13.jpg?t=1781784917",
     "url": "https://store.steampowered.com/app/281990/Stellaris/",
