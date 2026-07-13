@@ -1,6 +1,34 @@
 [
   {
     "adImp": 11,
+    "title": "KeepUp Survival",
+    "image": "https://cdn1.epicgames.com/spt-assets/d917a8d1cdd14895b8993f2160c8698b/keepup-survival-6l94r.jpg?w=1440&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/keepup-survival-cd0eb0",
+    "price": 15,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-07-09T15:00:00.000Z",
+    "endDate": "2026-07-19T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "NoRush! - Tower Edition",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxf3hXGApNfVXcnF_EOr2_c9HFsTeRoEp75_zeQdiXq35trNuExJYzBu4&s=10",
+    "url": "https://store.epicgames.com/p/norush-67f385",
+    "price": 3,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-07-09T15:00:00.000Z",
+    "endDate": "2026-07-20T09:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": "Nova Lands",
     "image": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png?w=720&quality=high&resize=1",
     "url": "http://store.epicgames.com/p/nova-lands-4d1788",
