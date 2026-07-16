@@ -1,6 +1,48 @@
 [
   {
     "adImp": 1,
+    "title": "Poly Vita",
+    "image": "https://m.media-amazon.com/images/I/516Sd8pdnRL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/poly-vita-legacy/dp/amzn1.pg.item.54ad3d4e-b323-4092-a8d1-f64e5de67cbc?g=s&ingress=amzn&ref_=SM_PolyVita_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 6,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-08-19T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Escape Academy",
+    "image": "https://m.media-amazon.com/images/I/61JtNHneJ0L._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/escape-academy-epic/dp/amzn1.pg.item.b1e0afe5-c3f4-464b-8731-e174e110ae2d?g=s&ingress=amzn&ref_=SM_EscapeAcademy_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 10,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-08-19T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "FRAMED Collection",
+    "image": "https://m.media-amazon.com/images/I/61B8-TFosTL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/framed-collection-gog/dp/amzn1.pg.item.a06a5d0e-0f33-4a10-82e2-8ed97d4a8f03?g=s&ingress=amzn&ref_=SM_FRAMEDCollection_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 10,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-08-19T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Regular Factory: Escape Room",
     "image": "https://m.media-amazon.com/images/I/61kVnQw6XPL._FMwebp_.jpg",
     "url": "https://luna.amazon.com/claims/regular-factory-escape-room-gog/dp/amzn1.pg.item.1b071387-e61c-48a3-bcdf-f3086b8d18ba?g=s&ingress=amzn&ref_=SM_RegularFactoryEscapeRoom_S01_FGWP_CRWN",
