@@ -14,7 +14,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 2,
     "title": "DUNGEON SLASHER",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712460/3caea5a1a1546493b33b447723cd33a71daf5633/header.jpg?t=1784189613",
     "url": "https://store.steampowered.com/app/2712460/DUNGEON_SLASHER/",
@@ -28,7 +28,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 3,
     "title": "Little Incrementisle",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4877110/29d15f1ca7b802c8dcd12544dc4cdc9aa0fa00a8/header.jpg?t=1783957668",
     "url": "https://store.steampowered.com/app/4877110/Little_Incrementisle/",
@@ -39,62 +39,6 @@
     "endDate": "",
     "date": "",
     "startDate": "2026-07-13T17:00:00.000Z",
-    "id": ""
-  },
-  {
-    "adImp": 1,
-    "title": "NTE: Neverness to Everness",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508340/7a1301fa4f8d31bfa3e32205bc92de6c520a9475/header.jpg?t=1783485762",
-    "url": "https://store.steampowered.com/app/4508340/NTE_Neverness_to_Everness/",
-    "store": "Steam",
-    "status": 1,
-    "horizontal": true,
-    "price": 0,
-    "endDate": "",
-    "date": "",
-    "startDate": "2026-07-07T17:00:00.000Z",
-    "id": ""
-  },
-  {
-    "adImp": 1,
-    "title": "Age of Empires Mobile: PC Edition",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2783360/bbeb6d2da3d05194e7b2269ef2836c09e2628879/header.jpg?t=1782262815",
-    "url": "https://store.steampowered.com/app/2783360/Age_of_Empires_Mobile_PC_Edition/",
-    "store": "Steam",
-    "status": 1,
-    "horizontal": true,
-    "price": 0,
-    "endDate": "",
-    "date": "",
-    "startDate": "2026-06-03T17:00:00.000Z",
-    "id": ""
-  },
-  {
-    "adImp": 1,
-    "title": "Zenless Zone Zero",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162040/be0ca488708c4eda6668b031a99880dfd250de92/header.jpg?t=1781647256",
-    "url": "https://store.steampowered.com/app/4162040/Zenless_Zone_Zero/",
-    "store": "Steam",
-    "status": 1,
-    "horizontal": true,
-    "price": 0,
-    "endDate": "",
-    "date": "",
-    "startDate": "2026-06-16T17:00:00.000Z",
-    "id": ""
-  },
-  {
-    "adImp": 1,
-    "title": "GOALS",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753000/405d7345805bd5bf1bfb6126edb233266fe3db61/header.jpg?t=1780598790",
-    "url": "https://store.steampowered.com/app/2753000/GOALS/",
-    "store": "Steam",
-    "status": 1,
-    "horizontal": true,
-    "price": 0,
-    "endDate": "",
-    "date": "",
-    "startDate": "2026-06-04T17:00:00.000Z",
     "id": ""
   },
   {
@@ -112,7 +56,63 @@
     "endDate": ""
   },
   {
-    "adImp": 1,
+    "adImp": 4,
+    "title": "NTE: Neverness to Everness",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508340/7a1301fa4f8d31bfa3e32205bc92de6c520a9475/header.jpg?t=1783485762",
+    "url": "https://store.steampowered.com/app/4508340/NTE_Neverness_to_Everness/",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2026-07-07T17:00:00.000Z",
+    "id": ""
+  },
+  {
+    "adImp": 5,
+    "title": "Age of Empires Mobile: PC Edition",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2783360/bbeb6d2da3d05194e7b2269ef2836c09e2628879/header.jpg?t=1782262815",
+    "url": "https://store.steampowered.com/app/2783360/Age_of_Empires_Mobile_PC_Edition/",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2026-06-03T17:00:00.000Z",
+    "id": ""
+  },
+  {
+    "adImp": 4,
+    "title": "Zenless Zone Zero",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162040/be0ca488708c4eda6668b031a99880dfd250de92/header.jpg?t=1781647256",
+    "url": "https://store.steampowered.com/app/4162040/Zenless_Zone_Zero/",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2026-06-16T17:00:00.000Z",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "GOALS",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753000/405d7345805bd5bf1bfb6126edb233266fe3db61/header.jpg?t=1780598790",
+    "url": "https://store.steampowered.com/app/2753000/GOALS/",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2026-06-04T17:00:00.000Z",
+    "id": ""
+  },
+  {
+    "adImp": 2,
     "title": "TBH: Task Bar Hero",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg?t=1779882076",
     "url": "https://store.steampowered.com/app/3678970/TBH_Task_Bar_Hero/",
@@ -140,7 +140,7 @@
     "id": ""
   },
   {
-    "adImp": 1,
+    "adImp": 3,
     "title": "World of Tanks: HEAT",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100280/d223544a9111c6bc5c260f744e8078397e2d88b0/header.jpg?t=1779801693",
     "url": "https://store.steampowered.com/app/2100280/World_of_Tanks_HEAT/",
