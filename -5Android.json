@@ -1,6 +1,20 @@
 [
   {
     "id": "",
+    "adImp": 3,
+    "title": "Theme Park Simulator",
+    "image": "https://play-lh.googleusercontent.com/2iRFrb0Wja9A4J8b4Ss94Y5KznG8Y8B5h8-E04VmgGoUfL6TE35pR5I3H-tdTZhf4lM=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.bestridesimulators.theme.park.simulator.game",
+    "store": "Google Play",
+    "price": 5,
+    "horizontal": true,
+    "status": 1,
+    "startDate": "2024-01-01T06:00:00.001Z",
+    "endDate": "2025-12-12T06:00:00.001Z",
+    "date": ""
+  },
+  {
+    "id": "",
     "adImp": 11,
     "title": "The Ouroboros King",
     "image": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-cllgr.jpg?resize=1&w=480&h=270&quality=medium",
@@ -2067,20 +2081,6 @@
     "horizontal": true,
     "startDate": "2025-09-04T15:00:00.000Z",
     "endDate": "2025-09-11T15:00:00.000Z",
-    "date": ""
-  },
-  {
-    "id": "",
-    "adImp": 3,
-    "title": "Theme Park Simulator",
-    "image": "https://play-lh.googleusercontent.com/2iRFrb0Wja9A4J8b4Ss94Y5KznG8Y8B5h8-E04VmgGoUfL6TE35pR5I3H-tdTZhf4lM=w240-h480-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.bestridesimulators.theme.park.simulator.game",
-    "store": "Google Play",
-    "price": 5,
-    "horizontal": true,
-    "status": 2,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2025-12-12T06:00:00.001Z",
     "date": ""
   },
   {
