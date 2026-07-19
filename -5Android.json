@@ -15,6 +15,20 @@
   },
   {
     "id": "",
+    "adImp": 2,
+    "title": "Summoners Era: Idle Strategy",
+    "image": "https://play-lh.googleusercontent.com/kynz9TPqb2KOw4qoMiRDx5ZSRXIG9gkDlVDctYQve3ZrcVk_4FXCvanS5ij5mhdqxIs=s960-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk",
+    "store": "Google Play",
+    "price": 1,
+    "date": "",
+    "horizontal": true,
+    "status": 1,
+    "startDate": "2024-01-01T06:00:00.001Z",
+    "endDate": "2026-07-22T23:59:59.000Z"
+  },
+  {
+    "id": "",
     "adImp": 11,
     "title": "The Ouroboros King",
     "image": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-cllgr.jpg?resize=1&w=480&h=270&quality=medium",
@@ -1228,20 +1242,6 @@
     "startDate": "2024-02-01T18:00:00.001Z",
     "endDate": "2024-02-29T16:00:00.001Z",
     "date": ""
-  },
-  {
-    "id": "",
-    "adImp": 2,
-    "title": "Summoners Era: Idle Strategy",
-    "image": "https://play-lh.googleusercontent.com/kynz9TPqb2KOw4qoMiRDx5ZSRXIG9gkDlVDctYQve3ZrcVk_4FXCvanS5ij5mhdqxIs=s960-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk",
-    "store": "Google Play",
-    "price": 1,
-    "date": "",
-    "horizontal": true,
-    "status": 2,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
     "id": "",
