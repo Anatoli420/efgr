@@ -1,6 +1,20 @@
 [
   {
     "id": "",
+    "adImp": 11,
+    "title": "Foretales",
+    "image": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/foretales-android-7c6e1c",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-07-23T15:00:00.000Z",
+    "endDate": "2026-07-30T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
     "adImp": 3,
     "title": "Theme Park Simulator",
     "image": "https://play-lh.googleusercontent.com/2iRFrb0Wja9A4J8b4Ss94Y5KznG8Y8B5h8-E04VmgGoUfL6TE35pR5I3H-tdTZhf4lM=w240-h480-rw",
