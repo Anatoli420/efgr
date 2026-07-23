@@ -1,6 +1,48 @@
 [
   {
     "adImp": 1,
+    "title": "Mystic Academy: Escape Room",
+    "image": "https://m.media-amazon.com/images/I/615CGVWetCL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/mystic-academy-escape-room-gog/dp/amzn1.pg.item.61f57a96-121c-443f-8432-652773456072?g=s&ingress=amzn&ref_=SM_MysticAcademyEscapeRoom_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 11,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-08-22T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "In Sound Mind",
+    "image": "https://m.media-amazon.com/images/I/71kbMOzFopL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/in-sound-mind-aga/dp/amzn1.pg.item.1a5c5cac-5445-48ba-89f6-91c4e0068399?g=s&ingress=amzn&ref_=SM_InSoundMind_S02_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 35,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-09-23T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "adImp": null,
+    "title": "RATEUS",
+    "store": "separador",
+    "price": 0,
+    "date": "??-08-2022",
+    "status": 1,
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "adImp": 1,
     "title": "Poly Vita",
     "image": "https://m.media-amazon.com/images/I/516Sd8pdnRL._FMwebp_.jpg",
     "url": "https://luna.amazon.com/claims/poly-vita-legacy/dp/amzn1.pg.item.54ad3d4e-b323-4092-a8d1-f64e5de67cbc?g=s&ingress=amzn&ref_=SM_PolyVita_S01_FGWP_CRWN",
@@ -68,20 +110,6 @@
     "endDate": "2026-08-12T21:00:00.000Z",
     "date": "",
     "id": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "adImp": null,
-    "title": "RATEUS",
-    "store": "separador",
-    "price": 0,
-    "date": "??-08-2022",
-    "status": 1,
-    "startDate": "",
-    "endDate": ""
   },
   {
     "adImp": 3,
