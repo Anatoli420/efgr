@@ -1,6 +1,20 @@
 [
   {
     "id": "",
+    "adImp": 3,
+    "title": "Epic King Heroes: Premium TD",
+    "image": "https://play-lh.googleusercontent.com/5CDLTHLdPWDwO5O35rru5XcIyRvoJaKU1-zORs2JGimfmv-X-qLBEBVnnAyWUZhIpnKJ6QeBvVHcNWVI0EMPew=s960-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.GCenter.epic.kingheroes.tower.defense.td.strategy.Pro",
+    "store": "Google Play",
+    "price": 1,
+    "horizontal": "fechasProgramadas",
+    "status": 1,
+    "startDate": "2024-01-01T06:00:00.001Z",
+    "endDate": "2026-08-04T23:59:59.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
     "adImp": 11,
     "title": "Foretales",
     "image": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg?resize=1&w=480&h=270&quality=medium",
