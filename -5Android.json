@@ -43,20 +43,6 @@
   },
   {
     "id": "",
-    "adImp": 3,
-    "title": "Theme Park Simulator",
-    "image": "https://play-lh.googleusercontent.com/2iRFrb0Wja9A4J8b4Ss94Y5KznG8Y8B5h8-E04VmgGoUfL6TE35pR5I3H-tdTZhf4lM=w240-h480-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.bestridesimulators.theme.park.simulator.game",
-    "store": "Google Play",
-    "price": 5,
-    "horizontal": true,
-    "status": 1,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2025-12-12T06:00:00.001Z",
-    "date": ""
-  },
-  {
-    "id": "",
     "adImp": 2,
     "title": "Summoners Era: Idle Strategy",
     "image": "https://play-lh.googleusercontent.com/kynz9TPqb2KOw4qoMiRDx5ZSRXIG9gkDlVDctYQve3ZrcVk_4FXCvanS5ij5mhdqxIs=s960-rw",
@@ -430,6 +416,20 @@
     "horizontal": true,
     "startDate": "2023-01-09T19:00:00.000Z",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 3,
+    "title": "Theme Park Simulator",
+    "image": "https://play-lh.googleusercontent.com/2iRFrb0Wja9A4J8b4Ss94Y5KznG8Y8B5h8-E04VmgGoUfL6TE35pR5I3H-tdTZhf4lM=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.bestridesimulators.theme.park.simulator.game",
+    "store": "Google Play",
+    "price": 0,
+    "horizontal": true,
+    "status": 1,
+    "startDate": "2024-01-01T06:00:00.001Z",
+    "endDate": "2025-12-12T06:00:00.001Z",
+    "date": ""
   },
   {
     "id": "",
