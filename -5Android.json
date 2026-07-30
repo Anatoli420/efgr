@@ -1,6 +1,20 @@
 [
   {
     "id": "",
+    "adImp": 11,
+    "title": "Mutazione",
+    "image": "https://cdn1.epicgames.com/spt-assets/022752a30f53497bb173a432a9229e54/mutazione-1n4mz.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/mutazione-android-bdb9c1",
+    "price": 10,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-07-30T15:00:00.000Z",
+    "endDate": "2026-08-06T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
     "adImp": 3,
     "title": "Epic King Heroes: Premium TD",
     "image": "https://play-lh.googleusercontent.com/5CDLTHLdPWDwO5O35rru5XcIyRvoJaKU1-zORs2JGimfmv-X-qLBEBVnnAyWUZhIpnKJ6QeBvVHcNWVI0EMPew=s960-rw",
