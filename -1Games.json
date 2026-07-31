@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 3,
+    "title": "Boots Quest DX",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093950/header.jpg?t=1784060510",
+    "url": "https://discountrealms.itch.io/boots-quest-dx",
+    "store": "itch.io",
+    "price": 10,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2026-08-10T23:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "OTXO",
     "image": "https://cdn1.epicgames.com/spt-assets/f6da0031691c4d94a6e21255b18c1710/otxo-wtcug.jpg?resize=1&w=854&h=480&quality=medium",
