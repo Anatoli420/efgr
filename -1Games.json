@@ -1,6 +1,34 @@
 [
   {
     "adImp": 11,
+    "title": "Beacon Pines",
+    "image": "https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/beacon-pines-offer-1l6ky.jpg?w=1440&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/beacon-pines-629fc3",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-08-06T15:00:00.000Z",
+    "endDate": "2026-08-13T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "We Were Here Together",
+    "image": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1w9jc.png?w=1440&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/we-were-here-together-6a6d66",
+    "price": 13,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-08-06T15:00:00.000Z",
+    "endDate": "2026-08-13T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": "Moonlighter",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606150/8928bd4aa73d49a92099b07a85c21ad2d0141d58/header_alt_assets_8.jpg?t=1785952913",
     "url": "https://store.steampowered.com/app/606150/Moonlighter/",
