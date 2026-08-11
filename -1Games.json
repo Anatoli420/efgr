@@ -28,20 +28,6 @@
     "id": ""
   },
   {
-    "adImp": 11,
-    "title": "Breathedge",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/header.jpg?t=1786122378",
-    "url": "https://store.steampowered.com/app/738520/Breathedge/",
-    "store": "Steam",
-    "price": 25,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-04-15T01:00:00.000Z",
-    "endDate": "2026-08-09T17:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 1,
     "title": "Spider Fox",
     "image": "https://cdn1.epicgames.com/spt-assets/0aa9c79e62ef4ba1bcc01558e8f6a06c/spider-fox-1allx.png?w=1440&quality=high&resize=1",
@@ -98,20 +84,6 @@
     "id": ""
   },
   {
-    "adImp": 11,
-    "title": "Moonlighter",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606150/8928bd4aa73d49a92099b07a85c21ad2d0141d58/header_alt_assets_8.jpg?t=1785952913",
-    "url": "https://store.steampowered.com/app/606150/Moonlighter/",
-    "store": "Steam",
-    "price": 20,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-04-15T01:00:00.000Z",
-    "endDate": "2026-08-09T17:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 2,
     "title": "Project First Contact",
     "image": "https://cdn1.epicgames.com/spt-assets/35c9be112ee14d7bad20313621c9edc5/project-first-contact-zrts5.jpg?w=1440&quality=high&resize=1",
@@ -136,20 +108,6 @@
     "horizontal": true,
     "startDate": "2024-01-01T15:00:00.000Z",
     "endDate": "2024-01-01T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 3,
-    "title": "Boots Quest DX",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093950/header.jpg?t=1784060510",
-    "url": "https://discountrealms.itch.io/boots-quest-dx",
-    "store": "itch.io",
-    "price": 10,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "endDate": "2026-08-10T23:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -670,6 +628,48 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 3,
+    "title": "Boots Quest DX",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093950/header.jpg?t=1784060510",
+    "url": "https://discountrealms.itch.io/boots-quest-dx",
+    "store": "itch.io",
+    "price": 10,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "endDate": "2026-08-10T23:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Moonlighter",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606150/8928bd4aa73d49a92099b07a85c21ad2d0141d58/header_alt_assets_8.jpg?t=1785952913",
+    "url": "https://store.steampowered.com/app/606150/Moonlighter/",
+    "store": "Steam",
+    "price": 20,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2026-08-09T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Breathedge",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/header.jpg?t=1786122378",
+    "url": "https://store.steampowered.com/app/738520/Breathedge/",
+    "store": "Steam",
+    "price": 25,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2026-08-09T17:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
