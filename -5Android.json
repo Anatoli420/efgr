@@ -1,6 +1,20 @@
 [
   {
     "id": "",
+    "adImp": 11,
+    "title": "Beholder: Conductor",
+    "image": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-1yr0i.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/beholder-conductor-android-fb38c4",
+    "price": 7,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-08-13T15:00:00.000Z",
+    "endDate": "2026-08-20T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
     "adImp": 3,
     "title": "Exile: Wasteland Survival PRO",
     "image": "https://play-lh.googleusercontent.com/0qT0ThqFSQG9fzX-wV4VqFfPmkH_Bc7rd3ujwxDWaqyVvKaNHoqKLH5itokVDeWbRhq8MOQRz1TM_7HQiksPQQ=w480-h960-rw",
