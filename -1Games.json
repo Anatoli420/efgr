@@ -56,20 +56,6 @@
     "id": ""
   },
   {
-    "adImp": 1,
-    "title": "Cat Named Mojave",
-    "image": "https://cdn1.epicgames.com/spt-assets/4f6bd74f8583461e8718829cb279c90d/cat-named-mojave-110on.jpg?w=1440&quality=high&resize=1",
-    "url": "https://store.epicgames.com/p/cat-named-mojave-7e06ad",
-    "price": 10,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-08-06T15:00:00.000Z",
-    "endDate": "2026-08-14T15:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 2,
     "title": "Project First Contact",
     "image": "https://cdn1.epicgames.com/spt-assets/35c9be112ee14d7bad20313621c9edc5/project-first-contact-zrts5.jpg?w=1440&quality=high&resize=1",
@@ -614,6 +600,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 1,
+    "title": "Cat Named Mojave",
+    "image": "https://cdn1.epicgames.com/spt-assets/4f6bd74f8583461e8718829cb279c90d/cat-named-mojave-110on.jpg?w=1440&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/cat-named-mojave-7e06ad",
+    "price": 10,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-08-06T15:00:00.000Z",
+    "endDate": "2026-08-14T15:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
