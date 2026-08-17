@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 1,
+    "title": "Wordle",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/1b609aab-e4c6-4ccb-834d-07ad7c75aba0/prodmain/1759578406.png",
+    "url": "https://freebies.indiegala.com/wordle",
+    "store": "IndieGala",
+    "price": 30,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 4,
     "title": "Rabbit in Dungeon",
     "image": "https://d2x8kymwjom7h7.cloudfront.net/live/application_no/119001/images/Thumnail_STV.png",
@@ -4432,20 +4446,6 @@
     "id": ""
   },
   {
-    "adImp": 1,
-    "title": "Wordle 2",
-    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/c649e995-0122-4cba-a020-2ad3b23d2e7d/prodmain/1763228262.png",
-    "url": "https://freebies.indiegala.com/wordle-2",
-    "store": "IndieGala",
-    "price": 14,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-12-22T17:30:00.000Z",
-    "endDate": "2025-12-30T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 3,
     "title": "Just Ignore Them",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/561770/header.jpg?t=1765569531",
@@ -5142,20 +5142,6 @@
     "horizontal": true,
     "startDate": "2024-12-19T17:00:00.000Z",
     "endDate": "2025-11-03T13:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 1,
-    "title": "Wordle",
-    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/1b609aab-e4c6-4ccb-834d-07ad7c75aba0/prodmain/1759578406.png",
-    "url": "https://freebies.indiegala.com/wordle",
-    "store": "IndieGala",
-    "price": 30,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-12-22T17:30:00.000Z",
-    "endDate": "2025-12-30T15:00:00.001Z",
     "date": "",
     "id": ""
   },
