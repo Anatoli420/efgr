@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "Last Pirates: Die Together",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4317790/1d46cbde0bf2ac91b6d11d4b53768b45e1b42f55/header.jpg?t=1787073163",
+    "url": "https://store.steampowered.com/app/4317790/Last_Pirates_Die_Together/",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2026-08-18T07:00:00.000Z",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "The Division Resurgence",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3749720/1d49ae3163dfd9dfcb6ba31ddbdf32fb67046d06/header.jpg?t=1785951969",
     "url": "https://store.steampowered.com/app/3749720/The_Division_Resurgence/",
