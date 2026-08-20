@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 1,
+    "title": "Bolmn",
+    "image": "https://cdn1.epicgames.com/spt-assets/c83afd5bf5d84031a9cfbe361319a06b/bolmn-in3ve.png?w=1440&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/bolmn-aa2906?",
+    "price": 1,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-08-20T15:00:00.000Z",
+    "endDate": "2026-08-26T23:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "Cardpocalypse",
     "image": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df?resize=1&w=854&h=480&quality=medium",
