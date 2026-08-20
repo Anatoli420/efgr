@@ -2,6 +2,20 @@
   {
     "id": "",
     "adImp": 11,
+    "title": "Caravan SandWitch",
+    "image": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-pp0n3.png?w=1440&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/caravan-sandwitch-android-594db5",
+    "price": 8,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-08-20T15:00:00.000Z",
+    "endDate": "2026-08-27T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
+    "adImp": 11,
     "title": "Beholder: Conductor",
     "image": "https://cdn1.epicgames.com/spt-assets/59d860fa9039404795bcc15b938d12db/beholder-conductor-1yr0i.png?resize=1&w=480&h=270&quality=medium",
     "url": "https://store.epicgames.com/p/beholder-conductor-android-fb38c4",
