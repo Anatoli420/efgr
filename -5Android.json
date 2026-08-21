@@ -1,6 +1,48 @@
 [
   {
     "id": "",
+    "adImp": 3,
+    "title": "Traffix: Traffic Simulator",
+    "image": "https://play-lh.googleusercontent.com/PxXPq831lEfp6YjEgnaa8J7PJsly7tMg0i2Jawf7Mdho8q5810caHNy7l0KxYVMeHO-9dX5tvcVMXwVSgDrpqmA=s480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.infinity.traffix",
+    "store": "Google Play",
+    "price": 3,
+    "horizontal": "fechasProgramadas",
+    "status": 1,
+    "startDate": "2024-01-01T06:00:00.001Z",
+    "endDate": "2026-08-23T23:59:59.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
+    "adImp": 3,
+    "title": "Railways - Train Simulator",
+    "image": "https://play-lh.googleusercontent.com/idYJAPWl722ypKhPCJRKqzNtkmferqg102RTjakRzNJGYhBgyR784os0gRg_kzr0m00G5W2_KjiXDBD76Kx5gDk=s480-rw",
+    "url": "http://play.google.com/store/apps/details?id=com.infinity.railways",
+    "store": "Google Play",
+    "price": 3,
+    "horizontal": "fechasProgramadas",
+    "status": 1,
+    "startDate": "2024-01-01T06:00:00.001Z",
+    "endDate": "2026-08-23T23:59:59.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
+    "adImp": 3,
+    "title": "Data Defense",
+    "image": "https://play-lh.googleusercontent.com/sLSBimdQENXl7f1dMdKpWQua8Ji_HzA-h7z2Jx-aGUQzxcxP0phhW5H3zA9tqpo6jJgo8Vpky5RKBJOC_HKDKw=s480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.IIBlocks.DataDefense",
+    "store": "Google Play",
+    "price": 5,
+    "horizontal": "fechasProgramadas",
+    "status": 1,
+    "startDate": "2024-01-01T06:00:00.001Z",
+    "endDate": "2026-08-30T23:59:59.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
     "adImp": 11,
     "title": "Caravan SandWitch",
     "image": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-pp0n3.png?w=1440&quality=high&resize=1",
@@ -2207,20 +2249,6 @@
     "horizontal": true,
     "startDate": "2025-08-21T15:00:00.000Z",
     "endDate": "2025-08-28T15:00:00.000Z",
-    "date": ""
-  },
-  {
-    "id": "",
-    "adImp": 3,
-    "title": "Colorzzle",
-    "image": "https://play-lh.googleusercontent.com/MCmI0oE3C5kHtT2TCornFRXMEeJCGzTbDz6-BWBQ0KjVXu4a-In97yUZcZv7Lxk46g=s480-rw",
-    "url": "https://play.google.com/store/apps/details?id=com.DarongStudio.Colorzzle",
-    "store": "Google Play",
-    "price": 5,
-    "horizontal": true,
-    "status": 2,
-    "startDate": "2024-01-01T06:00:00.001Z",
-    "endDate": "2025-12-12T06:00:00.001Z",
     "date": ""
   },
   {
