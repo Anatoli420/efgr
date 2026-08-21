@@ -2,6 +2,20 @@
   {
     "id": "",
     "adImp": 3,
+    "title": "Circle Dash",
+    "image": "https://play-lh.googleusercontent.com/uwoMOFsYOt3hZyYDsixdovW4fgcJaQBC00CCAW3qjBO_gRqypzHFdiJ-I_jKSTbqdiFNxFfnHAd7BQbnx2kAZ_M=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=studio.manja.circledash",
+    "store": "Google Play",
+    "price": 1,
+    "horizontal": "fechasProgramadas",
+    "status": 1,
+    "startDate": "2024-01-01T06:00:00.001Z",
+    "endDate": "2026-08-23T23:59:59.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
+    "adImp": 3,
     "title": "Traffix: Traffic Simulator",
     "image": "https://play-lh.googleusercontent.com/PxXPq831lEfp6YjEgnaa8J7PJsly7tMg0i2Jawf7Mdho8q5810caHNy7l0KxYVMeHO-9dX5tvcVMXwVSgDrpqmA=s480-rw",
     "url": "https://play.google.com/store/apps/details?id=com.infinity.traffix",
