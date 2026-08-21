@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "Grow & Go: Cozy Deliveries",
+    "image": "https://cdn1.epicgames.com/spt-assets/4598d1e2585b4b0c9cf109612593895a/grow-and-go-cozy-deliveries-lig4h.png?w=1080&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/grow-and-go-cozy-deliveries-f38c99",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-08-20T15:00:00.000Z",
+    "endDate": "2026-08-21T23:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Bolmn",
     "image": "https://cdn1.epicgames.com/spt-assets/c83afd5bf5d84031a9cfbe361319a06b/bolmn-in3ve.png?w=1440&quality=high&resize=1",
     "url": "https://store.epicgames.com/p/bolmn-aa2906?",
