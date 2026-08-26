@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 6,
+    "title": "Leaper",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a1db8f5b-f9c3-4004-84fc-ce90d0bb5872/prodmain/1759920499.png",
+    "url": "https://freebies.indiegala.com/leaper",
+    "store": "IndieGala",
+    "price": 5,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 3,
     "title": "Dokimon Quest",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2019300/header.jpg?t=1787586999",
@@ -5226,20 +5240,6 @@
     "horizontal": true,
     "startDate": "2024-12-19T17:00:00.000Z",
     "endDate": "2025-11-03T13:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 6,
-    "title": "Leaper",
-    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a1db8f5b-f9c3-4004-84fc-ce90d0bb5872/prodmain/1759920499.png",
-    "url": "https://freebies.indiegala.com/leaper",
-    "store": "IndieGala",
-    "price": 5,
-    "status": 2,
-    "horizontal": true,
-    "startDate": "2024-12-22T17:30:00.000Z",
-    "endDate": "2025-12-30T15:00:00.001Z",
     "date": "",
     "id": ""
   },
