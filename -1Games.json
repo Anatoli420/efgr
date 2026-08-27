@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 11,
+    "title": "Breathedge",
+    "image": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg?w=1440&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/breathedge",
+    "price": 25,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-08-27T15:00:00.000Z",
+    "endDate": "2026-09-03T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Rival Stars Horse Racing: Desktop Edition",
+    "image": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-scu1x.jpg?w=1440&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/rival-stars-horse-racing-dd09de",
+    "price": 25,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-08-27T15:00:00.000Z",
+    "endDate": "2026-09-03T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 6,
     "title": "Leaper",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a1db8f5b-f9c3-4004-84fc-ce90d0bb5872/prodmain/1759920499.png",
