@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 3,
+    "title": "Havendock",
+    "image": "https://m.media-amazon.com/images/I/71QRar-6mFL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/havendock-aga/dp/amzn1.pg.item.ef222081-3e6c-4949-9e87-aaf2c27b6bc6?g=s&ingress=amzn&ref_=SM_Havendock_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 20,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-10-28T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Clash: Artifacts of Chaos",
+    "image": "https://m.media-amazon.com/images/I/61aHIDiDC9L._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/clash-artifacts-of-chaos-epic/dp/amzn1.pg.item.f156cdf9-2d60-465f-9977-b0fac64e9fc3?g=s&ingress=amzn&ref_=SM_ClashArtifactsofChaos_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 30,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-09-30T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Royal Romances: Forbidden Magic",
     "image": "https://m.media-amazon.com/images/I/61RNcKplUuL._FMwebp_.jpg",
