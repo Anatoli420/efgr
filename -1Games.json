@@ -42,20 +42,6 @@
     "id": ""
   },
   {
-    "adImp": 11,
-    "title": "Rival Stars Horse Racing: Desktop Edition",
-    "image": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-scu1x.jpg?w=1440&quality=high&resize=1",
-    "url": "https://store.epicgames.com/p/rival-stars-horse-racing-dd09de",
-    "price": 25,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-08-27T15:00:00.000Z",
-    "endDate": "2026-09-03T15:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 6,
     "title": "Leaper",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a1db8f5b-f9c3-4004-84fc-ce90d0bb5872/prodmain/1759920499.png",
@@ -70,16 +56,16 @@
     "id": ""
   },
   {
-    "adImp": 2,
-    "title": "Microsoft Flight Simulator Suite: Themes Reimagined",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5004030/5b524d5a89e29e0024420f02778cc18ccc98d35f/header.jpg?t=1787593193",
-    "url": "https://store.steampowered.com/app/5004030/Microsoft_Flight_Simulator_Suite_Themes_Reimagined/",
-    "store": "Steam",
-    "price": 10,
+    "adImp": 11,
+    "title": "Rival Stars Horse Racing: Desktop Edition",
+    "image": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-scu1x.jpg?w=1440&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/rival-stars-horse-racing-dd09de",
+    "price": 25,
+    "store": "Epic Games",
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2024-04-15T01:00:00.000Z",
-    "endDate": "2026-09-01T17:00:00.000Z",
+    "startDate": "2026-08-27T15:00:00.000Z",
+    "endDate": "2026-09-03T15:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -94,20 +80,6 @@
     "horizontal": true,
     "startDate": "2024-12-22T17:30:00.000Z",
     "endDate": "2025-12-30T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 1,
-    "title": "Targeted - 10 Days",
-    "image": "https://cdn1.epicgames.com/spt-assets/ad46171b003a4965b1eb3ef8b57dc688/targeted-b18cn.png?w=1440&quality=high&resize=1",
-    "url": "https://store.epicgames.com/p/targeted-10-days-75a48c",
-    "price": 5,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-08-06T15:00:00.000Z",
-    "endDate": "2026-08-31T15:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -600,6 +572,34 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 1,
+    "title": "Targeted - 10 Days",
+    "image": "https://cdn1.epicgames.com/spt-assets/ad46171b003a4965b1eb3ef8b57dc688/targeted-b18cn.png?w=1440&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/targeted-10-days-75a48c",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-08-06T15:00:00.000Z",
+    "endDate": "2026-08-31T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "Microsoft Flight Simulator Suite: Themes Reimagined",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5004030/5b524d5a89e29e0024420f02778cc18ccc98d35f/header.jpg?t=1787593193",
+    "url": "https://store.steampowered.com/app/5004030/Microsoft_Flight_Simulator_Suite_Themes_Reimagined/",
+    "store": "Steam",
+    "price": 10,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-04-15T01:00:00.000Z",
+    "endDate": "2026-09-01T17:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 3,
