@@ -1,6 +1,34 @@
 [
   {
+    "adImp": 2,
+    "title": "Just Die Already",
+    "image": "https://m.media-amazon.com/images/I/61BPgsBdPBL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/just-die-already-epic/dp/amzn1.pg.item.1197607b-4bcd-4aba-a43d-0103afdf7d76?g=s&ingress=amzn&ref_=SM_JustDieAlready_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 15,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-10-07T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 3,
+    "title": "War Hospital",
+    "image": "https://m.media-amazon.com/images/I/61v19g79PoL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/war-hospital-epic/dp/amzn1.pg.item.77edd2b0-e0d7-41b2-87f7-8ef5541701e4?g=s&ingress=amzn&ref_=SM_WarHospital_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 30,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-10-07T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 4,
     "title": "Havendock",
     "image": "https://m.media-amazon.com/images/I/71QRar-6mFL._FMwebp_.jpg",
     "url": "https://luna.amazon.com/claims/havendock-aga/dp/amzn1.pg.item.ef222081-3e6c-4949-9e87-aaf2c27b6bc6?g=s&ingress=amzn&ref_=SM_Havendock_S01_FGWP_CRWN",
