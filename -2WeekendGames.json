@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 1,
+    "title": "Sid Meier's Civilization VII",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295660/86cf1f8f99eebab5f44fcce93cdefb93debe333a/header_alt_assets_7.jpg?t=1788210659",
+    "url": "https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/",
+    "store": "Steam",
+    "price": 50,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-09-10T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "First Class Trouble",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/953880/e4dba706996c2b1a8917de9c19d088a8a3b18501/header_alt_assets_5.jpg?t=1788455874",
+    "url": "https://store.steampowered.com/app/953880/First_Class_Trouble/",
+    "store": "Steam",
+    "price": 5,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-05-17T17:00:00.000Z",
+    "endDate": "2026-09-07T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 3,
     "title": "Call of Duty®: Modern Warfare® 4 - Beta",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4783780/8c72205bfdf522bada8431d2aacbd1b6c66fac4c/header.jpg?t=1787941380",
@@ -14,7 +42,7 @@
     "id": ""
   },
   {
-    "adImp": 3,
+    "adImp": 4,
     "title": "PixARK",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/593600/header.jpg?t=1787767727",
     "url": "https://store.steampowered.com/app/593600/PixARK/",
