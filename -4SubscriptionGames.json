@@ -1,5 +1,47 @@
 [
   {
+    "adImp": 1,
+    "title": "Botany Manor",
+    "image": "https://m.media-amazon.com/images/I/61zBIjsmwwL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/botany-manor-epic/dp/amzn1.pg.item.fe9fbd08-590e-4d6d-9a94-f22f4548c09d?g=s&ingress=amzn&ref_=SM_BotanyManor_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 10,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-10-14T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 2,
+    "title": "DOOM + DOOM II",
+    "image": "https://m.media-amazon.com/images/I/71nc4vF+r7L._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/doom-doom-ii-gog/dp/amzn1.pg.item.db1d5024-9037-4d32-9543-37a9577e7d86?g=s&ingress=amzn&ref_=SM_DOOMDOOMII_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 25,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-10-14T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 3,
+    "title": "Drop Duchy",
+    "image": "https://m.media-amazon.com/images/I/716shnC4--L._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/drop-duchy-epic/dp/amzn1.pg.item.2cb13abe-d709-4d5c-8d65-35bdc91d3b4d?g=s&ingress=amzn&ref_=SM_DropDuchy_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 15,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-10-14T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 2,
     "title": "Just Die Already",
     "image": "https://m.media-amazon.com/images/I/61BPgsBdPBL._FMwebp_.jpg",
