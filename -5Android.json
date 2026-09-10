@@ -2,15 +2,15 @@
   {
     "id": "",
     "adImp": 11,
-    "title": "Evan's Remains",
-    "image": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-1j3xl.jpg?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/evans-remains-android-ddf101",
+    "title": "Alone With You",
+    "image": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-1y74g.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/alone-with-you-android-52b29b",
     "price": 5,
     "store": "Epic Games",
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2026-09-03T15:00:00.000Z",
-    "endDate": "2026-09-10T15:00:00.000Z",
+    "startDate": "2026-09-10T15:00:00.000Z",
+    "endDate": "2026-09-17T15:00:00.000Z",
     "date": ""
   },
   {
@@ -556,6 +556,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2024-01-01T06:00:00.001Z"
+  },
+  {
+    "id": "",
+    "adImp": 11,
+    "title": "Evan's Remains",
+    "image": "https://cdn1.epicgames.com/spt-assets/5e35f2ebdaec4ff5b7548ccc55d6c40b/evans-remains-1j3xl.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/evans-remains-android-ddf101",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-09-03T15:00:00.000Z",
+    "endDate": "2026-09-10T15:00:00.000Z",
+    "date": ""
   },
   {
     "id": "",
