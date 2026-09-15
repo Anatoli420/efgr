@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 3,
+    "title": "Vanakan",
+    "image": "https://cdn1.epicgames.com/spt-assets/5dc62172189a49bc8939814dc8bc0f2b/vanakan-kb7xl.png?w=1440&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/vanakan-0ec386",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-09-10T15:00:00.000Z",
+    "endDate": "2026-09-28T18:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 2,
     "title": "Crystal Crisis",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447700/header.jpg?t=1789325105",
