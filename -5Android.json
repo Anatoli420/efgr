@@ -1,6 +1,20 @@
 [
   {
     "id": "",
+    "adImp": 11,
+    "title": "Mindcop",
+    "image": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/mindcop-android-0f4bac",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-09-17T15:00:00.000Z",
+    "endDate": "2026-09-24T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
     "adImp": 2,
     "title": "Soul Huntress: RPG Premium",
     "image": "https://play-lh.googleusercontent.com/r9URIoNDSKRRNT4HtZ7fHoJ9_A8sbxohEsAzQTBEybNv7WnbIaA_MBdRoEbrKMz0Joao_S8-Az6YjyBCeohfmQ=s480-rw",
