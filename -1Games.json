@@ -279,20 +279,6 @@
     "id": ""
   },
   {
-    "adImp": 1,
-    "title": "Game Of Mafia",
-    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/8c50073c-940a-4cfc-ac97-d9a698683249/prodmain/1759309621.png",
-    "url": "https://freebies.indiegala.com/game-of-mafia",
-    "store": "IndieGala",
-    "price": 10,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-12-22T17:30:00.000Z",
-    "endDate": "2025-12-30T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 2,
     "title": "Crystal Saga Nova Gift Pack Key Giveaway",
     "image": "https://www.mmobomb.com/file/2026/6/crystal-saga-nova-giveaway.png",
@@ -670,6 +656,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 1,
+    "title": "Game Of Mafia",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/8c50073c-940a-4cfc-ac97-d9a698683249/prodmain/1759309621.png",
+    "url": "https://freebies.indiegala.com/game-of-mafia",
+    "store": "IndieGala",
+    "price": 10,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
