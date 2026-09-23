@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 3,
+    "title": "Hamster Talk",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3985130/6c45ee8e034f6f78c3dac577626174b02d798c10/header.jpg?t=1789548719",
+    "url": "https://store.onstove.com/games/104684",
+    "price": 5,
+    "store": "Stove",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-08-14T15:00:00.000Z",
+    "endDate": "2026-08-21T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 4,
+    "title": "Rush Rush Red Shoes",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3660140/457121024dce32ff2ab90c9d411f96d502bdcfbb/header.jpg?t=1745998520",
+    "url": "http://store.onstove.com/games/100200",
+    "price": 1,
+    "store": "Stove",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-08-14T15:00:00.000Z",
+    "endDate": "2026-08-21T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 1,
     "title": "Sausage Hunter",
     "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/e2e061d5-7344-4c7d-b5d4-1f0261a70619/prodmain/1760155959.png",
