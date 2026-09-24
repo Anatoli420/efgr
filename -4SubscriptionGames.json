@@ -1,6 +1,48 @@
 [
   {
     "adImp": 1,
+    "title": "High on Life",
+    "image": "https://m.media-amazon.com/images/I/71INHIzOrjL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/high-on-life-epic/dp/amzn1.pg.item.351cbaa9-ac70-4e47-93b6-1a4cb7dd38c8?g=s&ingress=amzn&ref_=SM_HighonLife_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 30,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-10-21T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Hue",
+    "image": "https://m.media-amazon.com/images/I/51wrFI7IjlL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/hue-epic/dp/amzn1.pg.item.d7de294d-c66d-4445-824d-ec9292fa1acb?g=s&ingress=amzn&ref_=SM_HUE_S03_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 30,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-10-21T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "The Da Vinci Cryptex",
+    "image": "https://m.media-amazon.com/images/I/61TVgjd+7sL._FMwebp_.jpg",
+    "url": "https://luna.amazon.com/claims/the-da-vinci-cryptex-legacy/dp/amzn1.pg.item.6cd3cd34-9ede-48df-bf9a-cc154ed97525?g=s&ingress=amzn&ref_=SM_TheDaVinciCryptex_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 30,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-10-21T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "DOOM Eternal",
     "image": "https://m.media-amazon.com/images/I/71dBSw0a0OL._FMwebp_.jpg",
     "url": "https://luna.amazon.com/claims/doom-eternal-microsoft/dp/amzn1.pg.item.1c490f2e-c698-4077-94a6-6a69c98945e2?g=s&ingress=amzn&ref_=SM_DOOMEternal_S02_FGWP_CRWN",
