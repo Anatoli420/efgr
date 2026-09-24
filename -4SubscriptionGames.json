@@ -9,7 +9,7 @@
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2025-01-01T21:00:00.000Z",
-    "endDate": "2026-10-21T21:00:00.000Z",
+    "endDate": "2026-10-28T21:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -23,7 +23,7 @@
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2025-01-01T21:00:00.000Z",
-    "endDate": "2026-10-21T21:00:00.000Z",
+    "endDate": "2026-10-28T21:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -37,9 +37,23 @@
     "status": 1,
     "horizontal": "fechasProgramadas",
     "startDate": "2025-01-01T21:00:00.000Z",
-    "endDate": "2026-10-21T21:00:00.000Z",
+    "endDate": "2026-10-28T21:00:00.000Z",
     "date": "",
     "id": ""
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "adImp": null,
+    "title": "RATEUS",
+    "store": "separador",
+    "price": 0,
+    "date": "??-08-2022",
+    "status": 1,
+    "startDate": "",
+    "endDate": ""
   },
   {
     "adImp": 1,
@@ -82,20 +96,6 @@
     "endDate": "2026-10-21T21:00:00.000Z",
     "date": "",
     "id": ""
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "adImp": null,
-    "title": "RATEUS",
-    "store": "separador",
-    "price": 0,
-    "date": "??-08-2022",
-    "status": 1,
-    "startDate": "",
-    "endDate": ""
   },
   {
     "adImp": 4,
