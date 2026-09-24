@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 11,
+    "title": "Astrea: Six Sided Oracles",
+    "image": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png?w=720&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/astrea-six-sided-oracles-33c949",
+    "price": 25,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-09-24T15:00:00.000Z",
+    "endDate": "2026-10-01T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Mechabellum",
+    "image": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-95319.jpg?w=720&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/mechabellum-88a843",
+    "price": 15,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-09-24T15:00:00.000Z",
+    "endDate": "2026-10-01T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 2,
     "title": "Warframe Igaro Syandana and Ice Colour Picker Game Pack Key Giveaway",
     "image": "https://media.alienwarearena.com/media/b3b486236f17195452a1d4fd30e2e9b0.jpg?fit=crop&width=720&height=405&quality=75",
