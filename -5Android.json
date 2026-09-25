@@ -1,6 +1,20 @@
 [
   {
     "id": "",
+    "adImp": 2,
+    "title": "Castlevania: 40th Anniversary",
+    "image": "https://play-lh.googleusercontent.com/m9-5YyKlB2nG0xnvZDmuBL1lcs1Z-a50OG9nXiapSIE10Pa4oI4o3McrGoDlotSrB778PJlczEN-1_9Xyq4e4EA=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=jp.konami.epjCastlevania1",
+    "store": "Google Play",
+    "price": 1,
+    "horizontal": "fechasProgramadas",
+    "status": 1,
+    "endDate": "2026-10-24T23:59:59.000Z",
+    "date": "",
+    "startDate": "2024-03-20T06:00:00.000Z"
+  },
+  {
+    "id": "",
     "adImp": 11,
     "title": "Cardpocalypse",
     "image": "https://cdn1.epicgames.com/spt-assets/b2209fe4081f490794ae55680b556cfc/cardpocalypse-685s7.jpg?resize=1&w=480&h=270&quality=medium",
