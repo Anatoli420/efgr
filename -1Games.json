@@ -1,6 +1,34 @@
 [
   {
     "adImp": 11,
+    "title": "BURIED STARS",
+    "image": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg?w=720&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/buried-stars-d7c88c",
+    "price": 40,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-10-01T15:00:00.000Z",
+    "endDate": "2026-10-08T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "System Shock 2: 25th Anniversary Remaster",
+    "image": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-1e28j.jpg?w=720&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/system-shock-2-25th-anniversary-remaster-cb94d9",
+    "price": 30,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-10-01T15:00:00.000Z",
+    "endDate": "2026-10-08T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
     "title": "Aurora Cape for Minecraft Java & Bedrock Edition",
     "image": "https://dbimg.efgrnotifs.com/HTUbW3LbEAAaYOW.webp",
     "url": "https://x.com/Minecraft/status/2104619064916345197",
