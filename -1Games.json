@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 2,
+    "title": "Bounty Train",
+    "image": "https://images.gog-statics.com/415cc6938f3e0a0c38adf641bd3afd1f4890da0de08f56c80359d6e35ea415a6_giveaway_465w.webp",
+    "url": "https://www.gog.com/en/game/bounty_train",
+    "price": 10,
+    "store": "GoG",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-06-04T15:00:00.000Z",
+    "endDate": "2026-10-03T13:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 3,
     "title": "MXGP 26 - Scrubdesignz Liveries",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847440/29e3b1f272186cffd9336fef4f8374416d280d97/header.jpg?t=1790841917",
