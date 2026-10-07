@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 1,
+    "title": "Spooky Cats",
+    "image": "https://fanatical.imgix.net/product/original/56fe7bea-d80c-4455-b75f-5926b32f29ea.jpeg?auto=compress,format&w=614&fit=crop&h=346",
+    "url": "https://www.fanatical.com/game/spooky-cats",
+    "store": "Fanatical",
+    "price": 3,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2024-02-01T16:00:00.000Z",
+    "endDate": "2026-10-09T22:59:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 2,
     "title": "Bounty Train",
     "image": "https://images.gog-statics.com/415cc6938f3e0a0c38adf641bd3afd1f4890da0de08f56c80359d6e35ea415a6_giveaway_465w.webp",
