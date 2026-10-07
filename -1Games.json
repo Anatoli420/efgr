@@ -22,7 +22,7 @@
     "store": "Epic Games",
     "status": 1,
     "horizontal": "fechasProgramadas",
-    "startDate": "2026-10-01T15:00:00.000Z",
+    "startDate": "2026-10-08T15:00:00.000Z",
     "endDate": "2026-10-15T15:00:00.000Z",
     "date": "",
     "id": ""
@@ -203,7 +203,7 @@
     "store": "Epic Games",
     "status": 3,
     "horizontal": "fechasProgramadas",
-    "startDate": "2026-10-01T15:00:00.000Z",
+    "startDate": "2026-10-08T15:00:00.000Z",
     "endDate": "2026-10-15T15:00:00.000Z",
     "date": "",
     "id": ""
