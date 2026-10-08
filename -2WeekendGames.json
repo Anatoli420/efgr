@@ -1,6 +1,48 @@
 [
   {
     "adImp": 1,
+    "title": "ARC Raiders",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/29e8af9fbf06833558758f94cfb406746f338c45/header_alt_assets_8.jpg?t=1791401542",
+    "url": "https://store.steampowered.com/app/1808500/ARC_Raiders/",
+    "store": "Steam",
+    "price": 20,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-06-12T16:00:00.000Z",
+    "endDate": "2026-10-13T08:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Squad 44",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736220/header.jpg?t=1790967343",
+    "url": "https://store.steampowered.com/app/736220/Squad_44/",
+    "store": "Steam",
+    "price": 4,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-06-12T16:00:00.000Z",
+    "endDate": "2026-10-12T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Core Keeper",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/4d3798fbb307f52d9e11ed5b5f665779097b2f55/header_alt_assets_12.jpg?t=1791454740",
+    "url": "https://store.steampowered.com/app/1621690/Core_Keeper/",
+    "store": "Steam",
+    "price": 12,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-06-12T16:00:00.000Z",
+    "endDate": "2026-10-12T17:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Ship Graveyard Simulator",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286880/5fb62aaa4fcb6718799a67b5a2899db0fac4a1f5/header_alt_assets_4.jpg?t=1790356887",
     "url": "https://store.steampowered.com/app/1286880/Ship_Graveyard_Simulator/",
