@@ -2,6 +2,20 @@
   {
     "id": "",
     "adImp": 11,
+    "title": "The Big Con",
+    "image": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-q546d.jpg?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/thebigconmobile-android-c6c8f1",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-10-08T15:00:00.000Z",
+    "endDate": "2026-10-15T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
+    "adImp": 11,
     "title": "Bridge Constructor Studio",
     "image": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-jcapk.jpg?resize=1&w=480&h=270&quality=medium",
     "url": "https://store.epicgames.com/p/bridge-constructor-studio-android-c42687",
