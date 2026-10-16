@@ -1,48 +1,6 @@
 [
   {
     "id": "",
-    "adImp": 11,
-    "title": "Agent A: A puzzle in disguise",
-    "image": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-1kj9j.png?resize=1&w=854&h=480&quality=medium",
-    "url": "https://store.epicgames.com/p/agent-a-a-puzzle-in-disguise-android-897342",
-    "price": 6,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-10-15T15:00:00.000Z",
-    "endDate": "2026-10-22T15:00:00.000Z",
-    "date": ""
-  },
-  {
-    "id": "",
-    "adImp": 11,
-    "title": "The Big Con",
-    "image": "https://cdn1.epicgames.com/spt-assets/18e7235bae77408c9224ee8e25d23456/thebigconmobile-q546d.jpg?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/thebigconmobile-android-c6c8f1",
-    "price": 5,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-10-08T15:00:00.000Z",
-    "endDate": "2026-10-15T15:00:00.000Z",
-    "date": ""
-  },
-  {
-    "id": "",
-    "adImp": 11,
-    "title": "Bridge Constructor Studio",
-    "image": "https://cdn1.epicgames.com/spt-assets/f1d15131f52f4ef7bc917ac348e2fe9d/bridge-constructor-studio-jcapk.jpg?resize=1&w=480&h=270&quality=medium",
-    "url": "https://store.epicgames.com/p/bridge-constructor-studio-android-c42687",
-    "price": 5,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-10-01T15:00:00.000Z",
-    "endDate": "2026-10-08T15:00:00.000Z",
-    "date": ""
-  },
-  {
-    "id": "",
     "adImp": 2,
     "title": "Castlevania: 40th Anniversary",
     "image": "https://play-lh.googleusercontent.com/m9-5YyKlB2nG0xnvZDmuBL1lcs1Z-a50OG9nXiapSIE10Pa4oI4o3McrGoDlotSrB778PJlczEN-1_9Xyq4e4EA=w240-h480-rw",
@@ -54,34 +12,6 @@
     "endDate": "2026-10-24T23:59:59.000Z",
     "date": "",
     "startDate": "2024-03-20T06:00:00.000Z"
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "adImp": null,
-    "horizontal": false,
-    "image": "https://dbimg.efgrnotifs.com/fortnite.jpg",
-    "url": "",
-    "title": "Fortnite",
-    "store": "",
-    "price": 0,
-    "date": "",
-    "status": 1,
-    "startDate": "",
-    "endDate": "2024-01-01T06:00:00.001Z"
-  },
-  {
-    "id": "//?SUB SCREEN////",
-    "adImp": null,
-    "horizontal": "RateUs",
-    "image": "",
-    "url": "",
-    "title": "RATEUS",
-    "store": "",
-    "price": 0,
-    "date": "",
-    "status": 1,
-    "startDate": "",
-    "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
     "id": "",
@@ -96,6 +26,20 @@
     "endDate": "2024-01-01T06:00:00.001Z",
     "date": "",
     "startDate": "2016-10-07T06:00:00.000Z"
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "adImp": null,
+    "horizontal": false,
+    "image": "https://dbimg.efgrnotifs.com/fortnite.jpg",
+    "url": "",
+    "title": "Fortnite",
+    "store": "",
+    "price": 0,
+    "date": "",
+    "status": 1,
+    "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
     "id": "",
@@ -138,6 +82,20 @@
     "startDate": "2025-04-29T15:00:00.000Z",
     "endDate": "2099-01-01T06:00:00.001Z",
     "date": ""
+  },
+  {
+    "id": "//?SUB SCREEN////",
+    "adImp": null,
+    "horizontal": "RateUs",
+    "image": "",
+    "url": "",
+    "title": "RATEUS",
+    "store": "",
+    "price": 0,
+    "date": "",
+    "status": 1,
+    "startDate": "",
+    "endDate": "2024-01-01T06:00:00.001Z"
   },
   {
     "id": "",
