@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "Arknights: Endfield",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732690/a84104b5ffa357982d188cab0be5d6cfde8a6398/header.jpg?t=1792035845",
+    "url": "https://store.steampowered.com/app/4732690/Arknights_Endfield/",
+    "store": "Steam",
+    "status": 1,
+    "horizontal": true,
+    "price": 0,
+    "endDate": "",
+    "date": "",
+    "startDate": "2026-10-14T07:00:00.000Z",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "CPM 2",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252340/f712f104515ff0af8e05be7afd75f30eb092cd58/header.jpg?t=1791484313",
     "url": "https://store.steampowered.com/app/4252340/CPM_2/",
