@@ -1,5 +1,33 @@
 [
   {
+    "adImp": 11,
+    "title": "Sker Ritual",
+    "image": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1tuka.png?w=1440&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/sker-ritual-aac702",
+    "price": 25,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-10-22T15:00:00.000Z",
+    "endDate": "2026-10-29T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Home - A Unique Horror Adventure",
+    "image": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png?w=1440&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/home-19212a",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-10-22T15:00:00.000Z",
+    "endDate": "2026-10-29T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 2,
     "title": "Terraspace",
     "image": "https://cdn1.epicgames.com/spt-assets/43ba8c8ffe2d4bdeb87704c260cce30c/dimond-hunt-1eqr4.png?w=720&quality=high&resize=1",
