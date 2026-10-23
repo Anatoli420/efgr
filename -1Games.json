@@ -63,9 +63,9 @@
     "store": "itch.io",
     "price": 10,
     "status": 1,
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "startDate": "2024-04-04T15:00:00.000Z",
-    "endDate": "2024-04-07T15:00:00.001Z",
+    "endDate": "2026-10-24T19:55:00.000Z",
     "date": "",
     "id": ""
   },
@@ -77,9 +77,9 @@
     "store": "itch.io",
     "price": 10,
     "status": 1,
-    "horizontal": true,
+    "horizontal": "fechasProgramadas",
     "startDate": "2024-04-04T15:00:00.000Z",
-    "endDate": "2024-04-07T15:00:00.001Z",
+    "endDate": "2026-10-24T19:55:00.000Z",
     "date": ""
   },
   {
