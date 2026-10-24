@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "MAFIA HOTEL",
+    "image": "https://cdn1.epicgames.com/spt-assets/f050bad3cfcd406f94bad85c0aa10177/mafia-hotel-rojye.png?w=1440&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/mafia-hotel-eaea4c",
+    "price": 1,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-10-22T15:00:00.000Z",
+    "endDate": "2026-11-01T15:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "GetHigh.EXE",
     "image": "https://cdn1.epicgames.com/spt-assets/c98f33cf3ea9491f926ce69fc9835ccf/gethighexe-8lmjv.png?w=1440&quality=high&resize=1",
     "url": "https://store.epicgames.com/p/gethighexe-c83d1f",
