@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "ANCIENT EVIL",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/a095a1a9-53c9-45f7-b9f0-8031ed3287f8/prodmain/1761757241.png",
+    "url": "https://freebies.indiegala.com/ancient-evil",
+    "store": "IndieGala",
+    "price": 5,
+    "status": 1,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "MAFIA HOTEL",
     "image": "https://cdn1.epicgames.com/spt-assets/f050bad3cfcd406f94bad85c0aa10177/mafia-hotel-rojye.png?w=1440&quality=high&resize=1",
     "url": "https://store.epicgames.com/p/mafia-hotel-eaea4c",
