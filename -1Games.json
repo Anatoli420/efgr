@@ -418,34 +418,6 @@
     "id": ""
   },
   {
-    "adImp": 1,
-    "title": "Wordle",
-    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/1b609aab-e4c6-4ccb-834d-07ad7c75aba0/prodmain/1759578406.png",
-    "url": "https://freebies.indiegala.com/wordle",
-    "store": "IndieGala",
-    "price": 30,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-12-22T17:30:00.000Z",
-    "endDate": "2025-12-30T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 1,
-    "title": "Bad cat Sam",
-    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/34e4df0a-ab34-4b1f-9cdb-d296e708bb8f/prodmain/1758976071.png",
-    "url": "https://freebies.indiegala.com/bad-cat-sam",
-    "store": "IndieGala",
-    "price": 3,
-    "status": 1,
-    "horizontal": true,
-    "startDate": "2024-12-22T17:30:00.000Z",
-    "endDate": "2025-12-30T15:00:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 2,
     "title": "Crystal Saga Nova Gift Pack Key Giveaway",
     "image": "https://www.mmobomb.com/file/2026/6/crystal-saga-nova-giveaway.png",
@@ -809,6 +781,34 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 1,
+    "title": "Bad cat Sam",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/34e4df0a-ab34-4b1f-9cdb-d296e708bb8f/prodmain/1758976071.png",
+    "url": "https://freebies.indiegala.com/bad-cat-sam",
+    "store": "IndieGala",
+    "price": 3,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Wordle",
+    "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/1b609aab-e4c6-4ccb-834d-07ad7c75aba0/prodmain/1759578406.png",
+    "url": "https://freebies.indiegala.com/wordle",
+    "store": "IndieGala",
+    "price": 30,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-12-22T17:30:00.000Z",
+    "endDate": "2025-12-30T15:00:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 2,
