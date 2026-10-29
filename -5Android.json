@@ -2,6 +2,20 @@
   {
     "id": "",
     "adImp": 11,
+    "title": "Galaxy Kart",
+    "image": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-13nui.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/galaxy-kart-android-135821",
+    "price": 3,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-10-22T15:00:00.000Z",
+    "endDate": "2026-11-05T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
+    "adImp": 11,
     "title": "Home - A Unique Horror Adventure",
     "image": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-klvkz.png?resize=1&w=480&h=270&quality=medium",
     "url": "https://store.epicgames.com/p/home-android-9ba07f",
