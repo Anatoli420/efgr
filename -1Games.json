@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "Quiztopia: The Ultimate Trivia",
+    "image": "https://cdn1.epicgames.com/spt-assets/76656a40a261479ba6409422835ef692/quiztopia--the-ultimate-trivia-1jn2g.png?w=1440&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/quiztopia-the-ultimate-trivia-6d42e0",
+    "price": 8,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-10-31T18:30:00.000Z",
+    "endDate": "2026-11-08T18:30:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Gladiator: Blades of Fury",
     "image": "https://cdn1.epicgames.com/spt-assets/e86b08fafa3145ee9b52a4a392294644/gladiator--blades-of-fury-mf3s9.jpg?w=1440&quality=high&resize=1",
     "url": "https://store.epicgames.com/p/gladiator-blades-of-fury-1a745b",
