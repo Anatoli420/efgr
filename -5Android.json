@@ -2,6 +2,20 @@
   {
     "id": "",
     "adImp": 11,
+    "title": "Chants of Sennaar",
+    "image": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-8wvtk.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/chants-of-sennaar-android-681b80",
+    "price": 8,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-11-05T15:00:00.000Z",
+    "endDate": "2026-11-12T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
+    "adImp": 11,
     "title": "Galaxy Kart",
     "image": "https://cdn1.epicgames.com/spt-assets/fbeed7cfd1524dbf80f272cca866a506/galaxy-kart-13nui.png?resize=1&w=480&h=270&quality=medium",
     "url": "https://store.epicgames.com/p/galaxy-kart-android-135821",
