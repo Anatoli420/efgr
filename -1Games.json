@@ -15,20 +15,6 @@
   },
   {
     "adImp": 1,
-    "title": "Letter Quest: Grimm's Journey Remastered",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/373970/header.jpg?t=1593028925",
-    "url": "https://www.fanatical.com/en/game/letter-quest-grimms-journey-remastered",
-    "store": "Fanatical",
-    "price": 8,
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2024-02-01T16:00:00.000Z",
-    "endDate": "2026-12-06T22:59:00.001Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 1,
     "title": "Gladiator: Blades of Fury",
     "image": "https://cdn1.epicgames.com/spt-assets/e86b08fafa3145ee9b52a4a392294644/gladiator--blades-of-fury-mf3s9.jpg?w=1440&quality=high&resize=1",
     "url": "https://store.epicgames.com/p/gladiator-blades-of-fury-1a745b",
@@ -684,6 +670,20 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 1,
+    "title": "Letter Quest: Grimm's Journey Remastered",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/373970/header.jpg?t=1593028925",
+    "url": "https://www.fanatical.com/en/game/letter-quest-grimms-journey-remastered",
+    "store": "Fanatical",
+    "price": 8,
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2024-02-01T16:00:00.000Z",
+    "endDate": "2026-12-06T22:59:00.001Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 11,
