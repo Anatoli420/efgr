@@ -1,6 +1,34 @@
 [
   {
     "adImp": 1,
+    "title": "Jurassic World Evolution 2",
+    "image": "https://m.media-amazon.com/images/I/61+FC1VB92L.jpg",
+    "url": "https://luna.amazon.com/claims/jurassic-world-evolution-2-epic/dp/amzn1.pg.item.208bb96b-9ae6-4538-a1ff-c1831794f1b5?g=s&ingress=amzn&ref_=SM_JurassicWorldEvolution2_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 60,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-12-16T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
+    "title": "Radiolight",
+    "image": "https://m.media-amazon.com/images/I/612oXS4R8FL.jpg",
+    "url": "https://luna.amazon.com/claims/radiolight-epic/dp/amzn1.pg.item.828a67e3-e1ec-4968-9719-afa81008da16?g=s&ingress=amzn&ref_=SM_Radiolight_S01_FGWP_CRWN",
+    "store": "Amazon Gaming",
+    "price": 15,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-01-01T21:00:00.000Z",
+    "endDate": "2026-12-16T21:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Squirrel with a Gun",
     "image": "https://m.media-amazon.com/images/I/61QjFNhMqwL.jpg",
     "url": "https://luna.amazon.com/claims/squirrel-with-a-gun-aga/dp/amzn1.pg.item.70eff815-88f4-47f9-83e0-8a8d2837c7ad?g=s&ingress=amzn&ref_=SM_SquirrelwithaGun_S01_FGWP_CRWN",
