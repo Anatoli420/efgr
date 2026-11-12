@@ -2,6 +2,20 @@
   {
     "id": "",
     "adImp": 11,
+    "title": "Knightica",
+    "image": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-tmb5y.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-tmb5y.png?resize=1&w=480&h=270&quality=medium",
+    "price": 2,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-11-12T15:00:00.000Z",
+    "endDate": "2026-11-19T15:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
+    "adImp": 11,
     "title": "Chants of Sennaar",
     "image": "https://cdn1.epicgames.com/spt-assets/f7657876fce54ba3bc14987fbb705037/chants-of-sennaar-8wvtk.png?resize=1&w=480&h=270&quality=medium",
     "url": "https://store.epicgames.com/p/chants-of-sennaar-android-681b80",
