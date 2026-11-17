@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "Discord Vice City Makeover",
+    "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/6afb294e34cd299ace794e36_c4e29396.png",
+    "url": "https://discord.com/blog/vice-city-theme-available-in-discord",
+    "price": 5,
+    "store": "Discord",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-11-12T16:00:00.000Z",
+    "endDate": "2026-12-13T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Contractor: The Clean Up Part II",
     "image": "https://cdn1.epicgames.com/spt-assets/45a0995f31e348739b814de2cb32674b/contractor-the-clean-up-part-ii-1eexz.png?w=1440&quality=high&resize=1",
     "url": "https://store.epicgames.com/p/contractor-the-clean-up-part-ii-1b1b57",
