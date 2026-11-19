@@ -1,6 +1,20 @@
 [
   {
     "adImp": 1,
+    "title": "Crusader Kings III",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158310/9d06a62089bd4747589431ac1c8bc3112841d528/header_alt_assets_12.jpg?t=1795111327",
+    "url": "https://store.steampowered.com/app/1158310/Crusader_Kings_III/",
+    "store": "Steam",
+    "price": 50,
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2025-06-12T16:00:00.000Z",
+    "endDate": "2026-11-23T18:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 1,
     "title": "Mistfall Hunter",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3282300/0eaea5dea9ba676b9d32148d2c650093a20d5b6f/header_alt_assets_11.jpg?t=1795002765",
     "url": "https://store.steampowered.com/app/3282300/Mistfall_Hunter/",
