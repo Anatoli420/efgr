@@ -14,20 +14,6 @@
     "id": ""
   },
   {
-    "adImp": 11,
-    "title": "Mark of the Deep",
-    "image": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png?w=720&quality=high&resize=1",
-    "url": "https://store.epicgames.com/p/mark-of-the-deep-f7dc08",
-    "price": 20,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-11-19T16:00:00.000Z",
-    "endDate": "2026-11-26T16:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
     "adImp": 1,
     "title": "Discord Vice City Makeover",
     "image": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/6afb294e34cd299ace794e36_c4e29396.png",
@@ -52,20 +38,6 @@
     "horizontal": "fechasProgramadas",
     "startDate": "2026-11-12T16:00:00.000Z",
     "endDate": "2026-12-02T16:00:00.000Z",
-    "date": "",
-    "id": ""
-  },
-  {
-    "adImp": 11,
-    "title": "Knightica",
-    "image": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png?w=1440&quality=high&resize=1",
-    "url": "https://store.epicgames.com/p/knightica-3be45c",
-    "price": 15,
-    "store": "Epic Games",
-    "status": 1,
-    "horizontal": "fechasProgramadas",
-    "startDate": "2026-11-12T16:00:00.000Z",
-    "endDate": "2026-11-19T16:00:00.000Z",
     "date": "",
     "id": ""
   },
@@ -614,6 +586,34 @@
     "status": 4,
     "startDate": "",
     "endDate": "2050-01-01T15:00:00.000Z"
+  },
+  {
+    "adImp": 11,
+    "title": "Knightica",
+    "image": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png?w=1440&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/knightica-3be45c",
+    "price": 15,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-11-12T16:00:00.000Z",
+    "endDate": "2026-11-19T16:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
+    "adImp": 11,
+    "title": "Mark of the Deep",
+    "image": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png?w=720&quality=high&resize=1",
+    "url": "https://store.epicgames.com/p/mark-of-the-deep-f7dc08",
+    "price": 20,
+    "store": "Epic Games",
+    "status": 2,
+    "horizontal": true,
+    "startDate": "2026-11-19T16:00:00.000Z",
+    "endDate": "2026-11-26T16:00:00.000Z",
+    "date": "",
+    "id": ""
   },
   {
     "adImp": 4,
