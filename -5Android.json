@@ -1,6 +1,20 @@
 [
   {
     "id": "",
+    "adImp": 11,
+    "title": "A Tiny Sticker Tale",
+    "image": "https://cdn1.epicgames.com/spt-assets/c6c836321fcc42629df46f057b796cc7/a-tiny-sticker-tale-zljer.png?resize=1&w=480&h=270&quality=medium",
+    "url": "https://store.epicgames.com/p/a-tiny-sticker-tale-android-7c58b7",
+    "price": 5,
+    "store": "Epic Games",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-11-26T16:00:00.000Z",
+    "endDate": "2026-12-03T16:00:00.000Z",
+    "date": ""
+  },
+  {
+    "id": "",
     "adImp": 1,
     "title": "Extreme Job Hero's Manager VIP",
     "image": "https://play-lh.googleusercontent.com/1A8YcgzhADGAVA-CosYwqNuJlZlIdOgeLbeRyEaM6Mkosju32VQyH3e9IK07vIBDKZrIXaJli0qyHO4XRLIWTg=s480-rw",
