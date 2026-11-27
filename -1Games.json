@@ -1,5 +1,19 @@
 [
   {
+    "adImp": 1,
+    "title": "Dead Age 2",
+    "image": "https://images.gog-statics.com/11df9d69f6815d8fdd74ab99f316ea31a3c9cb86e7d564eee661db1ce9a591e1_giveaway_465w.webp",
+    "url": "https://www.gog.com/en/game/dead_age_2",
+    "price": 18,
+    "store": "GoG",
+    "status": 1,
+    "horizontal": "fechasProgramadas",
+    "startDate": "2026-06-04T15:00:00.000Z",
+    "endDate": "2026-11-30T14:00:00.000Z",
+    "date": "",
+    "id": ""
+  },
+  {
     "adImp": 11,
     "title": "Bread & Fred",
     "image": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg?w=720&quality=high&resize=1",
